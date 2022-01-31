@@ -1,0 +1,888 @@
+(function ($, Drupal, drupalSettings) {
+  Drupal.behaviors.mtSliderRevolutionFullWidth = {
+    attach: function (context, settings) {
+
+      if (drupalSettings.corporateplus.sliderRevolutionFullWidthInit.slideshowFullWidthNavigationStyle == "bullets") {
+        var bulletsEnable = true,
+        tabsEnable = false;
+      } else {
+        var tabsEnable = true,
+        bulletsEnable = false;
+      }
+
+      $(context).find('.slideshow-fullwidth .rev_slider').once('mtSliderRevolutionFullWidthInit').show().revolution({
+        sliderType:"standard",
+        sliderLayout:"auto",
+        gridwidth: [1170,970,750,450],
+        gridheight: drupalSettings.corporateplus.sliderRevolutionFullWidthInit.slideshowFullWidthInitialHeight,
+        delay: drupalSettings.corporateplus.sliderRevolutionFullWidthInit.slideshowFullWidthEffectTime,
+        disableProgressBar:'off',
+        responsiveLevels:[1199,991,767,480],
+        navigation: {
+          onHoverStop:"off",
+          arrows:{
+            enable:true,
+            tmp: "<div class='tp-title-wrap'><span class='tp-arr-titleholder'>{{title}}</span></div>",
+            left:{
+              h_align:"left",
+              v_align:"center",
+              h_offset:0,
+              v_offset:0
+            },
+            right:{
+              h_align:"right",
+              v_align:"center",
+              h_offset:0,
+              v_offset:0
+            }
+          },
+          tabs: {
+            style:"",
+            enable:tabsEnable,
+            width:410,
+            height:95,
+            min_width:240,
+            wrapper_padding: 0,
+            wrapper_opacity:"1",
+            tmp:'<div class="tp-tab-content"><span class="tp-tab-title">{{title}}</span></div>',
+            visibleAmount: 6,
+            hide_onmobile: false,
+            hide_onleave: false,
+            direction:"horizontal",
+            span: true,
+            position:"outer-bottom",
+            space:0,
+            h_align:"left",
+            v_align:"bottom",
+            h_offset:0,
+            v_offset:0
+          },
+          bullets:{
+            style:"",
+            enable:bulletsEnable,
+            direction:"horizontal",
+            space: 5,
+            h_align: drupalSettings.corporateplus.sliderRevolutionFullWidthInit.slideshowFullWidthBulletsPosition,
+            v_align:"bottom",
+            h_offset: 0,
+            v_offset: 20,
+            tmp:"",
+          },
+          touch:{
+            touchenabled: drupalSettings.corporateplus.sliderRevolutionFullWidthInit.slideshowFullWidthTouchSwipe,
+            swipe_treshold:75,
+            swipe_min_touches:1,
+            drag_block_vertical:false,
+            swipe_direction:"horizontal"
+          }
+        }
+      });
+
+      $(context).find('.transparent-background').once('mtSliderRevolutionFullWidthBG').css("backgroundColor", "rgba(0,0,0," + drupalSettings.corporateplus.slideshowBackgroundOpacity + ")");
+      $(context).find('.tp-caption--transparent-background .tp-caption__title').once('mtSliderRevolutionFullWidthCaptionBG').css("backgroundColor", "rgba(0,0,0," + drupalSettings.corporateplus.slideshowCaptionOpacity + ")");
+      $(context).find('.tp-caption--transparent-background .tp-caption__text').once('mtSliderRevolutionFullWidthCaptionBG').css("backgroundColor", "rgba(0,0,0," + drupalSettings.corporateplus.slideshowCaptionOpacity + ")");
+
+    }
+  };
+})(jQuery, Drupal, drupalSettings);
+;
+/*
+ * Superfish v1.4.8 - jQuery menu widget
+ * Copyright (c) 2008 Joel Birch
+ *
+ * Dual licensed under the MIT and GPL licenses:
+ *  http://www.opensource.org/licenses/mit-license.php
+ *  http://www.gnu.org/licenses/gpl.html
+ *
+ * CHANGELOG: http://users.tpg.com.au/j_birch/plugins/superfish/changelog.txt
+ */
+/*
+ * This is not the original jQuery Superfish plugin.
+ * Please refer to the README for more information.
+ */
+
+(function($){
+  $.fn.superfish = function(op){
+    var sf = $.fn.superfish,
+      c = sf.c,
+      $arrow = $(['<span class="',c.arrowClass,'"> &#187;</span>'].join('')),
+      over = function(){
+        var $$ = $(this), menu = getMenu($$);
+        clearTimeout(menu.sfTimer);
+        $$.showSuperfishUl().siblings().hideSuperfishUl();
+      },
+      out = function(){
+        var $$ = $(this), menu = getMenu($$), o = sf.op;
+        clearTimeout(menu.sfTimer);
+        menu.sfTimer=setTimeout(function(){
+          if ($$.children('.sf-clicked').length == 0){
+            o.retainPath=($.inArray($$[0],o.$path)>-1);
+            $$.hideSuperfishUl();
+            if (o.$path.length && $$.parents(['li.',o.hoverClass].join('')).length<1){over.call(o.$path);}
+          }
+        },o.delay);
+      },
+      getMenu = function($menu){
+        var menu = $menu.parents(['ul.',c.menuClass,':first'].join(''))[0];
+        sf.op = sf.o[menu.serial];
+        return menu;
+      },
+      addArrow = function($a){ $a.addClass(c.anchorClass).append($arrow.clone()); };
+
+    return this.each(function() {
+      var s = this.serial = sf.o.length;
+      var o = $.extend({},sf.defaults,op);
+      o.$path = $('li.'+o.pathClass,this).slice(0,o.pathLevels),
+      p = o.$path;
+      for (var l = 0; l < p.length; l++){
+        p.eq(l).addClass([o.hoverClass,c.bcClass].join(' ')).filter('li:has(ul)').removeClass(o.pathClass);
+      }
+      sf.o[s] = sf.op = o;
+
+      $('li:has(ul)',this)[($.fn.hoverIntent && !o.disableHI) ? 'hoverIntent' : 'hover'](over,out).each(function() {
+        if (o.autoArrows) addArrow( $(this).children('a:first-child, span.nolink:first-child') );
+      })
+      .not('.'+c.bcClass)
+        .hideSuperfishUl();
+
+      var $a = $('a, span.nolink',this);
+      $a.each(function(i){
+        var $li = $a.eq(i).parents('li');
+        $a.eq(i).focus(function(){over.call($li);}).blur(function(){out.call($li);});
+      });
+      o.onInit.call(this);
+
+    }).each(function() {
+      var menuClasses = [c.menuClass];
+      if (sf.op.dropShadows){
+        menuClasses.push(c.shadowClass);
+      }
+      $(this).addClass(menuClasses.join(' '));
+    });
+  };
+
+  var sf = $.fn.superfish;
+  sf.o = [];
+  sf.op = {};
+
+  sf.c = {
+    bcClass: 'sf-breadcrumb',
+    menuClass: 'sf-js-enabled',
+    anchorClass: 'sf-with-ul',
+    arrowClass: 'sf-sub-indicator',
+    shadowClass: 'sf-shadow'
+  };
+  sf.defaults = {
+    hoverClass: 'sfHover',
+    pathClass: 'overideThisToUse',
+    pathLevels: 1,
+    delay: 800,
+    animation: {opacity:'show'},
+    speed: 'fast',
+    autoArrows: true,
+    dropShadows: true,
+    disableHI: false, // true disables hoverIntent detection
+    onInit: function(){}, // callback functions
+    onBeforeShow: function(){},
+    onShow: function(){},
+    onHide: function(){}
+  };
+  $.fn.extend({
+    hideSuperfishUl : function(){
+      var o = sf.op,
+        not = (o.retainPath===true) ? o.$path : '';
+      o.retainPath = false;
+      var $ul = $(['li.',o.hoverClass].join(''),this).add(this).not(not).removeClass(o.hoverClass)
+          .children('ul').addClass('sf-hidden');
+      o.onHide.call($ul);
+      return this;
+    },
+    showSuperfishUl : function(){
+      var o = sf.op,
+        sh = sf.c.shadowClass+'-off',
+        $ul = this.addClass(o.hoverClass)
+          .children('ul.sf-hidden').hide().removeClass('sf-hidden');
+      o.onBeforeShow.call($ul);
+      $ul.animate(o.animation,o.speed,function(){ o.onShow.call($ul); });
+      return this;
+    }
+  });
+})(jQuery);;
+/*!
+ * hoverIntent v1.8.0 // 2014.06.29 // jQuery v1.9.1+
+ * http://cherne.net/brian/resources/jquery.hoverIntent.html
+ *
+ * You may use hoverIntent under the terms of the MIT license. Basically that
+ * means you are free to use hoverIntent as long as this header is left intact.
+ * Copyright 2007, 2014 Brian Cherne
+ */
+(function($){$.fn.hoverIntent=function(handlerIn,handlerOut,selector){var cfg={interval:100,sensitivity:6,timeout:0};if(typeof handlerIn==="object"){cfg=$.extend(cfg,handlerIn)}else{if($.isFunction(handlerOut)){cfg=$.extend(cfg,{over:handlerIn,out:handlerOut,selector:selector})}else{cfg=$.extend(cfg,{over:handlerIn,out:handlerIn,selector:handlerOut})}}var cX,cY,pX,pY;var track=function(ev){cX=ev.pageX;cY=ev.pageY};var compare=function(ev,ob){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t);if(Math.sqrt((pX-cX)*(pX-cX)+(pY-cY)*(pY-cY))<cfg.sensitivity){$(ob).off("mousemove.hoverIntent",track);ob.hoverIntent_s=true;return cfg.over.apply(ob,[ev])}else{pX=cX;pY=cY;ob.hoverIntent_t=setTimeout(function(){compare(ev,ob)},cfg.interval)}};var delay=function(ev,ob){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t);ob.hoverIntent_s=false;return cfg.out.apply(ob,[ev])};var handleHover=function(e){var ev=$.extend({},e);var ob=this;if(ob.hoverIntent_t){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t)}if(e.type==="mouseenter"){pX=ev.pageX;pY=ev.pageY;$(ob).on("mousemove.hoverIntent",track);if(!ob.hoverIntent_s){ob.hoverIntent_t=setTimeout(function(){compare(ev,ob)},cfg.interval)}}else{$(ob).off("mousemove.hoverIntent",track);if(ob.hoverIntent_s){ob.hoverIntent_t=setTimeout(function(){delay(ev,ob)},cfg.timeout)}}};return this.on({"mouseenter.hoverIntent":handleHover,"mouseleave.hoverIntent":handleHover},cfg.selector)}})(jQuery);;
+/*
+ * sf-Smallscreen v1.3b - Provides small-screen compatibility for the jQuery Superfish plugin.
+ *
+ * Developer's note:
+ * Built as a part of the Superfish project for Drupal (http://drupal.org/project/superfish)
+ * Found any bug? have any cool ideas? contact me right away! http://drupal.org/user/619294/contact
+ *
+ * jQuery version: 1.3.x or higher.
+ *
+ * Dual licensed under the MIT and GPL licenses:
+ *  http://www.opensource.org/licenses/mit-license.php
+ *  http://www.gnu.org/licenses/gpl.html
+  */
+
+(function($){
+  $.fn.sfsmallscreen = function(options){
+    options = $.extend({
+      mode: 'inactive',
+      type: 'accordion',
+      breakpoint: 768,
+      breakpointUnit: 'px',
+      useragent: '',
+      title: '',
+      addSelected: false,
+      menuClasses: false,
+      hyperlinkClasses: false,
+      excludeClass_menu: '',
+      excludeClass_hyperlink: '',
+      includeClass_menu: '',
+      includeClass_hyperlink: '',
+      accordionButton: 1,
+      expandText: 'Expand',
+      collapseText: 'Collapse'
+    }, options);
+
+    // We need to clean up the menu from anything unnecessary.
+    function refine(menu){
+      var
+      refined = menu.clone(),
+      // Things that should not be in the small-screen menus.
+      rm = refined.find('span.sf-sub-indicator'),
+      // This is a helper class for those who need to add extra markup that shouldn't exist
+      // in the small-screen versions.
+      rh = refined.find('.sf-smallscreen-remove'),
+      // Mega-menus has to be removed too.
+      mm = refined.find('ul.sf-multicolumn');
+      for (var a = 0; a < rh.length; a++){
+        rh.eq(a).replaceWith(rh.eq(a).html());
+      }
+      if (options.accordionButton == 2 || options.type == 'select'){
+        for (var b = 0; b < rm.length; b++){
+          rm.eq(b).remove();
+        }
+      }
+      if (mm.length > 0){
+        mm.removeClass('sf-multicolumn');
+        var ol = refined.find('div.sf-multicolumn-column > ol');
+        for (var o = 0; o < ol.length; o++){
+          ol.eq(o).replaceWith('<ul>' + ol.eq(o).html() + '</ul>');
+        }
+        var elements = ['div.sf-multicolumn-column','.sf-multicolumn-wrapper > ol','li.sf-multicolumn-wrapper'];
+        for (var i = 0; i < elements.length; i++){
+          obj = refined.find(elements[i]);
+          for (var t = 0; t < obj.length; t++){
+            obj.eq(t).replaceWith(obj.eq(t).html());
+          }
+        }
+        refined.find('.sf-multicolumn-column').removeClass('sf-multicolumn-column');
+      }
+      refined.add(refined.find('*')).css({width:''});
+      return refined;
+    }
+
+    // Creating <option> elements out of the menu.
+    function toSelect(menu, level){
+      var
+      items = '',
+      childLI = $(menu).children('li');
+      for (var a = 0; a < childLI.length; a++){
+        var list = childLI.eq(a), parent = list.children('a, span');
+        for (var b = 0; b < parent.length; b++){
+          var
+          item = parent.eq(b),
+          path = (item.is('a') && !!item.attr('href')) ? item.attr('href') : '',
+          // Class names modification.
+          itemClone = item.clone(),
+          classes = (options.hyperlinkClasses) ? ((options.excludeClass_hyperlink && itemClone.hasClass(options.excludeClass_hyperlink)) ? itemClone.removeClass(options.excludeClass_hyperlink).attr('class') : itemClone.attr('class')) : '',
+          classes = (options.includeClass_hyperlink && !itemClone.hasClass(options.includeClass_hyperlink)) ? ((options.hyperlinkClasses) ? itemClone.addClass(options.includeClass_hyperlink).attr('class') : options.includeClass_hyperlink) : classes;
+          // Retaining the active class if requested.
+          if (options.addSelected && item.hasClass('active')){
+            classes += ' active';
+          }
+          classes = (classes) ? ' class="' + classes + '"' : '';
+          // <option> has to be disabled if the item is not a link.
+          disable = (path == '') || (path == '#') ? ' disabled="disabled"' : '',
+          // Crystal clear.
+          subIndicator = 1 < level ? Array(level).join('-') + ' ' : '';
+          // Preparing the <option> element.
+          items += '<option value="' + path + '"' + classes + disable + '>' + subIndicator + $.trim(item.text()) +'</option>',
+          childUL = list.find('> ul');
+          // Using the function for the sub-menu of this item.
+          for (var u = 0; u < childUL.length; u++){
+            items += toSelect(childUL.eq(u), level + 1);
+          }
+        }
+      }
+      return items;
+    }
+
+    // Create the new version, hide the original.
+    function convert(menu){
+      var menuID = menu.attr('id'),
+      // Creating a refined version of the menu.
+      refinedMenu = refine(menu);
+      // Currently the plugin provides two reactions to small screens.
+      // Converting the menu to a <select> element, and converting to an accordion version of the menu.
+      if (options.type == 'accordion'){
+        var
+        toggleID = menuID + '-toggle',
+        accordionID = menuID + '-accordion';
+        // Making sure the accordion does not exist.
+        if ($('#' + accordionID).length == 0){
+          var
+          // Getting the style class.
+          styleClass = menu.attr('class').split(' ').filter(function(item){
+            return item.indexOf('sf-style-') > -1 ? item : '';
+          }),
+          // Creating the accordion.
+          accordion = $(refinedMenu).attr('id', accordionID);
+          // Removing unnecessary classes.
+          accordion.removeClass('sf-horizontal sf-vertical sf-navbar sf-shadow sf-js-enabled');
+          // Adding necessary classes.
+          accordion.addClass('sf-accordion sf-hidden');
+          // Removing style attributes and any unnecessary class.
+          accordion.find('li').each(function(){
+            $(this).removeAttr('style').removeClass('sfHover').attr('id', $(this).attr('id') + '-accordion');
+          });
+          // Doing the same and making sure all the sub-menus are off-screen (hidden).
+          accordion.children('ul').removeAttr('style').not('.sf-hidden').addClass('sf-hidden');
+          // Creating the accordion toggle switch.
+          var toggle = '<div class="sf-accordion-toggle ' + styleClass + '"><a href="#" id="' + toggleID + '"><span>' + options.title + '</span></a></div>';
+
+          // Adding Expand\Collapse buttons if requested.
+          if (options.accordionButton == 2){
+            accordion.addClass('sf-accordion-with-buttons');
+            var parent = accordion.find('li.menuparent');
+            for (var i = 0; i < parent.length; i++){
+              parent.eq(i).prepend('<a href="#" class="sf-accordion-button">' + options.expandText + '</a>');
+            }
+          }
+          // Inserting the according and hiding the original menu.
+          menu.before(toggle).before(accordion).hide();
+
+          var
+          accordionElement = $('#' + accordionID),
+          // Deciding what should be used as accordion buttons.
+          buttonElement = (options.accordionButton < 2) ? 'a.menuparent,span.nolink.menuparent' : 'a.sf-accordion-button',
+          button = accordionElement.find(buttonElement);
+
+          // Attaching a click event to the toggle switch.
+          $('#' + toggleID).on('click', function(e){
+            // Preventing the click.
+            e.preventDefault();
+            // Adding the sf-expanded class.
+            $(this).toggleClass('sf-expanded');
+
+            if (accordionElement.hasClass('sf-expanded')){
+              // If the accordion is already expanded:
+              // Hiding its expanded sub-menus and then the accordion itself as well.
+              accordionElement.add(accordionElement.find('li.sf-expanded')).removeClass('sf-expanded')
+              .end().children('ul').hide()
+              // This is a bit tricky, it's the same trick that has been in use in the main plugin for some time.
+              // Basically we'll add a class that keeps the sub-menu off-screen and still visible,
+              // and make it invisible and removing the class one moment before showing or hiding it.
+              // This helps screen reader software access all the menu items.
+              .end().hide().addClass('sf-hidden').show();
+              // Changing the caption of any existing accordion buttons to 'Expand'.
+              if (options.accordionButton == 2){
+                accordionElement.find('a.sf-accordion-button').text(options.expandText);
+              }
+            }
+            else {
+              // But if it's collapsed,
+              accordionElement.addClass('sf-expanded').hide().removeClass('sf-hidden').show();
+            }
+          });
+
+          // Attaching a click event to the buttons.
+          button.on('click', function(e){
+            // Making sure the buttons does not exist already.
+            if ($(this).closest('li').children('ul').length > 0){
+              e.preventDefault();
+              // Selecting the parent menu items.
+              var parent = $(this).closest('li');
+              // Creating and inserting Expand\Collapse buttons to the parent menu items,
+              // of course only if not already happened.
+              if (options.accordionButton == 1 && parent.children('a.menuparent,span.nolink.menuparent').length > 0 && parent.children('ul').children('li.sf-clone-parent').length == 0){
+                var
+                // Cloning the hyperlink of the parent menu item.
+                cloneLink = parent.children('a.menuparent,span.nolink.menuparent').clone();
+                // Removing unnecessary classes and element(s).
+                cloneLink.removeClass('menuparent sf-with-ul').children('.sf-sub-indicator').remove();
+                // Wrapping the hyerplinks in <li>.
+                cloneLink = $('<li class="sf-clone-parent" />').html(cloneLink);
+                // Adding a helper class and attaching them to the sub-menus.
+                parent.children('ul').addClass('sf-has-clone-parent').prepend(cloneLink);
+              }
+              // Once the button is clicked, collapse the sub-menu if it's expanded.
+              if (parent.hasClass('sf-expanded')){
+                parent.children('ul').slideUp('fast', function(){
+                  // Doing the accessibility trick after hiding the sub-menu.
+                  $(this).closest('li').removeClass('sf-expanded').end().addClass('sf-hidden').show();
+                });
+                // Changing the caption of the inserted Collapse link to 'Expand', if any is inserted.
+                if (options.accordionButton == 2 && parent.children('.sf-accordion-button').length > 0){
+                  parent.children('.sf-accordion-button').text(options.expandText);
+                }
+              }
+              // Otherwise, expand the sub-menu.
+              else {
+                // Doing the accessibility trick and then showing the sub-menu.
+                parent.children('ul').hide().removeClass('sf-hidden').slideDown('fast')
+                // Changing the caption of the inserted Expand link to 'Collape', if any is inserted.
+                .end().addClass('sf-expanded').children('a.sf-accordion-button').text(options.collapseText)
+                // Hiding any expanded sub-menu of the same level.
+                .end().siblings('li.sf-expanded').children('ul')
+                .slideUp('fast', function(){
+                  // Doing the accessibility trick after hiding it.
+                  $(this).closest('li').removeClass('sf-expanded').end().addClass('sf-hidden').show();
+                })
+                // Assuming Expand\Collapse buttons do exist, resetting captions, in those hidden sub-menus.
+                .parent().children('a.sf-accordion-button').text(options.expandText);
+              }
+            }
+          });
+        }
+      }
+      else {
+        var
+        // Class names modification.
+        menuClone = menu.clone(), classes = (options.menuClasses) ? ((options.excludeClass_menu && menuClone.hasClass(options.excludeClass_menu)) ? menuClone.removeClass(options.excludeClass_menu).attr('class') : menuClone.attr('class')) : '',
+        classes = (options.includeClass_menu && !menuClone.hasClass(options.includeClass_menu)) ? ((options.menuClasses) ? menuClone.addClass(options.includeClass_menu).attr('class') : options.includeClass_menu) : classes,
+        classes = (classes) ? ' class="' + classes + '"' : '';
+
+        // Making sure the <select> element does not exist already.
+        if ($('#' + menuID + '-select').length == 0){
+          // Creating the <option> elements.
+          var newMenu = toSelect(refinedMenu, 1),
+          // Creating the <select> element and assigning an ID and class name.
+          selectList = $('<select' + classes + ' id="' + menuID + '-select"/>')
+          // Attaching the title and the items to the <select> element.
+          .html('<option>' + options.title + '</option>' + newMenu)
+          // Attaching an event then.
+          .change(function(){
+            // Except for the first option that is the menu title and not a real menu item.
+            if ($('option:selected', this).index()){
+              window.location = selectList.val();
+            }
+          });
+          // Applying the addSelected option to it.
+          if (options.addSelected){
+            selectList.find('.active').attr('selected', !0);
+          }
+          // Finally inserting the <select> element into the document then hiding the original menu.
+          menu.before(selectList).hide();
+        }
+      }
+    }
+
+    // Turn everything back to normal.
+    function turnBack(menu){
+      var
+      id = '#' + menu.attr('id');
+      // Removing the small screen version.
+      $(id + '-' + options.type).remove();
+      // Removing the accordion toggle switch as well.
+      if (options.type == 'accordion'){
+        $(id + '-toggle').parent('div').remove();
+      }
+      // Remove inline CSS display property; less clear than simply using .show(), but respects stylesheet
+      $(id).css('display', '');
+    }
+
+    // Return original object to support chaining.
+    // Although this is unnecessary because of the way the module uses these plugins.
+    for (var s = 0; s < this.length; s++){
+      var
+      menu = $(this).eq(s),
+      mode = options.mode;
+      // The rest is crystal clear, isn't it? :)
+      if (mode == 'always_active'){
+        convert(menu);
+      }
+      else if (mode == 'window_width'){
+        var breakpoint = (options.breakpointUnit == 'em') ? (options.breakpoint * parseFloat($('body').css('font-size'))) : options.breakpoint,
+        windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth,
+        timer;
+        if ((typeof Modernizr === 'undefined' || typeof Modernizr.mq !== 'function') && windowWidth < breakpoint){
+          convert(menu);
+        }
+        else if (typeof Modernizr !== 'undefined' && typeof Modernizr.mq === 'function' && Modernizr.mq('(max-width:' + (breakpoint - 1) + 'px)')) {
+          convert(menu);
+        }
+        $(window).resize(function(){
+          clearTimeout(timer);
+          timer = setTimeout(function(){
+            var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+            if ((typeof Modernizr === 'undefined' || typeof Modernizr.mq !== 'function') && windowWidth < breakpoint){
+              convert(menu);
+            }
+            else if (typeof Modernizr !== 'undefined' && typeof Modernizr.mq === 'function' && Modernizr.mq('(max-width:' + (breakpoint - 1) + 'px)')) {
+              convert(menu);
+            }
+            else {
+              turnBack(menu);
+            }
+          }, 50);
+        });
+      }
+      else if (mode == 'useragent_custom'){
+        if (options.useragent != ''){
+          var ua = RegExp(options.useragent, 'i');
+          if (navigator.userAgent.match(ua)){
+            convert(menu);
+          }
+        }
+      }
+      else if (mode == 'useragent_predefined' && navigator.userAgent.match(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od|ad)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i)){
+        convert(menu);
+      }
+    }
+    return this;
+  }
+})(jQuery);
+;
+/*
+ * Supposition v0.2 - an optional enhancer for Superfish jQuery menu widget.
+ *
+ * Copyright (c) 2008 Joel Birch - based mostly on work by Jesse Klaasse and credit goes largely to him.
+ * Special thanks to Karl Swedberg for valuable input.
+ *
+ * Dual licensed under the MIT and GPL licenses:
+ *  http://www.opensource.org/licenses/mit-license.php
+ *  http://www.gnu.org/licenses/gpl.html
+ */
+/*
+ * This is not the original jQuery Supposition plugin.
+ * Please refer to the README for more information.
+ */
+
+(function($){
+  $.fn.supposition = function(){
+    var $w = $(window), /*do this once instead of every onBeforeShow call*/
+    _offset = function(dir) {
+      return window[dir == 'y' ? 'pageYOffset' : 'pageXOffset']
+      || document.documentElement && document.documentElement[dir=='y' ? 'scrollTop' : 'scrollLeft']
+      || document.body[dir=='y' ? 'scrollTop' : 'scrollLeft'];
+    },
+    onHide = function(){
+      this.css({bottom:''});
+    },
+    onBeforeShow = function(){
+      this.each(function(){
+        var $u = $(this);
+        $u.css('display','block');
+        var $mul = $u.closest('.sf-menu'),
+        level = $u.parents('ul').length,
+        menuWidth = $u.width(),
+        menuParentWidth = $u.closest('li').outerWidth(true),
+        menuParentLeft = $u.closest('li').offset().left,
+        totalRight = $w.width() + _offset('x'),
+        menuRight = $u.offset().left + menuWidth,
+        exactMenuWidth = (menuRight > (menuParentWidth + menuParentLeft)) ? menuWidth - (menuRight - (menuParentWidth + menuParentLeft)) : menuWidth;
+        if ($u.parents('.sf-js-enabled').hasClass('rtl')) {
+          if (menuParentLeft < exactMenuWidth) {
+            if (($mul.hasClass('sf-horizontal') && level == 1) || ($mul.hasClass('sf-navbar') && level == 2)){
+              $u.css({left:0,right:'auto'});
+            }
+            else {
+              $u.css({left:menuParentWidth + 'px',right:'auto'});
+            }
+          }
+        }
+        else {
+          if (menuRight > totalRight && menuParentLeft > menuWidth) {
+            if (($mul.hasClass('sf-horizontal') && level == 1) || ($mul.hasClass('sf-navbar') && level == 2)){
+              $u.css({right:0,left:'auto'});
+            }
+            else {
+              $u.css({right:menuParentWidth + 'px',left:'auto'});
+            }
+          }
+        }
+        var windowHeight = $w.height(),
+        offsetTop = $u.offset().top,
+        menuParentShadow = ($mul.hasClass('sf-shadow') && $u.css('padding-bottom').length > 0) ? parseInt($u.css('padding-bottom').slice(0,-2)) : 0,
+        menuParentHeight = ($mul.hasClass('sf-vertical')) ? '-' + menuParentShadow : $u.parent().outerHeight(true) - menuParentShadow,
+        menuHeight = $u.height(),
+        baseline = windowHeight + _offset('y');
+        var expandUp = ((offsetTop + menuHeight > baseline) && (offsetTop > menuHeight));
+        if (expandUp) {
+          $u.css({bottom:menuParentHeight + 'px',top:'auto'});
+        }
+        $u.css('display','none');
+      });
+    };
+
+    return this.each(function() {
+      var o = $.fn.superfish.o[this.serial]; /* get this menu's options */
+
+      /* if callbacks already set, store them */
+      var _onBeforeShow = o.onBeforeShow,
+      _onHide = o.onHide;
+
+      $.extend($.fn.superfish.o[this.serial],{
+        onBeforeShow: function() {
+          onBeforeShow.call(this); /* fire our Supposition callback */
+          _onBeforeShow.call(this); /* fire stored callbacks */
+        },
+        onHide: function() {
+          onHide.call(this); /* fire our Supposition callback */
+          _onHide.call(this); /* fire stored callbacks */
+        }
+      });
+    });
+  };
+})(jQuery);;
+/*
+ * Supersubs v0.4b - jQuery plugin
+ * Copyright (c) 2013 Joel Birch
+ *
+ * Dual licensed under the MIT and GPL licenses:
+ *  http://www.opensource.org/licenses/mit-license.php
+ *  http://www.gnu.org/licenses/gpl.html
+ *
+ * This plugin automatically adjusts submenu widths of suckerfish-style menus to that of
+ * their longest list item children. If you use this, please expect bugs and report them
+ * to the jQuery Google Group with the word 'Superfish' in the subject line.
+ *
+ */
+/*
+ * This is not the original jQuery Supersubs plugin.
+ * Please refer to the README for more information.
+ */
+
+(function($){ // $ will refer to jQuery within this closure
+  $.fn.supersubs = function(options){
+    var opts = $.extend({}, $.fn.supersubs.defaults, options);
+    // return original object to support chaining
+    // Although this is unnecessary due to the way the module uses these plugins.
+    for (var a = 0; a < this.length; a++) {
+      // cache selections
+      var $$ = $(this).eq(a),
+      // support metadata
+      o = $.meta ? $.extend({}, opts, $$.data()) : opts;
+      // Jump one level if it's a "NavBar"
+      if ($$.hasClass('sf-navbar')) {
+        $$ = $$.children('li').children('ul');
+      }
+      // cache all ul elements
+      var $ULs = $$.find('ul'),
+      // get the font size of menu.
+      // .css('fontSize') returns various results cross-browser, so measure an em dash instead
+      fontsize = $('<li id="menu-fontsize">&#8212;</li>'),
+      size = fontsize.attr('style','padding:0;position:absolute;top:-99999em;width:auto;')
+      .appendTo($$)[0].clientWidth; //clientWidth is faster than width()
+      // remove em dash
+      fontsize.remove();
+
+      // loop through each ul in menu
+      for (var b = 0; b < $ULs.length; b++) {
+        var
+        // cache this ul
+        $ul = $ULs.eq(b);
+        // If a multi-column sub-menu, and only if correctly configured.
+        if (o.multicolumn && $ul.hasClass('sf-multicolumn') && $ul.find('.sf-multicolumn-column').length > 0){
+          // Look through each column.
+          var $column = $ul.find('div.sf-multicolumn-column > ol'),
+          // Overall width.
+          mwWidth = 0;
+          for (var d = 0; d < $column.length; d++){
+            resize($column.eq(d));
+            // New column width, in pixels.
+            var colWidth = $column.width();
+            // Just a trick to convert em unit to px.
+            $column.css({width:colWidth})
+            // Making column parents the same size.
+            .parents('.sf-multicolumn-column').css({width:colWidth});
+            // Overall width.
+            mwWidth += parseInt(colWidth);
+          }
+          // Resizing the columns container too.
+          $ul.add($ul.find('li.sf-multicolumn-wrapper, li.sf-multicolumn-wrapper > ol')).css({width:mwWidth});
+        }
+        else {
+          resize($ul);
+        }
+      }
+    }
+    function resize($ul){
+      var
+      // get all (li) children of this ul
+      $LIs = $ul.children(),
+      // get all anchor grand-children
+      $As = $LIs.children('a');
+      // force content to one line and save current float property
+      $LIs.css('white-space','nowrap');
+      // remove width restrictions and floats so elements remain vertically stacked
+      $ul.add($LIs).add($As).css({float:'none',width:'auto'});
+      // this ul will now be shrink-wrapped to longest li due to position:absolute
+      // so save its width as ems.
+      var emWidth = $ul.get(0).clientWidth / size;
+      // add more width to ensure lines don't turn over at certain sizes in various browsers
+      emWidth += o.extraWidth;
+      // restrict to at least minWidth and at most maxWidth
+      if (emWidth > o.maxWidth) {emWidth = o.maxWidth;}
+      else if (emWidth < o.minWidth) {emWidth = o.minWidth;}
+      emWidth += 'em';
+      // set ul to width in ems
+      $ul.css({width:emWidth});
+      // restore li floats to avoid IE bugs
+      // set li width to full width of this ul
+      // revert white-space to normal
+      $LIs.add($As).css({float:'',width:'',whiteSpace:''});
+      // update offset position of descendant ul to reflect new width of parent.
+      // set it to 100% in case it isn't already set to this in the CSS
+      for (var c = 0; c < $LIs.length; c++) {
+        var $childUl = $LIs.eq(c).children('ul');
+        var offsetDirection = $childUl.css('left') !== undefined ? 'left' : 'right';
+        $childUl.css(offsetDirection,'100%');
+      }
+    }
+    return this;
+  };
+  // expose defaults
+  $.fn.supersubs.defaults = {
+    multicolumn: true, // define width for multi-column sub-menus and their columns.
+    minWidth: 12, // requires em unit.
+    maxWidth: 27, // requires em unit.
+    extraWidth: 1 // extra width can ensure lines don't sometimes turn over due to slight browser differences in how they round-off values
+  };
+})(jQuery); // plugin code ends
+;
+/**
+ * @file
+ * The Superfish Drupal Behavior to apply the Superfish jQuery plugin to lists.
+ */
+
+(function ($, Drupal, drupalSettings) {
+
+  'use strict';
+
+  /**
+   * jQuery Superfish plugin.
+   *
+   * @type {Drupal~behavior}
+   *
+   * @prop {Drupal~behaviorAttach} attach
+   *   Attaches the behavior to an applicable <ul> element.
+   */
+  Drupal.behaviors.superfish = {
+    attach: function (context, drupalSettings) {
+      // Take a look at each menu to apply Superfish to.
+      $.each(drupalSettings.superfish || {}, function (index, options) {
+        var $menu = $('ul#' + options.id, context);
+
+        // Check if we are to apply the Supersubs plug-in to it.
+        if (options.plugins || false) {
+          if (options.plugins.supersubs || false) {
+            $menu.supersubs(options.plugins.supersubs);
+          }
+        }
+
+        // Apply Superfish to the menu.
+        $menu.superfish(options.sf);
+
+        // Check if we are to apply any other plug-in to it.
+        if (options.plugins || false) {
+          if (options.plugins.touchscreen || false) {
+            $menu.sftouchscreen(options.plugins.touchscreen);
+          }
+          if (options.plugins.smallscreen || false) {
+            $menu.sfsmallscreen(options.plugins.smallscreen);
+          }
+          if (options.plugins.supposition || false) {
+            $menu.supposition();
+          }
+        }
+      });
+    }
+  };
+})(jQuery, Drupal, drupalSettings);
+;
+jQuery(document).ready(function($) {
+  $(window).scroll(function() {
+    if($(this).scrollTop() != 0) {
+      $(".to-top").addClass("show");
+    } else {
+      $(".to-top").removeClass("show");
+    }
+  });
+
+  $(".to-top").click(function() {
+    $("body,html").animate({scrollTop:0},800);
+  });
+});
+;
+/*!
+ * Bootstrap v3.4.1 (https://getbootstrap.com/)
+ * Copyright 2011-2019 Twitter, Inc.
+ * Licensed under the MIT license
+ */
+if("undefined"==typeof jQuery)throw new Error("Bootstrap's JavaScript requires jQuery");!function(t){"use strict";var e=jQuery.fn.jquery.split(" ")[0].split(".");if(e[0]<2&&e[1]<9||1==e[0]&&9==e[1]&&e[2]<1||3<e[0])throw new Error("Bootstrap's JavaScript requires jQuery version 1.9.1 or higher, but lower than version 4")}(),function(n){"use strict";n.fn.emulateTransitionEnd=function(t){var e=!1,i=this;n(this).one("bsTransitionEnd",function(){e=!0});return setTimeout(function(){e||n(i).trigger(n.support.transition.end)},t),this},n(function(){n.support.transition=function o(){var t=document.createElement("bootstrap"),e={WebkitTransition:"webkitTransitionEnd",MozTransition:"transitionend",OTransition:"oTransitionEnd otransitionend",transition:"transitionend"};for(var i in e)if(t.style[i]!==undefined)return{end:e[i]};return!1}(),n.support.transition&&(n.event.special.bsTransitionEnd={bindType:n.support.transition.end,delegateType:n.support.transition.end,handle:function(t){if(n(t.target).is(this))return t.handleObj.handler.apply(this,arguments)}})})}(jQuery),function(s){"use strict";var e='[data-dismiss="alert"]',a=function(t){s(t).on("click",e,this.close)};a.VERSION="3.4.1",a.TRANSITION_DURATION=150,a.prototype.close=function(t){var e=s(this),i=e.attr("data-target");i||(i=(i=e.attr("href"))&&i.replace(/.*(?=#[^\s]*$)/,"")),i="#"===i?[]:i;var o=s(document).find(i);function n(){o.detach().trigger("closed.bs.alert").remove()}t&&t.preventDefault(),o.length||(o=e.closest(".alert")),o.trigger(t=s.Event("close.bs.alert")),t.isDefaultPrevented()||(o.removeClass("in"),s.support.transition&&o.hasClass("fade")?o.one("bsTransitionEnd",n).emulateTransitionEnd(a.TRANSITION_DURATION):n())};var t=s.fn.alert;s.fn.alert=function o(i){return this.each(function(){var t=s(this),e=t.data("bs.alert");e||t.data("bs.alert",e=new a(this)),"string"==typeof i&&e[i].call(t)})},s.fn.alert.Constructor=a,s.fn.alert.noConflict=function(){return s.fn.alert=t,this},s(document).on("click.bs.alert.data-api",e,a.prototype.close)}(jQuery),function(s){"use strict";var n=function(t,e){this.$element=s(t),this.options=s.extend({},n.DEFAULTS,e),this.isLoading=!1};function i(o){return this.each(function(){var t=s(this),e=t.data("bs.button"),i="object"==typeof o&&o;e||t.data("bs.button",e=new n(this,i)),"toggle"==o?e.toggle():o&&e.setState(o)})}n.VERSION="3.4.1",n.DEFAULTS={loadingText:"loading..."},n.prototype.setState=function(t){var e="disabled",i=this.$element,o=i.is("input")?"val":"html",n=i.data();t+="Text",null==n.resetText&&i.data("resetText",i[o]()),setTimeout(s.proxy(function(){i[o](null==n[t]?this.options[t]:n[t]),"loadingText"==t?(this.isLoading=!0,i.addClass(e).attr(e,e).prop(e,!0)):this.isLoading&&(this.isLoading=!1,i.removeClass(e).removeAttr(e).prop(e,!1))},this),0)},n.prototype.toggle=function(){var t=!0,e=this.$element.closest('[data-toggle="buttons"]');if(e.length){var i=this.$element.find("input");"radio"==i.prop("type")?(i.prop("checked")&&(t=!1),e.find(".active").removeClass("active"),this.$element.addClass("active")):"checkbox"==i.prop("type")&&(i.prop("checked")!==this.$element.hasClass("active")&&(t=!1),this.$element.toggleClass("active")),i.prop("checked",this.$element.hasClass("active")),t&&i.trigger("change")}else this.$element.attr("aria-pressed",!this.$element.hasClass("active")),this.$element.toggleClass("active")};var t=s.fn.button;s.fn.button=i,s.fn.button.Constructor=n,s.fn.button.noConflict=function(){return s.fn.button=t,this},s(document).on("click.bs.button.data-api",'[data-toggle^="button"]',function(t){var e=s(t.target).closest(".btn");i.call(e,"toggle"),s(t.target).is('input[type="radio"], input[type="checkbox"]')||(t.preventDefault(),e.is("input,button")?e.trigger("focus"):e.find("input:visible,button:visible").first().trigger("focus"))}).on("focus.bs.button.data-api blur.bs.button.data-api",'[data-toggle^="button"]',function(t){s(t.target).closest(".btn").toggleClass("focus",/^focus(in)?$/.test(t.type))})}(jQuery),function(p){"use strict";var c=function(t,e){this.$element=p(t),this.$indicators=this.$element.find(".carousel-indicators"),this.options=e,this.paused=null,this.sliding=null,this.interval=null,this.$active=null,this.$items=null,this.options.keyboard&&this.$element.on("keydown.bs.carousel",p.proxy(this.keydown,this)),"hover"==this.options.pause&&!("ontouchstart"in document.documentElement)&&this.$element.on("mouseenter.bs.carousel",p.proxy(this.pause,this)).on("mouseleave.bs.carousel",p.proxy(this.cycle,this))};function r(n){return this.each(function(){var t=p(this),e=t.data("bs.carousel"),i=p.extend({},c.DEFAULTS,t.data(),"object"==typeof n&&n),o="string"==typeof n?n:i.slide;e||t.data("bs.carousel",e=new c(this,i)),"number"==typeof n?e.to(n):o?e[o]():i.interval&&e.pause().cycle()})}c.VERSION="3.4.1",c.TRANSITION_DURATION=600,c.DEFAULTS={interval:5e3,pause:"hover",wrap:!0,keyboard:!0},c.prototype.keydown=function(t){if(!/input|textarea/i.test(t.target.tagName)){switch(t.which){case 37:this.prev();break;case 39:this.next();break;default:return}t.preventDefault()}},c.prototype.cycle=function(t){return t||(this.paused=!1),this.interval&&clearInterval(this.interval),this.options.interval&&!this.paused&&(this.interval=setInterval(p.proxy(this.next,this),this.options.interval)),this},c.prototype.getItemIndex=function(t){return this.$items=t.parent().children(".item"),this.$items.index(t||this.$active)},c.prototype.getItemForDirection=function(t,e){var i=this.getItemIndex(e);if(("prev"==t&&0===i||"next"==t&&i==this.$items.length-1)&&!this.options.wrap)return e;var o=(i+("prev"==t?-1:1))%this.$items.length;return this.$items.eq(o)},c.prototype.to=function(t){var e=this,i=this.getItemIndex(this.$active=this.$element.find(".item.active"));if(!(t>this.$items.length-1||t<0))return this.sliding?this.$element.one("slid.bs.carousel",function(){e.to(t)}):i==t?this.pause().cycle():this.slide(i<t?"next":"prev",this.$items.eq(t))},c.prototype.pause=function(t){return t||(this.paused=!0),this.$element.find(".next, .prev").length&&p.support.transition&&(this.$element.trigger(p.support.transition.end),this.cycle(!0)),this.interval=clearInterval(this.interval),this},c.prototype.next=function(){if(!this.sliding)return this.slide("next")},c.prototype.prev=function(){if(!this.sliding)return this.slide("prev")},c.prototype.slide=function(t,e){var i=this.$element.find(".item.active"),o=e||this.getItemForDirection(t,i),n=this.interval,s="next"==t?"left":"right",a=this;if(o.hasClass("active"))return this.sliding=!1;var r=o[0],l=p.Event("slide.bs.carousel",{relatedTarget:r,direction:s});if(this.$element.trigger(l),!l.isDefaultPrevented()){if(this.sliding=!0,n&&this.pause(),this.$indicators.length){this.$indicators.find(".active").removeClass("active");var h=p(this.$indicators.children()[this.getItemIndex(o)]);h&&h.addClass("active")}var d=p.Event("slid.bs.carousel",{relatedTarget:r,direction:s});return p.support.transition&&this.$element.hasClass("slide")?(o.addClass(t),"object"==typeof o&&o.length&&o[0].offsetWidth,i.addClass(s),o.addClass(s),i.one("bsTransitionEnd",function(){o.removeClass([t,s].join(" ")).addClass("active"),i.removeClass(["active",s].join(" ")),a.sliding=!1,setTimeout(function(){a.$element.trigger(d)},0)}).emulateTransitionEnd(c.TRANSITION_DURATION)):(i.removeClass("active"),o.addClass("active"),this.sliding=!1,this.$element.trigger(d)),n&&this.cycle(),this}};var t=p.fn.carousel;p.fn.carousel=r,p.fn.carousel.Constructor=c,p.fn.carousel.noConflict=function(){return p.fn.carousel=t,this};var e=function(t){var e=p(this),i=e.attr("href");i&&(i=i.replace(/.*(?=#[^\s]+$)/,""));var o=e.attr("data-target")||i,n=p(document).find(o);if(n.hasClass("carousel")){var s=p.extend({},n.data(),e.data()),a=e.attr("data-slide-to");a&&(s.interval=!1),r.call(n,s),a&&n.data("bs.carousel").to(a),t.preventDefault()}};p(document).on("click.bs.carousel.data-api","[data-slide]",e).on("click.bs.carousel.data-api","[data-slide-to]",e),p(window).on("load",function(){p('[data-ride="carousel"]').each(function(){var t=p(this);r.call(t,t.data())})})}(jQuery),function(a){"use strict";var r=function(t,e){this.$element=a(t),this.options=a.extend({},r.DEFAULTS,e),this.$trigger=a('[data-toggle="collapse"][href="#'+t.id+'"],[data-toggle="collapse"][data-target="#'+t.id+'"]'),this.transitioning=null,this.options.parent?this.$parent=this.getParent():this.addAriaAndCollapsedClass(this.$element,this.$trigger),this.options.toggle&&this.toggle()};function n(t){var e,i=t.attr("data-target")||(e=t.attr("href"))&&e.replace(/.*(?=#[^\s]+$)/,"");return a(document).find(i)}function l(o){return this.each(function(){var t=a(this),e=t.data("bs.collapse"),i=a.extend({},r.DEFAULTS,t.data(),"object"==typeof o&&o);!e&&i.toggle&&/show|hide/.test(o)&&(i.toggle=!1),e||t.data("bs.collapse",e=new r(this,i)),"string"==typeof o&&e[o]()})}r.VERSION="3.4.1",r.TRANSITION_DURATION=350,r.DEFAULTS={toggle:!0},r.prototype.dimension=function(){return this.$element.hasClass("width")?"width":"height"},r.prototype.show=function(){if(!this.transitioning&&!this.$element.hasClass("in")){var t,e=this.$parent&&this.$parent.children(".panel").children(".in, .collapsing");if(!(e&&e.length&&(t=e.data("bs.collapse"))&&t.transitioning)){var i=a.Event("show.bs.collapse");if(this.$element.trigger(i),!i.isDefaultPrevented()){e&&e.length&&(l.call(e,"hide"),t||e.data("bs.collapse",null));var o=this.dimension();this.$element.removeClass("collapse").addClass("collapsing")[o](0).attr("aria-expanded",!0),this.$trigger.removeClass("collapsed").attr("aria-expanded",!0),this.transitioning=1;var n=function(){this.$element.removeClass("collapsing").addClass("collapse in")[o](""),this.transitioning=0,this.$element.trigger("shown.bs.collapse")};if(!a.support.transition)return n.call(this);var s=a.camelCase(["scroll",o].join("-"));this.$element.one("bsTransitionEnd",a.proxy(n,this)).emulateTransitionEnd(r.TRANSITION_DURATION)[o](this.$element[0][s])}}}},r.prototype.hide=function(){if(!this.transitioning&&this.$element.hasClass("in")){var t=a.Event("hide.bs.collapse");if(this.$element.trigger(t),!t.isDefaultPrevented()){var e=this.dimension();this.$element[e](this.$element[e]())[0].offsetHeight,this.$element.addClass("collapsing").removeClass("collapse in").attr("aria-expanded",!1),this.$trigger.addClass("collapsed").attr("aria-expanded",!1),this.transitioning=1;var i=function(){this.transitioning=0,this.$element.removeClass("collapsing").addClass("collapse").trigger("hidden.bs.collapse")};if(!a.support.transition)return i.call(this);this.$element[e](0).one("bsTransitionEnd",a.proxy(i,this)).emulateTransitionEnd(r.TRANSITION_DURATION)}}},r.prototype.toggle=function(){this[this.$element.hasClass("in")?"hide":"show"]()},r.prototype.getParent=function(){return a(document).find(this.options.parent).find('[data-toggle="collapse"][data-parent="'+this.options.parent+'"]').each(a.proxy(function(t,e){var i=a(e);this.addAriaAndCollapsedClass(n(i),i)},this)).end()},r.prototype.addAriaAndCollapsedClass=function(t,e){var i=t.hasClass("in");t.attr("aria-expanded",i),e.toggleClass("collapsed",!i).attr("aria-expanded",i)};var t=a.fn.collapse;a.fn.collapse=l,a.fn.collapse.Constructor=r,a.fn.collapse.noConflict=function(){return a.fn.collapse=t,this},a(document).on("click.bs.collapse.data-api",'[data-toggle="collapse"]',function(t){var e=a(this);e.attr("data-target")||t.preventDefault();var i=n(e),o=i.data("bs.collapse")?"toggle":e.data();l.call(i,o)})}(jQuery),function(a){"use strict";var r='[data-toggle="dropdown"]',o=function(t){a(t).on("click.bs.dropdown",this.toggle)};function l(t){var e=t.attr("data-target");e||(e=(e=t.attr("href"))&&/#[A-Za-z]/.test(e)&&e.replace(/.*(?=#[^\s]*$)/,""));var i="#"!==e?a(document).find(e):null;return i&&i.length?i:t.parent()}function s(o){o&&3===o.which||(a(".dropdown-backdrop").remove(),a(r).each(function(){var t=a(this),e=l(t),i={relatedTarget:this};e.hasClass("open")&&(o&&"click"==o.type&&/input|textarea/i.test(o.target.tagName)&&a.contains(e[0],o.target)||(e.trigger(o=a.Event("hide.bs.dropdown",i)),o.isDefaultPrevented()||(t.attr("aria-expanded","false"),e.removeClass("open").trigger(a.Event("hidden.bs.dropdown",i)))))}))}o.VERSION="3.4.1",o.prototype.toggle=function(t){var e=a(this);if(!e.is(".disabled, :disabled")){var i=l(e),o=i.hasClass("open");if(s(),!o){"ontouchstart"in document.documentElement&&!i.closest(".navbar-nav").length&&a(document.createElement("div")).addClass("dropdown-backdrop").insertAfter(a(this)).on("click",s);var n={relatedTarget:this};if(i.trigger(t=a.Event("show.bs.dropdown",n)),t.isDefaultPrevented())return;e.trigger("focus").attr("aria-expanded","true"),i.toggleClass("open").trigger(a.Event("shown.bs.dropdown",n))}return!1}},o.prototype.keydown=function(t){if(/(38|40|27|32)/.test(t.which)&&!/input|textarea/i.test(t.target.tagName)){var e=a(this);if(t.preventDefault(),t.stopPropagation(),!e.is(".disabled, :disabled")){var i=l(e),o=i.hasClass("open");if(!o&&27!=t.which||o&&27==t.which)return 27==t.which&&i.find(r).trigger("focus"),e.trigger("click");var n=i.find(".dropdown-menu li:not(.disabled):visible a");if(n.length){var s=n.index(t.target);38==t.which&&0<s&&s--,40==t.which&&s<n.length-1&&s++,~s||(s=0),n.eq(s).trigger("focus")}}}};var t=a.fn.dropdown;a.fn.dropdown=function e(i){return this.each(function(){var t=a(this),e=t.data("bs.dropdown");e||t.data("bs.dropdown",e=new o(this)),"string"==typeof i&&e[i].call(t)})},a.fn.dropdown.Constructor=o,a.fn.dropdown.noConflict=function(){return a.fn.dropdown=t,this},a(document).on("click.bs.dropdown.data-api",s).on("click.bs.dropdown.data-api",".dropdown form",function(t){t.stopPropagation()}).on("click.bs.dropdown.data-api",r,o.prototype.toggle).on("keydown.bs.dropdown.data-api",r,o.prototype.keydown).on("keydown.bs.dropdown.data-api",".dropdown-menu",o.prototype.keydown)}(jQuery),function(a){"use strict";var s=function(t,e){this.options=e,this.$body=a(document.body),this.$element=a(t),this.$dialog=this.$element.find(".modal-dialog"),this.$backdrop=null,this.isShown=null,this.originalBodyPad=null,this.scrollbarWidth=0,this.ignoreBackdropClick=!1,this.fixedContent=".navbar-fixed-top, .navbar-fixed-bottom",this.options.remote&&this.$element.find(".modal-content").load(this.options.remote,a.proxy(function(){this.$element.trigger("loaded.bs.modal")},this))};function r(o,n){return this.each(function(){var t=a(this),e=t.data("bs.modal"),i=a.extend({},s.DEFAULTS,t.data(),"object"==typeof o&&o);e||t.data("bs.modal",e=new s(this,i)),"string"==typeof o?e[o](n):i.show&&e.show(n)})}s.VERSION="3.4.1",s.TRANSITION_DURATION=300,s.BACKDROP_TRANSITION_DURATION=150,s.DEFAULTS={backdrop:!0,keyboard:!0,show:!0},s.prototype.toggle=function(t){return this.isShown?this.hide():this.show(t)},s.prototype.show=function(i){var o=this,t=a.Event("show.bs.modal",{relatedTarget:i});this.$element.trigger(t),this.isShown||t.isDefaultPrevented()||(this.isShown=!0,this.checkScrollbar(),this.setScrollbar(),this.$body.addClass("modal-open"),this.escape(),this.resize(),this.$element.on("click.dismiss.bs.modal",'[data-dismiss="modal"]',a.proxy(this.hide,this)),this.$dialog.on("mousedown.dismiss.bs.modal",function(){o.$element.one("mouseup.dismiss.bs.modal",function(t){a(t.target).is(o.$element)&&(o.ignoreBackdropClick=!0)})}),this.backdrop(function(){var t=a.support.transition&&o.$element.hasClass("fade");o.$element.parent().length||o.$element.appendTo(o.$body),o.$element.show().scrollTop(0),o.adjustDialog(),t&&o.$element[0].offsetWidth,o.$element.addClass("in"),o.enforceFocus();var e=a.Event("shown.bs.modal",{relatedTarget:i});t?o.$dialog.one("bsTransitionEnd",function(){o.$element.trigger("focus").trigger(e)}).emulateTransitionEnd(s.TRANSITION_DURATION):o.$element.trigger("focus").trigger(e)}))},s.prototype.hide=function(t){t&&t.preventDefault(),t=a.Event("hide.bs.modal"),this.$element.trigger(t),this.isShown&&!t.isDefaultPrevented()&&(this.isShown=!1,this.escape(),this.resize(),a(document).off("focusin.bs.modal"),this.$element.removeClass("in").off("click.dismiss.bs.modal").off("mouseup.dismiss.bs.modal"),this.$dialog.off("mousedown.dismiss.bs.modal"),a.support.transition&&this.$element.hasClass("fade")?this.$element.one("bsTransitionEnd",a.proxy(this.hideModal,this)).emulateTransitionEnd(s.TRANSITION_DURATION):this.hideModal())},s.prototype.enforceFocus=function(){a(document).off("focusin.bs.modal").on("focusin.bs.modal",a.proxy(function(t){document===t.target||this.$element[0]===t.target||this.$element.has(t.target).length||this.$element.trigger("focus")},this))},s.prototype.escape=function(){this.isShown&&this.options.keyboard?this.$element.on("keydown.dismiss.bs.modal",a.proxy(function(t){27==t.which&&this.hide()},this)):this.isShown||this.$element.off("keydown.dismiss.bs.modal")},s.prototype.resize=function(){this.isShown?a(window).on("resize.bs.modal",a.proxy(this.handleUpdate,this)):a(window).off("resize.bs.modal")},s.prototype.hideModal=function(){var t=this;this.$element.hide(),this.backdrop(function(){t.$body.removeClass("modal-open"),t.resetAdjustments(),t.resetScrollbar(),t.$element.trigger("hidden.bs.modal")})},s.prototype.removeBackdrop=function(){this.$backdrop&&this.$backdrop.remove(),this.$backdrop=null},s.prototype.backdrop=function(t){var e=this,i=this.$element.hasClass("fade")?"fade":"";if(this.isShown&&this.options.backdrop){var o=a.support.transition&&i;if(this.$backdrop=a(document.createElement("div")).addClass("modal-backdrop "+i).appendTo(this.$body),this.$element.on("click.dismiss.bs.modal",a.proxy(function(t){this.ignoreBackdropClick?this.ignoreBackdropClick=!1:t.target===t.currentTarget&&("static"==this.options.backdrop?this.$element[0].focus():this.hide())},this)),o&&this.$backdrop[0].offsetWidth,this.$backdrop.addClass("in"),!t)return;o?this.$backdrop.one("bsTransitionEnd",t).emulateTransitionEnd(s.BACKDROP_TRANSITION_DURATION):t()}else if(!this.isShown&&this.$backdrop){this.$backdrop.removeClass("in");var n=function(){e.removeBackdrop(),t&&t()};a.support.transition&&this.$element.hasClass("fade")?this.$backdrop.one("bsTransitionEnd",n).emulateTransitionEnd(s.BACKDROP_TRANSITION_DURATION):n()}else t&&t()},s.prototype.handleUpdate=function(){this.adjustDialog()},s.prototype.adjustDialog=function(){var t=this.$element[0].scrollHeight>document.documentElement.clientHeight;this.$element.css({paddingLeft:!this.bodyIsOverflowing&&t?this.scrollbarWidth:"",paddingRight:this.bodyIsOverflowing&&!t?this.scrollbarWidth:""})},s.prototype.resetAdjustments=function(){this.$element.css({paddingLeft:"",paddingRight:""})},s.prototype.checkScrollbar=function(){var t=window.innerWidth;if(!t){var e=document.documentElement.getBoundingClientRect();t=e.right-Math.abs(e.left)}this.bodyIsOverflowing=document.body.clientWidth<t,this.scrollbarWidth=this.measureScrollbar()},s.prototype.setScrollbar=function(){var t=parseInt(this.$body.css("padding-right")||0,10);this.originalBodyPad=document.body.style.paddingRight||"";var n=this.scrollbarWidth;this.bodyIsOverflowing&&(this.$body.css("padding-right",t+n),a(this.fixedContent).each(function(t,e){var i=e.style.paddingRight,o=a(e).css("padding-right");a(e).data("padding-right",i).css("padding-right",parseFloat(o)+n+"px")}))},s.prototype.resetScrollbar=function(){this.$body.css("padding-right",this.originalBodyPad),a(this.fixedContent).each(function(t,e){var i=a(e).data("padding-right");a(e).removeData("padding-right"),e.style.paddingRight=i||""})},s.prototype.measureScrollbar=function(){var t=document.createElement("div");t.className="modal-scrollbar-measure",this.$body.append(t);var e=t.offsetWidth-t.clientWidth;return this.$body[0].removeChild(t),e};var t=a.fn.modal;a.fn.modal=r,a.fn.modal.Constructor=s,a.fn.modal.noConflict=function(){return a.fn.modal=t,this},a(document).on("click.bs.modal.data-api",'[data-toggle="modal"]',function(t){var e=a(this),i=e.attr("href"),o=e.attr("data-target")||i&&i.replace(/.*(?=#[^\s]+$)/,""),n=a(document).find(o),s=n.data("bs.modal")?"toggle":a.extend({remote:!/#/.test(i)&&i},n.data(),e.data());e.is("a")&&t.preventDefault(),n.one("show.bs.modal",function(t){t.isDefaultPrevented()||n.one("hidden.bs.modal",function(){e.is(":visible")&&e.trigger("focus")})}),r.call(n,s,this)})}(jQuery),function(g){"use strict";var o=["sanitize","whiteList","sanitizeFn"],a=["background","cite","href","itemtype","longdesc","poster","src","xlink:href"],t={"*":["class","dir","id","lang","role",/^aria-[\w-]*$/i],a:["target","href","title","rel"],area:[],b:[],br:[],col:[],code:[],div:[],em:[],hr:[],h1:[],h2:[],h3:[],h4:[],h5:[],h6:[],i:[],img:["src","alt","title","width","height"],li:[],ol:[],p:[],pre:[],s:[],small:[],span:[],sub:[],sup:[],strong:[],u:[],ul:[]},r=/^(?:(?:https?|mailto|ftp|tel|file):|[^&:/?#]*(?:[/?#]|$))/gi,l=/^data:(?:image\/(?:bmp|gif|jpeg|jpg|png|tiff|webp)|video\/(?:mpeg|mp4|ogg|webm)|audio\/(?:mp3|oga|ogg|opus));base64,[a-z0-9+/]+=*$/i;function u(t,e){var i=t.nodeName.toLowerCase();if(-1!==g.inArray(i,e))return-1===g.inArray(i,a)||Boolean(t.nodeValue.match(r)||t.nodeValue.match(l));for(var o=g(e).filter(function(t,e){return e instanceof RegExp}),n=0,s=o.length;n<s;n++)if(i.match(o[n]))return!0;return!1}function n(t,e,i){if(0===t.length)return t;if(i&&"function"==typeof i)return i(t);if(!document.implementation||!document.implementation.createHTMLDocument)return t;var o=document.implementation.createHTMLDocument("sanitization");o.body.innerHTML=t;for(var n=g.map(e,function(t,e){return e}),s=g(o.body).find("*"),a=0,r=s.length;a<r;a++){var l=s[a],h=l.nodeName.toLowerCase();if(-1!==g.inArray(h,n))for(var d=g.map(l.attributes,function(t){return t}),p=[].concat(e["*"]||[],e[h]||[]),c=0,f=d.length;c<f;c++)u(d[c],p)||l.removeAttribute(d[c].nodeName);else l.parentNode.removeChild(l)}return o.body.innerHTML}var m=function(t,e){this.type=null,this.options=null,this.enabled=null,this.timeout=null,this.hoverState=null,this.$element=null,this.inState=null,this.init("tooltip",t,e)};m.VERSION="3.4.1",m.TRANSITION_DURATION=150,m.DEFAULTS={animation:!0,placement:"top",selector:!1,template:'<div class="tooltip" role="tooltip"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div>',trigger:"hover focus",title:"",delay:0,html:!1,container:!1,viewport:{selector:"body",padding:0},sanitize:!0,sanitizeFn:null,whiteList:t},m.prototype.init=function(t,e,i){if(this.enabled=!0,this.type=t,this.$element=g(e),this.options=this.getOptions(i),this.$viewport=this.options.viewport&&g(document).find(g.isFunction(this.options.viewport)?this.options.viewport.call(this,this.$element):this.options.viewport.selector||this.options.viewport),this.inState={click:!1,hover:!1,focus:!1},this.$element[0]instanceof document.constructor&&!this.options.selector)throw new Error("`selector` option must be specified when initializing "+this.type+" on the window.document object!");for(var o=this.options.trigger.split(" "),n=o.length;n--;){var s=o[n];if("click"==s)this.$element.on("click."+this.type,this.options.selector,g.proxy(this.toggle,this));else if("manual"!=s){var a="hover"==s?"mouseenter":"focusin",r="hover"==s?"mouseleave":"focusout";this.$element.on(a+"."+this.type,this.options.selector,g.proxy(this.enter,this)),this.$element.on(r+"."+this.type,this.options.selector,g.proxy(this.leave,this))}}this.options.selector?this._options=g.extend({},this.options,{trigger:"manual",selector:""}):this.fixTitle()},m.prototype.getDefaults=function(){return m.DEFAULTS},m.prototype.getOptions=function(t){var e=this.$element.data();for(var i in e)e.hasOwnProperty(i)&&-1!==g.inArray(i,o)&&delete e[i];return(t=g.extend({},this.getDefaults(),e,t)).delay&&"number"==typeof t.delay&&(t.delay={show:t.delay,hide:t.delay}),t.sanitize&&(t.template=n(t.template,t.whiteList,t.sanitizeFn)),t},m.prototype.getDelegateOptions=function(){var i={},o=this.getDefaults();return this._options&&g.each(this._options,function(t,e){o[t]!=e&&(i[t]=e)}),i},m.prototype.enter=function(t){var e=t instanceof this.constructor?t:g(t.currentTarget).data("bs."+this.type);if(e||(e=new this.constructor(t.currentTarget,this.getDelegateOptions()),g(t.currentTarget).data("bs."+this.type,e)),t instanceof g.Event&&(e.inState["focusin"==t.type?"focus":"hover"]=!0),e.tip().hasClass("in")||"in"==e.hoverState)e.hoverState="in";else{if(clearTimeout(e.timeout),e.hoverState="in",!e.options.delay||!e.options.delay.show)return e.show();e.timeout=setTimeout(function(){"in"==e.hoverState&&e.show()},e.options.delay.show)}},m.prototype.isInStateTrue=function(){for(var t in this.inState)if(this.inState[t])return!0;return!1},m.prototype.leave=function(t){var e=t instanceof this.constructor?t:g(t.currentTarget).data("bs."+this.type);if(e||(e=new this.constructor(t.currentTarget,this.getDelegateOptions()),g(t.currentTarget).data("bs."+this.type,e)),t instanceof g.Event&&(e.inState["focusout"==t.type?"focus":"hover"]=!1),!e.isInStateTrue()){if(clearTimeout(e.timeout),e.hoverState="out",!e.options.delay||!e.options.delay.hide)return e.hide();e.timeout=setTimeout(function(){"out"==e.hoverState&&e.hide()},e.options.delay.hide)}},m.prototype.show=function(){var t=g.Event("show.bs."+this.type);if(this.hasContent()&&this.enabled){this.$element.trigger(t);var e=g.contains(this.$element[0].ownerDocument.documentElement,this.$element[0]);if(t.isDefaultPrevented()||!e)return;var i=this,o=this.tip(),n=this.getUID(this.type);this.setContent(),o.attr("id",n),this.$element.attr("aria-describedby",n),this.options.animation&&o.addClass("fade");var s="function"==typeof this.options.placement?this.options.placement.call(this,o[0],this.$element[0]):this.options.placement,a=/\s?auto?\s?/i,r=a.test(s);r&&(s=s.replace(a,"")||"top"),o.detach().css({top:0,left:0,display:"block"}).addClass(s).data("bs."+this.type,this),this.options.container?o.appendTo(g(document).find(this.options.container)):o.insertAfter(this.$element),this.$element.trigger("inserted.bs."+this.type);var l=this.getPosition(),h=o[0].offsetWidth,d=o[0].offsetHeight;if(r){var p=s,c=this.getPosition(this.$viewport);s="bottom"==s&&l.bottom+d>c.bottom?"top":"top"==s&&l.top-d<c.top?"bottom":"right"==s&&l.right+h>c.width?"left":"left"==s&&l.left-h<c.left?"right":s,o.removeClass(p).addClass(s)}var f=this.getCalculatedOffset(s,l,h,d);this.applyPlacement(f,s);var u=function(){var t=i.hoverState;i.$element.trigger("shown.bs."+i.type),i.hoverState=null,"out"==t&&i.leave(i)};g.support.transition&&this.$tip.hasClass("fade")?o.one("bsTransitionEnd",u).emulateTransitionEnd(m.TRANSITION_DURATION):u()}},m.prototype.applyPlacement=function(t,e){var i=this.tip(),o=i[0].offsetWidth,n=i[0].offsetHeight,s=parseInt(i.css("margin-top"),10),a=parseInt(i.css("margin-left"),10);isNaN(s)&&(s=0),isNaN(a)&&(a=0),t.top+=s,t.left+=a,g.offset.setOffset(i[0],g.extend({using:function(t){i.css({top:Math.round(t.top),left:Math.round(t.left)})}},t),0),i.addClass("in");var r=i[0].offsetWidth,l=i[0].offsetHeight;"top"==e&&l!=n&&(t.top=t.top+n-l);var h=this.getViewportAdjustedDelta(e,t,r,l);h.left?t.left+=h.left:t.top+=h.top;var d=/top|bottom/.test(e),p=d?2*h.left-o+r:2*h.top-n+l,c=d?"offsetWidth":"offsetHeight";i.offset(t),this.replaceArrow(p,i[0][c],d)},m.prototype.replaceArrow=function(t,e,i){this.arrow().css(i?"left":"top",50*(1-t/e)+"%").css(i?"top":"left","")},m.prototype.setContent=function(){var t=this.tip(),e=this.getTitle();this.options.html?(this.options.sanitize&&(e=n(e,this.options.whiteList,this.options.sanitizeFn)),t.find(".tooltip-inner").html(e)):t.find(".tooltip-inner").text(e),t.removeClass("fade in top bottom left right")},m.prototype.hide=function(t){var e=this,i=g(this.$tip),o=g.Event("hide.bs."+this.type);function n(){"in"!=e.hoverState&&i.detach(),e.$element&&e.$element.removeAttr("aria-describedby").trigger("hidden.bs."+e.type),t&&t()}if(this.$element.trigger(o),!o.isDefaultPrevented())return i.removeClass("in"),g.support.transition&&i.hasClass("fade")?i.one("bsTransitionEnd",n).emulateTransitionEnd(m.TRANSITION_DURATION):n(),this.hoverState=null,this},m.prototype.fixTitle=function(){var t=this.$element;(t.attr("title")||"string"!=typeof t.attr("data-original-title"))&&t.attr("data-original-title",t.attr("title")||"").attr("title","")},m.prototype.hasContent=function(){return this.getTitle()},m.prototype.getPosition=function(t){var e=(t=t||this.$element)[0],i="BODY"==e.tagName,o=e.getBoundingClientRect();null==o.width&&(o=g.extend({},o,{width:o.right-o.left,height:o.bottom-o.top}));var n=window.SVGElement&&e instanceof window.SVGElement,s=i?{top:0,left:0}:n?null:t.offset(),a={scroll:i?document.documentElement.scrollTop||document.body.scrollTop:t.scrollTop()},r=i?{width:g(window).width(),height:g(window).height()}:null;return g.extend({},o,a,r,s)},m.prototype.getCalculatedOffset=function(t,e,i,o){return"bottom"==t?{top:e.top+e.height,left:e.left+e.width/2-i/2}:"top"==t?{top:e.top-o,left:e.left+e.width/2-i/2}:"left"==t?{top:e.top+e.height/2-o/2,left:e.left-i}:{top:e.top+e.height/2-o/2,left:e.left+e.width}},m.prototype.getViewportAdjustedDelta=function(t,e,i,o){var n={top:0,left:0};if(!this.$viewport)return n;var s=this.options.viewport&&this.options.viewport.padding||0,a=this.getPosition(this.$viewport);if(/right|left/.test(t)){var r=e.top-s-a.scroll,l=e.top+s-a.scroll+o;r<a.top?n.top=a.top-r:l>a.top+a.height&&(n.top=a.top+a.height-l)}else{var h=e.left-s,d=e.left+s+i;h<a.left?n.left=a.left-h:d>a.right&&(n.left=a.left+a.width-d)}return n},m.prototype.getTitle=function(){var t=this.$element,e=this.options;return t.attr("data-original-title")||("function"==typeof e.title?e.title.call(t[0]):e.title)},m.prototype.getUID=function(t){for(;t+=~~(1e6*Math.random()),document.getElementById(t););return t},m.prototype.tip=function(){if(!this.$tip&&(this.$tip=g(this.options.template),1!=this.$tip.length))throw new Error(this.type+" `template` option must consist of exactly 1 top-level element!");return this.$tip},m.prototype.arrow=function(){return this.$arrow=this.$arrow||this.tip().find(".tooltip-arrow")},m.prototype.enable=function(){this.enabled=!0},m.prototype.disable=function(){this.enabled=!1},m.prototype.toggleEnabled=function(){this.enabled=!this.enabled},m.prototype.toggle=function(t){var e=this;t&&((e=g(t.currentTarget).data("bs."+this.type))||(e=new this.constructor(t.currentTarget,this.getDelegateOptions()),g(t.currentTarget).data("bs."+this.type,e))),t?(e.inState.click=!e.inState.click,e.isInStateTrue()?e.enter(e):e.leave(e)):e.tip().hasClass("in")?e.leave(e):e.enter(e)},m.prototype.destroy=function(){var t=this;clearTimeout(this.timeout),this.hide(function(){t.$element.off("."+t.type).removeData("bs."+t.type),t.$tip&&t.$tip.detach(),t.$tip=null,t.$arrow=null,t.$viewport=null,t.$element=null})},m.prototype.sanitizeHtml=function(t){return n(t,this.options.whiteList,this.options.sanitizeFn)};var e=g.fn.tooltip;g.fn.tooltip=function i(o){return this.each(function(){var t=g(this),e=t.data("bs.tooltip"),i="object"==typeof o&&o;!e&&/destroy|hide/.test(o)||(e||t.data("bs.tooltip",e=new m(this,i)),"string"==typeof o&&e[o]())})},g.fn.tooltip.Constructor=m,g.fn.tooltip.noConflict=function(){return g.fn.tooltip=e,this}}(jQuery),function(n){"use strict";var s=function(t,e){this.init("popover",t,e)};if(!n.fn.tooltip)throw new Error("Popover requires tooltip.js");s.VERSION="3.4.1",s.DEFAULTS=n.extend({},n.fn.tooltip.Constructor.DEFAULTS,{placement:"right",trigger:"click",content:"",template:'<div class="popover" role="tooltip"><div class="arrow"></div><h3 class="popover-title"></h3><div class="popover-content"></div></div>'}),((s.prototype=n.extend({},n.fn.tooltip.Constructor.prototype)).constructor=s).prototype.getDefaults=function(){return s.DEFAULTS},s.prototype.setContent=function(){var t=this.tip(),e=this.getTitle(),i=this.getContent();if(this.options.html){var o=typeof i;this.options.sanitize&&(e=this.sanitizeHtml(e),"string"===o&&(i=this.sanitizeHtml(i))),t.find(".popover-title").html(e),t.find(".popover-content").children().detach().end()["string"===o?"html":"append"](i)}else t.find(".popover-title").text(e),t.find(".popover-content").children().detach().end().text(i);t.removeClass("fade top bottom left right in"),t.find(".popover-title").html()||t.find(".popover-title").hide()},s.prototype.hasContent=function(){return this.getTitle()||this.getContent()},s.prototype.getContent=function(){var t=this.$element,e=this.options;return t.attr("data-content")||("function"==typeof e.content?e.content.call(t[0]):e.content)},s.prototype.arrow=function(){return this.$arrow=this.$arrow||this.tip().find(".arrow")};var t=n.fn.popover;n.fn.popover=function e(o){return this.each(function(){var t=n(this),e=t.data("bs.popover"),i="object"==typeof o&&o;!e&&/destroy|hide/.test(o)||(e||t.data("bs.popover",e=new s(this,i)),"string"==typeof o&&e[o]())})},n.fn.popover.Constructor=s,n.fn.popover.noConflict=function(){return n.fn.popover=t,this}}(jQuery),function(s){"use strict";function n(t,e){this.$body=s(document.body),this.$scrollElement=s(t).is(document.body)?s(window):s(t),this.options=s.extend({},n.DEFAULTS,e),this.selector=(this.options.target||"")+" .nav li > a",this.offsets=[],this.targets=[],this.activeTarget=null,this.scrollHeight=0,this.$scrollElement.on("scroll.bs.scrollspy",s.proxy(this.process,this)),this.refresh(),this.process()}function e(o){return this.each(function(){var t=s(this),e=t.data("bs.scrollspy"),i="object"==typeof o&&o;e||t.data("bs.scrollspy",e=new n(this,i)),"string"==typeof o&&e[o]()})}n.VERSION="3.4.1",n.DEFAULTS={offset:10},n.prototype.getScrollHeight=function(){return this.$scrollElement[0].scrollHeight||Math.max(this.$body[0].scrollHeight,document.documentElement.scrollHeight)},n.prototype.refresh=function(){var t=this,o="offset",n=0;this.offsets=[],this.targets=[],this.scrollHeight=this.getScrollHeight(),s.isWindow(this.$scrollElement[0])||(o="position",n=this.$scrollElement.scrollTop()),this.$body.find(this.selector).map(function(){var t=s(this),e=t.data("target")||t.attr("href"),i=/^#./.test(e)&&s(e);return i&&i.length&&i.is(":visible")&&[[i[o]().top+n,e]]||null}).sort(function(t,e){return t[0]-e[0]}).each(function(){t.offsets.push(this[0]),t.targets.push(this[1])})},n.prototype.process=function(){var t,e=this.$scrollElement.scrollTop()+this.options.offset,i=this.getScrollHeight(),o=this.options.offset+i-this.$scrollElement.height(),n=this.offsets,s=this.targets,a=this.activeTarget;if(this.scrollHeight!=i&&this.refresh(),o<=e)return a!=(t=s[s.length-1])&&this.activate(t);if(a&&e<n[0])return this.activeTarget=null,this.clear();for(t=n.length;t--;)a!=s[t]&&e>=n[t]&&(n[t+1]===undefined||e<n[t+1])&&this.activate(s[t])},n.prototype.activate=function(t){this.activeTarget=t,this.clear();var e=this.selector+'[data-target="'+t+'"],'+this.selector+'[href="'+t+'"]',i=s(e).parents("li").addClass("active");i.parent(".dropdown-menu").length&&(i=i.closest("li.dropdown").addClass("active")),i.trigger("activate.bs.scrollspy")},n.prototype.clear=function(){s(this.selector).parentsUntil(this.options.target,".active").removeClass("active")};var t=s.fn.scrollspy;s.fn.scrollspy=e,s.fn.scrollspy.Constructor=n,s.fn.scrollspy.noConflict=function(){return s.fn.scrollspy=t,this},s(window).on("load.bs.scrollspy.data-api",function(){s('[data-spy="scroll"]').each(function(){var t=s(this);e.call(t,t.data())})})}(jQuery),function(r){"use strict";var a=function(t){this.element=r(t)};function e(i){return this.each(function(){var t=r(this),e=t.data("bs.tab");e||t.data("bs.tab",e=new a(this)),"string"==typeof i&&e[i]()})}a.VERSION="3.4.1",a.TRANSITION_DURATION=150,a.prototype.show=function(){var t=this.element,e=t.closest("ul:not(.dropdown-menu)"),i=t.data("target");if(i||(i=(i=t.attr("href"))&&i.replace(/.*(?=#[^\s]*$)/,"")),!t.parent("li").hasClass("active")){var o=e.find(".active:last a"),n=r.Event("hide.bs.tab",{relatedTarget:t[0]}),s=r.Event("show.bs.tab",{relatedTarget:o[0]});if(o.trigger(n),t.trigger(s),!s.isDefaultPrevented()&&!n.isDefaultPrevented()){var a=r(document).find(i);this.activate(t.closest("li"),e),this.activate(a,a.parent(),function(){o.trigger({type:"hidden.bs.tab",relatedTarget:t[0]}),t.trigger({type:"shown.bs.tab",relatedTarget:o[0]})})}}},a.prototype.activate=function(t,e,i){var o=e.find("> .active"),n=i&&r.support.transition&&(o.length&&o.hasClass("fade")||!!e.find("> .fade").length);function s(){o.removeClass("active").find("> .dropdown-menu > .active").removeClass("active").end().find('[data-toggle="tab"]').attr("aria-expanded",!1),t.addClass("active").find('[data-toggle="tab"]').attr("aria-expanded",!0),n?(t[0].offsetWidth,t.addClass("in")):t.removeClass("fade"),t.parent(".dropdown-menu").length&&t.closest("li.dropdown").addClass("active").end().find('[data-toggle="tab"]').attr("aria-expanded",!0),i&&i()}o.length&&n?o.one("bsTransitionEnd",s).emulateTransitionEnd(a.TRANSITION_DURATION):s(),o.removeClass("in")};var t=r.fn.tab;r.fn.tab=e,r.fn.tab.Constructor=a,r.fn.tab.noConflict=function(){return r.fn.tab=t,this};var i=function(t){t.preventDefault(),e.call(r(this),"show")};r(document).on("click.bs.tab.data-api",'[data-toggle="tab"]',i).on("click.bs.tab.data-api",'[data-toggle="pill"]',i)}(jQuery),function(l){"use strict";var h=function(t,e){this.options=l.extend({},h.DEFAULTS,e);var i=this.options.target===h.DEFAULTS.target?l(this.options.target):l(document).find(this.options.target);this.$target=i.on("scroll.bs.affix.data-api",l.proxy(this.checkPosition,this)).on("click.bs.affix.data-api",l.proxy(this.checkPositionWithEventLoop,this)),this.$element=l(t),this.affixed=null,this.unpin=null,this.pinnedOffset=null,this.checkPosition()};function i(o){return this.each(function(){var t=l(this),e=t.data("bs.affix"),i="object"==typeof o&&o;e||t.data("bs.affix",e=new h(this,i)),"string"==typeof o&&e[o]()})}h.VERSION="3.4.1",h.RESET="affix affix-top affix-bottom",h.DEFAULTS={offset:0,target:window},h.prototype.getState=function(t,e,i,o){var n=this.$target.scrollTop(),s=this.$element.offset(),a=this.$target.height();if(null!=i&&"top"==this.affixed)return n<i&&"top";if("bottom"==this.affixed)return null!=i?!(n+this.unpin<=s.top)&&"bottom":!(n+a<=t-o)&&"bottom";var r=null==this.affixed,l=r?n:s.top;return null!=i&&n<=i?"top":null!=o&&t-o<=l+(r?a:e)&&"bottom"},h.prototype.getPinnedOffset=function(){if(this.pinnedOffset)return this.pinnedOffset;this.$element.removeClass(h.RESET).addClass("affix");var t=this.$target.scrollTop(),e=this.$element.offset();return this.pinnedOffset=e.top-t},h.prototype.checkPositionWithEventLoop=function(){setTimeout(l.proxy(this.checkPosition,this),1)},h.prototype.checkPosition=function(){if(this.$element.is(":visible")){var t=this.$element.height(),e=this.options.offset,i=e.top,o=e.bottom,n=Math.max(l(document).height(),l(document.body).height());"object"!=typeof e&&(o=i=e),"function"==typeof i&&(i=e.top(this.$element)),"function"==typeof o&&(o=e.bottom(this.$element));var s=this.getState(n,t,i,o);if(this.affixed!=s){null!=this.unpin&&this.$element.css("top","");var a="affix"+(s?"-"+s:""),r=l.Event(a+".bs.affix");if(this.$element.trigger(r),r.isDefaultPrevented())return;this.affixed=s,this.unpin="bottom"==s?this.getPinnedOffset():null,this.$element.removeClass(h.RESET).addClass(a).trigger(a.replace("affix","affixed")+".bs.affix")}"bottom"==s&&this.$element.offset({top:n-t-o})}};var t=l.fn.affix;l.fn.affix=i,l.fn.affix.Constructor=h,l.fn.affix.noConflict=function(){return l.fn.affix=t,this},l(window).on("load",function(){l('[data-spy="affix"]').each(function(){var t=l(this),e=t.data();e.offset=e.offset||{},null!=e.offsetBottom&&(e.offset.bottom=e.offsetBottom),null!=e.offsetTop&&(e.offset.top=e.offsetTop),i.call(t,e)})})}(jQuery);;
+(function ($, Drupal) {
+  Drupal.behaviors.mtWaypointsAnimations = {
+    attach: function (context, settings) {
+      $("body:not(.path-admin) [data-animate-effect]", context).once('mtWaypointsAnimations').each(function() {
+        var thisObject = $(this);
+        var animation = thisObject.attr("data-animate-effect");
+        if(animation != "no-animation") {
+          var waypoints = thisObject.waypoint(function(direction) {
+            var animatedObject = $(this.element);
+            setTimeout(function() {
+              animatedObject.addClass("animated " + animation);
+              animatedObject.removeClass("mt-no-opacity");
+            }, 100);
+            this.destroy();
+          },{
+            offset: "75%"
+          });
+        }
+      });
+    }
+  };
+})(jQuery, Drupal);
+;
+/*!
+Waypoints Sticky Element Shortcut - 4.0.1
+Copyright © 2011-2016 Caleb Troughton
+Licensed under the MIT license.
+https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
+*/
+!function(){"use strict";function t(s){this.options=e.extend({},i.defaults,t.defaults,s),this.element=this.options.element,this.$element=e(this.element),this.createWrapper(),this.createWaypoint()}var e=window.jQuery,i=window.Waypoint;t.prototype.createWaypoint=function(){var t=this.options.handler;this.waypoint=new i(e.extend({},this.options,{element:this.wrapper,handler:e.proxy(function(e){var i=this.options.direction.indexOf(e)>-1,s=i?this.$element.outerHeight(!0):"";this.$wrapper.height(s),this.$element.toggleClass(this.options.stuckClass,i),t&&t.call(this,e)},this)}))},t.prototype.createWrapper=function(){this.options.wrapper&&this.$element.wrap(this.options.wrapper),this.$wrapper=this.$element.parent(),this.wrapper=this.$wrapper[0]},t.prototype.destroy=function(){this.$element.parent()[0]===this.wrapper&&(this.waypoint.destroy(),this.$element.removeClass(this.options.stuckClass),this.options.wrapper&&this.$element.unwrap())},t.defaults={wrapper:'<div class="sticky-wrapper" />',stuckClass:"stuck",direction:"down right"},i.Sticky=t}();;
+(function ($, Drupal) {
+  Drupal.behaviors.mtWaypointsFixedHeader = {
+    attach: function (context, settings) {
+      $(context).find(".header-container .header").once('mtWaypointsFixedHeaderInit').each(function(index, item) {
+        var sticky = new Waypoint.Sticky ({
+          element: $('.header-container .header')[0],
+          stuckClass: 'js-fixed',
+          handler: function(direction) {
+            if (Waypoint.viewportWidth() > 752) {
+              $('body', context).toggleClass('onscroll');
+            } else {
+              $('body', context).removeClass('onscroll');
+            }
+            var topValue = $('body').css('padding-top');
+            $(".header.js-fixed").css("top", topValue);
+          },
+          offset: function() {
+            var offsetValue = parseInt($('body').css('padding-top')) - 1;
+            return offsetValue;
+          }
+        });
+      });
+    }
+  };
+})(jQuery, Drupal);
+;

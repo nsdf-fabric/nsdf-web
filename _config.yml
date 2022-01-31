@@ -1,0 +1,26 @@
+title: NATIONAL SCIENCE DATA FABRIC
+description: A Platform Agnostic Testbed for Democratizing Data Delivery.
+show_downloads: false
+
+# change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "" 
+
+# change this to the base hostname & protocol for your site
+url: "https://nsdf-fabric.github.io" 
+
+google_analytics:
+
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+# leave it empty
+theme: 
+
+plugins:
+  - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['news', 'contact']

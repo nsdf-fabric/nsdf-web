@@ -6,8 +6,6 @@ ref: news
 order: 0
 ---
 
-[Go to the Home Page]({{ '/' | absolute_url }})
-
 # Latest News
 
 <ul class="post-list">

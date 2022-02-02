@@ -1,0 +1,300 @@
+<html>
+<head> 
+<title>Info Window With maxWidth</title>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+<style>
+		/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+#map {
+  height: 100%;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#legend {
+  font-family: Arial, sans-serif;
+  background: #ffffff60;
+  padding: 10px;
+  margin: 10px;
+}
+
+#legend h3 {
+  margin-top: 0;
+}
+
+#legend img {
+  vertical-align: middle;
+}
+
+#logo {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  margin: 10px;
+}
+</style>
+
+<script>
+
+////////////////////////////////////////////////////////////////////
+//https://www.latlong.net/
+const resources = [
+  {
+  	title : "Utah",
+    gps : {lat: 41.17783849325976, lng: -111.94261023920568},
+    icon : "assets/images/map3d/storage_computing.png",
+    body : `
+    <h3>CloudLab</h3>
+    <div> 20 VMs (each with 100GB ephemeral storage)</div>
+    <h3>CHPC</H3>
+    <div>50TB storage </div>
+    <div>some VM (to be defined)</div>
+    `
+  },
+
+  {
+  	title : "Indiana",
+    icon : "assets/images/map3d/storage_computing.png",
+    gps : {lat: 39.17563994261692, lng: -86.51209054961521},
+    body : `
+    	<h3>Indiana University - XSEDE JetStream:</h3>
+      <div>50k virtual CPU hours</div>
+      <div>40 Virtual Machines</div>
+      <div>40 public IP address</div>
+      <div>50 TB storage</div>
+    `,
+  }, 
+  
+  {
+  	title : "Texas",
+    icon : "assets/images/map3d/storage_computing.png",
+    gps : {lat: 30.390228387356302, lng: -97.72496824358305},
+    body : `
+    	<h3>TACC - XSEDE JetStream:</h3>
+      <div>50k virtual CPU hours</div>
+      <div>40 Virtual Machines</div>
+      <div>40 public IP address</div>
+      <div>50 TB storage</div>
+      <div>TACC - XSEDE Stampede2: </h3>
+      <div>15K node hours 50TB archive storage</div>
+      `,
+  },   
+  
+  {
+  	title : "San Diego",
+    icon : "assets/images/map3d/storage_computing.png",
+  	gps : { lat: 32.8793526, lng: -117.2311005},
+    body : `
+    	<h3>Open Science Grid (OSG)</h3>
+      <div>200TB Qumulo Storage</div>
+      <h3>XSEDE:</h3> 
+      <div>200K virtual CPI hours</div>
+      <div>300TB Open Storage</div>
+      
+    	<h3>CloudBank</h3>
+      <div>Non competitive grant for Cloud Computing</div>
+     `
+  }, 
+  
+  
+  {
+  	title : "Google Cloud",
+    icon : "assets/images/map3d/cloud.png",
+   	gps: {lat:33.19562380572143, lng: -80.0052392415788},
+    body : `
+    	<h3>Google Cloud</h3>
+      <div>pending...</div>
+      <br>
+      <div>See regions <a href='https://cloud.google.com/compute/docs/regions-zones'>here</a></div>      
+      
+     `,
+  },  
+  
+	{
+  	title : "IBM cloud",
+    icon : "assets/images/map3d/cloud.png",
+    gps: {lat:32.899661279118966, lng: -96.95397080829012},
+    body : `
+    	<h3>IBM cloud</h3>
+      <div>unlimited resources (UTK managed)</div>
+      <br>
+      <div>See regions <a href='https://cloud.ibm.com/docs/containers?topic=containers-regions-and-zones'>here</a></div>
+     `,
+  },  
+  
+  {
+  	title : "Illinois",
+		icon : "assets/images/map3d/network.png",
+    gps: {lat:40.10557386624202, lng:-88.22707385285145},
+    body : `
+    	<h3>Fabric</h3>
+      <div>Optimized network for fast data movement</div>
+    `,
+  },  
+];
+
+
+////////////////////////////////////////////////////////////////////
+function initMap() {
+
+	//map
+  //see https://www.justinobeirne.com/styled-maps-using-google-maps-api-3
+  var myStyle=[
+  {
+    featureType: "all",
+    elementType: "all",
+    stylers: [
+      { invert_lightness: false }
+    ]
+  },{
+    featureType: "administrative",
+    elementType: "labels",
+    stylers: [
+      { visibility: "off" }
+    ]
+  },{
+    featureType: "landscape",
+    elementType: "all",
+    stylers: [
+      { visibility: "off" }
+    ]
+  },{
+    featureType: "poi",
+    elementType: "all",
+    stylers: [
+      { visibility: "off" }
+    ]
+  },{
+    featureType: "road",
+    elementType: "all",
+    stylers: [
+      { visibility: "off" }
+    ]
+  },{
+    featureType: "transit",
+    elementType: "all",
+    stylers: [
+      { visibility: "off" }
+    ]
+  },{
+    featureType: "water",
+    elementType: "labels",
+    stylers: [
+      { visibility: "off" }
+    ]
+  },{
+    featureType: "water",
+    elementType: "geometry",
+    stylers: [
+      { lightness: -80,  saturation: -100 }
+    ]
+  }
+];
+  
+  const map = new google.maps.Map(document.getElementById("map"), {
+    zoom: 4,
+    center: new google.maps.LatLng(39.25024, -111.75103),
+    scrollwheel: true,
+    mapTypeControl: false,
+    mapTypeId: 'mystyle',
+    mapTypeControlOptions: {
+      mapTypeIds: ['mystyle', google.maps.MapTypeId.SATELLITE]
+    },
+
+  });
+  
+   map.mapTypes.set('mystyle', new google.maps.StyledMapType(myStyle, { name: 'My Style' }));
+  
+  //info window
+  const info = new google.maps.InfoWindow({
+    content: "",
+    disableAutoPan: true,
+    mapTypeControl: false,
+    mapTypeId:google.maps.MapTypeId.TERRAIN
+  });   
+  
+  //markers
+  var markers=[];
+	for (const resource of resources) 
+  {
+    const marker = new google.maps.Marker({
+      map,
+      title: resource.title,
+      label: {
+        text: resource.title,
+        color: '#202050',
+        fontSize: '16px',
+        fontWeight: 'bold'
+      },
+      position: { 
+        lat: resource.gps.lat + (Math.random() -.5) / 50, 
+        lng: resource.gps.lng + (Math.random() -.5) / 50
+      },
+      icon: {
+        url : resource.icon,
+        labelOrigin: new google.maps.Point(10,-10)
+      }
+    });
+
+    marker.addListener("click", () => {
+      info.setContent(resource.body);
+      info.open(map, marker);   
+    });
+
+
+    markers.push(marker);  
+	}
+  
+  //if you want cl
+  //const markerCluster = new markerClusterer.MarkerClusterer({ map, markers });
+  
+  //legend
+	{
+    var legend=document.getElementById("legend");
+    //var body=legend.innerHTML;
+    //for (const key in icons)
+    //	body=body.replace("$"+key,icons[key]);
+    //legend.innerHTML=body;
+    map.controls[google.maps.ControlPosition.LEFT_TOP].push(legend);
+  }
+  
+  //logo
+  {
+		var logo=document.getElementById("logo");
+  	map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(logo);
+	}
+}
+</script>
+		 
+
+  </head>
+  <body>
+    <div id="map"  ></div>
+    
+    <div id="legend">
+      <h3>Legend</h3>
+      <div><img src='assets/images/map3d/storage.png'>Storage</div><br>
+      <div><img src='assets/images/map3d/computing.png'>Computing</div><br>
+      <div><img src='assets/images/map3d/storage_computing.png'>Storage and Computing</div><br>
+      <div><img src='assets/images/map3d/network.png'>Network</div><br> 
+      <div><img src='assets/images/map3d/cloud.png'>Cloud</div><br> 
+    </div>
+    
+    <div id="logo">
+      <img  width=120px src='http://nsdf.sci.utah.edu/images/images/NSDF.png'>
+    </div>
+    
+    <script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
+    
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly&channel=2"
+      async
+    ></script>
+  </body>
+</html>

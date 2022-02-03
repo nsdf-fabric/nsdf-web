@@ -1,25 +1,22 @@
-# How to build locally
+# NSDF Web
 
-One time only:
+See https://nsdf-fabric.github.io/
 
-```
-sudo apt-get install -y ruby-full
 
-echo 'export GEM_HOME=$HOME/gems'       >> ~/.bashrc
-echo 'export PATH=$HOME/gems/bin:$PATH' >> ~/.bashrc
-source ~/.bashrc
-gem install rubygems-update jekyll bundler
-```
+## Add a page:
 
-To add a page:
 - Add the markdown file at the top level
-- Copy the header (see other pages as an example; be careful to change the header appropriately)
-- Change the `_config.yml`, header_page_refs
+- Copy the header 
+	- see other pages as an example; be careful to change the header appropriately
+- Change the `_config.yml`, `header_page_refs` section
 
-Build and run:
+## Run locally
 
 ```
-bundle install
-bundle exec jekyll serve --force_polling --livereload
-# open http://127.0.0.1:4000
+# setup once only
+# ./scripts/setup.sh
+
+./scripts/run.sh
 ```
+
+And open the following url: `http://127.0.0.1:4000`

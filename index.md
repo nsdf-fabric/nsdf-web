@@ -6,6 +6,13 @@ ref: home
 order: 0
 ---
 
+<!--
+seee https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/
+-->
+
+{::options parse_block_html="true" /}
+
+
 <p align="center">
 <img src="assets/images/logo.png" />
 </p>

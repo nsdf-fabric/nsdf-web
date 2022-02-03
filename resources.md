@@ -5,10 +5,25 @@ tagline: Resources
 ref: resources
 ---
 
-# TACC - Jetstream  
+<!--
+seee https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/
+-->
+
+{::options parse_block_html="true" /}
+
+<style>
+.resource-panel {
+	background-color: #F0F0F0;
+	border-style: solid;
+	border-color: #A0A0A0;
+	border-width: thin;
+	width: 70%;
+}
+</style>
 
 
 <img src="assets/images/tacc-jetstream.jpg" width="40%" >
+<div class="resource-panel">
 
 Resources: 
 - 50,000 vCPU hours/40 VMs 
@@ -25,11 +40,12 @@ Locations:
 Links:
 - [Website](https://www.tacc.utexas.edu/systems/jetstream)  
 - [Compute](https://portal.xsede.org/jetstream#overview:specs-table1)  
+</div>
 
 
-# TACC - Stampede 2  
 
-<img src="assets/images/tacc-stampede2.jpg" width="40%" >
+<br><img src="assets/images/tacc-stampede2.jpg" width="40%" >
+<div class="resource-panel">
 
 Resources: 
 - 1,600 node hours 50 TB Archival Storage
@@ -41,11 +57,11 @@ Links:
 - [Website](https://www.tacc.utexas.edu/systems/stampede2)  
 - [Compute](https://portal.tacc.utexas.edu/user-guides/stampede2#knl-compute-nodes)  
 - [Storage](https://www.tacc.utexas.edu/systems/ranch)  
+</div>
 
 
-# IBM Cloud 
-
-<img src="assets/images/ibm-cloud.jpg" width="40%" >
+<br><img src="assets/images/ibm-cloud.jpg" width="40%" >
+<div class="resource-panel">
 
 Resources:
 -  Infinite Account
@@ -56,10 +72,10 @@ Locations:
 Links:
 - [Website](https://cloud.ibm.com/)  [Compute](https://www.ibm.com/cloud/compute)  
 - [Storage](https://www.ibm.com/cloud/storage)  
+</div>
 
-# Chamaleon  
-
-<img src="assets/images/chamaleon-cloud.jpg" width="40%" >
+<br><img src="assets/images/chamaleon-cloud.jpg" width="40%" >
+<div class="resource-panel">
 
 Resources:
 - 20,000 Service Units 
@@ -77,13 +93,17 @@ Locations:
 Links:
 - [Website](https://www.chameleoncloud.org/)  
 - [Compute](https://www.chameleoncloud.org/hardware/)  
+</div>
 
-# CloudLab  
-
-<img src="assets/images/cloudlab.png" width="40%" >
+<br><img src="assets/images/cloudlab.png" width="40%" >
+<div class="resource-panel">
 
 Resources:
-- 15-20 Virtual Machine 2.4 Ghz 64bit ARMV8 64GIB 120GB root disk 100GiB ephemeral disk
+- 15-20 Virtual Machine 
+	- 2.4 Ghz 64bit ARMV8 
+	- 64GIB RAM
+	- 120GB root disk 
+	- 100GiB ephemeral disk
 
 Storage:
 - VM block storage 
@@ -96,11 +116,10 @@ Locations:
 Links:
 - [Website](https://cloudlab.us/)  
 - [Compute](https://cloudlab.us/hardware.php)  
+</div>
 
-
-# CHPC  
-
-<img src="assets/images/chpc.png" width="40%" >
+<br><img src="assets/images/chpc.png" width="40%" >
+<div class="resource-panel">
 
 Resources:
 - 50TB to be expanded to 1PB 
@@ -110,14 +129,11 @@ Locactions:
 - Salt Lake City, UT (University of Utah)  
 
 Links:
-- 
-[Website](https://chpc.utah.edu/) 
+- [Website](https://chpc.utah.edu/) 
+</div>
 
-
-# CloudBank  
-
-<img src="assets/images/cloudbank.png" width="40%" >
-
+<br><img src="assets/images/cloudbank.png" width="40%" >
+<div class="resource-panel">
 
 Resources:
 - see "Non-competitive grant" for storage, VM, etc.
@@ -129,21 +145,22 @@ Links:
 - [Website](https://www.cloudbank.org/)  
 - [Compute](https://aws.amazon.com/products/compute/)  
 - [Storage](https://aws.amazon.com/products/storage/)  
+</div>
 
 
-# Open Science Grid    
-
-<img src="assets/images/osg.png" width="40%" >
+<br><img src="assets/images/osg.png" width="40%" >
+<div class="resource-panel">
 
 Resources:
 - 148K Service Unit
 
 Links:
 - [Website](https://opensciencegrid.org/)      
+</div>
 
-# Open Storage Network     
 
-<img src="assets/images/osn-logo.jpg" width="40%" >
+<br><img src="assets/images/osn-logo.jpg" width="40%" >
+<div class="resource-panel">
 
 Resources:
 - 200 TB S3 compatible Object Storage
@@ -159,16 +176,22 @@ Locations:
 
 Links:
 - [Website](https://www.openstoragenetwork.org/)
+</div>
+
+
+<br><img src="assets/images/cyverse.png" width="40%" >
+<div class="resource-panel">
+
+Storage:
+- Data Storage 
+
+Links:
+- [Website](https://cyverse.org/)
+</div>
 
 <!--
-
 TODO
-
-CyVerse https://sci-visus.slite.com/app/channels/uKa9w4MB0C/notes/d4MaGkp6w		
-
 Slate CI	Website	
-
 SCI Server	https://sci-visus.slite.com/app/channels/uKa9w4MB0C/notes/d4MaGkp6w			
 Virtual Data Colb	https://sci-visus.slite.com/app/channels/uKa9w4MB0C/notes/W0cuv7fr5M7kYp		
-
 -->

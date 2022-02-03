@@ -3,13 +3,6 @@
 See https://nsdf-fabric.github.io/
 
 
-## Add a page:
-
-- Add the markdown file at the top level
-- Copy the header 
-	- see other pages as an example; be careful to change the header appropriately
-- Change the `_config.yml`, `header_page_refs` section
-
 ## Run locally
 
 ```
@@ -20,3 +13,10 @@ See https://nsdf-fabric.github.io/
 ```
 
 And open the following url: `http://127.0.0.1:4000`
+
+
+## Add a page:
+
+- Add the markdown/HTML file at the top level
+- In case of markfown, setup the header appropriately (see other pages for an example)
+- Change the `_config.yml`, `header_page_refs` section

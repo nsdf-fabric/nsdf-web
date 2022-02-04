@@ -141,6 +141,23 @@ Daniel Balouek-Thomert is a Research Associate at the Rutgers Discovery Informat
 <img src="assets/images/people/thomert.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 </p> 
 
+## Steve Petruzza
+
+Steve Petruzza is a Research Assistant at the [Scientific Computing and Imaging Institute](http://www.sci.utah.edu/) and an Assistant Professor in the Computer Science department at [Utah State University](https://www.usu.edu/).
+
+<p align=center>
+<img src="assets/images/people/petruzza.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
+</p> 
+
+
+## Owen Koppe
+
+Owen Koppe is a Research Assistant at the [Scientific Computing and Imaging Institute](http://www.sci.utah.edu/) and an undergraduate at the University of Utah.
+
+<p align=center>
+<img src="assets/images/people/koppe.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
+</p> 
+
 ## Deborah Dent
 
 Deborah Dent  is the Chief Information Officer at [Jackson State University](https://www.jsums.edu/).

@@ -61,6 +61,15 @@ Giorgio Scorzelli is Director of Software Development at the [Center for Extreme
 <img src="assets/images/people/scorzelli.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 </p> 
 
+## Glenn Tarcea
+
+Glenn Tarcea is Research Computer Specialist at the [University of Michigan](https://umich.edu/).
+University of Michigan
+<p align=center>
+<img src="assets/images/people/tarcea.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
+
+</p> 
+
 ## Attila Gyulassy  
 
 Attila Gyulassy is Research Scientist at the [Scientific Computing and Imaging Institute](http://www.sci.utah.edu/).
@@ -89,21 +98,38 @@ John Goodhue is the Executive Director of the [Massachusetts Green High Performa
 
 ## Christine Kirkpatrick 
 
-Kirkpatrick is Division Director for IT Systems & Services at the [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC) at the [University of California San Diego](https://ucsd.edu/).
+Christine Kirkpatrick  leads the San Diego [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC) Research Data Services Division. She oversees the infrastructure (cloud, networking, storage), data center/colocation facility, and data initiatives group. Christine co-Chairs the Federated Infrastructure Working Group, is part of the [Open Storage Network](https://www.openstoragenetwork.org/) leadership, and represents various FAIR and data initiatives including [GO FAIR US](https://gofair.us/), the [West Hub](https://www.westbigdatahub.org/) and [CODATA](https://codata.org/). 
 
 <p align=center>
 <img src="assets/images/people/kirkpatrick.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-
 </p> 
 
-## Glenn Tarcea
+## Kevin Coakley
 
-Glenn Tarcea is Research Computer Specialist at the [University of Michigan](https://umich.edu/).
-University of Michigan
+Kevin is a Senior Storage Systems Engineer in the IT Division at the [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC). Kevin works with researchers at SDSC, across campus, and other UC schools to create purpose-built compute and storage platforms using open-source software. Kevin co-Chairs the Federated Infrastructure Working Group and is a senior technical partner on the [Open Storage Network](https://www.openstoragenetwork.org/).
+
 <p align=center>
-<img src="assets/images/people/tarcea.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-
+<img src="assets/images/people/coakley.jpg"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 </p> 
+
+
+## Danny Saba
+
+Danny Saba is a Systems Integration Engineer at [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC) at the [University of California San Diego](https://ucsd.edu/). Danny plans, designs, develops, modifies, and deploys complex systems integration solutions. Danny is working with science drivers on integrating and tuning resources for a streamlined NSDF.
+
+<p align=center>
+<img src="assets/images/people/saba.jpg"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
+</p> 
+
+
+## Julianne Christopher-Ohlin 
+
+Julie is a Project Manager in the Research Data Services division at the [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC). Julie works with PIs at SDSC to coordinate the grant proposal processes, to manage funding requirements, and to track goal objectives. Julie supports the Federated Infrastructure Working Group.
+
+<p align=center>
+<img src="assets/images/people/christopher.jpg"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
+</p> 
+
 
 ## Naweiluo Zhou
 

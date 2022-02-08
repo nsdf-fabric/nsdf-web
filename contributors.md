@@ -130,6 +130,13 @@ Julie is a Project Manager in the Research Data Services division at the [San Di
 <img src="assets/images/people/christopher.jpg"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 </p> 
 
+## Colby Walsworth 
+
+Colby Walsworth is a Senior Cloud Engineer at [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC) at the [University of California San Diego](https://ucsd.edu/). Colby works with researchers at UCSD and outside to help facilitate computing workflows using the SDSC cloud compute platform.
+
+<p align=center>
+<img src="assets/images/people/colby.jpg"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
+</p> 
 
 ## Naweiluo Zhou
 

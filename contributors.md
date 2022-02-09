@@ -153,9 +153,7 @@ Jakob Luettgau is a Postdoctoral Researcher at the [University of Tennessee, Kno
 
 <p align=center>
 <img src="assets/images/people/luettgau.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-
 </p> 
-
 
 ## Paula Fernanda Olaya Garcia
 
@@ -165,6 +163,17 @@ Jakob Luettgau is a Doctoral Student at the  [University of Tennessee, Knoxville
 <img src="assets/images/people/garcia.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 
 </p> 
+
+
+## Silvina Caino-Lores
+
+Silvina Caino-Lores is a Postdoctoral Researcher at the [University of Tennessee, Knoxville](https://www.utk.edu/).
+
+<p align=center>
+<img src="assets/images/people/silvina.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
+</p> 
+
+
 
 ## Daniel Balouek Thomert
 

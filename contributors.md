@@ -157,7 +157,7 @@ Jakob Luettgau is a Postdoctoral Researcher at the [University of Tennessee, Kno
 
 ## Paula Fernanda Olaya Garcia
 
-Jakob Luettgau is a Doctoral Student at the  [University of Tennessee, Knoxville](https://www.utk.edu/).
+Paula Fernanda Olaya Garcia is a Doctoral Student at the  [University of Tennessee, Knoxville](https://www.utk.edu/).
 
 <p align=center>
 <img src="assets/images/people/garcia.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">

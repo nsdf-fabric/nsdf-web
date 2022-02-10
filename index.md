@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: National Science Data Fabric
 tagline: A Platform Agnostic Testbed for Democratizing Data Delivery.
 ref: home
@@ -13,11 +13,22 @@ seee https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/
 {::options parse_block_html="true" /}
 
 
+
+<table style="border: 0px;">
+<tr style="border: 0px;">
+<td style="border: 0px;"><img src="assets/images/nsf_logo_wide.jpg" /></td>
+<td style="border: 0px;">This material is based upon work supported by the National Science Foundation under Grant No. 2138811.</td>
+</tr>
+</table>
+
+
+
+# Who we are
+
+
 <p align="center">
 <img src="assets/images/logo.png" />
 </p>
-
-# Who we are
 
 We are on the cusp of tremendous discoveries in data-driven science, thanks to ongoing investments from NSF and other agencies into shared experimental and computing facilities, including synchrotron light sources, various telescopes, Lepton and Hadron colliders, X-Ray and Neutron Imaging, multispectral satellite imagery, neutrino detectors, and light, confocal, electron and X-Ray microscopes. 
 

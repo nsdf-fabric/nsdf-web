@@ -26,7 +26,13 @@
             {% if my_page.title %}
               {% if my_page.title contains "404" %}
               {% else %}
-                <a class="page-link" href="{{ my_page.url | absolute_url }}">{{ my_page.tagline | escape }}</a>
+
+						{% if {{my_page.url}} == {{page.url}} %}
+						<a class="page-link-active" href="{{ my_page.url | absolute_url }}">{{ my_page.tagline | escape }}</a>
+						{% else %}
+						<a class="page-link"        href="{{ my_page.url | absolute_url }}">{{ my_page.tagline | escape }}</a>
+						{% endif %}
+
               {% endif %}
             {% endif %}
           {% endfor %}

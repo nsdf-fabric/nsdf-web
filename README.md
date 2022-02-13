@@ -2,6 +2,9 @@
 
 See https://nsdf-fabric.github.io/
 
+Links:
+- https://paulle.ca/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages
+
 
 ## Run locally
 

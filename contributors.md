@@ -173,7 +173,13 @@ Silvina Caino-Lores is a Postdoctoral Researcher at the [University of Tennessee
 <img src="assets/images/people/silvina.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 </p> 
 
+## Jay Lofstead 
 
+Jay Lofstead is a Principal Member of Technical Staff at [Sandia National Laboratories](https://www.sandia.gov/).
+
+<p align=center>
+<img src="assets/images/people/lofstead.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
+</p> 
 
 ## Daniel Balouek Thomert
 

@@ -183,7 +183,7 @@ Jay Lofstead is a Principal Member of Technical Staff at [Sandia National Labora
 
 ## Daniel Balouek Thomert
 
-Daniel Balouek-Thomert is a Research Associate at the Rutgers Discovery Informatics Institute[Rutgers Discovery Informatics Institute](https://rdi2.rutgers.edu/) (RDI2).
+Daniel Balouek-Thomert is a Research Associate at the [Scientific Computing and Imaging Institute](http://www.sci.utah.edu/) University of Utah.
 
 <p align=center>
 <img src="assets/images/people/thomert.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">

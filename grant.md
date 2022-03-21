@@ -10,12 +10,12 @@ ref: grant
 
 
 Links:
-- [NSF Award link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138811&HistoricalAwards=false)
-- [University of Michigan Press News](https://mse.engin.umich.edu/about/news/john-allison-part-of-national-team-helping-to-democratize-access-to-data)
-- [University of Utah Press News](https://www.coe.utah.edu/2021/10/06/democratizing-data-access/)
+- [University of Utah Press Release](https://www.coe.utah.edu/2021/10/06/democratizing-data-access/)
+- [University of Michigan Press Release](https://mse.engin.umich.edu/about/news/john-allison-part-of-national-team-helping-to-democratize-access-to-data)
 - [San Diego Supercomputing Center Press News](https://sdsc.edu/News%20Items/PR20211005_science_data_fabric.html)
-- [University of Tennessee Press News](https://tickle.utk.edu/ut-research-group-part-of-5-6m-effort-to-diversify-data-access-for-science-and-society/)
-- [CEDMAV Press News](http://cedmav.org/news/79-democratizing-data-access.html)
+- [University of Tennessee Press Release](https://tickle.utk.edu/ut-research-group-part-of-5-6m-effort-to-diversify-data-access-for-science-and-society/)
+- [CEDMAV Press Release](http://cedmav.org/news/79-democratizing-data-access.html)
+- [NSF Award link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2138811&HistoricalAwards=false)
 
 
 Award Abstract # 2138811

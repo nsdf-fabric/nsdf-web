@@ -14,12 +14,6 @@ seee https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/
 
 
 
-<table style="border: 0px;">
-<tr style="border: 0px;">
-<td style="border: 0px;"><img src="assets/images/nsf_logo_wide.jpg" /></td>
-<td style="border: 0px;">This material is based upon work supported by the National Science Foundation under Grant No. 2138811.</td>
-</tr>
-</table>
 
 
 
@@ -79,6 +73,10 @@ The NSDF pilot  supports  the [IceCube neutrino observatory](https://icecube.wis
 <img src="assets/images/icecube.jpg" width="100%"/>
 </p>
 
-
-
+<table style="border: 0px;">
+<tr style="border: 0px;">
+<td style="border: 0px;"><img src="assets/images/nsf_logo_wide.jpg" /></td>
+<td style="border: 0px;">This material is based upon work supported by the National Science Foundation under Grant No. 2138811.</td>
+</tr>
+</table>
 

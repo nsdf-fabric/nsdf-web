@@ -7,12 +7,12 @@ ref: infrastructure
 
 # High Speed Network
 
-<p align=center>
-<img src="assets/images/internet2-network.jpg" width="100%">
-</p>
 
 The NSDF pilot relies on a *high speed network* infrastructure provided by the [Internet2](https://internet2.edu/) alliance.
 
+<p align=center>
+<img src="assets/images/internet2-network.jpg" width="100%">
+</p>
 High Speed Network infrastructures support data transfer to, from, or between storage resources and entry points. These operations take place over Internet2 and its 100Gbps backbone, leveraging [NSF](https://www.nsf.gov/) investments
 such as [XSEDE resources](https://www.xsede.org/ecosystem/resources). 
 

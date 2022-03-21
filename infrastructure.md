@@ -50,14 +50,14 @@ experimental and computational data that is the foundation of modern materials b
 
 
 
-# Entry Points
+# NSDF Entry Points
 
 <p align=center>
 <img src="assets/images/entry-point.png" width="100%">
 </p>
 
-The NSDF pilot relies on *Entry Points* providing a uniform set of services for small, medium, and large target computing centers and cloud providers, academic and commercial.
+The current pilot relies on *NSDF Entry Points* to provide a uniform set of services for small, medium, and large target computing centers and cloud providers, academic and commercial.
 
-NSDF Entry Point is provided to the user with its domain agnostic software stack and a set of recommendations for a possible commodity appliance that depends on the level of services expected.
+An NSDF Entry Point is provided to the user with its domain agnostic software stack and a set of recommendations for a possible commodity appliance that depends on the level of services expected.
 
 

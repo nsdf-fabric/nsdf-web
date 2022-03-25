@@ -1,16 +1,22 @@
 ---
 layout: post
-title: NSDF Distinguished Speaker Series
+
+title: NSDF Distiguished Speaker Series
 ---
 
-**Invited speaker at the National Science Data Fabric Seminar Series**
+12:30 pm ET April 28 2022_
 
-_12:30 pm ET April 28 2022_
 
-Join Zoom Meeting
+**Pangeo Forge - Crowdsourcing Analysis Ready Data in the Cloud**
+
+**Speaker: Ryan Abernathey, Columbia University, Department of Earth and Environmental Science**
+
+_How to join: 
+
 https://utah.zoom.us/j/99659937052
 
-Analysis-ready, cloud optimized (ARCO) scientific data is essential for scalable big data analytics in the cloud. 
+
+**Abstract:** Analysis-ready, cloud optimized (ARCO) scientific data is essential for scalable big data analytics in the cloud. 
 ARCO can massively accelerate statistical analysis, visualization, and machine learning workflows on large-scale scientific datasets. 
 However, most scientific data is distributed in archival formats that are not optimized for large-scale analysis. 
 
@@ -29,6 +35,6 @@ including Open Storage Network.
 Pangeo Forge is inspired directly by Conda Forge, a community-led collection of recipes for building conda packages. 
 We hope that Pangeo Forge can eventually play the same role for datasets, encouraging open, interdisciplinary collaboration around data curation.
 
-Bio: [short biography](https://github.com/rabernat#short-biography)
+**Bio:** [short biography](https://github.com/rabernat#short-biography)
 
 ![image](https://user-images.githubusercontent.com/1260735/160108618-072ee48e-464c-4241-ad11-19b60add9b26.png)

@@ -1,20 +1,16 @@
 ---
 layout: post
-
 title: NSDF Distiguished Speaker Series
 ---
 
-12:30 pm ET April 28 2022_
-
+12:30 pm ET April 28 2022
 
 **Pangeo Forge - Crowdsourcing Analysis Ready Data in the Cloud**
 
 **Speaker: Ryan Abernathey, Columbia University, Department of Earth and Environmental Science**
 
-_How to join: 
-
+How to join: 
 https://utah.zoom.us/j/99659937052
-
 
 **Abstract:** Analysis-ready, cloud optimized (ARCO) scientific data is essential for scalable big data analytics in the cloud. 
 ARCO can massively accelerate statistical analysis, visualization, and machine learning workflows on large-scale scientific datasets. 

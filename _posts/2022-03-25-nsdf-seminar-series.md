@@ -3,9 +3,9 @@ layout: post
 title: Pangeo Forge - Crowdsourcing Analysis Ready Data in the Cloud
 ---
 
-# Invited speaker at the National Science Data Fabric Seminar Series
+**Invited speaker at the National Science Data Fabric Seminar Series**
 
-## 12:30 pm ET April 28 2022
+_12:30 pm ET April 28 2022_
 
 
 Analysis-ready, cloud optimized (ARCO) scientific data is essential for scalable big data analytics in the cloud. 
@@ -27,6 +27,6 @@ including Open Storage Network.
 Pangeo Forge is inspired directly by Conda Forge, a community-led collection of recipes for building conda packages. 
 We hope that Pangeo Forge can eventually play the same role for datasets, encouraging open, interdisciplinary collaboration around data curation.
 
-Bio: https://github.com/rabernat#short-biography
+Bio: [short biography](https://github.com/rabernat#short-biography)
 
 ![image](https://user-images.githubusercontent.com/1260735/160108618-072ee48e-464c-4241-ad11-19b60add9b26.png)

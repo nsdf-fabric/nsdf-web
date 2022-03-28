@@ -1,10 +1,10 @@
 ---
 layout: post
-title: All hands-on meeting
+title: All hands meeting
 ---
 
 
-The first National Science Dat Fabric (NSDF) in-person meeting will be held in Salt Lake City, Utah on February 22-23. 
+The first National Science Dat Fabric (NSDF) in-person meeting held in Salt Lake City, Utah on February 22-23. 
 
 
 The meeting will have the multiple goals of: 

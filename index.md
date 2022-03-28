@@ -25,8 +25,6 @@ seee https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/
 </p>
 
 
-(test)
-
 We are on the cusp of tremendous discoveries in data-driven science, thanks to ongoing investments from NSF and other agencies into shared experimental and computing facilities, including synchrotron light sources, various telescopes, Lepton and Hadron colliders, X-Ray and Neutron Imaging, multispectral satellite imagery, neutrino detectors, and light, confocal, electron and X-Ray microscopes. 
 
 These investments are increasing data generation by orders of magnitude. However, because of traditional funding models and barriers between application domains, scientists still deploy domain-specific data repositories and computational workflows siloed in vertical ecosystems built only for the scientists’ specific projects. As data-driven sciences become more complex, the lack of integration limits the scientists’ ability to manage the ever-increasing amount of data. 

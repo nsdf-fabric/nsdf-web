@@ -23,4 +23,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['contributors', 'partners', 'infrastructure', 'resources', 'grant', 'news', 'map3d', 'contact']
+header_page_refs: ['contributors', 'partners', 'infrastructure', 'seminars', 'resources', 'grant', 'news', 'map3d', 'contact']

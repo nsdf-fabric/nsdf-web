@@ -6,7 +6,7 @@ show_downloads: false
 baseurl: "" 
 
 # change this to the base hostname & protocol for your site
-url: "https://nsdf-fabric.github.io" 
+# url: "https://nsdf-fabric.github.io" 
 
 google_analytics:
 

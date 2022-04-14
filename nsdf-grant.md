@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: NSF awarded our pilot $5.6 million project
 ---
 

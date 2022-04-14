@@ -10,7 +10,7 @@ title: APS Scientific Computation Seminar
 **Speaker** Valerio Pascucci, University of Utah and Center for Extreme Data Management Analysis and Visualization (CEDMAV)
 
 <p align=center>
-<img src="http://localhost:4000/assets/images/people/pascucci.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+<img src="https://nsdf-fabric.github.io/assets/images/people/pascucci.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </p> 
 
 

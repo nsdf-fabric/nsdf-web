@@ -5,8 +5,11 @@ show_downloads: false
 # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 baseurl: "" 
 
-# change this to the base hostname & protocol for your site
-# url: "https://nsdf-fabric.github.io" 
+# PRODUCTION URL
+# url: "http://nationalsciencedatafabric.org" 
+
+# PREVIEW URL
+url: "https://scrgiorgio.github.io/nsdf-fabric.github.io"
 
 google_analytics:
 

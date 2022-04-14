@@ -13,7 +13,7 @@ Pascucci says progress toward technological advances that benefit society will r
 
 
 <p align=center>
-<img src="assets/images/people/pascucci.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+<img src="../../../assets/images/people/pascucci.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </p> 
 
 

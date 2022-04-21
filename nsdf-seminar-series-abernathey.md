@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NSDF Distiguished Speaker Series
+title: NSDF Distinguished Speaker Series
 tagline: Ryan Abernathey
 ---
 

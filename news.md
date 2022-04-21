@@ -19,13 +19,13 @@ order: 0
 		
 	<li>
 	<span class="post-meta">12:30 pm ET April 28 2022</span> 
-	<h2><a class="post-link" href="nsdf-seminar-series-foster" >NSDF Distiguished Speaker Series: Ian Foster, ANL and U. Chicago</a></h2>
+	<h2><a class="post-link" href="nsdf-seminar-series-foster" >NSDF Distinguished Speaker Series: Ian Foster, ANL and U. Chicago</a></h2>
 	A Global Research Data Platform: How Globus Services Enable Scientific Discovery
 	</li>
 		
 	<li>
 	<span class="post-meta">12:30 pm ET April 28 2022</span>
-	<h2><a class="post-link" href="nsdf-seminar-series-abernathey" >NSDF Distiguished Speaker Series: Ryan Abernathey, Columbia University</a></h2>
+	<h2><a class="post-link" href="nsdf-seminar-series-abernathey" >NSDF Distinguished Speaker Series: Ryan Abernathey, Columbia University</a></h2>
    Pangeo Forge - Crowdsourcing Analysis Ready Data in the Cloud.  Science
 	</li>
 		

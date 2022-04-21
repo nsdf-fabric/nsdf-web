@@ -17,6 +17,8 @@ cayman-blog:
 # leave it empty
 theme: 
 
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
 plugins:
   - jekyll-target-blank
 

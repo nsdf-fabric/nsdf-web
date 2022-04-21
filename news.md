@@ -10,6 +10,12 @@ order: 0
 
 <ul class="post-list">
 
+	<li>
+	<span class="post-meta">12:30 pm ET April 20 2022</span> 
+	<h2><a class="post-link" href="hpdc-poster" >Two NSDF Posters Accepted at HPDC 2022</a></h2>
+	Two posters featuring new NSDF services were accepted by the 2022 ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC). 
+	</li>
+
 		
 	<li>
 	<span class="post-meta">12:30 pm ET April 28 2022</span> 

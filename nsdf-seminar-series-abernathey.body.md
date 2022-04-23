@@ -30,7 +30,8 @@ including Open Storage Network.
 Pangeo Forge is inspired directly by Conda Forge, a community-led collection of recipes for building conda packages. 
 We hope that Pangeo Forge can eventually play the same role for datasets, encouraging open, interdisciplinary collaboration around data curation.
 
-**Bio:** [short biography](https://github.com/rabernat#short-biography)
+**Bio:**: Ryan is a computational physical oceanographer who leads the Ocean Transport Group, whose mission is to advance scientific understanding of how stuff moves around the ocean and how this transport influences Earth’s large-scale climate and ecosystems. This research involves working with satellite data, numerical simulations, and observational datasets. Ryan is an enthusiastic advocate for open source scientific software and is an active contributor the Pangeo Project, a community platform for Big Data geoscience.
+
 
 
 

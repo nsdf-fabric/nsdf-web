@@ -7,6 +7,9 @@
 
 **Speaker** Ryan Abernathey, Columbia University, Department of Earth and Environmental Science
 
+<a href='https://drive.google.com/file/d/1eIp0cQP-CL0LZZb34Z_ABb_gVuGMxTAI/view?usp=sharing;'>**Seminar Recording**</a>
+
+
 <p align=center>
 <img src="https://user-images.githubusercontent.com/1260735/160108618-072ee48e-464c-4241-ad11-19b60add9b26.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </p> 

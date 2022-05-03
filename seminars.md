@@ -8,9 +8,13 @@ ref: seminars
 # NSDF Distinguished Speaker Series
 
 
-{% include_relative nsdf-seminar-series-abernathey.body.md %}
-
----
 
 {% include_relative nsdf-seminar-series-foster.body.md %}
+
+---
+<br>
+
+{% include_relative nsdf-seminar-series-abernathey.body.md %}
+
+
 

@@ -20,7 +20,7 @@ order: 0
 	<li>
 	<span class="post-meta">12:30 pm ET April 21 2022</span> 
 	<h2><a class="post-link" href="nsdf-seminar-series-abernathey" >Did you miss Abernathey’s webinar in April?</a></h2>
-	 The <i>"Pangeo Forge - Crowdsourcing Analysis Ready Data in the Cloud"</i> webinar is  <a href='https://drive.google.com/file/d/1eIp0cQP-CL0LZZb34Z_ABb_gVuGMxTAI/view'>now available</a> for you to watch.
+	 The <i>"Pangeo Forge - Crowdsourcing Analysis Ready Data in the Cloud"</i> webinar is  <a target="_blank" href='https://drive.google.com/file/d/1eIp0cQP-CL0LZZb34Z_ABb_gVuGMxTAI/view'>now available</a> for you to watch.
 	</li>
 
 

@@ -1,8 +1,6 @@
 
 **Date** 12:30 pm ET April 28 2022
 
-**How to join**: [https://utah.zoom.us/j/99659937052](https://utah.zoom.us/j/99659937052)
-
 **Title** *Pangeo Forge - Crowdsourcing Analysis Ready Data in the Cloud*
 
 **Speaker** Ryan Abernathey, Columbia University, Department of Earth and Environmental Science

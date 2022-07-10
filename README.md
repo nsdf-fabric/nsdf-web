@@ -4,6 +4,7 @@ See https://nsdf-fabric.github.io/
 
 Links:
 - https://paulle.ca/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages
+- https://jinnabalu.medium.com/godaddy-domain-with-github-pages-62aed906d4ef
 
 
 ## Run locally

@@ -8,7 +8,9 @@ baseurl: ""
 # change this to the base hostname & protocol for your site
 url: "https://nsdf-fabric.github.io" 
 
-google_analytics:
+# https://desiredpersona.com/google-analytics-jekyll/
+# https://analytics.google.com/analytics/web/#/p324429956/reports/intelligenthome
+google_analytics: G-7PXWMX6RZV
 
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:

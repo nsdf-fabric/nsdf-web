@@ -1,0 +1,117 @@
+
+
+<!-- https://www.campuslife.co.in/Html/horizontal-submenu-bar.php  -->
+<style>
+.menubar{
+	width:100%;
+	margin-left:auto;
+	text-align:center;
+	margin-right:auto;
+	margin-top:0px;
+	height:auto;
+	background: #9b0910;
+	}
+.menubar ul {
+	text-align: left;
+	display: inline;
+	margin: 0;
+	padding: 0 0 0 0;
+	list-style: none;
+}
+.menubar ul li {
+	display: inline-block;
+	margin-right: -5px;
+	position: relative;
+	padding: 20px 20px;
+	background: #9b0910;
+	color:#ffffffff;
+}
+.menubar ul li:hover {
+	background: #0080ff;
+	color: #f7f7f7;
+}
+.menubar li ul{
+	display: none;
+	background-color: #f7f7f7;
+	position: absolute;
+	margin-top: 15px;
+	padding:0px 0px 0px 0px;
+}
+.menubar li ul a li{
+	width: 8em;
+}
+.menubar li:hover ul{
+	display: block;
+}
+.menubar li ul a li:hover{
+	width: 8em;
+}
+.menubar li ul li ul li
+{
+	display:none;
+	margin-left: 0px;
+	position:relative;
+}
+.menubar li ul li:hover ul li{
+	display:block;
+}
+.menubar ul ul ul {
+	left: 100%;
+	top: 0;
+	margin-left: 0px;
+}
+</style>
+<div class="menubar">
+<ul>
+	<a href="{{ site.baseurl }}/index.html"><li>Home</li></a>
+	<li>Resources
+		<ul>
+		<a href="{{ site.baseurl }}/infrastructure.html"><li>Infrastructure</li></a>
+		<a href="{{ site.baseurl }}/resources.html"><li>System and Allocations</li></a>
+		<a href="{{ site.baseurl }}/education.html"><li>Education</li></a>
+		</ul>
+	</li> 	
+
+	
+	<a href="{{ site.baseurl }}/seminars.html"><li>Seminars</li></a>
+
+	<!--
+	<a href="{{ site.baseurl }}/Testimonials.html"><li>Testimonials</li></a>
+		-->
+		
+	<a href="{{ site.baseurl }}/grant.html"><li>Grant</li></a>
+	<a href="{{ site.baseurl }}/tweets.html"><li>Tweets</li></a>
+	<a href="{{ site.baseurl }}/news.html"><li>News</li></a>
+	<li>About
+		<ul>
+		<a href="{{ site.baseurl }}/contributors.html"><li>Contributors</li></a>
+		<a href="{{ site.baseurl }}/partners.html"><li>System and Partners</li></a>
+		<a href="{{ site.baseurl }}/map3d.html"><li>Map</li></a>
+		</ul>
+	</li> 	
+	<a href="{{ site.baseurl }}/contact.html"><li>Contact</li></a>
+</ul>
+</div>
+
+
+<script>
+var menu = document.querySelector("nav.site-nav");
+var checkbox = document.getElementById("nav-trigger");
+
+// close menu if click outside menu
+document.addEventListener("click", function(e) {
+	if (menu != e.target && !isDescendant(menu, e.target)) {
+		checkbox.checked = false;
+	}
+}, false);
+
+function isDescendant(parent, child) {
+	var node = child.parentNode;
+	while (node != null) {
+		if (node == parent) return true;
+		node = node.parentNode;
+	}
+	return false;
+}  
+</script>   
+ 

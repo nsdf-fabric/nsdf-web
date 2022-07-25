@@ -10,12 +10,6 @@ order: 0
 seee https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/
 -->
 
-{::options parse_block_html="true" /}
-
-
-
-
-
 
 # Who we are
 

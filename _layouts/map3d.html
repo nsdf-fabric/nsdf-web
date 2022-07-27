@@ -1,300 +1,183 @@
-<html>
-<head> 
-<title>Info Window With maxWidth</title>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+</head>
+
+<body style="height: 100%">
+
+<script src="https://cesium.com/downloads/cesiumjs/releases/1.86/Build/Cesium/Cesium.js"></script>
+<link href="https://cesium.com/downloads/cesiumjs/releases/1.86/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+
 
 <style>
-		/* Always set the map height explicitly to define the size of the div
-       * element that contains the map. */
-#map {
-  height: 100%;
-}
 
-/* Optional: Makes the sample page fill the window. */
-html,
-body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
+	html, body {
+        height: 100%;
+        margin: 0px;
+    }
+    .container {
+        height: 100%;
+        background: #8cd0f0;
+    }
 
-#legend {
-  font-family: Arial, sans-serif;
-  background: #ffffff60;
-  padding: 10px;
-  margin: 10px;
-}
+	#cesiumContainer {
+			width: 100%;
+			height: 100%;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+	}
+	#toolbar-left {
+		color: white;
+		position: absolute;
+		top: 15px;
+		left: 15px;
+		background: rgba(42, 42, 42, 0.8);
+		padding: 5px 8px;
+		border-radius: 5px;
+	}
 
-#legend h3 {
-  margin-top: 0;
-}
+	.legend-block {
+		width: 40px;
+		font-size: 15pt;
+		height: 20px;
+		float: left;
+		margin-right: 10px;
+		border: BLACK solid 1px;
+		background-color: #D3D3D3;
+	}
 
-#legend img {
-  vertical-align: middle;
-}
-
-#logo {
-  font-family: Arial, sans-serif;
-  padding: 10px;
-  margin: 10px;
-}
+	.legend-value {
+		margin-bottom: 7px;
+		margin-top: 5px;
+		font-size: 15pt;
+	}
 </style>
 
-<script>
-
-////////////////////////////////////////////////////////////////////
-//https://www.latlong.net/
-const resources = [
-  {
-  	title : "Utah",
-    gps : {lat: 41.17783849325976, lng: -111.94261023920568},
-    icon : "assets/images/map3d/storage_computing.png",
-    body : `
-    <h3>CloudLab</h3>
-    <div> 20 VMs (each with 100GB ephemeral storage)</div>
-    <h3>CHPC</H3>
-    <div>50TB storage </div>
-    <div>some VM (to be defined)</div>
-    `
-  },
-
-  {
-  	title : "Indiana",
-    icon : "assets/images/map3d/storage_computing.png",
-    gps : {lat: 39.17563994261692, lng: -86.51209054961521},
-    body : `
-    	<h3>Indiana University - XSEDE JetStream:</h3>
-      <div>50k virtual CPU hours</div>
-      <div>40 Virtual Machines</div>
-      <div>40 public IP address</div>
-      <div>50 TB storage</div>
-    `,
-  }, 
-  
-  {
-  	title : "Texas",
-    icon : "assets/images/map3d/storage_computing.png",
-    gps : {lat: 30.390228387356302, lng: -97.72496824358305},
-    body : `
-    	<h3>TACC - XSEDE JetStream:</h3>
-      <div>50k virtual CPU hours</div>
-      <div>40 Virtual Machines</div>
-      <div>40 public IP address</div>
-      <div>50 TB storage</div>
-      <div>TACC - XSEDE Stampede2: </h3>
-      <div>15K node hours 50TB archive storage</div>
-      `,
-  },   
-  
-  {
-  	title : "San Diego",
-    icon : "assets/images/map3d/storage_computing.png",
-  	gps : { lat: 32.8793526, lng: -117.2311005},
-    body : `
-    	<h3>Open Science Grid (OSG)</h3>
-      <div>200TB Qumulo Storage</div>
-      <h3>XSEDE:</h3> 
-      <div>200K virtual CPI hours</div>
-      <div>300TB Open Storage</div>
-      
-    	<h3>CloudBank</h3>
-      <div>Non competitive grant for Cloud Computing</div>
-     `
-  }, 
-  
-  
-  {
-  	title : "Google Cloud",
-    icon : "assets/images/map3d/cloud.png",
-   	gps: {lat:33.19562380572143, lng: -80.0052392415788},
-    body : `
-    	<h3>Google Cloud</h3>
-      <div>pending...</div>
-      <br>
-      <div>See regions <a href='https://cloud.google.com/compute/docs/regions-zones'>here</a></div>      
-      
-     `,
-  },  
-  
-	{
-  	title : "IBM cloud",
-    icon : "assets/images/map3d/cloud.png",
-    gps: {lat:32.899661279118966, lng: -96.95397080829012},
-    body : `
-    	<h3>IBM cloud</h3>
-      <div>unlimited resources (UTK managed)</div>
-      <br>
-      <div>See regions <a href='https://cloud.ibm.com/docs/containers?topic=containers-regions-and-zones'>here</a></div>
-     `,
-  },  
-  
-  {
-  	title : "Illinois",
-		icon : "assets/images/map3d/network.png",
-    gps: {lat:40.10557386624202, lng:-88.22707385285145},
-    body : `
-    	<h3>Fabric</h3>
-      <div>Optimized network for fast data movement</div>
-    `,
-  },  
-];
 
 
-////////////////////////////////////////////////////////////////////
-function initMap() {
 
-	//map
-  //see https://www.justinobeirne.com/styled-maps-using-google-maps-api-3
-  var myStyle=[
-  {
-    featureType: "all",
-    elementType: "all",
-    stylers: [
-      { invert_lightness: false }
-    ]
-  },{
-    featureType: "administrative",
-    elementType: "labels",
-    stylers: [
-      { visibility: "off" }
-    ]
-  },{
-    featureType: "landscape",
-    elementType: "all",
-    stylers: [
-      { visibility: "off" }
-    ]
-  },{
-    featureType: "poi",
-    elementType: "all",
-    stylers: [
-      { visibility: "off" }
-    ]
-  },{
-    featureType: "road",
-    elementType: "all",
-    stylers: [
-      { visibility: "off" }
-    ]
-  },{
-    featureType: "transit",
-    elementType: "all",
-    stylers: [
-      { visibility: "off" }
-    ]
-  },{
-    featureType: "water",
-    elementType: "labels",
-    stylers: [
-      { visibility: "off" }
-    ]
-  },{
-    featureType: "water",
-    elementType: "geometry",
-    stylers: [
-      { lightness: -80,  saturation: -100 }
-    ]
-  }
-];
-  
-  const map = new google.maps.Map(document.getElementById("map"), {
-    zoom: 4,
-    center: new google.maps.LatLng(39.25024, -111.75103),
-    scrollwheel: true,
-    mapTypeControl: false,
-    mapTypeId: 'mystyle',
-    mapTypeControlOptions: {
-      mapTypeIds: ['mystyle', google.maps.MapTypeId.SATELLITE]
-    },
+<script lang="javascript">
+function CreateCanvas(token) {
+	let Node = class  {constructor() {}};
 
-  });
-  
-   map.mapTypes.set('mystyle', new google.maps.StyledMapType(myStyle, { name: 'My Style' }));
-  
-  //info window
-  const info = new google.maps.InfoWindow({
-    content: "",
-    disableAutoPan: true,
-    mapTypeControl: false,
-    mapTypeId:google.maps.MapTypeId.TERRAIN
-  });   
-  
-  //markers
-  var markers=[];
-	for (const resource of resources) 
-  {
-    const marker = new google.maps.Marker({
-      map,
-      title: resource.title,
-      label: {
-        text: resource.title,
-        color: '#202050',
-        fontSize: '16px',
-        fontWeight: 'bold'
-      },
-      position: { 
-        lat: resource.gps.lat + (Math.random() -.5) / 50, 
-        lng: resource.gps.lng + (Math.random() -.5) / 50
-      },
-      icon: {
-        url : resource.icon,
-        labelOrigin: new google.maps.Point(10,-10)
-      }
-    });
+	let Map3d = class {
 
-    marker.addListener("click", () => {
-      info.setContent(resource.body);
-      info.open(map, marker);   
-    });
-
-
-    markers.push(marker);  
+	//constructor
+	constructor(token, div_name="nsdf_map3d_div") {
+		Cesium.Ion.defaultAccessToken=token;
+		this.viewer = new Cesium.Viewer(div_name);
+		this.nodes={};
+		this.edges=[];
 	}
-  
-  //if you want cl
-  //const markerCluster = new markerClusterer.MarkerClusterer({ map, markers });
-  
-  //legend
+
+	//addNode
+	addNode(name, x, y, visible=true, img="", description="")
 	{
-    var legend=document.getElementById("legend");
-    //var body=legend.innerHTML;
-    //for (const key in icons)
-    //	body=body.replace("$"+key,icons[key]);
-    //legend.innerHTML=body;
-    map.controls[google.maps.ControlPosition.LEFT_TOP].push(legend);
-  }
-  
-  //logo
-  {
-		var logo=document.getElementById("logo");
-  	map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(logo);
-	}
+		if (this.nodes.hasOwnProperty(name))
+			throw "Node already in the nodes " + name;
+			
+		if (description=="")
+			description=name;
+		
+		var node=new Node();
+		node.name=name;
+		node.pos=[x,y];
+		
+		//console.log("Adding node", node);
+		
+		if (visible)
+		{
+			var entity={
+				name : node.name,
+				position : Cesium.Cartesian3.fromDegrees(node.pos[0], node.pos[1]),
+				point : {
+					pixelSize : 15,
+					color : Cesium.Color.LIGHTBLUE
+				},
+				label : {
+					text : node.name,
+					font : '16pt monospace',
+					verticalOrigin : Cesium.VerticalOrigin.BOTTOM,
+				}
+			};
+			
+			if (img!="")
+				entity.billboard={image : img};
+			
+			entity.description=description;
+			this.viewer.entities.add(entity);
+		}		
+		
+		this.nodes[name]=node;
+		return node;
+	}	
+
+	//addEdge
+	addEdge(from,to,width=3, color=Cesium.Color.CORNFLOWERBLUE)
+	{
+		if (!this.nodes.hasOwnProperty(from))
+			throw "internal error cannot find " + from;
+			
+		if (!this.nodes.hasOwnProperty(to))
+			throw "internal error cannot find " + to;
+		
+		//console.log("Adding edge", edge.from, edge.to);
+		this.viewer.entities.add({
+				name: "Link " + from + " --- " + to,
+				polyline: {
+				positions: Cesium.Cartesian3.fromDegreesArrayHeights([
+					this.nodes[from].pos[0], this.nodes[from].pos[1],250,
+					this.nodes[to  ].pos[0], this.nodes[to  ].pos[1],250]),
+					width: width,
+					material: new Cesium.PolylineOutlineMaterialProperty({
+						color: color,
+						outlineWidth: 1,
+						outlineColor: Cesium.Color.BLACK,
+					}),
+				},
+			});
+		}	
+	};
+
+	var map=new Map3d(token);
+	map.viewer.dataSources.add(Cesium.KmlDataSource.load('assets/kml/map3d.kml'));
 }
 </script>
-		 
 
-  </head>
-  <body>
-    <div id="map"  ></div>
-    
-    <div id="legend">
-      <h3>Legend</h3>
-      <div><img src='assets/images/map3d/storage.png'>Storage</div><br>
-      <div><img src='assets/images/map3d/computing.png'>Computing</div><br>
-      <div><img src='assets/images/map3d/storage_computing.png'>Storage and Computing</div><br>
-      <div><img src='assets/images/map3d/network.png'>Network</div><br> 
-      <div><img src='assets/images/map3d/cloud.png'>Cloud</div><br> 
-    </div>
-    
-    <div id="logo">
-      <img  width=120px src='http://nsdf.sci.utah.edu/images/images/NSDF.png'>
-    </div>
-    
-    <script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
-    
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJlTB79sNi5C7-ODlShbPZBwleChOrRmo&callback=initMap&v=weekly&channel=2"
-      async
-    ></script>
-  </body>
+
+<div id="nsdf_map3d_div" class="container" />
+
+<script lang="javascript">
+	CreateCanvas("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI3MjJiMmQ1Zi1kMDYxLTQ0ODgtYmUzYi0wZjQ2OTkyMjQxY2IiLCJpZCI6Njk1MzcsImlhdCI6MTYzMzU2NTY0Mn0.TRiTw4OhDxMi56-vQoXURNKgA9U31PSLozCsQAMpdcs");
+</script>
+
+
+<!-- LEGEND -->
+<!--
+<div id="toolbar-left">
+	<table>
+		<tr><td style='width=100%'><div id = "first-legend-item" class="legend-block" style="background-color: #6495ED;"/></td><td>100G Core</td></tr>
+		<tr><td style='width=100%'><div class="legend-block" style="background-color: #DAA520;"/><td>Terabit Core</td></tr>
+		<tr>
+			<td><img src='/assets/images/map3d/entrypoint.png'/></td>
+			<td> NSDF EntryPoints </td>
+		</tr>
+		<tr>
+			<td><img src='/assets/images/map3d/stashcache.png'/></td>
+			<td> OSG StashCaches </td>
+		</tr>
+		<tr>
+			<td><img src='/assets/images/map3d/both.png'/></td>
+			<td> Both </td>
+		</tr>  			
+	</table>
+</div>
+-->
+
+
+</body>
 </html>

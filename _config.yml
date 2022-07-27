@@ -6,7 +6,7 @@ show_downloads: false
 baseurl: "" 
 
 # change this to the base hostname & protocol for your site
-url: "https://nsdf-fabric.github.io" 
+url: "https://nationalsciencedatafabric.org/" 
 
 # https://desiredpersona.com/google-analytics-jekyll/
 # https://analytics.google.com/analytics/web/#/p324429956/reports/intelligenthome

@@ -31,19 +31,19 @@ The gallery of the posters and their 2-page extended abstract are below.
 
 # NSDF-FUSE
 Links to PDF 
-[Poster](https://nsdf-fabric.github.io/assets/misc/NSDF-FUSE-HPDC2022-Poster.pdf)
-[Abstract](https://nsdf-fabric.github.io/assets/misc/NSDF-FUSE-HPDC2022-Abstract.pdf)
+[Poster](https://nationalsciencedatafabric.org/assets/misc/NSDF-FUSE-HPDC2022-Poster.pdf)
+[Abstract](https://nationalsciencedatafabric.org/assets/misc/NSDF-FUSE-HPDC2022-Abstract.pdf)
 
 <p align=center>
-<img src="https://nsdf-fabric.github.io/assets/misc/NSDF-FUSE-HPDC2022-Poster.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+<img src="https://nationalsciencedatafabric.org/assets/misc/NSDF-FUSE-HPDC2022-Poster.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </p> 
 
 # NSDF-Cloud 
-Links to PDF [Poster ](https://nsdf-fabric.github.io/assets/misc/NSDF-Cloud-HPDC2022-Poster.pdf)
-[Abstract](https://nsdf-fabric.github.io/assets/misc/NSDF-Cloud-HPDC2022-Abstract.pdf)
+Links to PDF [Poster ](https://nationalsciencedatafabric.org/assets/misc/NSDF-Cloud-HPDC2022-Poster.pdf)
+[Abstract](https://nationalsciencedatafabric.org/assets/misc/NSDF-Cloud-HPDC2022-Abstract.pdf)
 
 <p align=center>
-<img src="https://nsdf-fabric.github.io/assets/misc/NSDF-Cloud-HPDC2022-Poster.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+<img src="https://nationalsciencedatafabric.org/assets/misc/NSDF-Cloud-HPDC2022-Poster.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </p> 
 
 

@@ -1,6 +1,6 @@
 # NSDF Web
 
-See https://nsdf-fabric.github.io/
+See https://nationalsciencedatafabric.org
 
 Links:
 - https://paulle.ca/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages

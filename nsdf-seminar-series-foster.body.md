@@ -7,7 +7,7 @@
 <a target="_blank" href='https://drive.google.com/file/d/1hwVxrzJi7cAg-yoeaFz9VmeQB0IRHYfG/view'>**Seminar Recording**</a>
 
 <p align=center>
-<img src="https://nsdf-fabric.github.io/assets/misc/ian_foster.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+<img src="https://nationalsciencedatafabric.org/assets/misc/ian_foster.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </p> 
 
 

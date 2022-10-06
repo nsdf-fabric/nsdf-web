@@ -12,6 +12,14 @@ order: 0
 
 	<li>
 	<span class="post-meta">May 26 2022</span> 
+	<h2><a class="post-link" href="nsdf-ahm-2022" >NSDF All-Hands Meeting October 2022</a></h2>
+   Join the National Science Data Fabric Team on Tue Oct 11 to learn how we deliver data democratization and eScience to the community, 
+   in conduction with the <a href="https://www.escience-conference.org/2022/">IEEE eScience conference</a> in Salt Lake City, UT.
+	</li>
+
+
+	<li>
+	<span class="post-meta">May 26 2022</span> 
 	<h2><a class="post-link" href="nsdf-seminar-series-foster" >Did you miss Ian Foster’s webinar in May?</a></h2>
 	 The <i>"A Global Research Data Platform: How Globus Services Enable Scientific Discover"</i> webinar is  <a target="_blank" href='https://drive.google.com/file/d/1hwVxrzJi7cAg-yoeaFz9VmeQB0IRHYfG/view'>now available</a> for you to watch.
 	</li>

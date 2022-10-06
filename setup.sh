@@ -7,6 +7,7 @@ echo 'export PATH=$HOME/gems/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 
 gem install rubygems-update jekyll bundler
+bundle add webrick
 
 
 

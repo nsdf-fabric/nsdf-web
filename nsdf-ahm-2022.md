@@ -5,7 +5,7 @@ tagline: Ian Foster
 ---
 
 Join the National Science Data Fabric Team on Tue Oct 11 to learn how we deliver data democratization and eScience to the community, 
-in conduction with the <a href="https://www.escience-conference.org/2022/">IEEE eScience conference</a> in Salt Lake City, UT.
+in conjunction with the <a href="https://www.escience-conference.org/2022/">IEEE eScience conference</a> in Salt Lake City, UT.
 
 # Tuesday October  11
 

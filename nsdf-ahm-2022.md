@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NSDF All-Hands meeting October 2022
-tagline: Ian Foster
+tagline: Tuesday October 11 and Wednesday October 12
 ---
 
 Join the National Science Data Fabric Team on Tue Oct 11 to learn how we deliver data democratization and eScience to the community, 

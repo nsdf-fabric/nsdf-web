@@ -8,6 +8,12 @@ Join the National Science Data Fabric Team on Tue Oct 11 to learn how we deliver
 in conjunction with the <a href="https://www.escience-conference.org/2022/">IEEE eScience conference</a> in Salt Lake City, UT.
 
 
+**Thomas S. Monson Center Univ of Utah** <br>
+411 E S Temple St<br>
+Salt Lake City UT 84111<br>
+<a href="https://monsoncenter.utah.edu/">https://monsoncenter.utah.edu/</a><br>
+
+
 # Tuesday October  11
 
 Join Zoom Meeting <a href="https://utah.zoom.us/j/8590555973">https://utah.zoom.us/j/8590555973</a>

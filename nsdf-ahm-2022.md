@@ -9,6 +9,9 @@ in conjunction with the <a href="https://www.escience-conference.org/2022/">IEEE
 
 # Tuesday October  11
 
+Join Zoom Meeting <a href="https://utah.zoom.us/j/8590555973">https://utah.zoom.us/j/8590555973</a>
+(see below for instructions)
+
 ##  Session 1 - The state of the NSDF 
 
 | 9:00   | 9:15  | Utah         | Valerio Pascucci  | *The NSDF vision and current progress*              |
@@ -47,6 +50,9 @@ NSDF Dinner
 
 # Wednesday October 12
 
+Join Zoom Meeting <a href="https://utah.zoom.us/j/8590555973">https://utah.zoom.us/j/8590555973</a>
+(see below for instructions)
+
 ## Session 5 - Material Science Use case
 
 | 9:00   | 9:15  | Michigan     | Glenn Tarcea      | *How Materials Commons Uses FAIR principles*   |
@@ -63,6 +69,32 @@ NSDF Dinner
 | 11:15  | 11:30 | USU          | Steve Petruzza    | *Interactive access and exploration of scientific data products* |
 | 11:30  | 11:45 | All          | Valerio Pascucci - Michela Taufer - Giorgio Scorzelli - Manish Parashar | *Closing remarks and strategic planning*       |
 
+# Zoom instructions
 
+```
+Join Zoom Meeting
+https://utah.zoom.us/j/8590555973
+
+Meeting ID: 859 055 5973
+One tap mobile
++16468769923,,8590555973# US (New York)
++16469313860,,8590555973# US
+
+Dial by your location
+        +1 646 876 9923 US (New York)
+        +1 646 931 3860 US
+        +1 669 444 9171 US
+        +1 669 900 6833 US (San Jose)
+        +1 719 359 4580 US
+        +1 253 215 8782 US (Tacoma)
+        +1 301 715 8592 US (Washington DC)
+        +1 309 205 3325 US
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+        +1 386 347 5053 US
+        +1 564 217 2000 US
+Meeting ID: 859 055 5973
+Find your local number: https://utah.zoom.us/u/acPDqpmyLZ
+```
 
 <br><br>

@@ -26,7 +26,7 @@ Session Chair: **Valerio Pascucci**
 
 Session Chair: **Giorgio Scorzelli**
 
-**Seal**, Sal Malik. *Web3.0 Cloud Decentralized Storage* |    <img src="/assets/misc/ahm2/Session 2/01_Web3.0 Cloud Decentralized Storage.png"                                              /> |
+**Seal**, Sal Malik. *Web3.0 Cloud Decentralized Storage* | <a href='https://docs.google.com/presentation/d/1V1CcusTx32B7sqDHljDEuEXIC9dtsNxq/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'> <img src="/assets/misc/ahm2/Session 2/01_Web3.0 Cloud Decentralized Storage.png" /></a> |
 **DoubleCloud**, Adam Jennings. *Managed Open-Source Data Stack for Sub-Second Analytics and Queries* | <a href='https://docs.google.com/presentation/d/1gFReKflfchis6Rspsuyzs2pOU9GgllK1-L3S5kHCKmo/edit?usp=sharing' ><img src="/assets/misc/ahm2/Session 2/02_DoubleCloud Managed Open-Source Data Stack for Sub-Second Analytics and Queries.png" /></a> |
 **Globus**, Kyle Chard. *Globus: A Platform for Global Data Management* |    <img src="/assets/misc/ahm2/Session 2/03_Globus A Platform for Global Data Management.png" />
 **Weka**, Nathan Urbanowski, Sarah Johannes. *The Data Platform for Research Collaboration* |    <img src="/assets/misc/ahm2/Session 2/04_The Data Platform for Research Collaboration.png" />

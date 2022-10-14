@@ -30,7 +30,7 @@ Session Chair: **Giorgio Scorzelli**
 **DoubleCloud**, Adam Jennings. *Managed Open-Source Data Stack for Sub-Second Analytics and Queries* | <a href='https://docs.google.com/presentation/d/1gFReKflfchis6Rspsuyzs2pOU9GgllK1-L3S5kHCKmo/edit?usp=sharing' ><img src="/assets/misc/ahm2/Session 2/02_DoubleCloud Managed Open-Source Data Stack for Sub-Second Analytics and Queries.png" /></a> |
 **Globus**, Kyle Chard. *Globus: A Platform for Global Data Management* | <img src="/assets/misc/ahm2/Session 2/03_Globus A Platform for Global Data Management.png" />
 **Weka**, Nathan Urbanowski, Sarah Johannes. *The Data Platform for Research Collaboration* | <img src="/assets/misc/ahm2/Session 2/04_The Data Platform for Research Collaboration.png" />
-**LLNL**, Timo Bremer. *Democratizing Data Access at Lawrence Livermore National Laboratory* | <img src="/assets/misc/ahm2/Session 2/05_Democratizing Data Access at Lawrence Livermore National Laboratory.png" />
+**LLNL**, Timo Bremer. *Democratizing Data Access at Lawrence Livermore National Laboratory* | <a href='https://drive.google.com/file/d/1ymAkFfTlGSaQtavEi8TzlpFI0gk0ZBVf/view?usp=sharing'><img src="/assets/misc/ahm2/Session 2/05_Democratizing Data Access at Lawrence Livermore National Laboratory.png" /></a> |
 
 # Session 3 - User Communities
 

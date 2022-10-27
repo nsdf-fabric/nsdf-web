@@ -261,3 +261,15 @@ I-hsin Chung is a Research Staff Member at [IBM Research](https://research.ibm.c
 <p align=center>
 <img src="assets/images/people/chung.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 </p> 
+
+# Andrea Saicaly
+
+Andrea Saicaly is a software architect with 20+ years of experience on enterprise architectures.
+
+<p align=center>
+<img src="assets/images/people/andrea.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
+</p> 
+
+<br>
+<br>
+<br>

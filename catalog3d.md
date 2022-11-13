@@ -9,7 +9,7 @@ ref: catalog3d
 
 ## Multi-federation Catalog for Petabytes of Community Data
 
-<script src="http://unpkg.com/globe.gl"></script>
+<script src="https://unpkg.com/globe.gl"></script>
 
 As part of the NSF-funded National Science Data Fabric
 (NSDF) initiative, we are developing a lightweight software library to *index* large-amounts
@@ -690,7 +690,7 @@ of scientific data and *facilitate* discoverability.
 
 	const world = Globe()
 		.globeImageUrl('assets/images/catalog3d/earth.jpg')
-		.bumpImageUrl('http://unpkg.com/three-globe/example/img/earth-topology.png')
+		.bumpImageUrl('assets/images/catalog3d/earth-topology.png')
 		.backgroundColor("#FFFFFF")
 		.atmosphereAltitude(10)
 		.width(800)

@@ -17,7 +17,6 @@ of scientific data and *facilitate* discoverability.
 
 <div id="globeViz" />
 
-
 <script>
 	places = {
 		"type": "FeatureCollection",
@@ -700,7 +699,7 @@ of scientific data and *facilitate* discoverability.
 		.labelLat(d => d.properties.latitude)
 		.labelLng(d => d.properties.longitude)
 		.labelText(d => d.properties.name)
-		.labelSize(d => "0.6")
+		.labelSize(d => "0.7")
 		.labelDotRadius(d => "0.6")
 		.labelColor(() => 'rgba(255, 255, 0, 0.80)')
 		.labelResolution(2)

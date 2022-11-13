@@ -690,9 +690,8 @@ of scientific data and *facilitate* discoverability.
 
 	const world = Globe()
 		.globeImageUrl('assets/images/catalog3d/earth.jpg')
-		.bumpImageUrl('assets/images/catalog3d/earth-topology.png')
+		.bumpImageUrl('https://unpkg.com/three-globe/example/img/earth-topology.png')
 		.backgroundColor("#FFFFFF")
-		.atmosphereAltitude(10)
 		.width(800)
 		.height(600)
 		.labelsData(places.features)
@@ -701,7 +700,7 @@ of scientific data and *facilitate* discoverability.
 		.labelText(d => d.properties.name)
 		.labelSize(d => "0.7")
 		.labelDotRadius(d => "0.6")
-		.labelColor(() => 'rgba(255, 255, 0, 0.80)')
+		.labelColor(() => '#FFFF0080')
 		.labelResolution(2)
 		(g);
     world.controls().autoRotate = true;

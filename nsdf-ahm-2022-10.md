@@ -81,7 +81,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488663},
-  url          = {https://doi.org/10.5281/zenodo.7488663}
+  url          = {https://doi.org/10.5281/zenodo.7488663},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 
@@ -98,7 +99,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488689},
-  url          = {https://doi.org/10.5281/zenodo.7488689}
+  url          = {https://doi.org/10.5281/zenodo.7488689},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 
@@ -109,7 +111,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488700},
-  url          = {https://doi.org/10.5281/zenodo.7488700}
+  url          = {https://doi.org/10.5281/zenodo.7488700},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 
@@ -121,7 +124,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488710},
-  url          = {https://doi.org/10.5281/zenodo.7488710}
+  url          = {https://doi.org/10.5281/zenodo.7488710},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{adam_jennings_2022_7488723,
@@ -131,7 +135,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488723},
-  url          = {https://doi.org/10.5281/zenodo.7488723}
+  url          = {https://doi.org/10.5281/zenodo.7488723},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{peer_timo_bremer_2022_7488727,
@@ -141,7 +146,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488727},
-  url          = {https://doi.org/10.5281/zenodo.7488727}
+  url          = {https://doi.org/10.5281/zenodo.7488727},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 
@@ -152,7 +158,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488741},
-  url          = {https://doi.org/10.5281/zenodo.7488741}
+  url          = {https://doi.org/10.5281/zenodo.7488741},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{attila_gyulassy_2022_7488747,
@@ -165,7 +172,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488747},
-  url          = {https://doi.org/10.5281/zenodo.7488747}
+  url          = {https://doi.org/10.5281/zenodo.7488747},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 
@@ -176,7 +184,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488752},
-  url          = {https://doi.org/10.5281/zenodo.7488752}
+  url          = {https://doi.org/10.5281/zenodo.7488752},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{kevin_coakley_2022_7488768,
@@ -197,7 +206,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488772},
-  url          = {https://doi.org/10.5281/zenodo.7488772}
+  url          = {https://doi.org/10.5281/zenodo.7488772},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{dan_milroy_2022_7488780,
@@ -207,7 +217,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488780},
-  url          = {https://doi.org/10.5281/zenodo.7488780}
+  url          = {https://doi.org/10.5281/zenodo.7488780},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 
@@ -226,7 +237,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488788},
-  url          = {https://doi.org/10.5281/zenodo.7488788}
+  url          = {https://doi.org/10.5281/zenodo.7488788},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{jakob_luettgau_2022_7488796,
@@ -244,7 +256,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488796},
-  url          = {https://doi.org/10.5281/zenodo.7488796}
+  url          = {https://doi.org/10.5281/zenodo.7488796},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{bin_fan_2022_7488800,
@@ -255,7 +268,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488800},
-  url          = {https://doi.org/10.5281/zenodo.7488800}
+  url          = {https://doi.org/10.5281/zenodo.7488800},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{ivan_rodero_2022_7488806,
@@ -265,7 +279,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488806},
-  url          = {https://doi.org/10.5281/zenodo.7488806}
+  url          = {https://doi.org/10.5281/zenodo.7488806},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{glenn_tarcea_2022_7488808,
@@ -278,7 +293,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488808},
-  url          = {https://doi.org/10.5281/zenodo.7488808}
+  url          = {https://doi.org/10.5281/zenodo.7488808},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{owen_koppe_2022_7488814,
@@ -288,7 +304,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488814},
-  url          = {https://doi.org/10.5281/zenodo.7488814}
+  url          = {https://doi.org/10.5281/zenodo.7488814},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{bozo_vazic_2022_7488820,
@@ -299,7 +316,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488820},
-  url          = {https://doi.org/10.5281/zenodo.7488820}
+  url          = {https://doi.org/10.5281/zenodo.7488820},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{naweiluo_zhou_2022_7488827,
@@ -318,7 +336,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488827},
-  url          = {https://doi.org/10.5281/zenodo.7488827}
+  url          = {https://doi.org/10.5281/zenodo.7488827},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{duong_hoang_2022_7488835,
@@ -333,7 +352,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488835},
-  url          = {https://doi.org/10.5281/zenodo.7488835}
+  url          = {https://doi.org/10.5281/zenodo.7488835},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{dominic_kennedy_2022_7488842,
@@ -347,7 +367,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488842},
-  url          = {https://doi.org/10.5281/zenodo.7488842}
+  url          = {https://doi.org/10.5281/zenodo.7488842},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{daniel_balouek_thomert_2022_7488778,
@@ -357,7 +378,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488778},
-  url          = {https://doi.org/10.5281/zenodo.7488778}
+  url          = {https://doi.org/10.5281/zenodo.7488778},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 
 @misc{steve_petruzza_2022_7488844,
@@ -370,7 +392,8 @@ Session Chair: **Glenn Tarcea**
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488844},
-  url          = {https://doi.org/10.5281/zenodo.7488844}
+  url          = {https://doi.org/10.5281/zenodo.7488844},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Oct 2022}
 }
 ```
 

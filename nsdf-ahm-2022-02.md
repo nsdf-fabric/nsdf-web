@@ -57,7 +57,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488466},
-  url          = {https://doi.org/10.5281/zenodo.7488466}
+  url          = {https://doi.org/10.5281/zenodo.7488466},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{glenn_tarcea_2022_7488485,
@@ -70,7 +71,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488485},
-  url          = {https://doi.org/10.5281/zenodo.7488485}
+  url          = {https://doi.org/10.5281/zenodo.7488485},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{steve_petruzza_2022_7488491,
@@ -80,7 +82,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488491},
-  url          = {https://doi.org/10.5281/zenodo.7488491}
+  url          = {https://doi.org/10.5281/zenodo.7488491},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{damian_clarke_2022_7488502,
@@ -90,7 +93,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488502},
-  url          = {https://doi.org/10.5281/zenodo.7488502}
+  url          = {https://doi.org/10.5281/zenodo.7488502},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{brian_e_schuster_2022_7488508,
@@ -100,7 +104,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488508},
-  url          = {https://doi.org/10.5281/zenodo.7488508}
+  url          = {https://doi.org/10.5281/zenodo.7488508},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{ivan_rodero_2022_7488519,
@@ -110,7 +115,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488519},
-  url          = {https://doi.org/10.5281/zenodo.7488519}
+  url          = {https://doi.org/10.5281/zenodo.7488519},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{paula_olaya_2022_7488527,
@@ -125,7 +131,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488527},
-  url          = {https://doi.org/10.5281/zenodo.7488527}
+  url          = {https://doi.org/10.5281/zenodo.7488527},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{frank_wuerthwein_2022_7488537,
@@ -135,7 +142,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488537},
-  url          = {https://doi.org/10.5281/zenodo.7488537}
+  url          = {https://doi.org/10.5281/zenodo.7488537},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{kevin_coakley_2022_7488544,
@@ -145,7 +153,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488544},
-  url          = {https://doi.org/10.5281/zenodo.7488544}
+  url          = {https://doi.org/10.5281/zenodo.7488544},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{alexander_szalay_2022_7488550,
@@ -155,7 +164,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488550},
-  url          = {https://doi.org/10.5281/zenodo.7488550}
+  url          = {https://doi.org/10.5281/zenodo.7488550},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{chris_shelley_2022_7488556,
@@ -165,7 +175,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488556},
-  url          = {https://doi.org/10.5281/zenodo.7488556}
+  url          = {https://doi.org/10.5281/zenodo.7488556},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{jakob_luettgau_2022_7488562,
@@ -181,7 +192,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488562},
-  url          = {https://doi.org/10.5281/zenodo.7488562}
+  url          = {https://doi.org/10.5281/zenodo.7488562},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{naweiluo_zhou_2022_7488564,
@@ -196,7 +208,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488564},
-  url          = {https://doi.org/10.5281/zenodo.7488564}
+  url          = {https://doi.org/10.5281/zenodo.7488564},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{paula_olaya_2022_7488576,
@@ -214,7 +227,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488576},
-  url          = {https://doi.org/10.5281/zenodo.7488576}
+  url          = {https://doi.org/10.5281/zenodo.7488576},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{attila_gyulassy_2022_7488580,
@@ -230,7 +244,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488580},
-  url          = {https://doi.org/10.5281/zenodo.7488580}
+  url          = {https://doi.org/10.5281/zenodo.7488580},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{giorgio_scorzelli_2022_7488588,
@@ -240,7 +255,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488588},
-  url          = {https://doi.org/10.5281/zenodo.7488588}
+  url          = {https://doi.org/10.5281/zenodo.7488588},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 
 @misc{michael_corn_2022_7488590,
@@ -250,7 +266,8 @@ Topics:
   year         = 2022,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.7488590},
-  url          = {https://doi.org/10.5281/zenodo.7488590}
+  url          = {https://doi.org/10.5281/zenodo.7488590},
+  publisher    = {National Science Data Fabric (NSDF) All Hands Meeting Feb 2022}
 }
 ```
 

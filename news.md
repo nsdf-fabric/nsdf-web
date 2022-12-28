@@ -12,7 +12,7 @@ order: 0
 
 	<li>
 	<span class="post-meta">May 26 2022</span> 
-	<h2><a class="post-link" href="nsdf-ahm-2022" >NSDF All-Hands Meeting October 2022</a></h2>
+	<h2><a class="post-link" href="nsdf-ahm-2022-10" >NSDF All-Hands Meeting October 2022</a></h2>
    Join the National Science Data Fabric Team on Tue Oct 11 to learn how we deliver data democratization and eScience to the community, 
    in conjunction with the <a href="https://www.escience-conference.org/2022/">IEEE eScience conference</a> in Salt Lake City, UT.
 	</li>
@@ -52,7 +52,7 @@ order: 0
 		
 	<li>
 	<span class="post-meta">February 22-23 2022</span>
-	<h2><a class="post-link" href="all-hands-meeting" >All Hands Meeting</a></h2>
+	<h2><a class="post-link" href="nsdf-ahm-2022-02" >All Hands Meeting February 2022</a></h2>
 	The first National Science Data Fabric (NSDF) in-person meeting held in Salt Lake City, Utah on February 22-23.
 	</li>
 

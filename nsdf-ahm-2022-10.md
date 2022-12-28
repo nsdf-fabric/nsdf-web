@@ -126,8 +126,7 @@ Session Chair: **Glenn Tarcea**
 
 @misc{adam_jennings_2022_7488723,
   author       = {Adam Jennings},
-  title        = {{Managed Open-Source Data Stack for Sub-Second 
-                   Analytics and Queries}},
+  title        = {Managed Open-Source Data Stack for Sub-Second  Analytics and Queries},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -137,8 +136,7 @@ Session Chair: **Glenn Tarcea**
 
 @misc{peer_timo_bremer_2022_7488727,
   author       = {Peer-Timo Bremer},
-  title        = {{Democratizing Data Access at  Lawrence Livermore 
-                   National Laboratory}},
+  title        = {Democratizing Data Access at  Lawrence Livermore National Laboratory},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -184,8 +182,7 @@ Session Chair: **Glenn Tarcea**
 @misc{kevin_coakley_2022_7488768,
   author       = {Kevin Coakley and
                   Christine Kirkpatrick},
-  title        = {{Federated Infrastructure Updates and FAIR Digital 
-                   Objects}},
+  title        = {Federated Infrastructure Updates and FAIR Digital Objects},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -205,8 +202,7 @@ Session Chair: **Glenn Tarcea**
 
 @misc{dan_milroy_2022_7488780,
   author       = {Dan Milroy},
-  title        = {{Cloud-Native HPC with Kubernetes and the Flux 
-                   Framework}},
+  title        = {Cloud-Native HPC with Kubernetes and the Flux Framework},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -225,8 +221,7 @@ Session Chair: **Glenn Tarcea**
                   I-Hsin Chung and
                   Seetharami Seelam and
                   Michela Taufer},
-  title        = {{Tuning Object Storage for Scientific Workflows on 
-                   Cloud Computational Services}},
+  title        = {Tuning Object Storage for Scientific Workflows on Cloud Computational Services},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -244,8 +239,7 @@ Session Chair: **Glenn Tarcea**
                   Naweiluo Zhou and
                   Valerio Pascucci and
                   Michela Taufer},
-  title        = {{NSDF-Catalog: Toward a Lightweight Indexing 
-                   Service  for the National Science Data Fabric}},
+  title        = {NSDF-Catalog: Toward a Lightweight Indexing Service  for the National Science Data Fabric},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -256,8 +250,7 @@ Session Chair: **Glenn Tarcea**
 @misc{bin_fan_2022_7488800,
   author       = {Bin Fan and
                   Shouwei Chen},
-  title        = {{Architect a Heterogeneous Data Platform Across 
-                   Clusters, Regions, and Clouds}},
+  title        = {Architect a Heterogeneous Data Platform Across Clusters, Regions, and Clouds},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -280,9 +273,7 @@ Session Chair: **Glenn Tarcea**
                   Brian Puchala and
                   Tracy Berman and
                   John Allison},
-  title        = {{The Materials Commons 2.0: A Collaboration 
-                   Platform and Information Repository for the Global
-                   Materials Community}},
+  title        = {The Materials Commons 2.0: A Collaboration Platform and Information Repository for the Global Materials Community},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -292,9 +283,7 @@ Session Chair: **Glenn Tarcea**
 
 @misc{owen_koppe_2022_7488814,
   author       = {owen Koppe},
-  title        = {{Unlocking Analysis Ready Cloud Optimized (ARCO) 
-                   file format in the OpenVisus Framework and NSDF-
-                   Data-Portal Update}},
+  title        = {Unlocking Analysis Ready Cloud Optimized (ARCO) file format in the OpenVisus Framework and NSDF-Data-Portal Update},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -305,9 +294,7 @@ Session Chair: **Glenn Tarcea**
 @misc{bozo_vazic_2022_7488820,
   author       = {Bozo Vazic and
                   Pania Newell},
-  title        = {{Accelerating scientific discoveries by mapping 3D 
-                   imaging data to computational models for physics-
-                   based simulations}},
+  title        = {Accelerating scientific discoveries by mapping 3D imaging data to computational models for physics-based simulations},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -326,8 +313,7 @@ Session Chair: **Glenn Tarcea**
                   Pania Newell and
                   Valerio Pascucci and
                   Michela Taufer},
-  title        = {{A Software Framework for the Orchestration of 
-                   Materials Science Workflows at Large Scale}},
+  title        = {A Software Framework for the Orchestration of Materials Science Workflows at Large Scale},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -342,8 +328,7 @@ Session Chair: **Glenn Tarcea**
                   Philip Davis and
                   Manish Parashar and
                   Valerio Pascucci},
-  title        = {{Publishing NASA's Multi-Petabytes of Climate 
-                   Datasets}},
+  title        = {Publishing NASA's Multi-Petabytes of Climate Datasets},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -357,8 +342,7 @@ Session Chair: **Glenn Tarcea**
                   Jay Lofstead and
                   Rodrigo Vargas and
                   Michela Taufer},
-  title        = {{TRIC: Traceability and Reproducibility through 
-                   Individual Containerization}},
+  title        = {TRIC: Traceability and Reproducibility through Individual Containerization},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},
@@ -381,8 +365,7 @@ Session Chair: **Glenn Tarcea**
                   Glenn Tarcea and
                   Giorgio Scorzelli and
                   Valerio Pascucci},
-  title        = {{Interactive access and exploration of scientific 
-                   data products}},
+  title        = Interactive access and exploration of scientific data products},
   month        = oct,
   year         = 2022,
   publisher    = {Zenodo},

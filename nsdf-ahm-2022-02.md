@@ -65,7 +65,7 @@ Topics:
                   Brian Puchala and
                   Tracy Berman and
                   John Allison},
-  title        = {{The Materials Commons 2.0: A Collaboration Platform and Information Repository for the Global Materials Community}},
+  title        = {The Materials Commons 2.0: A Collaboration Platform and Information Repository for the Global Materials Community},
   month        = feb,
   year         = 2022,
   publisher    = {Zenodo},
@@ -75,7 +75,7 @@ Topics:
 
 @misc{steve_petruzza_2022_7488491,
   author       = {Steve Petruzza},
-  title        = {{Experimental data acquisition and analysis at Advanced Photon Source Argonne National Lab}},
+  title        = {Experimental data acquisition and analysis at Advanced Photon Source Argonne National Lab},
   month        = dec,
   year         = 2022,
   publisher    = {Zenodo},
@@ -85,7 +85,7 @@ Topics:
 
 @misc{damian_clarke_2022_7488502,
   author       = {Damian Clarke},
-  title        = {{NSDF collaboration with Minority Serving  Institutions (MSI). MS-CC overview and opportunities to collaborate with the NSDF}},
+  title        = {NSDF collaboration with Minority Serving  Institutions (MSI). MS-CC overview and opportunities to collaborate with the NSDF},
   month        = feb,
   year         = 2022,
   publisher    = {Zenodo},
@@ -120,7 +120,7 @@ Topics:
                   Rodrigo Vargas and
                   Jay Lofstead and
                   Michela Taufer},
-  title        = {{Building trust in Earth Science Findings through Data Traceability and Results Explainability}},
+  title        = {Building trust in Earth Science Findings through Data Traceability and Results Explainability},
   month        = feb,
   year         = 2022,
   publisher    = {Zenodo},
@@ -130,7 +130,7 @@ Topics:
 
 @misc{frank_wuerthwein_2022_7488537,
   author       = {Frank Wuerthwein},
-  title        = {{OSG use cases for NSDF: including XenonNT as an example}},
+  title        = {OSG use cases for NSDF: including XenonNT as an example},
   month        = dec,
   year         = 2022,
   publisher    = {Zenodo},
@@ -245,8 +245,7 @@ Topics:
 
 @misc{michael_corn_2022_7488590,
   author       = {Michael Corn},
-  title        = {{Intersecting Cybersecurity And Research 
-                   Infrastructure: Partnership Not Rules}},
+  title        = {Intersecting Cybersecurity And Research Infrastructure: Partnership Not Rules},
   month        = feb,
   year         = 2022,
   publisher    = {Zenodo},

@@ -12,7 +12,7 @@ ref: seminars
 
 **Speaker** NSDF Team 
 
-<a  href="nsdf-ahm-2022-10" >**Link**</a>
+<a  href="nsdf-ahm-2022-10-10" >**Link**</a>
 
 In-person meeting of the National Science Data Fabric on October 11-12 in conjunction with the <a href='https://www.escience-conference.org/2022/'>eScience</a> conference in Salt Lake City 
 

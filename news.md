@@ -6,6 +6,18 @@ ref: news
 order: 0
 ---
 
+# 2023
+
+<ul class="post-list">
+
+	<li>
+	<span class="post-meta">March 23 2023 - 10:30 Mountain Time</span>
+	<h2><a class="post-link" href="nsdf-seminar-series-legger" >NSDF Distinguished Speaker Series: Federica Legger, National Institute for Nuclear Physics</a></h2>
+	Large (Hadron Collider) and Big (Data Science)
+	</li>
+
+</ul>
+
 # 2022
 
 <ul class="post-list">

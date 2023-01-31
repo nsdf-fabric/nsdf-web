@@ -6,6 +6,11 @@ ref: seminars
 ---
 
 ---
+
+# NSDF Distinguished Speaker Series - March 23 2023 - 10:30 Mountain Time
+{% include_relative nsdf-seminar-series-legger.body.md %}
+
+---
 # All Hands Meeting - October 2022
 
 **Date** October 11 and October 12 2022

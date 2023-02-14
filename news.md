@@ -10,6 +10,16 @@ order: 0
 
 <ul class="post-list">
 
+<li>
+<span class="post-meta">April  12-13 2023</span> 
+<h2><a class="post-link" href="nsdf-ahm-2023-04" >NSDF All-Hands Meeting April 2023</a></h2>
+Join the National Science Data Fabric Team on April 12,13 in San Diego, CA.
+</li>	
+
+</ul>
+
+<ul class="post-list">
+
 	<li>
 	<span class="post-meta">March 23 2023 - 10:30 Mountain Time</span>
 	<h2><a class="post-link" href="nsdf-seminar-series-legger" >NSDF Distinguished Speaker Series: Federica Legger, National Institute for Nuclear Physics</a></h2>

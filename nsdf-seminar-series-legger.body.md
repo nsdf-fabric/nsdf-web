@@ -1,3 +1,8 @@
+
+## Join Zoom Meeting: 
+- [https://bit.ly/3x6Fns3](https://bit.ly/3x6Fns3) or
+- [https://sciinstitute.zoom.us/j/81066340619?pwd=QU16ZnlyRTRsREo1KzQrU0pRTmY3Zz09](https://sciinstitute.zoom.us/j/81066340619?pwd=QU16ZnlyRTRsREo1KzQrU0pRTmY3Zz09)
+
 **Date** March 23 2023 - 10:30 Mountain Time
 
 **Title** *Large (Hadron Collider) and Big (Data Science)*

@@ -9,23 +9,28 @@ order: 0
 # 2023
 
 <ul class="post-list">
+<li>
+<span class="post-meta">March 8,2023</span>
+<h2><a class="post-link" href="nsdf-wids" >Women in Data Science (WiDS) Stanford Conference 2023</a></h2>
+Michela Taufer (Dongarra Professor at UTK and co-PI on the NSDF project) is speaking at the annual Women in Science (WiDS) Worldwide conference on March 8, 2023.
+</li>
+</ul>
 
+
+<ul class="post-list">
 <li>
 <span class="post-meta">April  12-13 2023</span> 
 <h2><a class="post-link" href="nsdf-ahm-2023-04" >NSDF All-Hands Meeting April 2023</a></h2>
 Join the National Science Data Fabric Team on April 12,13 in San Diego, CA.
 </li>	
-
 </ul>
 
 <ul class="post-list">
-
-	<li>
-	<span class="post-meta">March 23 2023 - 10:30 Mountain Time</span>
-	<h2><a class="post-link" href="nsdf-seminar-series-legger" >NSDF Distinguished Speaker Series: Federica Legger, National Institute for Nuclear Physics</a></h2>
-	Large (Hadron Collider) and Big (Data Science)
-	</li>
-
+<li>
+<span class="post-meta">March 23 2023 - 10:30 Mountain Time</span>
+<h2><a class="post-link" href="nsdf-seminar-series-legger" >NSDF Distinguished Speaker Series: Federica Legger, National Institute for Nuclear Physics</a></h2>
+Large (Hadron Collider) and Big (Data Science)
+</li>
 </ul>
 
 # 2022

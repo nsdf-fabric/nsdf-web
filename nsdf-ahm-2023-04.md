@@ -11,6 +11,139 @@ San Diego Supercomputer Center<br>
 10100 Hopkins Drive, La Jolla, CA 92093<br>
 
 
+# Keynote
+
+Keynote Speaker: **Maria Elena Monzani, Stanford U.**
+
+Title: *Data-Intensive search for Dark Matter with the LUX-ZEPLIN experiment*
+
+<img src="/assets/images/monzani.jpg" align=center/>
+
+### Abstract
+
+The nature and origin of dark matter are among the most compelling mysteries of contemporary science. There is strong evidence for dark matter from its role in shaping the galaxies and galaxy clusters that we observe in the universe. Still, physicists have tried to detect dark matter particles for over three decades with little success.
+
+This talk will describe the leading effort in that search, the LUX-ZEPLIN (LZ) detector. LZ is an instrument that is superlative in many ways. It consists of 10 tons of liquified xenon gas, maintained at almost atomic purity and stored in a refrigerated titanium cylinder a mile underground in a former gold mine in Lead, South Dakota.
+
+​During its science run, LZ is projected to accumulate a massive dataset of many petabytes of data and record several billions of particle interactions, only a handful of which might be produced by potential dark matter candidates (if nature cooperates). Identifying the dark matter signals in this amassment of data represents an extreme “needle in a haystack” problem and requires leveraging advanced detector design and state-of-the-art machine learning algorithms. The talk will present challenges in constructing this large-scale underground experiment and interpreting its data, along with the prospects LZ presents for finally discovering the dark matter particle and recently released results from its initial search for new physics.
+
+### Bio
+
+Maria Elena Monzani is a dark matter data wrangler. Her research field is Astroparticle physics, which focuses on topics at the intersection between particle physics and astrophysics/cosmology, using the tools of data-intensive science. She received a dual Ph.D. from the University of Milano and the University of Paris 7, performing research with the Borexino experiment that measured neutrinos produced by the Sun. She then held a postdoctoral position at Columbia University before joining SLAC in 2007 to work on the Fermi Gamma-ray Space Telescope. Today, Monzani is a lead scientist at SLAC and a senior Kavli Institute for Particle Astrophysics and Cosmology member at Stanford. She leads the software computing effort for the LZ Dark Matter Experiment and the science operations team for the Fermi satellite. She is also an Adjunct Scholar at the Vatican Observatory and enjoys discussing the shared philosophical foundations of scientific and religious endeavors.
+
+
+
+# Schedule 
+
+## Wed April 12			
+			
+**Session 1 - Welcome, Vision, and Keynote**	
+
+|-------|-----|-------       |---------------------|---------------------|
+|9:00	| 9:15|	U Utah       |	Valerio	Pascucci   |	The state of NSDF|
+|9:15	| 9:30|	UCSD         |	Frank 	Wuerthwein |	Updates on NRP|
+|9:30	|10:00|	Stanford U.  |	Maria Elena Monzani|	Data-Intensive search for Dark Matter with the LUX-ZEPLIN experiment|
+|10:00	|10:30|	Coffee Break | | |
+
+**Session 2**	
+
+|-------|-----|-----------------|---------------------|---------------------|
+|10:30	|10:45	|Alluxio	    | Shouwei 	Chen	    |How to Bring Data Locality to I/O-intensive Workloads on Cloud
+|10:45	|11:00	|U Utah	        | Aashish	Panta	    |Using Jupyter Notebooks for 200TB NASA Datasets
+|11:00	|11:15	|SEAL Storage	| Sal	Malik	        |Web3 in the Real World: Decentralized Cloud Storage Use Cases
+|11:15	|11:30	|UTK	        | Jakob	Luettgau	    |Updates on the NSDF Catalog
+|11:30	|11:45	|Alluxio	    | Bin Fan	            |Efficient Data Access and Migration Across Clouds
+|11:45	|12:00	|UCSD	        | Stefaan	Vervaet	    |How Decentralized Storage and Blockchain Preserve & Enable Scientific Research
+|12:00	|13:30	|Lunch	| | |
+
+**Session 3**
+
+|-------|-----|-----------------|---------------------|---------------------|
+|13:30	| 13:45	|U Hawaii     | Sean 	Cleveland  | Needs for pacific regional CI |
+|13:45	| 14:00	|UCSD         | Amarnath 	Gupta  | A Data Fabric For Social Good? |
+|14:00	| 14:15	|DataVerse    | Gustavo	Durand     | DataVerse |
+|14:15	| 14:30	|LLNL         | Peer-Timo	Bremer | Distributed Data Access in the National Security Complex |
+|14:30	| 14:45	|U Chicago    | Kyle 	Chard      | Linking scientific instruments and computation: Patterns, technologies, and experiences |
+|14:45	| 15:00	|UCSD         | OSG	Fabio          | Andrijauskas	Open Science Data Federation |
+|15:00	| 15:30	|Coffee Break | | | 	
+
+**Session 4**
+
+|-------|-----|-----------------|---------------------|---------------------|
+|15:30	| 15:45	| U Utah	| Attila	Gyulassy	  | Community Feedback on Data Worflows |
+|15:45	| 16:00	| U Utah	| Ivan	Rodero	          | NSDF Authentication and Authorization Infrastructure |
+|16:00	| 16:15	| UTK	    | Paula  Olaya	          | Composing Scientific Workflows in the Cloud at Large Scale |
+|16:15	| 16:30	| U Utah	| Giorgio Scorzelli	      | Updates on the NSDF Storage |
+|16:30	| 16:45	| UCSD	    | Christine Kirkpatrick	  | FAIR data services and the NSDF catalog |
+|16:45	| 17:00	| UTK	    | Heberth	Martinez      | Monitoring Latency and Throughput across Distributed Resources in NSDF |
+					
+*NSDF Dinner*
+					
+## Thursday April 13
+
+**Session 5** 
+
+|-------|-----|-----------------|---------------------|---------------------|
+|9:00	| 9:15	|UTK	                         | Michela 	Taufer	     | TBD |
+|9:15	| 9:30	|Utah State U.	                 | Steve	Petruzza     | Portability of applications to heterogeneous systems and exascale systems |
+|9:30	| 9:45	|Consortium for Ocean Leadership | Douglas 	Fils	     | Leveraging Structured Data on the Web to address FAIR Principles |
+|9:45	|10:00	|morgridge	                     | Brian	Bockelman	 | TBD |
+|10:00	|10:15	|UCSD	                         | Karen	Stocks	     | R2R Challenges managing large data from the US Academic Research Fleet |
+|10:15	|10:45	|Coffee Break  | | |
+
+**Session 6**
+
+|-------|-----|-----------------|---------------------|---------------------|
+|10:30	|10:45	|UCSD	               |Julie	Christopher	|Updates on NSDF Communication Activities |
+|10:45	|11:00	|U Utah	               |Owen	Koppe	    |The NSDF-Data-Portal |
+|11:00	|11:15	|Sandia National Labs  |Jay	Lofstead	    |Metadata Management to Aid Data Discovery |
+|11:15	|11:30	|U Michigan	           |Glenn 	Tarcea    	|TBD |
+|11:30	|11:45	|Cornell CHESS	       |Devin 	Bougie    	|TBD |
+|11:45	|12:00	|U Hawaii	           |Curt	Dodds	    |Everything, Everywhere All at Once, All the Time - Challenges for Astronomy |
+|12:00	|12:15	|All	               |Valerio Pascucci - Michela Taufer -  Giorgio Scorzelli - Christine Kirkpatrick |Closing remarks |
+
+# List of talks 
+
+|-------|-----|-----------------|
+|Fabio	Andrijauskas    | UCSD, OSG	     | Open Science Data Federation |
+|Peer-Timo	Bremer	    | LLNL	         | Distributed Data Access in the National Security Complex |
+|Brian	Bockelman       | morgridge	     | TBD |
+|Devin 	Bougie	        | Cornell, CHESS | TBD |
+|Kyle 	Chard	        | U Chicago      | Linking scientific instruments and computation: Patterns, technologies, and experiences |
+|Shouwei 	Chen    	| Alluxio	     | How to Bring Data Locality to I/O-intensive Workloads on Cloud |
+|Julie	Christopher	    | UCSD	         | Updates on NSDF Communication Activities |
+|Sean 	Cleveland	    | U Hawaii	     | Needs for pacific regional CI |
+|Michael	Corn	    | UCSD	         | TBD |
+|Curt	Dodds           | U Hawaii	     | Everything, Everywhere All at Once, All the Time - Challenges for Astronomy |
+|Bin 	Fan	            | Alluxio	     | Efficient Data Access and Migration Across Clouds |
+|Douglas 	Fils        | Consortium for Ocean Leadership	| Leveraging Structured Data on the Web to address FAIR Principles |
+|Amarnath 	Gupta    	| UCSD	         | A Data Fabric For Social Good? |
+|Attila	Gyulassy	| U Utah	     | Community Feedback on Data Worflows |
+|Christine 	Kirkpatrick	| UCSD	         | FAIR data services and the NSDF catalog |
+|Jay	Lofstead    	| Sandia National Labs	| Metadata Management to Aid Data Discovery |
+|Jakob	Luettgau    	| UTK	         | Updates on the NSDF Catalog |
+|Sal	Malik	        | SEAL Storage 	 | Web3 in the Real World: Decentralized Cloud Storage Use Cases |
+|Heberth	Martinez	| UTK	         | Monitoring Latency and Throughput across Distributed Resources in NSDF |
+|John	Melchi	        | U Utah         | NA  |
+|Maria Elena 	Monzani	| Stanford U.	 | Data-Intensive search for Dark Matter with the LUX-ZEPLIN experiment |
+|Paula 	Olaya	        | UTK	         | Composing Scientific Workflows in the Cloud at Large Scale |
+|Manish	Parashar	    | U Utah	     | NA |
+|Valerio	Pascucci	| U Utah	     | The state of NSDF |
+|Steve	Petruzza	    | Utah State U.	 | Portability of applications to heterogeneous systems and exascale systems |
+|Ivan	Rodero	        | U Utah	     | NSDF Authentication and Authorization Infrastructure |
+|Giorgio	Scorzelli	| U Utah	     | Updates on the NSDF Storage |
+|Karen	Stocks	        | UCSD	         | R2R Challenges managing large data from the US Academic Research Fleet |
+|Glenn 	Tarcea	        | U Michigan	 | TBD |
+|Michela 	Taufer	    | UTK	         | TBD |
+|Stefaan	Vervaet	    | UCSD	         | How Decentralized Storage and Blockchain Preserve & Enable Scientific Research |
+|Frank 	Wuerthwein	    | UCSD	         | Updates on NRP |
+|Aashish	Panta    	| U Utah	     | Using Jupyter Notebooks for 200TB NASA Datasets |
+|Owen	Koppe	        | U Utah	     | The NSDF-Data-Portal |
+|Gustavo	Durand	    | DataVerse	     | DataVerse |
+
+
+
+
 ## LODGING
 
 The NSDF AHM will not have a dedicated room block; however, there are a number of hotels near the SDSC.

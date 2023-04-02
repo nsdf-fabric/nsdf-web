@@ -35,12 +35,12 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 
 # Schedule 
 
-## Wed April 12			
-			
-**Session 1 - Welcome, Vision, and Keynote**	
+## Wed April 12
+
+**Session 1 - Welcome, Vision, and Keynote**
 
 |-------|-----|-------       |---------------------|---------------------|
-|9:00	| 9:15|	U Utah       |	Valerio	Pascucci   |	The state of NSDF|
+|9:00	| 9:15|	U Utah       |	Valerio	Pascucci   | The state of NSDF|
 |9:15	| 9:30|	UCSD         |	Frank 	Wuerthwein |	Updates on NRP|
 |9:30	|10:00|	Stanford U.  |	Maria Elena Monzani|	Data-Intensive search for Dark Matter with the LUX-ZEPLIN experiment|
 |10:00	|10:30|	Coffee Break | | |
@@ -84,10 +84,10 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 **Session 5** 
 
 |-------|-----|-----------------|---------------------|---------------------|
-|9:00	| 9:15	|UTK	                         | Michela 	Taufer	     | TBD |
+|9:00	| 9:15	|UTK	                         | Michela 	Taufer	     |  |
 |9:15	| 9:30	|Utah State U.	                 | Steve	Petruzza     | Portability of applications to heterogeneous systems and exascale systems |
 |9:30	| 9:45	|Consortium for Ocean Leadership | Douglas 	Fils	     | Leveraging Structured Data on the Web to address FAIR Principles |
-|9:45	|10:00	|morgridge	                     | Brian	Bockelman	 | TBD |
+|9:45	|10:00	|morgridge	                     | Brian	Bockelman	 |  |
 |10:00	|10:15	|UCSD	                         | Karen	Stocks	     | R2R Challenges managing large data from the US Academic Research Fleet |
 |10:15	|10:45	|Coffee Break  | | |
 
@@ -97,8 +97,8 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 |10:30	|10:45	|UCSD	               |Julie	Christopher	|Updates on NSDF Communication Activities |
 |10:45	|11:00	|U Utah	               |Owen	Koppe	    |The NSDF-Data-Portal |
 |11:00	|11:15	|Sandia National Labs  |Jay	Lofstead	    |Metadata Management to Aid Data Discovery |
-|11:15	|11:30	|U Michigan	           |Glenn 	Tarcea    	|TBD |
-|11:30	|11:45	|Cornell CHESS	       |Devin 	Bougie    	|TBD |
+|11:15	|11:30	|U Michigan	           |Glenn 	Tarcea    	| |
+|11:30	|11:45	|Cornell CHESS	       |Devin 	Bougie    	| |
 |11:45	|12:00	|U Hawaii	           |Curt	Dodds	    |Everything, Everywhere All at Once, All the Time - Challenges for Astronomy |
 |12:00	|12:15	|All	               |Valerio Pascucci - Michela Taufer -  Giorgio Scorzelli - Christine Kirkpatrick |Closing remarks |
 
@@ -107,13 +107,13 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 |-------|-----|-----------------|
 |Fabio	Andrijauskas    | UCSD, OSG	     | Open Science Data Federation |
 |Peer-Timo	Bremer	    | LLNL	         | Distributed Data Access in the National Security Complex |
-|Brian	Bockelman       | morgridge	     | TBD |
-|Devin 	Bougie	        | Cornell, CHESS | TBD |
+|Brian	Bockelman       | morgridge	     |  |
+|Devin 	Bougie	        | Cornell, CHESS |  |
 |Kyle 	Chard	        | U Chicago      | Linking scientific instruments and computation: Patterns, technologies, and experiences |
 |Shouwei 	Chen    	| Alluxio	     | How to Bring Data Locality to I/O-intensive Workloads on Cloud |
 |Julie	Christopher	    | UCSD	         | Updates on NSDF Communication Activities |
 |Sean 	Cleveland	    | U Hawaii	     | Needs for pacific regional CI |
-|Michael	Corn	    | UCSD	         | TBD |
+|Michael	Corn	    | UCSD	         |  |
 |Curt	Dodds           | U Hawaii	     | Everything, Everywhere All at Once, All the Time - Challenges for Astronomy |
 |Bin 	Fan	            | Alluxio	     | Efficient Data Access and Migration Across Clouds |
 |Douglas 	Fils        | Consortium for Ocean Leadership	| Leveraging Structured Data on the Web to address FAIR Principles |
@@ -133,14 +133,13 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 |Ivan	Rodero	        | U Utah	     | NSDF Authentication and Authorization Infrastructure |
 |Giorgio	Scorzelli	| U Utah	     | Updates on the NSDF Storage |
 |Karen	Stocks	        | UCSD	         | R2R Challenges managing large data from the US Academic Research Fleet |
-|Glenn 	Tarcea	        | U Michigan	 | TBD |
-|Michela 	Taufer	    | UTK	         | TBD |
+|Glenn 	Tarcea	        | U Michigan	 |  |
+|Michela 	Taufer	    | UTK	         |  |
 |Stefaan	Vervaet	    | UCSD	         | How Decentralized Storage and Blockchain Preserve & Enable Scientific Research |
 |Frank 	Wuerthwein	    | UCSD	         | Updates on NRP |
 |Aashish	Panta    	| U Utah	     | Using Jupyter Notebooks for 200TB NASA Datasets |
 |Owen	Koppe	        | U Utah	     | The NSDF-Data-Portal |
 |Gustavo	Durand	    | DataVerse	     | DataVerse |
-
 
 
 

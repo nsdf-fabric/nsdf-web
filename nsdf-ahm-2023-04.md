@@ -17,7 +17,7 @@ Keynote Speaker: **Maria Elena Monzani, Stanford U.**
 
 Title: *Data-Intensive search for Dark Matter with the LUX-ZEPLIN experiment*
 
-<img src="/assets/images/monzani.jpg" align=center/>
+<img src="assets/images/monzani.jpg" align=center/>
 
 ### Abstract
 
@@ -39,43 +39,43 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 
 **Session 1 - Welcome, Vision, and Keynote**
 
-|-------|-----|-------       |---------------------|---------------------|
-|9:00	| 9:15|	U Utah       |	Valerio	Pascucci   | The state of NSDF|
-|9:15	| 9:30|	UCSD         |	Frank 	Wuerthwein |	Updates on NRP|
-|9:30	|10:00|	Stanford U.  |	Maria Elena Monzani|	Data-Intensive search for Dark Matter with the LUX-ZEPLIN experiment|
+|-------|-----|--------------|---------------------|---------------------|
+|9:00	| 9:15|	U Utah       |	Valerio	Pascucci   | The state of NSDF |
+|9:15	| 9:30|	UCSD         |	Frank 	Wuerthwein | Updates on NRP |
+|9:30	|10:00|	Stanford U.  |	Maria Elena Monzani| Data-Intensive search for Dark Matter with the LUX-ZEPLIN experiment |
 |10:00	|10:30|	Coffee Break | | |
 
 **Session 2**	
 
-|-------|-----|-----------------|---------------------|---------------------|
-|10:30	|10:45	|Alluxio	    | Shouwei 	Chen	    |How to Bring Data Locality to I/O-intensive Workloads on Cloud
-|10:45	|11:00	|U Utah	        | Aashish	Panta	    |Using Jupyter Notebooks for 200TB NASA Datasets
-|11:00	|11:15	|SEAL Storage	| Sal	Malik	        |Web3 in the Real World: Decentralized Cloud Storage Use Cases
-|11:15	|11:30	|UTK	        | Jakob	Luettgau	    |Updates on the NSDF Catalog
-|11:30	|11:45	|Alluxio	    | Bin Fan	            |Efficient Data Access and Migration Across Clouds
-|11:45	|12:00	|UCSD	        | Stefaan	Vervaet	    |How Decentralized Storage and Blockchain Preserve & Enable Scientific Research
-|12:00	|13:30	|Lunch	| | |
+|-------|-----|-----------------|-----------------------|---------------------|
+|10:30	|10:45	|Alluxio	    | Shouwei 	Chen	    | How to Bring Data Locality to I/O-intensive Workloads on Cloud |
+|10:45	|11:00	|U Utah	        | Aashish	Panta	    | Using Jupyter Notebooks for 200TB NASA Datasets |
+|11:00	|11:15	|SEAL Storage	| Sal	Malik	        | Web3 in the Real World: Decentralized Cloud Storage Use Cases |
+|11:15	|11:30	|Alluxio	    | Bin Fan 	            | Efficient Data Access and Migration Across Clouds |
+|11:30	|11:45	|UCSD	        | Stefaan	Vervaet	    | How Decentralized Storage and Blockchain Preserve & Enable Scientific Research |
+|11:45	|12:00	|UCSD	        | Karen	Stocks     	    | R2R Challenges managing large data from the US Academic Research Fleet |
+|12:00	|13:30	|Lunch	        |                       |  |
 
 **Session 3**
 
-|-------|-----|-----------------|---------------------|---------------------|
-|13:30	| 13:45	|U Hawaii     | Sean 	Cleveland  | Needs for pacific regional CI |
-|13:45	| 14:00	|UCSD         | Amarnath 	Gupta  | A Data Fabric For Social Good? |
-|14:00	| 14:15	|DataVerse    | Gustavo	Durand     | DataVerse |
-|14:15	| 14:30	|LLNL         | Peer-Timo	Bremer | Distributed Data Access in the National Security Complex |
-|14:30	| 14:45	|U Chicago    | Kyle 	Chard      | Linking scientific instruments and computation: Patterns, technologies, and experiences |
-|14:45	| 15:00	|UCSD         | OSG	Fabio          | Andrijauskas	Open Science Data Federation |
+|-------|-------|-----------------|---------------------------|---------------------|
+|13:30	| 13:45	|U Hawaii         | Sean 	Cleveland         | Needs for pacific regional CI |
+|13:45	| 14:00	|UCSD             | Amarnath 	Gupta         | A Data Fabric For Social Good? |
+|14:00	| 14:15	|LLNL             | Peer-Timo	Bremer        | Distributed Data Access in the National Security Complex |
+|14:15	| 14:30	|U Chicago        | Kyle  Chard               | Linking scientific instruments and computation: Patterns, technologies, and experiences |
+|14:30	| 14:45	|UCSD,OSG         | Fabio  Andrijauskas       | Open Science Data Federation |
+|14:45	| 15:00	|NCSA             | Luigi Marini              | Clowder: Open Source, Customizable, Data and Workflow Management |
 |15:00	| 15:30	|Coffee Break | | | 	
 
 **Session 4**
 
-|-------|-----|-----------------|---------------------|---------------------|
+|-------|-------|-----------|-------------------------|---------------------|
 |15:30	| 15:45	| U Utah	| Attila	Gyulassy	  | Community Feedback on Data Worflows |
 |15:45	| 16:00	| U Utah	| Ivan	Rodero	          | NSDF Authentication and Authorization Infrastructure |
 |16:00	| 16:15	| UTK	    | Paula  Olaya	          | Composing Scientific Workflows in the Cloud at Large Scale |
-|16:15	| 16:30	| U Utah	| Giorgio Scorzelli	      | Updates on the NSDF Storage |
-|16:30	| 16:45	| UCSD	    | Christine Kirkpatrick	  | FAIR data services and the NSDF catalog |
-|16:45	| 17:00	| UTK	    | Heberth	Martinez      | Monitoring Latency and Throughput across Distributed Resources in NSDF |
+|16:15	| 16:30	| U Utah	| Giorgio Scorzelli	      | Updates on the NSDF OpenVisus |
+|16:30	| 16:45	| UTK	    | Heberth	Martinez	  | Monitoring Latency and Throughput across Distributed Resources in NSDF |
+|16:45	| 17:00	| UTK	    | Jakob	Luettgau          | Updates on the NSDF Catalog |
 					
 *NSDF Dinner*
 					
@@ -83,24 +83,25 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 
 **Session 5** 
 
-|-------|-----|-----------------|---------------------|---------------------|
-|9:00	| 9:15	|UTK	                         | Michela 	Taufer	     |  |
-|9:15	| 9:30	|Utah State U.	                 | Steve	Petruzza     | Portability of applications to heterogeneous systems and exascale systems |
-|9:30	| 9:45	|Consortium for Ocean Leadership | Douglas 	Fils	     | Leveraging Structured Data on the Web to address FAIR Principles |
-|9:45	|10:00	|morgridge	                     | Brian	Bockelman	 |  |
-|10:00	|10:15	|UCSD	                         | Karen	Stocks	     | R2R Challenges managing large data from the US Academic Research Fleet |
-|10:15	|10:45	|Coffee Break  | | |
+|-------|-------|-----------------|---------------------|---------------------|
+|9:00	| 9:15	|UCSD	                         | Michael	Corn	          | Framing Research Security and a discussion of risk identification |
+|9:15	| 9:30	|Utah State U.	                 | Steve	Petruzza          | Portability of applications to heterogeneous systems and exascale systems |
+|9:30	| 9:45	|SDSC/UC San Diego               | Christine	Kirkpatrick	  | Tailoring the National Science Data Fabric to Open Science & FAIR Aims |
+|9:45	|10:00	|morgridge	                     | Brian	Bockelman	      | The Future of Open-Science Grid|
+|10:00	|10:15	|protocol.ai	                 | Kenton 	Langstroth	      | Filecoin Network Updates |
+|10:15	|10:30	|Ronin Institute	             | Douglas 	Fils	          | Leveraging Structured Data on the Web to address FAIR Principles |
+|10:30	|11:00	|Coffee Break                    | | |
 
 **Session 6**
 
-|-------|-----|-----------------|---------------------|---------------------|
-|10:30	|10:45	|UCSD	               |Julie	Christopher	|Updates on NSDF Communication Activities |
-|10:45	|11:00	|U Utah	               |Owen	Koppe	    |The NSDF-Data-Portal |
-|11:00	|11:15	|Sandia National Labs  |Jay	Lofstead	    |Metadata Management to Aid Data Discovery |
-|11:15	|11:30	|U Michigan	           |Glenn 	Tarcea    	| |
-|11:30	|11:45	|Cornell CHESS	       |Devin 	Bougie    	| |
-|11:45	|12:00	|U Hawaii	           |Curt	Dodds	    |Everything, Everywhere All at Once, All the Time - Challenges for Astronomy |
-|12:00	|12:15	|All	               |Valerio Pascucci - Michela Taufer -  Giorgio Scorzelli - Christine Kirkpatrick |Closing remarks |
+|-------|-------|-----------------|---------------------|---------------------|
+|11:00	|11:15	|NVIDIA	               |Pavol 	Klacansky	| Building a large scale community data portal with commodity hardwar |
+|11:15	|11:30	|U Utah	               |Owen	Koppe	    | The NSDF-Data-Portal |
+|11:30	|11:45	|Sandia National Labs  |Jay	Lofstead	    | Metadata Management to Aid Data Discovery |
+|11:45	|12:00	|U Michigan	           |Glenn 	Tarcea    	| Updates on Materials Commons and NSDF |
+|12:00	|12:15	|Cornell, CHESS	       |Devin 	Bougie    	| The CHESS - NSDF Collaboration: Updates  |
+|12:15	|12:30	|U Hawaii	           |Curt	Dodds	    | Everything, Everywhere All at Once, All the Time - Challenges for Astronomy |
+|12:30	|12:45	|All	               |Valerio Pascucci - Michela Taufer -  Giorgio Scorzelli - Christine Kirkpatrick | Closing remarks |
 
 # List of talks 
 

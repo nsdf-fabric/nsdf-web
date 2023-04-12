@@ -87,7 +87,7 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 |9:00	| 9:15	|UCSD	                         | Michael	Corn	          | Framing Research Security and a discussion of risk identification |
 |9:15	| 9:30	|Utah State U.	                 | Steve	Petruzza          | Portability of applications to heterogeneous systems and exascale systems |
 |9:30	| 9:45	|SDSC/UC San Diego               | Christine	Kirkpatrick	  | Tailoring the National Science Data Fabric to Open Science & FAIR Aims |
-|9:45	|10:00	|morgridge	                     | Brian	Bockelman	      | The Future of Open-Science Grid|
+|9:45	|10:00	|Morgridge	                     | Brian	Bockelman	      | Kingfisher: Storage Management for Data Federations |
 |10:00	|10:15	|protocol.ai	                 | Kenton 	Langstroth	      | Filecoin Network Updates |
 |10:15	|10:30	|Ronin Institute	             | Douglas 	Fils	          | Leveraging Structured Data on the Web to address FAIR Principles |
 |10:30	|11:00	|Coffee Break                    | | |
@@ -98,7 +98,7 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 |11:00	|11:15	|NVIDIA	               |Pavol 	Klacansky	| Building a large scale community data portal with commodity hardwar |
 |11:15	|11:30	|U Utah	               |Owen	Koppe	    | The NSDF-Data-Portal |
 |11:30	|11:45	|Sandia National Labs  |Jay	Lofstead	    | Metadata Management to Aid Data Discovery |
-|11:45	|12:00	|U Michigan	           |Glenn 	Tarcea    	| Updates on Materials Commons and NSDF |
+|11:45	|12:00	|U Michigan	           |Glenn 	Tarcefa    	| Updates on Materials Commons and NSDF |
 |12:00	|12:15	|Cornell, CHESS	       |Devin 	Bougie    	| The CHESS - NSDF Collaboration: Updates  |
 |12:15	|12:30	|U Hawaii	           |Curt	Dodds	    | Everything, Everywhere All at Once, All the Time - Challenges for Astronomy |
 |12:30	|12:45	|All	               |Valerio Pascucci - Michela Taufer -  Giorgio Scorzelli - Christine Kirkpatrick | Closing remarks |

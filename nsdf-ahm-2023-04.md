@@ -70,12 +70,12 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 **Session 4 (Session Chair: Christine Kirkpatrick)**
 
 |-------|-------|-----------|-------------------------|---------------------|
-|15:30	| 15:45	| U Utah	| Attila	Gyulassy	  | Community Feedback on Data Worflows |
-|15:45	| 16:00	| U Utah	| Ivan	Rodero	          | NSDF Authentication and Authorization Infrastructure |
-|16:00	| 16:15	| UTK	    | Paula  Olaya	          | Composing Scientific Workflows in the Cloud at Large Scale |
-|16:15	| 16:30	| U Utah	| Giorgio Scorzelli	      | Updates on the NSDF OpenVisus |
-|16:30	| 16:45	| UTK	    | Heberth	Martinez	  | Monitoring Latency and Throughput across Distributed Resources in NSDF |
-|16:45	| 17:00	| UTK	    | Jakob	Luettgau          | Updates on the NSDF Catalog |
+|15:30	| 15:45	| U Utah	           | Attila	Gyulassy	      | Community Feedback on Data Worflows |
+|15:45	| 16:00	| U Utah	           | Ivan	Rodero	          | NSDF Authentication and Authorization Infrastructure |
+|16:00	| 16:15	|Sandia National Labs  | Jay	Lofstead	      | Metadata Management to Aid Data Discovery |
+|16:15	| 16:30	| U Utah	           | Giorgio Scorzelli	      | Updates on the NSDF OpenVisus |
+|16:30	| 16:45	| UTK	               | Heberth	Martinez	  | Monitoring Latency and Throughput across Distributed Resources in NSDF |
+|16:45	| 17:00	| UTK	               | Jakob	Luettgau          | Updates on the NSDF Catalog |
 					
 *NSDF Dinner*
 					
@@ -97,7 +97,7 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 |-------|-------|-----------------|---------------------|---------------------|
 |11:00	|11:15	|NVIDIA	               |Pavol 	Klacansky	| Building a large scale community data portal with commodity hardwar |
 |11:15	|11:30	|U Utah	               |Owen	Koppe	    | The NSDF-Data-Portal |
-|11:30	|11:45	|Sandia National Labs  |Jay	Lofstead	    | Metadata Management to Aid Data Discovery |
+|11:30	|11:45	| UTK	               | Paula  Olaya	    | Composing Scientific Workflows in the Cloud at Large Scale |
 |11:45	|12:00	|U Michigan	           |Glenn 	Tarcefa    	| Updates on Materials Commons and NSDF |
 |12:00	|12:15	|Cornell, CHESS	       |Devin 	Bougie    	| The CHESS - NSDF Collaboration: Updates  |
 |12:15	|12:30	|U Hawaii	           |Curt	Dodds	    | Everything, Everywhere All at Once, All the Time - Challenges for Astronomy |

@@ -101,7 +101,7 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 |11:45	|12:00	|U Michigan	           | Glenn 	Tarcea     	| Materials Commons Updates and Thinking Big By Thinking Small |
 |12:00	|12:15	|Cornell, CHESS	       | Devin 	Bougie    	| The CHESS - NSDF Collaboration: Updates  |
 |12:15	|12:30	|U Hawaii	           | Curt	Dodds	    | Everything, Everywhere All at Once, All the Time - Challenges for Astronomy |
-|12:30	|12:45	|All	               | Valerio Pascucci - Michela Taufer -  Giorgio Scorzelli - Christine Kirkpatrick | Closing remarks |
+|12:30	|12:45	|All	               | Valerio Pascucci - Michela Taufer -  Christine Kirkpatrick | Closing remarks |
 
 ## LODGING
 

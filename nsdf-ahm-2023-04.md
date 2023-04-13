@@ -52,7 +52,7 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 |10:45	|11:00	|U Utah	        | Aashish	Panta	    | Using Jupyter Notebooks for 200TB NASA Datasets |
 |11:00	|11:15	|SEAL Storage	| Sal	Malik	        | Web3 in the Real World: Decentralized Cloud Storage Use Cases |
 |11:15	|11:30	|Alluxio	    | Bin Fan 	            | Efficient Data Access and Migration Across Clouds |
-|11:30	|11:45	|UCSD	        | Stefaan	Vervaet	    | How Decentralized Storage and Blockchain Preserve & Enable Scientific Research |
+|11:30	|11:45	|protocol.ai	| Kenton Langstroth   	| Filecoin for researchers |
 |11:45	|12:00	|UCSD	        | Karen	Stocks     	    | R2R Challenges managing large data from the US Academic Research Fleet |
 |12:00	|13:30	|Lunch	        |                       |  |
 
@@ -88,9 +88,8 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 |9:15	| 9:30	|Utah State U.	                 | Steve	Petruzza          | Portability of applications to heterogeneous systems and exascale systems |
 |9:30	| 9:45	|SDSC/UC San Diego               | Christine	Kirkpatrick	  | Tailoring the National Science Data Fabric to Open Science & FAIR Aims |
 |9:45	|10:00	|Morgridge	                     | Brian	Bockelman	      | Kingfisher: Storage Management for Data Federations |
-|10:00	|10:15	|protocol.ai	                 | Kenton 	Langstroth	      | Filecoin Network Updates |
-|10:15	|10:30	|Ronin Institute	             | Douglas 	Fils	          | Leveraging Structured Data on the Web to address FAIR Principles |
-|10:30	|11:00	|Coffee Break                    | | |
+|10:00	|10:15	|Ronin Institute	             | Douglas 	Fils	          | Leveraging Structured Data on the Web to address FAIR Principles |
+|10:15	|11:00	|Coffee Break                    | | |
 
 **Session 6 (Session Chair: Jakob Luettgau)**
 

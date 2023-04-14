@@ -10,6 +10,14 @@ order: 0
 
 <ul class="post-list">
 <li>
+<span class="post-meta">April  12-13 2023</span> 
+<h2><a class="post-link" href="nsdf-ahm-2023-04" >NSDF All-Hands Meeting April 2023</a></h2>
+Join the National Science Data Fabric Team on April 12,13 in San Diego, CA.
+</li>	
+</ul>
+
+<ul class="post-list">
+<li>
 <span class="post-meta">March 23 2022</span> 
 <h2><a class="post-link" href="nsdf-seminar-series-legger" >Did you miss Federica Legger’s webinar in March?</a></h2>
 	The <i>"Large (Hadron Collider) and Big (Data Science)"</i> webinar is  <a target="_blank" href='https://drive.google.com/file/d/1ZcdikHGTy_0tRldI3xZaHEmczFntoUQg/view?usp=sharing'>now available</a> for you to watch.
@@ -25,13 +33,7 @@ Michela Taufer (Dongarra Professor at UTK and co-PI on the NSDF project) is spea
 </ul>
 
 
-<ul class="post-list">
-<li>
-<span class="post-meta">April  12-13 2023</span> 
-<h2><a class="post-link" href="nsdf-ahm-2023-04" >NSDF All-Hands Meeting April 2023</a></h2>
-Join the National Science Data Fabric Team on April 12,13 in San Diego, CA.
-</li>	
-</ul>
+
 
 <ul class="post-list">
 <li>

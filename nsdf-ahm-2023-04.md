@@ -41,42 +41,42 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 **Session 1 - Welcome, Vision, and Keynote (Session Chair: Michela Taufer)**
 
 |----|----|---|
-| U Utah | Valerio	Pascucci <br>*The state of NSDF*|  <a href='https://docs.google.com/presentation/d/1Vrp5cH68LFQ5J0d4HxVCT6urby66COJR/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session1-pascucci.png"></a> |
-| UCSD  | Frank 	Wuerthwein <br>*Updates on NRP*| <a href='https://docs.google.com/presentation/d/1eDih-J_uJbcZb_O-Kiz5TdoJ2bDFQzNO/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'> <img width=300 src="/assets/misc/ahm3/session1-frank.png"></a> |
+| U Utah | Valerio Pascucci <br>*The state of NSDF*| <a href='https://docs.google.com/presentation/d/1Vrp5cH68LFQ5J0d4HxVCT6urby66COJR/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session1-pascucci.png"></a> |
+| UCSD | Frank Wuerthwein <br>*Updates on NRP*| <a href='https://docs.google.com/presentation/d/1eDih-J_uJbcZb_O-Kiz5TdoJ2bDFQzNO/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'> <img width=300 src="/assets/misc/ahm3/session1-frank.png"></a> |
 | Stanford U. | Maria Elena Monzani <br>*Data-Intensive search for Dark Matter with the LUX-ZEPLIN experiment*| <a href='https://docs.google.com/presentation/d/1liIPMJiUw5qF4DS-fRF9oiDHFpzG-I01/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session1-monzani.png"></a> | 
 
 
-**Session 2 (Session Chair: Valerio Pascucci)**	
+**Session 2 (Session Chair: Valerio Pascucci)** 
 
 |----|----|---|
-|Alluxio	    | Shouwei 	Chen	<br> *How to Bring Data Locality to I/O-intensive Workloads on Cloud* |  <a href='https://docs.google.com/presentation/d/1y_u3vR-BVGq9dA0ElKUHSW1K79xBTlhxMTPfA3OQY-8/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-chen.png"></a> |
-|U Utah	        | Aashish	Panta	<br>  *Using Jupyter Notebooks for 200TB NASA Datasets*|  <a href='https://docs.google.com/presentation/d/1PzlsbG2waIoe2q_M2lyW5PNnsDTro_Ac/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session2-aashish.png"></a> |
-|SEAL Storage	| Sal	Malik <br> *Web3 in the Real World: Decentralized Cloud Storage Use Cases* |  <a href='https://docs.google.com/presentation/d/1nRdtZJedoXDNZwezj2lEJxFzODrgnhrm/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session2-sal.png"></a> |
-|Alluxio	    | Bin Fan  <br>  *Efficient Data Access and Migration Across Clouds* |  <a href='https://docs.google.com/presentation/d/1-_tEMJxH-R1jr6ciwalYGlNpaGkU1mbE499yDdRSLVE/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-bin.png"></a> |
-|protocol.ai	| Kenton Langstroth <br> *Filecoin for researchers* |  <a href='https://docs.google.com/presentation/d/1rAPq1GMYytsb1F_gyH3QsSSdEJAaeWkWGuzXmBKv1cI/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-kenton.png"></a> |
-|UCSD | Karen	Stocks <br>  *R2R Challenges managing large data from the US Academic Research Fleet* |  <a href='https://docs.google.com/presentation/d/1QMASBjsJfO2XWnPf_E-djwnULGWNwCLeZgsrdeYXMn0/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-karen.png"></a> |
+|Alluxio | Shouwei Chen <br> *How to Bring Data Locality to I/O-intensive Workloads on Cloud* | <a href='https://docs.google.com/presentation/d/1y_u3vR-BVGq9dA0ElKUHSW1K79xBTlhxMTPfA3OQY-8/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-chen.png"></a> |
+|U Utah | Aashish Panta <br> *Using Jupyter Notebooks for 200TB NASA Datasets*| <a href='https://docs.google.com/presentation/d/1PzlsbG2waIoe2q_M2lyW5PNnsDTro_Ac/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session2-aashish.png"></a> |
+|SEAL Storage | Sal Malik <br> *Web3 in the Real World: Decentralized Cloud Storage Use Cases* | <a href='https://docs.google.com/presentation/d/1nRdtZJedoXDNZwezj2lEJxFzODrgnhrm/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session2-sal.png"></a> |
+|Alluxio | Bin Fan <br> *Efficient Data Access and Migration Across Clouds* | <a href='https://docs.google.com/presentation/d/1-_tEMJxH-R1jr6ciwalYGlNpaGkU1mbE499yDdRSLVE/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-bin.png"></a> |
+|protocol.ai | Kenton Langstroth <br> *Filecoin for researchers* | <a href='https://docs.google.com/presentation/d/1rAPq1GMYytsb1F_gyH3QsSSdEJAaeWkWGuzXmBKv1cI/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-kenton.png"></a> |
+|UCSD | Karen Stocks <br> *R2R Challenges managing large data from the US Academic Research Fleet* | <a href='https://docs.google.com/presentation/d/1QMASBjsJfO2XWnPf_E-djwnULGWNwCLeZgsrdeYXMn0/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-karen.png"></a> |
 
 
 **Session 3 (Session Chair: Ivan Rodero)**
 
 |----|----|---|
-|U Hawaii         | Sean 	Cleveland <br> *Needs for pacific regional CI* |  <a href='https://docs.google.com/presentation/d/1EN4VtpcjHZ2ZGHaDMCJ0yU5QYZbF64_h/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-sean.png"></a> | 
-|UCSD             | Amarnath 	Gupta <br> *A Data Fabric For Social Good?* |  <a href='https://docs.google.com/presentation/d/13qu2bNhrsyH0fIAPpAGfxbflsg1NtSZV/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-gupta.png"></a> |
-|LLNL             | Peer-Timo	Bremer <br> *Distributed Data Access in the National Security Complex* |  <a href='https://docs.google.com/presentation/d/1efKdNPvwuUmb0JP7KQffubtUfbOlwsey/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-timo.png"></a> |
-|U Chicago        | Kyle   <br> *Linking scientific instruments and computation: Patterns, technologies, and experiences* |  <a href='https://drive.google.com/file/d/1LfbMxXd-Fzg4vH1RvQHbF3Lo1Y4ffBtt/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session3-globus.png"></a> | 
-|UCSD,OSG         | Fabio  Andrijauskas <br> *Open Science Data Federation* |  <a href='https://drive.google.com/file/d/1QHJs33ZpgqUr44uwIYjOX_Z4gom4ewSC/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session3-fabio.png"></a> | 
-|NCSA             | Luigi Marini <br> *Clowder: Open Source, Customizable, Data and Workflow Management* |  <a href='https://docs.google.com/presentation/d/1QcR3zbXshZM0CtATOK0NSJB-4qpuMIse/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-marini.png"></a> | 
+|U Hawaii | Sean Cleveland <br> *Needs for pacific regional CI* | <a href='https://docs.google.com/presentation/d/1EN4VtpcjHZ2ZGHaDMCJ0yU5QYZbF64_h/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-sean.png"></a> | 
+|UCSD | Amarnath Gupta <br> *A Data Fabric For Social Good?* | <a href='https://docs.google.com/presentation/d/13qu2bNhrsyH0fIAPpAGfxbflsg1NtSZV/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-gupta.png"></a> |
+|LLNL | Peer-Timo Bremer <br> *Distributed Data Access in the National Security Complex* | <a href='https://docs.google.com/presentation/d/1efKdNPvwuUmb0JP7KQffubtUfbOlwsey/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-timo.png"></a> |
+|U Chicago | Kyle <br> *Linking scientific instruments and computation: Patterns, technologies, and experiences* | <a href='https://drive.google.com/file/d/1LfbMxXd-Fzg4vH1RvQHbF3Lo1Y4ffBtt/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session3-globus.png"></a> | 
+|UCSD,OSG | Fabio Andrijauskas <br> *Open Science Data Federation* | <a href='https://drive.google.com/file/d/1QHJs33ZpgqUr44uwIYjOX_Z4gom4ewSC/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session3-fabio.png"></a> | 
+|NCSA | Luigi Marini <br> *Clowder: Open Source, Customizable, Data and Workflow Management* | <a href='https://docs.google.com/presentation/d/1QcR3zbXshZM0CtATOK0NSJB-4qpuMIse/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-marini.png"></a> | 
 
 **Session 4 (Session Chair: Christine Kirkpatrick)**
 
 |----|----|---|
-|U Utah	           | Attila	Gyulassy<br> *Community Feedback on Data Worflows* |  <a href='https://docs.google.com/presentation/d/1bTHh2kITOVk1exE0UiwuQ4iCqE7T-twm/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-attila.png"></a> | 
-|U Utah	           | Ivan	Rodero	<br> *NSDF Authentication and Authorization Infrastructure* |  <a href='https://drive.google.com/file/d/15VJNdopfGC1CvjMnwRj1RyFcSx8MDKPS/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session4-ivan.png"></a> | 
-|Sandia National Labs | Jay	Lofstead<br> *Metadata Management to Aid Data Discovery* |  <a href='https://docs.google.com/presentation/d/1ucz-N6V5rH4NMZyuyzMite-qoEytToAE/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-jay.png"></a> | 
-|U Utah	           | Giorgio Scorzelli<br>*Updates on the NSDF OpenVisus* |  <a href='https://docs.google.com/presentation/d/1e4SRGw9x43vjrmZXfszROU4Qnxg3LmJ9/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-giorgio.png"></a> | 
-|UTK	               | Heberth	Martinez<br>*Monitoring Latency and Throughput across Distributed Resources in NSDF* |  <a href='https://docs.google.com/presentation/d/1PkXji5O-6Bk3CJxqRr_DYwjEh5ldejAR/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-heberth.png"></a> | 
-|UTK	               | Jakob	Luettgau <br> *Updates on the NSDF Catalog* |  <a href='https://docs.google.com/presentation/d/1rBD68-enTu7qoHwFXHMr0SHX_RrXGZQl/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-jakob.png"></a> | 
-					
+|U Utah | Attila Gyulassy<br> *Community Feedback on Data Worflows* | <a href='https://docs.google.com/presentation/d/1bTHh2kITOVk1exE0UiwuQ4iCqE7T-twm/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-attila.png"></a> | 
+|U Utah | Ivan Rodero <br> *NSDF Authentication and Authorization Infrastructure* | <a href='https://drive.google.com/file/d/15VJNdopfGC1CvjMnwRj1RyFcSx8MDKPS/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session4-ivan.png"></a> | 
+|Sandia National Labs | Jay Lofstead<br> *Metadata Management to Aid Data Discovery* | <a href='https://docs.google.com/presentation/d/1ucz-N6V5rH4NMZyuyzMite-qoEytToAE/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-jay.png"></a> | 
+|U Utah | Giorgio Scorzelli<br>*Updates on the NSDF OpenVisus* | <a href='https://docs.google.com/presentation/d/1e4SRGw9x43vjrmZXfszROU4Qnxg3LmJ9/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-giorgio.png"></a> | 
+|UTK | Heberth Martinez<br>*Monitoring Latency and Throughput across Distributed Resources in NSDF* | <a href='https://docs.google.com/presentation/d/1PkXji5O-6Bk3CJxqRr_DYwjEh5ldejAR/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-heberth.png"></a> | 
+|UTK | Jakob Luettgau <br> *Updates on the NSDF Catalog* | <a href='https://docs.google.com/presentation/d/1rBD68-enTu7qoHwFXHMr0SHX_RrXGZQl/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-jakob.png"></a> | 
+ 		
 *NSDF Dinner*
 					
 ## Thursday April 13
@@ -84,22 +84,22 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 **Session 5 (Session Chair: Glenn Tarcea)** 
 
 |----|----|---|
-|UCSD	                         | Michael	Corn<br>*Framing Research Security and a discussion of risk identification* | <a href='https://docs.google.com/presentation/d/1sAFLGzNeQAn5ELQF2pXbKPpCl9bV6mCQ/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-michael.png"></a> | 
-|Utah State U.	                 | Steve	Petruzza <br> *Portability of applications to heterogeneous systems and exascale systems* | <a href='https://drive.google.com/file/d/1ZzGVM73LwWSgjS4-vIbf8UI3JVmVlghg/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session5-steve.png"></a> | 
-|SDSC/UC San Diego               | Christine	Kirkpatrick<br>*Tailoring the National Science Data Fabric to Open Science & FAIR Aims* |  <a href='https://docs.google.com/presentation/d/1TxkQ4WJ2bqzahLrDE8mmTg5aOo51YCG2/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session5-christine.png"></a> | 
-|Morgridge	                     | Brian	Bockelman	<br> *Kingfisher: Storage Management for Data Federations*  |  <a href='https://drive.google.com/file/d/17d2ekWwCOIqIWW_fbkO1cywv1DZ3T3Sg/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session5-brian.png"></a> | 
-|Ronin Institute	             | Douglas 	Fils	<br>*Leveraging Structured Data on the Web to address FAIR Principles*  |  <a href='https://docs.google.com/presentation/d/1cGCibY3mAzEd3ivHqPRjeDI28IVsV_d-/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session5-fils.png"></a> | 
+|UCSD | Michael Corn<br>*Framing Research Security and a discussion of risk identification* | <a href='https://docs.google.com/presentation/d/1sAFLGzNeQAn5ELQF2pXbKPpCl9bV6mCQ/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-michael.png"></a> | 
+|Utah State U. | Steve Petruzza <br> *Portability of applications to heterogeneous systems and exascale systems* | <a href='https://drive.google.com/file/d/1ZzGVM73LwWSgjS4-vIbf8UI3JVmVlghg/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session5-steve.png"></a> | 
+|SDSC/UC San Diego | Christine Kirkpatrick<br>*Tailoring the National Science Data Fabric to Open Science & FAIR Aims* | <a href='https://docs.google.com/presentation/d/1TxkQ4WJ2bqzahLrDE8mmTg5aOo51YCG2/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session5-christine.png"></a> | 
+|Morgridge | Brian Bockelman <br> *Kingfisher: Storage Management for Data Federations* | <a href='https://drive.google.com/file/d/17d2ekWwCOIqIWW_fbkO1cywv1DZ3T3Sg/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session5-brian.png"></a> | 
+|Ronin Institute | Douglas Fils <br>*Leveraging Structured Data on the Web to address FAIR Principles* | <a href='https://docs.google.com/presentation/d/1cGCibY3mAzEd3ivHqPRjeDI28IVsV_d-/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session5-fils.png"></a> | 
 
 
 **Session 6 (Session Chair: Jakob Luettgau)**
 
 |----|----|---|
-|NVIDIA	               | Pavol 	Klacansky	<br>*Building a large scale community data portal with commodity hardware* |
-|U Utah	               | Owen	Koppe	    <br> *The NSDF-Data-Portal* | <a href='https://docs.google.com/presentation/d/1IT-qWOPq7Sc-5o59BxqZxTBlNBa91fDdgPVIVeioXQE/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session6-owen.png"></a> | 
-|UTK	               | Paula  Olaya	   <br> *Composing Scientific Workflows in the Cloud at Large Scale* | <a href='https://docs.google.com/presentation/d/1PtG6kYeBiPmxt2XdZwcR21du1Eb3QfEP/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session6-paula.png"></a> | 
-|U Michigan	           | Glenn 	Tarcea  <br>*Materials Commons Updates and Thinking Big By Thinking Small* | <a href='https://docs.google.com/presentation/d/1A05V3egl_p65ZAPBz4MWTLx0S4tHdvz-N9A8D5fRKrk/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session6-glenn.png"></a> | 
-|Cornell, CHESS	       | Devin 	Bougie  <br> *The CHESS - NSDF Collaboration: Updates* |  <a href='https://drive.google.com/file/d/1q6NSGaWt32eBJvOsrzPqnBFK7L38Dy65/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session6-devin.png"></a> | 
-| Hawaii	           | Curt	Dodds	<br>*Everything, Everywhere All at Once, All the Time - Challenges for Astronomy* | <a href='https://docs.google.com/presentation/d/1cCC3aDZJQqY_8o3uU4nsRR86meK8-KHe/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session6-curt.png"></a> | 
+|NVIDIA | Pavol Klacansky <br>*Building a large scale community data portal with commodity hardware* |
+|U Utah | Owen Koppe <br> *The NSDF-Data-Portal* | <a href='https://docs.google.com/presentation/d/1IT-qWOPq7Sc-5o59BxqZxTBlNBa91fDdgPVIVeioXQE/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session6-owen.png"></a> | 
+|UTK | Paula Olaya <br> *Composing Scientific Workflows in the Cloud at Large Scale* | <a href='https://docs.google.com/presentation/d/1PtG6kYeBiPmxt2XdZwcR21du1Eb3QfEP/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session6-paula.png"></a> | 
+|U Michigan | Glenn Tarcea <br>*Materials Commons Updates and Thinking Big By Thinking Small* | <a href='https://docs.google.com/presentation/d/1A05V3egl_p65ZAPBz4MWTLx0S4tHdvz-N9A8D5fRKrk/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session6-glenn.png"></a> | 
+|Cornell, CHESS | Devin Bougie <br> *The CHESS - NSDF Collaboration: Updates* | <a href='https://drive.google.com/file/d/1q6NSGaWt32eBJvOsrzPqnBFK7L38Dy65/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session6-devin.png"></a> | 
+| Hawaii | Curt Dodds <br>*Everything, Everywhere All at Once, All the Time - Challenges for Astronomy* | <a href='https://docs.google.com/presentation/d/1cCC3aDZJQqY_8o3uU4nsRR86meK8-KHe/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session6-curt.png"></a> | 
 
 
 ## LODGING
@@ -145,11 +145,11 @@ For driving directions see the [visitors page on the SDSC website](http://www.sd
 
 **VISITOR PARKING: PARKING PERMITS ARE REQUIRED TO PARK ON UC SAN DIEGO CAMPUS**
 
-- Visiting UC faculty and staff who hold annual permits at their home campuses are eligible for up  to 5 consecutive days of complimentary parking at UC San Diego. 
+- Visiting UC faculty and staff who hold annual permits at their home campuses are eligible for up to 5 consecutive days of complimentary parking at UC San Diego. 
 Visit [this link](http://transportation.ucsd.edu/parking/visitor/reciprocity.html) for more details.
 - For non-UC visitors, please see more details [here](http://transportation.ucsd.edu/parking/visitor/conference.html). Purchase permits at a very reasonable rate.
 - The most convenient parking location is the Hopkins parking structure located on Hopkins Dr and Voigt Dr, just south of SDSC.
-- *Parking legally is the attendee’s responsibility.  The penalty for an improperly parked car is at least $65 per day.  We cannot be held responsible for citations issued for parking in an incorrect space or improperly displaying your permit*.
+- *Parking legally is the attendee’s responsibility. The penalty for an improperly parked car is at least $65 per day. We cannot be held responsible for citations issued for parking in an incorrect space or improperly displaying your permit*.
 
 For cab or shuttle Pick-up/Drop-off: [10100 Hopkins Drive, La Jolla, CA 92093](https://www.google.com/maps?q=San+Diego+Supercomputer+Center,+10100+Hopkins+Drive,+La+Jolla,+CA&hl=en&sll=32.824552,-117.108978&sspn=0.439681,0.874786&oq=san&hq=San+Diego+Supercomputer+Center,+10100+Hopkins+Drive,+La+Jolla,+CA&t=m&z=14)
 

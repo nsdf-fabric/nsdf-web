@@ -94,7 +94,7 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 **Session 6 (Session Chair: Jakob Luettgau)**
 
 |----|----|---|
-|NVIDIA | Pavol Klacansky <br>*Building a large scale community data portal with commodity hardware* |
+|NVIDIA | Pavol Klacansky <br>*Building a large scale community data portal with commodity hardware* | <a href='https://docs.google.com/presentation/d/1lw2YGtwfS-hdcVqjwy-HBW53uDTheo98/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session6-pavol.png"></a> | 
 |U Utah | Owen Koppe <br> *The NSDF-Data-Portal* <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829871.svg)](https://doi.org/10.5281/zenodo.7829871)| <a href='https://docs.google.com/presentation/d/1IT-qWOPq7Sc-5o59BxqZxTBlNBa91fDdgPVIVeioXQE/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session6-owen.png"></a> | 
 |UTK | Paula Olaya <br> *Composing Scientific Workflows in the Cloud at Large Scale* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829927.svg)](https://doi.org/10.5281/zenodo.7829927) | <a href='https://docs.google.com/presentation/d/1PtG6kYeBiPmxt2XdZwcR21du1Eb3QfEP/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session6-paula.png"></a> | 
 |U Michigan | Glenn Tarcea <br>*Materials Commons Updates and Thinking Big By Thinking Small* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829949.svg)](https://doi.org/10.5281/zenodo.7829949)| <a href='https://docs.google.com/presentation/d/1A05V3egl_p65ZAPBz4MWTLx0S4tHdvz-N9A8D5fRKrk/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session6-glenn.png"></a> | 

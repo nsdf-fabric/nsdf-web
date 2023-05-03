@@ -6,6 +6,11 @@ ref: seminars
 ---
 
 ---
+# NSDF Distinguished Speaker Series - May 23, 2023 - 8AM PT / 9AM MT / 10AM CT / 11AM ET / 5PM CES 
+{% include_relative nsdf-seminar-series-persic.body.md %}
+
+
+---
 
 # NSDF Distinguished Speaker Series - March 23 2023 - 10:30 Mountain Time
 {% include_relative nsdf-seminar-series-legger.body.md %}

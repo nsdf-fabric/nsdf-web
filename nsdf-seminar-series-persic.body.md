@@ -5,6 +5,9 @@
 
 **Speaker** Ana Persic, UNESCO
 
+
+<a target="_blank" href='https://bit.ly/3LSJi3H'>**Zoom Link**</a>
+
 <p align=center>
 <img src="assets/images/persic.jpeg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"/>
 </p> 

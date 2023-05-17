@@ -7,7 +7,7 @@
 **Speaker** Federica Legger, National Institute for Nuclear Physics 
 
 
-<a target="_blank" href='https://drive.google.com/file/d/1ZcdikHGTy_0tRldI3xZaHEmczFntoUQg/view?usp=sharing'>**Seminar Recording**</a>
+<a target="_blank" href='https://drive.google.com/file/d/103YP4vt5McaVgeEWtKxrew9aSGtcxWe_/view'>**Seminar Recording**</a>
 
 
 <p align=center>

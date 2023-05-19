@@ -122,4 +122,15 @@ The OSG is a consortium of research collaborations, campuses, national laborator
 [Link](https://opensciencegrid.org/)
 <br><br>
 
+## DoubleCloud
+
+<p align=center>
+<img src="assets/images/doublecloud.jpg" width="100%">
+</p>
+
+DoubleCloud aims to significantly reduce expenses for companies in modern data stacks while providing unparalleled performance on large datasets. By leveraging fully managed, open-source technologies like Clickhouse, Kafka, Airflow on DoubleCloud platform startups and established organizations can build contemporary data infrastructures that enable data analytics with sub-second response times. This approach allows businesses to focus on creating exceptional products while benefiting from cost savings and exceptional performance offered by DoubleCloud's solutions.
+
+[Link](https://double.cloud/)
+<br><br>
+
 

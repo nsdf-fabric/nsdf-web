@@ -6,51 +6,6 @@ ref: dashboards
 order: 0
 ---
 
-OpenVisus running in WebAssembly.
-
-Remember:
-- Use Google Chrome
-- First time it can take up to 2 minutes to run
-- Gets data from CEDMAV HTTPS OpenVisus server
-- Needs a resize of the window  
-
-#  David
-
-OpenVisus running in Panel dashboard in Chrome through WebAssembly (WASB).
-Try the PyScript Panel [Here]({{ site.baseurl }}/david_subsampled.html)
-
-<div align="center">
-<img src="./assets/images/david.gif" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
-</div> 
-
-
-
-# 2kbit1
-
-OpenVisus running in Panel dashboard in Chrome through WebAssembly (WASB).
-Try the PyScript Panel [Here]({{ site.baseurl }}/2kbit1.html)
-
-<div align="center">
-<img src="./assets/images/2kbit1.gif" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
-</div> 
-
-# Chess
-
-OpenVisus running in Panel dashboard in Chrome through WebAssembly (WASB).
-Try the PyScript Panel [Here]({{ site.baseurl }}/chess_zip.html)
-
-<div align="center">
-<img src="./assets/images/chess.gif" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
-</div> 
-
-# JupyterLite
-
-OpenVisus running in Jupyter Notebook in Chrome through WebAssembly (WASB).
-Try the `12-jupyterlite.ipynb` Notebook  **[Here]({{ site.baseurl }}/jupyterlite/index.html)**
-
-<div align="center">
-<img src="./assets/images/jupyterlite.gif" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
-</div> 
 
 
 # NASA
@@ -66,6 +21,22 @@ https://www.prnewswire.com/in/news-releases/seal-storage-technology-and-the-univ
 </div> 
 
 [CHPC 1](http://chpc1.nationalsciencedatafabric.org:10888/nasa) [CHPC 2](http://chpc2.nationalsciencedatafabric.org:10888/nasa)[CHPC 3](http://chpc3.nationalsciencedatafabric.org:10888/nasa)
+
+# NASA bellows
+
+<div align="center">
+<img src="./assets/images/nasa-bellows.jpg" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
+[CHPC 1](http://chpc1.nationalsciencedatafabric.org:10889/nasa-bellows)
+
+# CHESS
+
+<div align="center">
+<img src="./assets/images/chess-probes.jpg" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
+[CHPC 1](http://chpc1.nationalsciencedatafabric.org:10933/run) [CHPC 2](http://chpc2.nationalsciencedatafabric.org:10933/run) [CHPC 3](http://chpc3.nationalsciencedatafabric.org:10933/run  )
 
 
 
@@ -105,7 +76,7 @@ The Open Science Data Federation (OSDF) is an OSG service designed to support th
 [osdf-1](http://osdf.nationalsciencedatafabric.org:10011/osdf/run)
 
 
-# JUPYTERHUB 
+# NSDF JUPYTERHUB 
 
 
 <div align="center">
@@ -113,3 +84,55 @@ The Open Science Data Federation (OSDF) is an OSG service designed to support th
 </div> 
 
 [jupyter-1](http://chpc1.nationalsciencedatafabric.org) [jupyter-2](http://chpc2.nationalsciencedatafabric.org) [jupyter-3](http://chpc3.nationalsciencedatafabric.org)
+
+
+# WASM
+
+OpenVisus running in WebAssembly.
+
+Remember:
+- Use Google Chrome
+- First time it can take up to 2 minutes to run
+- Gets data from CEDMAV HTTPS OpenVisus server
+- Needs a resize of the window  
+
+##  David WASM
+
+OpenVisus running in Panel dashboard in Chrome through WebAssembly (WASB).
+Try the PyScript Panel [Here]({{ site.baseurl }}/david_subsampled.html)
+
+<div align="center">
+<img src="./assets/images/david.gif" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
+
+
+## 2kbit1 WASM
+
+OpenVisus running in Panel dashboard in Chrome through WebAssembly (WASB).
+Try the PyScript Panel [Here]({{ site.baseurl }}/2kbit1.html)
+
+<div align="center">
+<img src="./assets/images/2kbit1.gif" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
+## Chess WASM
+
+OpenVisus running in Panel dashboard in Chrome through WebAssembly (WASB).
+Try the PyScript Panel [Here]({{ site.baseurl }}/chess_zip.html)
+
+<div align="center">
+<img src="./assets/images/chess.gif" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
+## JupyterLite WASM
+
+OpenVisus running in Jupyter Notebook in Chrome through WebAssembly (WASB).
+Try the `12-jupyterlite.ipynb` Notebook  **[Here]({{ site.baseurl }}/jupyterlite/index.html)**
+
+<div align="center">
+<img src="./assets/images/jupyterlite.gif" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
+
+

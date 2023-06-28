@@ -53,6 +53,8 @@ performing synchrotron X-ray computed tomography reconstruction and segmentation
 
 # CATALOG
 
+**DoubleCloud is a National Science Data Democratization Consortium (NSDDC) member and generously hosts the NSDF Catalog for free.** 
+
 Multi-federation Catalog for Petabytes of Community Data
 As part of the NSF-funded National Science Data Fabric (NSDF) initiative, we are developing a lightweight software library to index large-amounts of scientific data and facilitate discoverability.
 
@@ -64,6 +66,7 @@ Documentation is [Here](http://www.sci.utah.edu/publications/Lue2022a/catalog.pd
 
 
 [catalog-1](http://catalog.nationalsciencedatafabric.org:10002/catalog/run) [catalog-2](http://chpc3.nationalsciencedatafabric.org:10002/catalog/run)
+
 
 # OSDF
 

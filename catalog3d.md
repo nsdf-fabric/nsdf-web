@@ -7,6 +7,8 @@ ref: catalog3d
 
 # NSDF Catalog
 
+**DoubleCloud is a National Science Data Democratization Consortium (NSDDC) member and generously hosts the NSDF Catalog for free.** 
+
 ## Multi-federation Catalog for Petabytes of Community Data
 
 <script src="https://unpkg.com/globe.gl"></script>

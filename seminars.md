@@ -9,6 +9,17 @@ ref: seminars
 # NSDF Distinguished Speaker Series - May 23, 2023 - 8AM PT / 9AM MT / 10AM CT / 11AM ET / 5PM CES 
 {% include_relative nsdf-seminar-series-persic.body.md %}
 
+---
+# All Hands Meeting - April 2023
+
+**Date** April 12 and  April 13 2023
+
+**Speaker** NSDF Team 
+
+<a  href="nsdf-ahm-2023-04" >**NSDF AHM April 2023**</a>
+
+In-person meeting of the National Science Data Fabric on April 12-13 in San Diego, California 
+
 
 ---
 

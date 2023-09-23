@@ -4,6 +4,11 @@ title: National Science Data Fabric
 tagline: Seminars
 ref: seminars
 ---
+---
+# NSDF Distinguished Speaker Series - Oct 19, 2023, at 9AM HT / 12pm PT / 1pm MT / 2pm CT / 3pm ET 
+{% include_relative nsdf-seminar-series-jacobs.body.md %}
+
+---
 
 ---
 # NSDF Distinguished Speaker Series - May 23, 2023 - 8AM PT / 9AM MT / 10AM CT / 11AM ET / 5PM CES 

@@ -10,6 +10,14 @@ order: 0
 
 <ul class="post-list">
 <li>
+<span class="post-meta">Oct 19, 2023</span>
+<h2><a class="post-link" href="nsdf-seminar-series-jacobs" >NSDF Distinguished Speaker Series: Gwen Jacobs, University of Hawaii</a></h2>
+Cyberinfrastructure in Paradise: Enabling Science and Community Impact at the University of Hawaii
+</li>
+</ul>
+
+<ul class="post-list">
+<li>
 <span class="post-meta">May 23, 2023</span>
 <h2><a class="post-link" href="nsdf-seminar-series-persic" >NSDF Distinguished Speaker Series: Ana Persic, UNESCO</a></h2>
 The Pathway to Implementing the UNESCO Recommendation on Open Science

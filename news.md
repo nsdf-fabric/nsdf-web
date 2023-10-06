@@ -12,7 +12,7 @@ order: 0
 <li>
 <span class="post-meta">Nov 12-17, 2023</span>
 <h2><a class="post-link" href="nsdf-news-sc" >Meet the NSDF Team at SC23</a></h2>
-Join us for two Panels on “Unleashing the Power within Data Democratization: Needs, Challenges, and Opportunities” and “HPC and Cloud Converged Computing: Merging Infrastructures and Communities” and BoFs on “A National Science Data Fabric to Democratize Data Access and Reusability”
+Join us for two Panels on <a href="https://sc23.supercomputing.org/presentation/?id=pan111&sess=sess194">“Unleashing the Power within Data Democratization: Needs, Challenges, and Opportunities”</a> and <a href="https://sc23.supercomputing.org/presentation/?id=pan110&sess=sess193">“HPC and Cloud Converged Computing: Merging Infrastructures and Communities”</a> and BoFs on <a href="https://sc23.supercomputing.org/presentation/?id=bof188&sess=sess413">“A National Science Data Fabric to Democratize Data Access and Reusability”</a>
 </li>
 </ul>
 

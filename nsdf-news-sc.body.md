@@ -7,11 +7,13 @@
 
 ---
 
-## Panel: Unleashing the Power within Data Democratization: Needs, Challenges, and Opportunities
+## [Panel: Unleashing the Power within Data Democratization: Needs, Challenges, and Opportunities](https://sc23.supercomputing.org/presentation/?id=pan111&sess=sess194)
 <br>
 
 **Thursday, 16 November 2023**
+
 **1:30pm - 3pm MST**
+
 **Location: 205-207**
 
 <br>
@@ -22,6 +24,7 @@ In this panel, we will discuss the needs, challenges, and opportunities of the d
 <br>
 
 **Moderator:**
+
 **Christine Kirkpatrick**, *San Diego Supercomputer Center (SDSC)*
 
 **Panelists:**
@@ -32,15 +35,16 @@ In this panel, we will discuss the needs, challenges, and opportunities of the d
 - **Ilya Baldin**, *Renaissance Computing Institute (RENCI)*
 - **Franck Wuerthwein**, *San Diego Supercomputer Center (SDSC)*
 
-Url: [SC2023 - Panel](https://sc23.supercomputing.org/presentation/?id=pan111&sess=sess194)
 
 ---
 
-## Panel: HPC and Cloud Converged Computing: Merging Infrastructures and Communities
+## [Panel: HPC and Cloud Converged Computing: Merging Infrastructures and Communities](https://sc23.supercomputing.org/presentation/?id=pan110&sess=sess193)
 <br>
 
 **Wednesday, 15 November 2023**
+
 **3:30pm - 5pm MST**
+
 **Location: 205-207**
 
 <br>
@@ -49,6 +53,7 @@ Url: [SC2023 - Panel](https://sc23.supercomputing.org/presentation/?id=pan111&se
 <br>
 
 **Moderator:**
+
 **Daniel Milroy**, *Lawrence Livermore National Laboratory*
 
 **Panelists:**
@@ -59,15 +64,16 @@ Url: [SC2023 - Panel](https://sc23.supercomputing.org/presentation/?id=pan111&se
 - **Heidi Poxon**, *Amazon Web Services (AWS)*
 - **Todd Gamblin**, *Lawrence Livermore National Laboratory*
 
-Url: [SC2023 - Panel](https://sc23.supercomputing.org/presentation/?id=pan110&sess=sess193)
 
 ---
 
-## BoF: A National Science Data Fabric to Democratize Data Access and Reusability
+## [BoF: A National Science Data Fabric to Democratize Data Access and Reusability](https://sc23.supercomputing.org/presentation/?id=bof188&sess=sess413)
 <br>
 
 **Thursday, 16 November 2023**
+
 **12:15pm - 1:15pm MST**
+
 **Location: 601-603**
 
 <br>
@@ -76,6 +82,7 @@ Url: [SC2023 - Panel](https://sc23.supercomputing.org/presentation/?id=pan110&se
 <br>
 
 **Session Leader:**
+
 **Valerio Pascucci**, *University of Utah*
 
 **Additional Session Leaders:**
@@ -83,5 +90,3 @@ Url: [SC2023 - Panel](https://sc23.supercomputing.org/presentation/?id=pan110&se
 - **Michela Taufer**, *University of Tennessee*
 - **Christine Kirkpatrick**, *San Diego Supercomputer Center (SDSC)*
 - **Jakob Luettgau**, *University of Tennessee*
-
-Url: [SC2023 - BoF](https://sc23.supercomputing.org/presentation/?id=bof188&sess=sess413)

@@ -10,6 +10,13 @@ order: 0
 
 <ul class="post-list">
 <li>
+<span class="post-meta">Nov 12-17, 2023</span>
+<h2><a class="post-link" href="nsdf-news-sc" >NSDF: Supercomputing 2023</a></h2>
+</li>
+</ul>
+
+<ul class="post-list">
+<li>
 <span class="post-meta">Oct 19, 2023</span>
 <h2><a class="post-link" href="nsdf-seminar-series-jacobs" >NSDF Distinguished Speaker Series: Gwen Jacobs, University of Hawaii</a></h2>
 Cyberinfrastructure in Paradise: Enabling Science and Community Impact at the University of Hawaii

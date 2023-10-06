@@ -7,3 +7,5 @@ vendor/*
 .jekyll-metadata
 .jekyll-cache
 *.bak
+*/.DS_Store
+.DS_Store

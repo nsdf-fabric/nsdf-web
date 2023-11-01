@@ -203,10 +203,10 @@ BibTeX
 
 ## Other Products 2023
 
-| Type  | Name                                                                                  | URL                                                                                                                                         |
-| ----- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Other | National Science Data Fabric Catalog Grows toward AI-Integrated Scientific Innovation | https://www.sdsc.edu/News%20Items/PR20230627_NSDF.html?utm_source=linkedin&utm_medium=social&utm_campaign=nsdf_news_item&utm_content=062823 |
-| Other | Conference poster. NSDF@CHESS Democratizing the Cornel Light Source!                  | https://researchinfrastructureoutreach.com/knowledge-gateway/poster-nsdfchess-democratizing-the-cornel-light-source/                        |
+| Type  | Name                                                                                  | Url                                                                                                                                                |
+| ----- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Other | National Science Data Fabric Catalog Grows toward AI-Integrated Scientific Innovation | [Url](https://www.sdsc.edu/News%20Items/PR20230627_NSDF.html?utm_source=linkedin&utm_medium=social&utm_campaign=nsdf_news_item&utm_content=062823) |
+| Other | Conference poster. NSDF@CHESS Democratizing the Cornel Light Source!                  | [Url](https://researchinfrastructureoutreach.com/knowledge-gateway/poster-nsdfchess-democratizing-the-cornel-light-source/)                        |
 
 ---
 

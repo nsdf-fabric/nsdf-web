@@ -10,9 +10,9 @@ order: 0
 
 ## Studying Latency and Throughput Constraints for Geo-Distributed Data in the National Science Data Fabric
 
-**Conference** HPDC '23: Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing
+**Conference:** HPDC '23: Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing
 
-**Date** August 2023
+**Date:** August 2023
 
 **Authors:** Jakob Luettgau, Heberth Martinez, Glenn Tarcea, Giorgio Scorzelli, Valerio Pascucci, Michela Taufer.
 
@@ -41,9 +41,9 @@ BibTeX
 
 ## Development of Large-Scale Scientific Cyberinfrastructure and the Growing Opportunity to Democratize Access to Platforms and Data
 
-**Conference** Proceedings of the 25TH International Conference On Human-Computer Interaction (HCII)
+**Conference:** Proceedings of the 25TH International Conference On Human-Computer Interaction (HCII)
 
-**Date** July 2023
+**Date:** July 2023
 
 **Authors:** Jakob Luettgau, Giorgio Scorzelli, Valerio Pascucci, and Michela Taufer
 
@@ -63,9 +63,9 @@ BibTeX
 
 ## Enabling Scalability in the Cloud for Scientific Workflows: An Earth Science Use Case
 
-**Conference** 2023 IEEE 16th International Conference on Cloud Computing (CLOUD)
+**Conference:** 2023 IEEE 16th International Conference on Cloud Computing (CLOUD)
 
-**Date** June 2023
+**Date:** June 2023
 
 **Authors:** Paula Olaya, Jakob Luettgau, Camila Roa, Ricardo Llamas, Rodrigo Vargas, Sophia Wen, I-Hsin Chung, Seetharami Seelam, Yoonho Park, Jay Lofstead, and Michela Taufer.
 
@@ -85,7 +85,7 @@ BibTeX
 
 ## National Science Data Fabric
 
-**Conference** Campus Research Computing Consortium's (CaRCC) Emerging Centers
+**Conference:** Campus Research Computing Consortium's (CaRCC) Emerging Centers
 
 **Authors:** Christine Kirkpatrick
 
@@ -93,7 +93,7 @@ BibTeX
 
 ## Tailoring the National Science Data Fabric to Open Science and FAIR Aims
 
-**Conference** ISC
+**Conference:** ISC
 
 **Authors:** Christine Kirkpatrick
 
@@ -101,7 +101,7 @@ BibTeX
 
 ## FAIR Digital Objects in Distributed Research Environments
 
-**Conference** Throughput Computing 2023 OSG All Hands Meeting
+**Conference:** Throughput Computing 2023 OSG All Hands Meeting
 
 **Authors:** Natalie Meyers
 
@@ -109,7 +109,7 @@ BibTeX
 
 ## Bridging the HPC/Data Divide
 
-**Conference** ISC
+**Conference:** ISC
 
 **Authors:** Christine Kirkpatrick
 
@@ -117,7 +117,7 @@ BibTeX
 
 ## Why FAIR is Worthwhile for Big Science & Easy Steps to Get Started
 
-**Conference** National Virtual Biosecurity Bioenergy Crops Center (NVBCC) Computing and Cross-Cutting Workshops
+**Conference:** National Virtual Biosecurity Bioenergy Crops Center (NVBCC) Computing and Cross-Cutting Workshops
 
 **Authors:** Christine Kirkpatrick
 
@@ -125,7 +125,7 @@ BibTeX
 
 ## A National Science Data Fabric to Democratize Data Access and Reusability
 
-**Conference** HPC ISC Conference
+**Conference:** HPC ISC Conference
 
 **Authors:** Michela Taufer, Jay Lofstead, Christine Kirkpatrick, Jakob Luettgau, and Valerio Pascucci
 
@@ -133,7 +133,7 @@ BibTeX
 
 ## Unleashing the Power within Data Democratization: Needs, Challenges, and Opportunities.
 
-**Conference** International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)
+**Conference:** International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)
 
 **Authors:** Valerio Pascucci, Michela Taufer, Ian Foster, Ilya Baldin, Franck Wuerthwein
 
@@ -141,7 +141,7 @@ BibTeX
 
 ## A National Science Data Fabric to Democratize Data Access and Reusability
 
-**Conference** International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)
+**Conference:** International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)
 
 **Authors:** Valerio Pascucci, Michela Taufer, Christine Kirkpatrick, and Jakob Luettgau
 
@@ -149,7 +149,7 @@ BibTeX
 
 ## PC and Cloud Converged Computing: Merging Infrastructures and Communities
 
-**Conference** International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)
+**Conference:** International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)
 
 **Authors:** Daniel Milroy, Michela Taufer, Seetharami Seelam, Bill Magro, Heidi Poxon, Todd Gamblin
 
@@ -167,9 +167,9 @@ BibTeX
 
 ## NSDF-Catalog: Lightweight Indexing Service for Democratizing Data Delivery
 
-**Conference** 2022 IEEE/ACM 15th International Conference on Utility and Cloud Computing (UCC)
+**Conference:** 2022 IEEE/ACM 15th International Conference on Utility and Cloud Computing (UCC)
 
-**Date** December 2022
+**Date:** December 2022
 
 **Authors:** Jakob Luettgau, Giorgio Scorzelli, Valerio Pascucci, Glenn Tarcea, Christine R. Kirkpatrick, Michela Taufer
 
@@ -186,9 +186,9 @@ BibTeX
 
 ## Bridging the HPC/Data Divide BoF
 
-**Conference** Supercomputing 2022
+**Conference:** Supercomputing 2022
 
-**Date** November 2022
+**Date:** November 2022
 
 **Authors:** Christine Kirkpatrick
 
@@ -196,9 +196,9 @@ BibTeX
 
 ## Open Storage Network
 
-**Conference** Supercomputing 2022
+**Conference:** Supercomputing 2022
 
-**Date** November 2022
+**Date:** November 2022
 
 **Authors:** Christine Kirkpatrick, John Goodhue, Melissa Cragin
 
@@ -206,9 +206,9 @@ BibTeX
 
 ## Augmenting Singularity to Generate Fine-grained Workflows, Record Trails, and Data Provenance
 
-**Conference** 2022 IEEE 18th International Conference on e-Science (e-Science)
+**Conference:** 2022 IEEE 18th International Conference on e-Science (e-Science)
 
-**Date** October 2022
+**Date:** October 2022
 
 **Authors:** Dominic Kennedy, Paula Olaya, Jay Lofstead, Rodrigo Vargas, Michela Taufer
 
@@ -230,9 +230,9 @@ BibTeX
 
 ## The Materials Commons Data Repository
 
-**Conference** 2022 IEEE 18th International Conference on e-Science (e-Science)
+**Conference:** 2022 IEEE 18th International Conference on e-Science (e-Science)
 
-**Date** October 2022
+**Date:** October 2022
 
 **Authors:** Glenn Tarcea, Brian Puchala, Tracy Berman, Giorgio Scorzelli, Valerio Pascucci, Michela Taufer, John Allison
 
@@ -252,7 +252,7 @@ BibTeX
 
 ## Converged Computing: Bringing Together HPC and Cloud Communities
 
-**Conference** IEEE/ACM International Conference for High-Performance Computing, Networking, Storage, and Analysis
+**Conference:** IEEE/ACM International Conference for High-Performance Computing, Networking, Storage, and Analysis
 
 **Authors:** Daniel Milroy, Marquita Ellis, Sameer Shende, Michela Taufer, Ward Harold, and Yan Fisher
 
@@ -260,7 +260,7 @@ BibTeX
 
 ## Toward a Lightweight Indexing Service for the National Science Data Fabric
 
-**Conference** Proceedings of the 18th IEEE International Conference on e-Science (eScience)
+**Conference:** Proceedings of the 18th IEEE International Conference on e-Science (eScience)
 
 **Authors:** Jakob Luettgau, Giorgio Scorzelli, Nauweiluo Zhou, Glenn Tarcea, Jay Lofstead, Valerio Pascucci, and Michela Taufer
 
@@ -268,7 +268,7 @@ BibTeX
 
 ## A Software Framework for Scientific Workflow Orchestration at Large Scale
 
-**Conference** Proceedings of the 18th IEEE International Conference on e-Science (eScience)
+**Conference:** Proceedings of the 18th IEEE International Conference on e-Science (eScience)
 
 **Authors:** Nauweiluo Zhou, Jakob Luettgau, Rahul Reddy Kancharla, Joshua Kane, Brendan Croom, Robert Wheeler, Pania Newell, Giorgio Scorzelli, Valerio Pascucci, and Michela Taufer.
 
@@ -276,7 +276,7 @@ BibTeX
 
 ## The National Science Data Fabric
 
-**Conference** PRISMS Center Annual Workshop
+**Conference:** PRISMS Center Annual Workshop
 
 **Authors:** Valerio Pascucci
 
@@ -284,7 +284,7 @@ BibTeX
 
 ## The National Science Data Fabric
 
-**Conference** Data-Joint Annual Workshop
+**Conference:** Data-Joint Annual Workshop
 
 **Authors:** Valerio Pascucci
 

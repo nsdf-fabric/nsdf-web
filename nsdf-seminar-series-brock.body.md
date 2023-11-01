@@ -1,4 +1,4 @@
-**Date** Tuesday, December 12, 2023, 2pm ET | 1pm CT | 12pm MT | 11am PT
+**Date** Tuesday, December 12, 2023, 2pm ET / 1pm CT / 12pm MT / 11am PT
 
 **Title** _Big Data at Synchrotron X-ray User Facilities: Challenges and Opportunities_
 

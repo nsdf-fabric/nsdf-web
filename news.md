@@ -11,7 +11,7 @@ order: 0
 <ul class="post-list">
 <li>
 <span class="post-meta">Dec 12, 2023</span>
-<h2><a class="post-link" href="nsdf-seminar-series-jacobs" >National Science Data Fabric (NSDF) Webinar: Distinguished Speaker: Dr. Joel Brock, Director, Cornell High Energy Synchrotron Source (CHESS)</a></h2>
+<h2><a class="post-link" href="nsdf-seminar-series-brock" >National Science Data Fabric (NSDF) Webinar: Distinguished Speaker: Dr. Joel Brock, Director, Cornell High Energy Synchrotron Source (CHESS)</a></h2>
 Big Data at Synchrotron X-ray User Facilities: Challenges and Opportunities
 </li>
 </ul>

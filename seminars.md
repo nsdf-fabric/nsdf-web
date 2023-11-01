@@ -7,7 +7,7 @@ ref: seminars
 
 ---
 
-# NSDF Distinguished Speaker Series - Dec 12, 2023, at 2pm ET | 1pm CT | 12pm MT | 11am PT
+# NSDF Distinguished Speaker Series - Dec 12, 2023, at 2pm ET / 1pm CT / 12pm MT / 11am PT
 
 {% include_relative nsdf-seminar-series-brock.body.md %}
 

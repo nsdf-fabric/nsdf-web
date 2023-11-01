@@ -10,6 +10,14 @@ order: 0
 
 <ul class="post-list">
 <li>
+<span class="post-meta">Dec 12, 2023</span>
+<h2><a class="post-link" href="nsdf-seminar-series-jacobs" >National Science Data Fabric (NSDF) Webinar: Distinguished Speaker: Dr. Joel Brock, Director, Cornell High Energy Synchrotron Source (CHESS)</a></h2>
+Big Data at Synchrotron X-ray User Facilities: Challenges and Opportunities
+</li>
+</ul>
+
+<ul class="post-list">
+<li>
 <span class="post-meta">Oct 20, 2023</span>
 <h2><a class="post-link" href="nsdf-travel-award-winners" >NSDF Announces SC23 Travel Award Winners</a></h2>
 </li>
@@ -81,6 +89,7 @@ Large (Hadron Collider) and Big (Data Science)
 
 Join the National Science Data Fabric Team on Tue Oct 11 to learn how we deliver data democratization and eScience to the community,
 in conjunction with the <a href="https://www.escience-conference.org/2022/">IEEE eScience conference</a> in Salt Lake City, UT.
+
 </li>
 
     <li>
@@ -114,6 +123,7 @@ in conjunction with the <a href="https://www.escience-conference.org/2022/">IEEE
     <h2><a class="post-link" href="nsdf-seminar-series-abernathey" >NSDF Distinguished Speaker Series: Ryan Abernathey, Columbia University</a></h2>
 
 Pangeo Forge - Crowdsourcing Analysis Ready Data in the Cloud. Science
+
 </li>
 <li>
 <span class="post-meta">February 22-23 2022</span>

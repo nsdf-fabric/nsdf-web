@@ -6,9 +6,9 @@ ref: dashboards
 order: 0
 ---
 
-
-
 # NASA
+
+[DEMO](http://services.nationalsciencedatafabric.org/nasa) 
 
 Over 200TB of NASA climate data is now accessible through the collaboration between Seal Storage Technology and the University of Utah's Scientific Computing and Imaging Institute (SCI), enabling researchers around the world to access and visualize the data with zero egress fees.
 
@@ -20,27 +20,28 @@ https://www.prnewswire.com/in/news-releases/seal-storage-technology-and-the-univ
 <img src="./assets/images/nasa.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
 
-[CHPC 1](http://chpc1.nationalsciencedatafabric.org:10888/nasa) [CHPC 2](http://chpc2.nationalsciencedatafabric.org:10888/nasa)[CHPC 3](http://chpc3.nationalsciencedatafabric.org:10888/nasa)
+
 
 # NASA bellows
+
+[DEMO](http://services.nationalsciencedatafabric.org/bellows)
 
 <div align="center">
 <img src="./assets/images/nasa-bellows.jpg" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
 
-[CHPC 1](http://chpc1.nationalsciencedatafabric.org:10889/nasa-bellows)
-
 # CHESS
+
+[DEMO](http://services.nationalsciencedatafabric.org/chess) 
 
 <div align="center">
 <img src="./assets/images/chess-probes.jpg" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
 
-[CHPC 1](http://chpc1.nationalsciencedatafabric.org:10933/run) [CHPC 2](http://chpc2.nationalsciencedatafabric.org:10933/run) [CHPC 3](http://chpc3.nationalsciencedatafabric.org:10933/run  )
-
-
 
 # MATERIAL SCIENCE
+
+[DEMO](http://services.nationalsciencedatafabric.org/materialscience) 
 
 We present a framework for analyzing internal material structures (e.g., cracks) to mitigate these bottlenecks. We demonstrate the effectiveness of our framework for a workflow
 performing synchrotron X-ray computed tomography reconstruction and segmentation of a silica-based structure.
@@ -49,11 +50,12 @@ performing synchrotron X-ray computed tomography reconstruction and segmentation
 <img src="./assets/images/material-science.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
 
-[mat-science-1](http://chpc2.nationalsciencedatafabric.org:10003/materialscience/run) [mat-science-2](http://chpc3.nationalsciencedatafabric.org:10003/materialscience/run)
 
 # CATALOG
 
 **DoubleCloud is a National Science Data Democratization Consortium (NSDDC) member and generously hosts the NSDF Catalog for free.** 
+
+[DEMO](http://catalog.nationalsciencedatafabric.org:10002/catalog/run) 
 
 Multi-federation Catalog for Petabytes of Community Data
 As part of the NSF-funded National Science Data Fabric (NSDF) initiative, we are developing a lightweight software library to index large-amounts of scientific data and facilitate discoverability.
@@ -65,19 +67,15 @@ Documentation is [Here](http://www.sci.utah.edu/publications/Lue2022a/catalog.pd
 </div> 
 
 
-[catalog-1](http://catalog.nationalsciencedatafabric.org:10002/catalog/run) [catalog-2](http://chpc3.nationalsciencedatafabric.org:10002/catalog/run)
-
-
 # OSDF
+
+[DEMO](http://osdf.nationalsciencedatafabric.org:10011/osdf/run)
 
 The Open Science Data Federation (OSDF) is an OSG service designed to support the sharing of filesstaged in autonomous "origins", for efficient access to those files from anywhere in the world via aglobalnamespace and network of caches.
 
 <div align="center">
 <img src="./assets/images/osg-panel.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
-
-[osdf-1](http://osdf.nationalsciencedatafabric.org:10011/osdf/run)
-
 
 # NSDF JUPYTERHUB 
 

@@ -20,6 +20,8 @@
 <a href="https://drive.google.com/file/d/1g-bShhrgKtl_cFaSf29hI1O2Rk_-LjqY/view?usp=share_link" target="_blank">Recording</a>
 </p> -->
 
+**Join the Webinar:**<a target="_blank" href='https://ucsd.zoom.us/j/98999749335#success'> Zoom Link</a>
+
 **Abstract:** Modern synchrotron x-ray facilities provide unique techniques for studying the structure and behavior of matter at the microstructural, molecular, and atomic levels. The Cornell High Energy Synchrotron Source (CHESS), a ring-shaped synchrotron, 768 meters in circumference and 5 stories underneath the Cornell University campus, delivers highly collimated x-ray beams over a billion times more intense than a conventional laboratory source to seven (7) experimental stations. These experimental stations each have unique instrumentation, opening new research vistas in condensed-matter physics, materials research, structural biology, chemistry, geology, structural and functional materials, plant science and agriculture, and cultural heritage. In this talk, Dr. Brock will introduce synchrotrons, the synchrotron-based x-ray characterization techniques available at CHESS, and a few of their broad scientific applications. He will then focus ion the challenges and opportunities that big data, cyber infrastructure, machine learning, and artificial intelligence provide.
 
 <p align=center>

@@ -32,7 +32,7 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 
 # Schedule
 
-will be defined
+Coming soon!
 
 <!-- ## Wed April 12
 
@@ -105,7 +105,7 @@ The NSDF AHM will not have a dedicated room block; however, there are a number o
 
 ## HOTELS
 
-will be defined
+Coming soon!
 
 <!-- There are many hotel options surrounding UC San Diego and SDSC.
 The few listed below are located just off campus and may offer a university rate.

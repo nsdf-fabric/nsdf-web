@@ -6,6 +6,16 @@ ref: news
 order: 0
 ---
 
+# 2024
+
+<ul class="post-list">
+<li>
+<span class="post-meta">Feb 28 - Mar 1, 2024</span>
+<h2><a class="post-link" href="nsdf-ahm-2024-02" >NSDF All-Hands Meeting February 2024</a></h2>
+Join the National Science Data Fabric Team on February 28, 29 and March 1 in San Diego, CA.
+</li>
+</ul>
+
 # 2023
 
 <ul class="post-list">
@@ -18,7 +28,7 @@ Big Data at Synchrotron X-ray User Facilities: Challenges and Opportunities
 
 <ul class="post-list">
 <li>
-<span class="post-meta">Oct 20, 2023</span>
+<span class="post-meta">Nov 12, 2023</span>
 <h2><a class="post-link" href="nsdf-travel-award-winners" >NSDF Announces SC23 Travel Award Winners</a></h2>
 </li>
 </ul>

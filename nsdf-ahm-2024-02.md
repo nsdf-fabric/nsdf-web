@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All hands meeting April 2023
+title: All hands meeting February 2024
 ---
 
 # The Fourth National Science Data Fabric (NSDF) in-person meeting held in San Diego, California on February 28, 29 and March 1.

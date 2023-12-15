@@ -105,8 +105,7 @@ The NSDF AHM will not have a dedicated room block; however, there are a number o
 
 ## HOTELS
 
-There are many hotel options surrounding UC San Diego and SDSC.
-The few listed below are located just off campus and may offer a university rate.
+The meeting hotels include:
 
 - [La Jolla Shores Hotel](https://www.ljshoreshotel.com/?gad_source=1&gclid=CjwKCAiAg9urBhB_EiwAgw88mS2u7SZ5x3zWrnbHdUaFg46MNv6zQi93bOsM5IWg7fVdsmn9Yxz-wBoC34UQAvD_BwE)<br>8110 Camino Del Oro La Jolla, California, 92037 <br>
   (855) 923-8058<br>

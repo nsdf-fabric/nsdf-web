@@ -105,21 +105,22 @@ The NSDF AHM will not have a dedicated room block; however, there are a number o
 
 ## HOTELS
 
-Coming soon!
-
-<!-- There are many hotel options surrounding UC San Diego and SDSC.
+There are many hotel options surrounding UC San Diego and SDSC.
 The few listed below are located just off campus and may offer a university rate.
-Be sure to ask if a “UCSD Rate” is available when contacting the hotel.
-An extended list of hotels can be found on the [SDSC Visitor page](https://www.sdsc.edu/).
-
 
 - [La Jolla Shores Hotel](https://www.ljshoreshotel.com/?gad_source=1&gclid=CjwKCAiAg9urBhB_EiwAgw88mS2u7SZ5x3zWrnbHdUaFg46MNv6zQi93bOsM5IWg7fVdsmn9Yxz-wBoC34UQAvD_BwE)<br>8110 Camino Del Oro La Jolla, California, 92037 <br>
-(855) 923-8058<br>
-
+  (855) 923-8058<br>
+  A limited number of rooms at a discounted rate of \$269 per night will be available until February 9, 2024. Please call the hotel directly for more information.<br>
 
 - [The Residence Inn](https://www.marriott.com/en-us/hotels/lajca-residence-inn-san-diego-la-jolla) <br>
-8901 Gilman Drive, La Jolla, CA 92037 <br>
-(858) 587-1770 / (800) 331-3131<br> -->
+  8901 Gilman Drive, La Jolla, CA 92037 <br>
+  (858) 587-1770 / (800) 331-3131<br>
+  Rates: \$264-\$460 per night <br>
+
+- [Sheraton La Jolla Hotel](https://www.marriott.com/en-us/hotels/sanjs-sheraton-la-jolla-hotel), Torrey Pines <br>
+  3299 Holiday Ct., La Jolla, CA 92037<br>
+  (858) 453-5500 / (800) 345-9995<br>
+  Rates: \$268-\$412 per night <br>
 
 ## VENUE
 

@@ -11,21 +11,23 @@ order: 0
 
 Michela Taufer , Heberth Martinez , Jakob Luettgau , Lauren Whitnah , Giorgio Scorzelli , Pania Newel , Aashish Panta , Timo Bremer , Doug Fils , Christine R. Kirkpatrick , and Valerio Pascucci. **Integrating FAIR Digital Objects into the National Science Data Fabric to Revolutionize Dataflows for Scientific Discovery** *to apper*
 
-Jakob Luettgau, Heberth Martinez, Paula Olaya, Giorgio Scorzelli, Glenn Tarcea, Jay Lofstead, Christine R. Kirkpatrick, Valerio Pascucci, Michela Taufer.  **NSDF-Services: Integrating Networking, Storage, and Computing Services into a Testbed for Democratization of Data Delivery** *to apper*
+Jakob Luettgau, Paula Olaya, Heberth Martinez, Giorgio Scorzelli, Glenn Tarcea, Jay Lofstead, Christine Kirkpatrick, Valerio Pascucci, and Michela Taufer. **NSDF-Services: Integrating Networking, Storage, and Computing Services into a Testbed for Democratization of Data Delivery**. In Proceedings of the 15th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), pages 1–10, Taormina (Messina), Italy, December 2023. IEEE Computer Society. Paper, [Slides](https://docs.google.com/presentation/d/15vQ_6kJAPr8mk6HhRkww7a7wRjp2MsMZ_xNepCAI9Fc/edit#slide=id.g262a9e188d9_70_190), and Poster
 
-Jakob Luettgau, Heberth Martinez, Glenn Tarcea, Giorgio Scorzelli, Valerio Pascucci, and Michela Taufer. **Studying Latency and Throughput Constraints for Geo-Distributed Data in the National Science Data Fabric**. In Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing (HPDC '23). Association for Computing Machinery, New York, NY, USA, 325–326. [https://doi.org/10.1145/3588195.3595948]()
+
+Jakob Luettgau, Heberth Martinez, Glenn Tarcea, Giorgio Scorzelli, Valerio Pascucci, and Michela Taufer. **Studying Latency and Throughput Constraints for Geo-Distributed Data in the National Science Data Fabric**. In Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing (HPDC '23). Association for Computing Machinery, New York, NY, USA, 325–326. June 2023. [https://doi.org/10.1145/3588195.3595948]()
 
 S. Leventhal, A. Gyulassy, V. Pascucci and M. Heimann, "**Modeling Hierarchical Topological Structure in Scientific Images with Graph Neural Networks**," 2023 IEEE International Conference on Image Processing (ICIP), Kuala Lumpur, Malaysia, 2023, pp. 2995-2999, [https://doi.org/10.1109/ICIP49359.2023.10222089]().
 
-Paula Olaya, Jakob Luettgau, Naweiluo Zhou, Jay Lofstead, Giorgio Scorzelli, Valerio Pascucci, and Michela Taufer. 2022. **NSDF-FUSE: A Testbed for Studying Object Storage via FUSE File Systems**. In Proceedings of the 31st International Symposium on High-Performance Parallel and Distributed Computing (HPDC '22). Association for Computing Machinery, New York, NY, USA, 277–278. [https://doi.org/10.1145/3502181.3533709]()
+Paula Olaya, Jakob Luettgau, Naweiluo Zhou, Giorgio Scorzelli, Jay Lofstead, Valerio Pascucci, and Michela Taufer. **NSDF-FUSE: A Testbed for Studying Object Storage via FUSE File Systems**. In Proceedings of the 31st International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC), pages 1–2, Minneapolis, Minnesota, June 2022. ACM. [https://doi.org/10.1145/3502181.3533709]()
 
-Tarcea, Glenn and Puchala, Brian and Berman,  Tracy and Scorzelli, Giorgio and Pascucci, Valerio and  Taufer, Michela and Allison, John **"The Materials Commons Data Repository,"** 2022 IEEE 18th International Conference on e-Science (e-Science), Salt Lake City, UT, USA, 2022, pp. 405-406, [https://doi.org/10.1109/eScience55777.2022.00060]().
+
+Glenn Tarcea, Brian Puchala, Tracy Berman, Giorgio Scorzelli, Valerio Pascucci, Michela Taufer, and John Allison. **The Materials Commons Data Repository**. In Proceedings of the 18th IEEE International Conference on e-Science (eScience), pages 1–2, Salt Lake City, Utah, USA, October 2022. IEEE Computer Society. [https://doi.org/10.1109/eScience55777.2022.00060]()
 
 D. Kennedy, P. Olaya, J. Lofstead, R. Vargas and M. Taufer, **"Augmenting Singularity to Generate Fine-grained Workflows, Record Trails, and Data Provenance,"** 2022 IEEE 18th International Conference on e-Science (e-Science), Salt Lake City, UT, USA, 2022, pp. 403-404, [https://doi.org/10.1109/eScience55777.2022.00059]().
 
 A. Venkat _et al_., "High-Quality Progressive Alignment of Large 3D Microscopy Data," 2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV), Oklahoma City, OK, USA, 2022, pp. 1-10, [https://doi.org/10.1109/LDAV57265.2022.9966406]().
 
-J. Luettgau, G. Scorzelli, V. Pascucci, G. Tarcea, C. R. Kirkpatrick and M. Taufer, "**NSDF-Catalog: Lightweight Indexing Service for Democratizing Data Delivery,**" 2022 IEEE/ACM 15th International Conference on Utility and Cloud Computing (UCC), Vancouver, WA, USA, 2022, pp. 1-10, [https://doi.org/10.1109/UCC56403.2022.00011]().
+ Jakob Luettgau, Giorgio Scorzelli, Glenn Tarcea, Christine R. Kirkpatrick, Valerio Pascucci, and Michela Taufer. **NSDF-Catalog: Lightweight Indexing Service for Democratizing Data Delivery**. In Proceedings of the 15th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), pages 1–10, Seattle, WA, USA, December 2022. IEEE Computer Society.  [https://doi.org/10.1109/UCC56403.2022.00011]()
 
 D. Hoang, H. Bhatia, P. Lindstrom and V. Pascucci, **"Progressive Tree-Based Compression of Large-Scale Particle Data,"** in IEEE Transactions on Visualization and Computer Graphics, [https://doi.org/10.1109/TVCG.2023.3260628]().
 
@@ -39,7 +41,7 @@ Li, Zhimin and Menon, Harshitha and Mohror, Kathryn and Liu, Shusen and Guo, Lua
 
 Ke Fan, Thomas Gilray, Valerio Pascucci, Xuan Huang, Kristopher Micinski, and Sidharth Kumar. 2022. **Optimizing the Bruck Algorithm for Non-uniform All-to-all Communication**. In Proceedings of the 31st International Symposium on High-Performance Parallel and Distributed Computing (HPDC '22). Association for Computing Machinery, New York, NY, USA, 172–184. [https://doi.org/10.1145/3502181.3531468]()
 
-Jakob Luettgau, Paula Olaya, Naweiluo Zhou, Giorgio Scorzelli, Valerio Pascucci, and Michela Taufer. 2022. **NSDF-Cloud: Enabling Ad-Hoc Compute Clusters Across Academic and Commercial Clouds.** In Proceedings of the 31st International Symposium on High-Performance Parallel and Distributed Computing (HPDC '22). Association for Computing Machinery, New York, NY, USA, 279–280. [https://doi.org/10.1145/3502181.3533710]()
+Jakob Luettgau, Paula Olaya, Naweiluo Zhou, Giorgio Scorzelli, Valerio Pascucci, and Michela Taufer. **NSDF-Cloud: Enabling Ad-Hoc Compute Clusters Across Academic and Commercial Clouds**. In Proceedings of the 31st International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC), pages 1–2, Minneapolis, Minnesota, June 2022. ACM. [https://doi.org/10.1145/3502181.3533710]()
 
 Morrical, Nate & Sahistan, Alper & Gudukbay, U. & Wald, Ingo & Pascucci, Valerio. (2022). **Quick Clusters: A GPU-Parallel Partitioning for Efficient Path Tracing of Unstructured Volumetric Grids**. IEEE Transactions on Visualization and Computer Graphics. PP. 1-11. [https://doi.org/10.1109/TVCG.2022.3209418](). 
 
@@ -114,7 +116,7 @@ Jakob Luettgau, Giorgio Scorzelli, Nauweiluo Zhou, Glenn Tarcea, Jay Lofstead, V
 
 Christine Kirkpatrick. **Why FAIR is Worthwhile for Big Science & Easy Steps to Get Started**. National Virtual Biosecurity Bioenergy Crops Center (NVBCC) Computing and Cross-Cutting Workshops. Virtual. **May 2023**
 
-Paula Olaya; Jakob Luettgau; Ricardo Llamas; Rodrigo Vargas; Jay Lofstead; Sophia Wen; I-Hsin Chung; Seetharami Seelam; Michela Taufer. **Enabling Scalability in the Cloud for Scientific Workflows:  An Earth Science Use Case**.  IEEE 16th International Conference on Cloud Computing (CLOUD)
+Paula Olaya, Jakob Luettgau, Camila Roa, Ricardo Llamas, Rodrigo Vargas, Sophia Wen, I-Hsin Chung, Seetharami Seelam, Yoonho Park, Jay Lofstead, and Michela Taufer. **Enabling Scalability in the Cloud for Scientific Workflows:  An Earth Science Use Case**.  In Proceedings of IEEE CLOUD, pages 1–10, Chicago, IL, USA, June 2023. IEEE Computer Society. Paper, Slides, and Poster
 
 V. Pascucci, G. Scorzelli, A. Gyulassy, O. Koppe, A. Panta, D. Hoang, P. Klacansky, S. Petruzza, P.-T. Bremer M. Taufer, P. Olaya, J. Luettgau, H. Martinez, J. Marquez J. Allison, G. Tarcea, F. Wuerthwein, C. Kirkpatrick, F. Andrijauskas, K. Coakley, J. Christopher-Ohlin, W. Sun, D. Bougie, K. Soloway, R. Verberg, S. Sarker, L. Smieska, A. Woll, K. Nygren, **NSDF@CHESS: Democratizing Data**, CHESS User Meeting & Workshops, June 6th 2023 Cornell [https://indico.classe.cornell.edu/event/2187/timetable/#20230606.detailed]()
 

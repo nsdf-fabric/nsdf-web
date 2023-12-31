@@ -314,7 +314,7 @@ LLNL/IBM, Daniel Milroy. **Cloud-Native HPC with Kubernetes and the Flux Framewo
 
 UTK, Paula Olaya. **Tuning Object Storage for Scientific Workflows on Cloud Computational Services** National Science Data Fabric (NSDF) All Hands Meeting Oct 2022.  [https://doi.org/10.5281/zenodo.7488788]()	
 
-UTK , Jakob Luettgau. **NSDF-Catalog: Toward a Lightweight Indexing Service for the National Science Data Fabric** National Science Data Fabric (NSDF) All Hands Meeting Oct 2022.  https://doi.org/10.5281/zenodo.7488796]()	
+UTK , Jakob Luettgau. **NSDF-Catalog: Toward a Lightweight Indexing Service for the National Science Data Fabric** National Science Data Fabric (NSDF) All Hands Meeting Oct 2022.  [https://doi.org/10.5281/zenodo.7488796]()	
 
 Alluxio, Bin Fan, Shouwei Chen. **Architect a Heterogeneous Data Platform Across Clusters, Regions, and Clouds** National Science Data Fabric (NSDF) All Hands Meeting Oct 2022.  [https://doi.org/10.5281/zenodo.7488800]()	
 

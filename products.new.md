@@ -65,77 +65,37 @@ Klacansky, Pavol and Miao, Haichao and Gyulassy,  Attila and  Townsend,  Andrew 
 
 # Other Conference Presentations / Papers
 
-Giorgio Scorzelli, Valerio Pascucci **NSDF@CHESS Democratizing Data Access at the Cornell Light Source**  MERIF 2023 Workshop May 22-24, 2023 Boston, MA. URL [https://whatisfabric.net/events/merif-2023-workshop](https://sites.google.com/a/us-ignite.org/merif-workshop-2020/2023-workshop/)
-<p align=center><img src="assets/images/merif-1024x463.jpg" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-
-Nauweiluo Zhou, Jakob Luettgau, Rahul Reddy Kancharla, Joshua Kane, Brendan Croom, Robert Wheeler, Pania Newell, Giorgio Scorzelli, Valerio Pascucci, and Michela  Taufer. **A  Software Framework for Scientific Workflow Orchestration at Large Scale**. In Proceedings of the 18th IEEE International Conference on e-Science. Salt Lake City, Utah, USA. URL [https://www.escience-conference.org/2022/](https://www.escience-conference.org/2022/)
-<p align=center><img src="assets/images/escience.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+# November 2023
 
 Valerio Pascucci, Michela  Taufer, Christine Kirkpatrick, and Jakob Luettgau (2023).  **BOF: A  National Science Data Fabric to Democratize Data  Access and Reusability**. International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). Denver, Colorado. URL [https://sc23.supercomputing.org/proceedings/bof/bof_pages/bof188.html](https://sc23.supercomputing.org/proceedings/bof/bof_pages/bof188.html)
 <p align=center><img src="assets/images/sc2023.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
-Michela  Taufer, Jay Lofstead, Christine Kirkpatrick, Jakob Luettgau, and Valerio Pascucci. **BOF:  A  National Science Data Fabric to Democratize Data  Access and Reusability**. May 2023. ISC High Performance Conference, May 24 2023, Hamburg, Germany, URL
-<p align=center><img src="assets/images/isc2023.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Christine Kirkpatrick. **BoF: Bridging the HPC/Data Divide** Supercomputing 2022 Conference. Dallas, TX, USA. 13-18 November 2022. URL [https://sc22.supercomputing.org/proceedings/bof/bof_pages/bof189.html](https://sc22.supercomputing.org/proceedings/bof/bof_pages/bof189.html)
-<p align=center><img src="assets/images/sc2022.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Natalie Meyers. **FAIR Digital Objects in Distributed Research Environments**. Throughput Computing 2023 OSG  All Hands Meeting. Madison, WI. July 11 2023. URL [https://agenda.hep.wisc.edu/event/2014/sessions/2902/#20230711](https://agenda.hep.wisc.edu/event/2014/sessions/2902/#20230711)
-<p align=center><img src="assets/images/tc2023.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Christine Kirkpatrick. **National Science Data Fabric**. Campus Research Computing Consortium's (CaRCC) Emerging Centers. June 6, 2023. URL [https://carcc.org/2023/06/02/join-us-for-upcoming-people-network-calls-for-june-2023/](https://carcc.org/2023/06/02/join-us-for-upcoming-people-network-calls-for-june-2023/)
-<p align=center><img src="assets/images/carcc.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Christine Kirkpatrick, John Goodhue, Melissa Cragin. **Open Storage Network**. International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). 13-18 November 2022. Dallas, 2022. URL [https://sc22.supercomputing.org/](https://sc22.supercomputing.org/)
-<p align=center><img src="assets/images/sc2022b.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+Valerio Pascucci, Michela  Taufer, Ian Foster, Ilya Baldin, Franck Wuerthwein (2023). **Panel: Unleashing the Power within Data Democratization: Needs, Challenges, and Opportunities** International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). Denver, Colorado. **12-17 November 2023**. URL [https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan111.html](https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan111.html)
+<p align=center><img src="assets/images/sc2023-00.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p>
 
 Daniel Milroy, Michela  Taufer, Seetharami Seelam, Bill Magro, Heidi Poxon,  Todd Gamblin. **Panel: HPC and Cloud Converged Computing: Merging Infrastructures and Communities**. International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). Denver, Colorado. Nov 2023 URL [https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan110.html](https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan110.html)
-<p align=center><img src="assets/images/sc2023b.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+<p align=center><img src="assets/images/sc2311.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
-Daniel Milroy, Marquita Ellis, Sameer Shende, Michela Taufer, Ward Harold, and Yan Fisher. **Converged Computing: Bringing Together HPC and Cloud Communities**. IEEE/ACM International Conference for High-Performance Computing, Networking, Storage, and Analysis URL Nov 2022 [https://sc22.supercomputing.org/presentation/?id=bof200&sess=sess470](https://sc22.supercomputing.org/presentation/?id=bof200&sess=sess470)
-<p align=center><img src="assets/images/sc2022c.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Valerio Pascucci, Michela  Taufer, Ian Foster, Ilya Baldin, Franck Wuerthwein (2023). **Panel: Unleashing the Power within Data Democratization: Needs, Challenges, and Opportunities** International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). Denver, Colorado. **12-17 November 2023**. URL [https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan111.html](https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan111.html)
-<p align=center><img src="assets/images/sc2023c.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Valerio Pascucci, **The National Science Data Fabric: Democratizing Data Access for Science and Society**, Fall 2022 Colloquia Tulane University, Dec 8 2022, New Orleans, LA, URL [https://sse.tulane.edu/cs/events](https://sse.tulane.edu/cs/events)
-<p align=center><img src="assets/images/tulane22.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Glenn Tarcea, **Materials Commons and FAIR Data**, ICME 2023, May 22 2023, Caribe Royale Florida, URL [https://www.tms.org/portal/downloads/meetings/2023/icme2023/ICME2023_Program.pdf](https://www.tms.org/portal/downloads/meetings/2023/icme2023/ICME2023_Program.pdf)
-<p align=center><img src="assets/images/icme23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+# August 2023
 
 Valerio Pascucci. **The National Science Data Fabric**  Data-Joint  Annual Workshop. Houston, TX. August 2023. URL [https://datajoint.com/news/datajoint-collaborative-research-workflows-workshop](https://datajoint.com/news/datajoint-collaborative-research-workflows-workshop)
 <p align=center><img src="assets/images/datajoint23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
-Valerio Pascucci, **The National Science Data Fabric: Democratizing Data Access for Science and Society**, Jet Propulsion Laboratory Earth Science Seminar, March 13, 2023, La Canada Flintridge, CA, URL [https://svcp.jpl.nasa.gov/cgi/mtgabstract.cgi?series=earth&meetingfile=../meetings/2023/es2023031301.txt](https://svcp.jpl.nasa.gov/cgi/mtgabstract.cgi?series=earth&meetingfile=../meetings/2023/es2023031301.txt)
-<p align=center><img src="assets/images/jpl23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+# July 2023
 
-Valerio Pascucci **Big Data Analytics for Decision Making** Advanced Modeling and Simulation (AMS) Seminars. April 20, 2023.  URL [https://www.nas.nasa.gov/pubs/ams/2023/04-20-23.html](https://www.nas.nasa.gov/pubs/ams/2023/04-20-23.html)
-<p align=center><img src="assets/images/ams23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+Natalie Meyers. **FAIR Digital Objects in Distributed Research Environments**. Throughput Computing 2023 OSG  All Hands Meeting. Madison, WI. July 11 2023. URL [https://agenda.hep.wisc.edu/event/2014/sessions/2902/#20230711](https://agenda.hep.wisc.edu/event/2014/sessions/2902/#20230711)
+<p align=center><img src="assets/images/tc2023b.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+# June 2023
+
+Christine Kirkpatrick. **National Science Data Fabric**. Campus Research Computing Consortium's (CaRCC) Emerging Centers. June 6, 2023. URL [https://carcc.org/2023/06/02/join-us-for-upcoming-people-network-calls-for-june-2023/](https://carcc.org/2023/06/02/join-us-for-upcoming-people-network-calls-for-june-2023/)
+<p align=center><img src="assets/images/carcc.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 Valerio Pascucci, **The National Science Data Fabric: Democratizing Data Access for Science and Society,** HIGH-PERFORMANCE COMPUTING SPECIAL EDITION An International Advanced Workshop, Cetraro Italy, June 26 – 30, 2023, URL [http://www.hpcc.unical.it/hpc2023/program.htm](http://www.hpcc.unical.it/hpc2023/program.htm)
 <p align=center><img src="assets/images/hpc2023.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 Kenton McHenry, **Ongoing Impacts from the EarthCube Technical Efforts, Building Upon the EarthCube Community** A GeoScience and Cyberinfrastructure workshop, June 27-28, 2023, Los Angeles CA, URL [https://isi-usc-edu.github.io/building-upon-the-earthcube-community/program.html](https://isi-usc-edu.github.io/building-upon-the-earthcube-community/program.html)
-<p align=center><img src="assets/images/earthcube.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Valerio Pascucci **The National Science Data Fabric: Democratizing Data Access for Science and Society**.  HIGH-PERFORMANCE COMPUTING An International Advanced Workshop, July 4-8, 2022, Cetraro Italy [http://www.hpcc.unical.it/hpc2022/program.htm](http://www.hpcc.unical.it/hpc2022/program.htm)
-<p align=center><img src="assets/images/hpc2022.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-*Valerio Pascucci, **The National Scientific Data Fabric**, PRISMS Center Annual Workshop, August 9-12, 2022, Ann Arbor, Michigan, [https://mse.engin.umich.edu/about/events/prisms-center-annual-workshop](https://mse.engin.umich.edu/about/events/prisms-center-annual-workshop)
-<p align=center><img src="assets/images/prisms2022.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Valerio Pascucci, **The National Science Data Fabric: Democratizing Data Access for Science and Society**, APS Scientific Computation Seminar, November 29, 2021, Lemont, IL, [https://www.anl.gov/event/the-national-science-data-fabric-democratizing-data-access-for-science-and-society](https://www.anl.gov/event/the-national-science-data-fabric-democratizing-data-access-for-science-and-society)
-<p align=center><img src="assets/images/argonne21.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Jakob Luettgau, Giorgio Scorzelli, Glenn Tarcea, Christine Kirkpatrick, Valerio Pascucci, Michela Taufer, **NSDF-Catalog: Toward a Lightweight Indexing Service for the National Science Data Fabric**, 14th JLESC Workshop, 28-30 September 2022, Urbana, IL , [https://publish.illinois.edu/14th-jlesc-workshop/agenda/](https://publish.illinois.edu/14th-jlesc-workshop/agenda/)
-<p align=center><img src="assets/images/jlesc22.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Jakob Luettgau, Giorgio Scorzelli, Nauweiluo Zhou, Glenn Tarcea, Jay Lofstead, Valerio Pascucci, and Taufer, Michela. **Toward a Lightweight Indexing Service for the National Science Data Fabric** In Proceedings of the 18th IEEE International Conference on e-Science (Science).. Salt Lake City, Utah, USA,. October 2022. URL [https://zenodo.org/records/7161703](https://zenodo.org/records/7161703)
-<p align=center><img src="assets/images/escience22.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
-
-Christine Kirkpatrick. **Why FAIR is Worthwhile for Big Science & Easy Steps to Get Started**. National Virtual Biosecurity Bioenergy Crops Center (NVBCC) Computing and Cross-Cutting Workshops. Virtual. May 2023
+<p align=center><img src="assets/images/eathcube23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 Paula Olaya, Jakob Luettgau, Camila Roa, Ricardo Llamas, Rodrigo Vargas, Sophia Wen, I-Hsin Chung, Seetharami Seelam, Yoonho Park, Jay Lofstead, and Michela Taufer. **Enabling Scalability in the Cloud for Scientific Workflows:  An Earth Science Use Case**.  In Proceedings of IEEE CLOUD, pages 1–10, Chicago, IL, USA, June 2023. IEEE Computer Society. URL https://conferences.computer.org/cloud/2023/
 <p align=center><img src="assets/images/cloud23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
@@ -146,9 +106,77 @@ V. Pascucci, G. Scorzelli, A. Gyulassy, O. Koppe, A. Panta, D. Hoang, P. Klacans
 V. Pascucci, G. Scorzelli, **NSDF@CHESS Democratizing the Cornel Light Source**, 2023 Research Infrastructure Workshop, Jun 26-30 2023, Washington DC, [https://2023riworkshop.events.whova.com/Artifact/session/3142219/83479](https://2023riworkshop.events.whova.com/Artifact/session/3142219/83479)
 <p align=center><img src="assets/images/ri23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
-Owen Koppe, Giorgio Scorzelli, and Valerio Pascucci. (2022). **Unlocking  Analysis Ready Cloud Optimized (ARCO) file format in the OpenVisus framework**.  Proceedings of the 18th IEEE International Conference on e-Science (eScience), Salt Lake City, Utah, USA, October 2022. IEEE Computer Society.  [https://zenodo.org/record/7488814](https://zenodo.org/record/7488814)
+# May 2023
+
+Giorgio Scorzelli, Valerio Pascucci **NSDF@CHESS Democratizing Data Access at the Cornell Light Source**  MERIF 2023 Workshop May 22-24, 2023 Boston, MA. URL [https://whatisfabric.net/events/merif-2023-workshop](https://sites.google.com/a/us-ignite.org/merif-workshop-2020/2023-workshop/)
+<p align=center><img src="assets/images/merif-1024x463.jpg" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+Michela  Taufer, Jay Lofstead, Christine Kirkpatrick, Jakob Luettgau, and Valerio Pascucci. **BOF:  A  National Science Data Fabric to Democratize Data  Access and Reusability**. May 2023. ISC High Performance Conference, May 24 2023, Hamburg, Germany, URL
+<p align=center><img src="assets/images/isc2023.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+Glenn Tarcea, **Materials Commons and FAIR Data**, ICME 2023, May 22 2023, Caribe Royale Florida, URL [https://www.tms.org/portal/downloads/meetings/2023/icme2023/ICME2023_Program.pdf](https://www.tms.org/portal/downloads/meetings/2023/icme2023/ICME2023_Program.pdf)
+<p align=center><img src="assets/images/icme23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+Christine Kirkpatrick. **Why FAIR is Worthwhile for Big Science & Easy Steps to Get Started**. National Virtual Biosecurity Bioenergy Crops Center (NVBCC) Computing and Cross-Cutting Workshops. Virtual. May 2023
+
+# April 2023
+
+Valerio Pascucci **Big Data Analytics for Decision Making** Advanced Modeling and Simulation (AMS) Seminars. April 20, 2023.  URL [https://www.nas.nasa.gov/pubs/ams/2023/04-20-23.html](https://www.nas.nasa.gov/pubs/ams/2023/04-20-23.html)
+<p align=center><img src="assets/images/ams23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+# March 2023
+
+Valerio Pascucci, **The National Science Data Fabric: Democratizing Data Access for Science and Society**, Jet Propulsion Laboratory Earth Science Seminar, March 13, 2023, La Canada Flintridge, CA, URL [https://svcp.jpl.nasa.gov/cgi/mtgabstract.cgi?series=earth&meetingfile=../meetings/2023/es2023031301.txt](https://svcp.jpl.nasa.gov/cgi/mtgabstract.cgi?series=earth&meetingfile=../meetings/2023/es2023031301.txt)
+<p align=center><img src="assets/images/jpl23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+# December 2022
+
+Valerio Pascucci, **The National Science Data Fabric: Democratizing Data Access for Science and Society**, Fall 2022 Colloquia Tulane University, Dec 8 2022, New Orleans, LA, URL [https://sse.tulane.edu/cs/events](https://sse.tulane.edu/cs/events)
+<p align=center><img src="assets/images/tulane22.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+# November 2022
+
+Christine Kirkpatrick. **BoF: Bridging the HPC/Data Divide** Supercomputing 2022 Conference. Dallas, TX, USA. 13-18 November 2022. URL [https://sc22.supercomputing.org/proceedings/bof/bof_pages/bof189.html](https://sc22.supercomputing.org/proceedings/bof/bof_pages/bof189.html)
+<p align=center><img src="assets/images/sc22d.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+Christine Kirkpatrick, John Goodhue, Melissa Cragin. **Open Storage Network**. International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). 13-18 November 2022. Dallas, 2022. URL [https://sc22.supercomputing.org/](https://sc22.supercomputing.org/)
+<p align=center><img src="assets/images/sc2022b.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+Daniel Milroy, Marquita Ellis, Sameer Shende, Michela Taufer, Ward Harold, and Yan Fisher. **Converged Computing: Bringing Together HPC and Cloud Communities**. IEEE/ACM International Conference for High-Performance Computing, Networking, Storage, and Analysis URL Nov 2022 [https://sc22.supercomputing.org/presentation/?id=bof200&sess=sess470](https://sc22.supercomputing.org/presentation/?id=bof200&sess=sess470)
+<p align=center><img src="assets/images/sc22c.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+
+# October 2022
+
+Nauweiluo Zhou, Jakob Luettgau, Rahul Reddy Kancharla, Joshua Kane, Brendan Croom, Robert Wheeler, Pania Newell, Giorgio Scorzelli, Valerio Pascucci, and Michela  Taufer. **A  Software Framework for Scientific Workflow Orchestration at Large Scale**. In Proceedings of the 18th IEEE International Conference on e-Science. Salt Lake City, Utah, USA. URL [https://www.escience-conference.org/2022/](https://www.escience-conference.org/2022/)
+<p align=center><img src="assets/images/escience.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+Jakob Luettgau, Giorgio Scorzelli, Nauweiluo Zhou, Glenn Tarcea, Jay Lofstead, Valerio Pascucci, and Taufer, Michela. **Toward a Lightweight Indexing Service for the National Science Data Fabric** In Proceedings of the 18th IEEE International Conference on e-Science (Science).. Salt Lake City, Utah, USA,. October 2022. URL [https://zenodo.org/records/7161703](https://zenodo.org/records/7161703)
+<p align=center><img src="assets/images/escience22.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+Owen Koppe, Giorgio Scorzelli, and Valerio Pascucci **Unlocking  Analysis Ready Cloud Optimized (ARCO) file format in the OpenVisus framework**.  Proceedings of the 18th IEEE International Conference on e-Science (eScience), Salt Lake City, Utah, USA, October 2022. IEEE Computer Society.  [https://zenodo.org/record/7488814](https://zenodo.org/record/7488814)
 <p align=center><img src="assets/images/escience22b.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
+# September 2022
+
+Jakob Luettgau, Giorgio Scorzelli, Glenn Tarcea, Christine Kirkpatrick, Valerio Pascucci, Michela Taufer, **NSDF-Catalog: Toward a Lightweight Indexing Service for the National Science Data Fabric**, 14th JLESC Workshop, 28-30 September 2022, Urbana, IL , [https://publish.illinois.edu/14th-jlesc-workshop/agenda/](https://publish.illinois.edu/14th-jlesc-workshop/agenda/)
+<p align=center><img src="assets/images/jlesc22.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+# August 2022
+
+*Valerio Pascucci, **The National Scientific Data Fabric**, PRISMS Center Annual Workshop, August 9-12, 2022, Ann Arbor, Michigan, [https://mse.engin.umich.edu/about/events/prisms-center-annual-workshop](https://mse.engin.umich.edu/about/events/prisms-center-annual-workshop)
+<p align=center><img src="assets/images/prisms2022.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+# July 2022
+
+
+Valerio Pascucci **The National Science Data Fabric: Democratizing Data Access for Science and Society**.  HIGH-PERFORMANCE COMPUTING An International Advanced Workshop, July 4-8, 2022, Cetraro Italy [http://www.hpcc.unical.it/hpc2022/program.htm](http://www.hpcc.unical.it/hpc2022/program.htm)
+<p align=center><img src="assets/images/hpc2022.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
+# November 2021
+
+Valerio Pascucci, **The National Science Data Fabric: Democratizing Data Access for Science and Society**, APS Scientific Computation Seminar, November 29, 2021, Lemont, IL, [https://www.anl.gov/event/the-national-science-data-fabric-democratizing-data-access-for-science-and-society](https://www.anl.gov/event/the-national-science-data-fabric-democratizing-data-access-for-science-and-society)
+<p align=center><img src="assets/images/argonne21.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 
 # Software repositories

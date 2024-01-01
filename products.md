@@ -270,16 +270,22 @@ NSDF Web Site and educational materials
 # NSDF Distinguished Speaker Series
 
 Joel Brock **Big Data at Synchrotron X-ray User Facilities: Challenges and Opportunities_** NSDF Distinguished Speaker Series. December 12, 2023 # URL [https://nationalsciencedatafabric.org/nsdf-seminar-series-brock](https://nationalsciencedatafabric.org/nsdf-seminar-series-brock)
+<p align=center><img src="assets/images/joel.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 Gwen Jacobs **Cyberinfrastructure in Paradise: Enabling Science and Community Impact at the University of Hawaii** NSDF Distinguished Speaker Series. Oct 19, 2023 URL [https://nationalsciencedatafabric.org/nsdf-seminar-series-jacobs](https://nationalsciencedatafabric.org/nsdf-seminar-series-jacobs)
+<p align=center><img src="assets/images/gwen.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 Ana Persic, **The Pathway to Implementing the UNESCO Recommendation on Open Science** NSDF Distinguished Speaker Series. May 23, 202 URL [https://nationalsciencedatafabric.org/nsdf-seminar-series-persic](https://nationalsciencedatafabric.org/nsdf-seminar-series-persic)
+<p align=center><img src="assets/images/ana.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 Federica Legger **Large (Hadron Collider) and Big (Data Science)** NSDF Distinguished Speaker Series. March 23 2023 URL  [https://nationalsciencedatafabric.org/nsdf-seminar-series-legger](https://nationalsciencedatafabric.org/nsdf-seminar-series-legger)
+<p align=center><img src="assets/images/federica.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 Ian Foster **A Global Research Data Platform: How Globus Services Enable Scientific Discovery** NSDF Distinguished Speaker Series. May 26 2022 URL [https://nationalsciencedatafabric.org/nsdf-seminar-series-foster](https://nationalsciencedatafabric.org/nsdf-seminar-series-foster)
+<p align=center><img src="assets/images/ian.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 Ryan Abernathey **Pangeo Forge - Crowdsourcing Analysis Ready Data in the Cloud** NSDF Distinguished Speaker Series. April 28 2022 URL [https://nationalsciencedatafabric.org/nsdf-seminar-series-abernathey](https://nationalsciencedatafabric.org/nsdf-seminar-series-abernathey)
+<p align=center><img src="assets/images/ryan.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 # NSDF All Hands Meeting Feb 2022
 

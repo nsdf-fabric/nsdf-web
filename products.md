@@ -74,7 +74,7 @@ Klacansky, Pavol and Miao, Haichao and Gyulassy,  Attila and  Townsend,  Andrew 
 
 # November 2023
 
-Valerio Pascucci, Michela  Taufer, Christine Kirkpatrick, and Jakob Luettgau (2023).  **BOF: A  National Science Data Fabric to Democratize Data  Access and Reusability**. International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). Denver, Colorado. URL [https://sc23.supercomputing.org/proceedings/bof/bof_pages/bof188.html](https://sc23.supercomputing.org/proceedings/bof/bof_pages/bof188.html)
+Valerio Pascucci, Michela  Taufer, Christine Kirkpatrick, and Jakob Luettgau (2023).  **BOF: A  National Science Data Fabric to Democratize Data  Access and Reusability**. International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). Denver, Colorado. URL [https://sc23.supercomputing.org/proceedings/bof/bof_pages/bof188.html](https://sc23.supercomputing.org/proceedings/bof/bof_pages/bof188.html) - [Slides](assets/pptx/sc23-bof.pptx)
 <p align=center><img src="assets/images/bofsc23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 Valerio Pascucci, Michela  Taufer, Ian Foster, Ilya Baldin, Franck Wuerthwein (2023). **Panel: Unleashing the Power within Data Democratization: Needs, Challenges, and Opportunities** International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). Denver, Colorado. **12-17 November 2023**. URL [https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan111.html](https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan111.html)

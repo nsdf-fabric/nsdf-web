@@ -78,7 +78,14 @@ Valerio Pascucci, Michela  Taufer, Christine Kirkpatrick, and Jakob Luettgau (20
 <p align=center><img src="assets/images/bofsc23.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 Valerio Pascucci, Michela  Taufer, Ian Foster, Ilya Baldin, Franck Wuerthwein (2023). **Panel: Unleashing the Power within Data Democratization: Needs, Challenges, and Opportunities** International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). Denver, Colorado. **12-17 November 2023**. URL [https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan111.html](https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan111.html)
-<p align=center><img src="assets/images/unleashing.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p>
+
+<table width="100%" border="0px">
+<tr>
+<td align='center' width="33%"> <img src="assets/images/unleashing.png"  style="filter: drop-shadow(5px 5px 5px #222);">  <br><a href="assets/pptx/sc23-panel1.pptx">Slides</a></td>
+<td align='center' width="33%"> <img src="assets/images/sc23-panel2.png" style="filter: drop-shadow(5px 5px 5px #222);">  <br><a href="assets/pptx/sc23-panel2.pptx">Slides</a></td>
+<td align='center' width="33%"> <img src="assets/images/sc23-panel3.png"  style="filter: drop-shadow(5px 5px 5px #222);"> <br><a href="assets/pptx/sc23-panel3.pptx">Slides</a></td>
+</tr>
+</table>
 
 Daniel Milroy, Michela  Taufer, Seetharami Seelam, Bill Magro, Heidi Poxon,  Todd Gamblin. **Panel: HPC and Cloud Converged Computing: Merging Infrastructures and Communities**. International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). Denver, Colorado. Nov 2023 URL [https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan110.html](https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan110.html)
 <p align=center><img src="assets/images/sc2311.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 

@@ -34,7 +34,7 @@ D. Kennedy, P. Olaya, J. Lofstead, R. Vargas and M. Taufer, **"Augmenting Singul
 
 A. Venkat _et al_., "High-Quality Progressive Alignment of Large 3D Microscopy Data," 2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV), Oklahoma City, OK, USA, 2022, pp. 1-10, [https://doi.org/10.1109/LDAV57265.2022.9966406](https://doi.org/10.1109/LDAV57265.2022.9966406).
 
- Jakob Luettgau, Giorgio Scorzelli, Glenn Tarcea, Christine R. Kirkpatrick, Valerio Pascucci, and Michela Taufer. **NSDF-Catalog: Lightweight Indexing Service for Democratizing Data Delivery**. In Proceedings of the 15th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), pages 1–10, Seattle, WA, USA, December 2022. IEEE Computer Society.  [https://doi.org/10.1109/UCC56403.2022.00011](https://doi.org/10.1109/UCC56403.2022.00011)
+ Jakob Luettgau, Giorgio Scorzelli, Glenn Tarcea, Christine R. Kirkpatrick, Valerio Pascucci, and Michela Taufer. **NSDF-Catalog: Lightweight Indexing Service for Democratizing Data Delivery**. In Proceedings of the 15th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), pages 1–10, Seattle, WA, USA, December 2022. IEEE Computer Society.  [https://doi.org/10.1109/UCC56403.2022.00011](https://doi.org/10.1109/UCC56403.2022.00011) [Slides](assets/pptx/ucc22.pptx)
 
 D. Hoang, H. Bhatia, P. Lindstrom and V. Pascucci, **"Progressive Tree-Based Compression of Large-Scale Particle Data,"** in IEEE Transactions on Visualization and Computer Graphics, [https://doi.org/10.1109/TVCG.2023.3260628](https://doi.org/10.1109/TVCG.2023.3260628).
 
@@ -83,6 +83,11 @@ Valerio Pascucci, Michela  Taufer, Ian Foster, Ilya Baldin, Franck Wuerthwein (2
 Daniel Milroy, Michela  Taufer, Seetharami Seelam, Bill Magro, Heidi Poxon,  Todd Gamblin. **Panel: HPC and Cloud Converged Computing: Merging Infrastructures and Communities**. International Conference for High Performance Computing, Networking, Storage, and  Analysis (SC). Denver, Colorado. Nov 2023 URL [https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan110.html](https://sc23.supercomputing.org/proceedings/panel/panel_pages/pan110.html)
 <p align=center><img src="assets/images/sc2311.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
+# September 2023
+
+Giorgio Scorzelli and Valerio Pascucci, **NSDF@CHESS** KNIT 7: A FABRIC Community Workshop. Columbus, OH. September 27-29 2023 URL [https://whatisfabric.net/events/knit-7](https://whatisfabric.net/events/knit-7) [Slides](assets/pptx/knit23.pptx)
+<p align=center><img src="assets/images/knit7.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+
 # August 2023
 
 Valerio Pascucci. **The National Science Data Fabric**  Data-Joint  Annual Workshop. Houston, TX. August 2023. URL [https://datajoint.com/news/datajoint-collaborative-research-workflows-workshop](https://datajoint.com/news/datajoint-collaborative-research-workflows-workshop)
@@ -90,7 +95,7 @@ Valerio Pascucci. **The National Science Data Fabric**  Data-Joint  Annual Works
 
 # July 2023
 
-Natalie Meyers. **FAIR Digital Objects in Distributed Research Environments**. Throughput Computing 2023 OSG  All Hands Meeting. Madison, WI. July 11 2023. URL [https://agenda.hep.wisc.edu/event/2014/sessions/2902/#20230711](https://agenda.hep.wisc.edu/event/2014/sessions/2902/#20230711)
+Natalie Meyers. **FAIR Digital Objects in Distributed Research Environments**. Throughput Computing 2023 OSG  All Hands Meeting. Madison, WI. July 11 2023. URL [https://agenda.hep.wisc.edu/event/2014/sessions/2902/#20230711](https://agenda.hep.wisc.edu/event/2014/sessions/2902/#20230711) [Slides](assets/pdf/osg23.pdf)
 <p align=center><img src="assets/images/tc2023b.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 # June 2023
@@ -166,7 +171,7 @@ Owen Koppe, Giorgio Scorzelli, and Valerio Pascucci **Unlocking  Analysis Ready 
 
 # September 2022
 
-Jakob Luettgau, Giorgio Scorzelli, Glenn Tarcea, Christine Kirkpatrick, Valerio Pascucci, Michela Taufer, **NSDF-Catalog: Toward a Lightweight Indexing Service for the National Science Data Fabric**, 14th JLESC Workshop, 28-30 September 2022, Urbana, IL , [https://publish.illinois.edu/14th-jlesc-workshop/agenda/](https://publish.illinois.edu/14th-jlesc-workshop/agenda/)
+Jakob Luettgau, Giorgio Scorzelli, Glenn Tarcea, Christine Kirkpatrick, Valerio Pascucci, Michela Taufer, **NSDF-Catalog: Toward a Lightweight Indexing Service for the National Science Data Fabric**, 14th JLESC Workshop, 28-30 September 2022, Urbana, IL , [https://publish.illinois.edu/14th-jlesc-workshop/agenda/](https://publish.illinois.edu/14th-jlesc-workshop/agenda/) [Slides](assets/pptx/jlesc.pptx)
 <p align=center><img src="assets/images/jlesc22.png" width="60%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 # August 2022

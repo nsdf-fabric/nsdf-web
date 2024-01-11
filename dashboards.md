@@ -41,7 +41,9 @@ https://www.prnewswire.com/in/news-releases/seal-storage-technology-and-the-univ
 
 # MATERIAL SCIENCE
 
-[DEMO](http://services.nationalsciencedatafabric.org/materialscience) 
+[DEMO@CHPC2](http://chpc2.nationalsciencedatafabric.org:10003/materialscience/run) 
+[EMO@CHPC3][http://chpc2.nationalsciencedatafabric.org:10003/materialscience/run)
+[DEMO@SERVICES](http://services.nationalsciencedatafabric.org/materialscience) 
 
 We present a framework for analyzing internal material structures (e.g., cracks) to mitigate these bottlenecks. We demonstrate the effectiveness of our framework for a workflow
 performing synchrotron X-ray computed tomography reconstruction and segmentation of a silica-based structure.

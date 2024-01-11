@@ -43,7 +43,7 @@ https://www.prnewswire.com/in/news-releases/seal-storage-technology-and-the-univ
 
 [DEMO@CHPC2](http://chpc2.nationalsciencedatafabric.org:10003/materialscience/run) 
 
-[DEMO@CHPC3][http://chpc2.nationalsciencedatafabric.org:10003/materialscience/run)
+[DEMO@CHPC3](http://chpc2.nationalsciencedatafabric.org:10003/materialscience/run)
 
 [DEMO@SERVICES](http://services.nationalsciencedatafabric.org/materialscience) 
 

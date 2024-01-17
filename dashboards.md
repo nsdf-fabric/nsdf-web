@@ -6,25 +6,17 @@ ref: dashboards
 order: 0
 ---
 
-# NASA
+# Climate Modeling
 
 [DEMO](http://services.nationalsciencedatafabric.org/nasa) 
 
-Over 200TB of NASA climate data is now accessible through the collaboration between Seal Storage Technology and the University of Utah's Scientific Computing and Imaging Institute (SCI), enabling researchers around the world to access and visualize the data with zero egress fees.
+[DEMO](http://services.nationalsciencedatafabric.org/bellows)
 
-Press release [Here](
-https://www.prnewswire.com/in/news-releases/seal-storage-technology-and-the-university-of-utah-announce-nasa-climate-data-democratization-partnership-301795817.html) and [Here](https://www.sealstorage.io/blog/utah)
-
+Over 200TB of Climate Modeling data is now accessible through the collaboration between Seal Storage Technology and the University of Utah's Scientific Computing and Imaging Institute (SCI), enabling researchers around the world to access and visualize the data with zero egress fees.
 
 <div align="center">
 <img src="./assets/images/nasa.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
-
-
-
-# NASA bellows
-
-[DEMO](http://services.nationalsciencedatafabric.org/bellows)
 
 <div align="center">
 <img src="./assets/images/nasa-bellows.jpg" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 

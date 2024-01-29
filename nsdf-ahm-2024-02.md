@@ -32,72 +32,31 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 
 # Schedule
 
-Coming soon!
+## Wednesday, February 28, 2024
 
-<!-- ## Wed April 12
+- 12:00-13:30 Lunch
+- 13:30-14:00 Welcome: Valerio Pascucci and Michela Taufer
+- 14:00-15:00 Tutorial
+- 15:00-15:30 break
+- 15:30-17:00 Session 1: NSDF and Scientific Use Cases: Arleth Salinas (Utah), Michela Taufer (UTK), Heberth Martinez (UTK)
 
-**Session 1 - Welcome, Vision, and Keynote (Session Chair: Michela Taufer)**
+## Thursday, February 29, 2024
 
-|----|----|---|
-| U Utah | Valerio Pascucci <br>*The state of NSDF* <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829832.svg)](https://doi.org/10.5281/zenodo.7829832) <br>| <a href='https://docs.google.com/presentation/d/1Vrp5cH68LFQ5J0d4HxVCT6urby66COJR/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session1-pascucci.png"></a> |
-| UCSD | Frank Wuerthwein <br>*Updates on NRP* <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859290.svg)](https://doi.org/10.5281/zenodo.7859290)| <a href='https://docs.google.com/presentation/d/1eDih-J_uJbcZb_O-Kiz5TdoJ2bDFQzNO/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'> <img width=300 src="/assets/misc/ahm3/session1-frank.png"></a> |
-| Stanford U. | Maria Elena Monzani <br>*Data-Intensive search for Dark Matter with the LUX-ZEPLIN experiment* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859311.svg)](https://doi.org/10.5281/zenodo.7859311)| <a href='https://docs.google.com/presentation/d/1liIPMJiUw5qF4DS-fRF9oiDHFpzG-I01/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session1-monzani.png"></a> |
+- 9:00-10:30 Session 2: NSDF and Scientific Use Cases: Dan Barstow (Windows on Earth), Aashish Panta (Utah), Amy Roberts (UC Denver), Werner Sun (CHESS), Glen Tarcea (Michigan)
+- 10:30-11:00 Keynote: Chaitanya Baru
+- 12:00-12:15 Group Photo
+- 12:15-13:30 Lunch
+- 13:30-15:00 Session 3: NSDF User Communities: Ilkay Altinas (SDSC), Kirk Kee (Texas Tech), Denis Sigur (Dillard University), Attila Gyulassy (Utah) and Lauren Whitnah (UTK)
+- 15:00-15:30 break
+- 15:30-17:00 Session 4: NSDF Tools: Kyle Chard (Globus), Marty Kandes (SDSC), Arun Kumar (UCSD), Steve Petruzza (Utah State University), Giorgio Scorzelli (Utah)
+- 18:00 Conference dinner
 
+## Friday, March 1, 2024
 
-**Session 2 (Session Chair: Valerio Pascucci)**
-
-|----|----|---|
-|Alluxio | Shouwei Chen <br> *How to Bring Data Locality to I/O-intensive Workloads on Cloud* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859331.svg)](https://doi.org/10.5281/zenodo.7859331)| <a href='https://docs.google.com/presentation/d/1y_u3vR-BVGq9dA0ElKUHSW1K79xBTlhxMTPfA3OQY-8/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-chen.png"></a> |
-|U Utah | Aashish Panta <br> *Testing Compressions with OpenVisus* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829901.svg)](https://doi.org/10.5281/zenodo.7829901)| <a href='https://docs.google.com/presentation/d/1PzlsbG2waIoe2q_M2lyW5PNnsDTro_Ac/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session2-aashish.png"></a> |
-|SEAL Storage | Sal Malik <br> *Web3 in the Real World: Decentralized Cloud Storage Use Cases* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859341.svg)](https://doi.org/10.5281/zenodo.7859341) | <a href='https://docs.google.com/presentation/d/1nRdtZJedoXDNZwezj2lEJxFzODrgnhrm/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session2-sal.png"></a> |
-|Alluxio | Bin Fan <br> *Efficient Data Access and Migration Across Clouds* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859354.svg)](https://doi.org/10.5281/zenodo.7859354) | <a href='https://docs.google.com/presentation/d/1-_tEMJxH-R1jr6ciwalYGlNpaGkU1mbE499yDdRSLVE/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-bin.png"></a> |
-|protocol.ai | Kenton Langstroth <br> *Filecoin for researchers* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859380.svg)](https://doi.org/10.5281/zenodo.7859380)| <a href='https://docs.google.com/presentation/d/1rAPq1GMYytsb1F_gyH3QsSSdEJAaeWkWGuzXmBKv1cI/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-kenton.png"></a> |
-|UCSD | Karen Stocks <br> *R2R Challenges managing large data from the US Academic Research Fleet* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859394.svg)](https://doi.org/10.5281/zenodo.7859394)| <a href='https://docs.google.com/presentation/d/1QMASBjsJfO2XWnPf_E-djwnULGWNwCLeZgsrdeYXMn0/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session2-karen.png"></a> |
-
-
-**Session 3 (Session Chair: Ivan Rodero)**
-
-|----|----|---|
-|U Hawaii | Sean Cleveland <br> *Needs for pacific regional CI* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859407.svg)](https://doi.org/10.5281/zenodo.7859407)| <a href='https://docs.google.com/presentation/d/1EN4VtpcjHZ2ZGHaDMCJ0yU5QYZbF64_h/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-sean.png"></a> |
-|UCSD | Amarnath Gupta <br> *A Data Fabric For Social Good?* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859415.svg)](https://doi.org/10.5281/zenodo.7859415)| <a href='https://docs.google.com/presentation/d/13qu2bNhrsyH0fIAPpAGfxbflsg1NtSZV/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-gupta.png"></a> |
-|LLNL | Peer-Timo Bremer <br> *Distributed Data Access in the National Security Complex* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859479.svg)](https://doi.org/10.5281/zenodo.7859479)| <a href='https://docs.google.com/presentation/d/1efKdNPvwuUmb0JP7KQffubtUfbOlwsey/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-timo.png"></a> |
-|U Chicago | Kyle <br> *Linking scientific instruments and computation: Patterns, technologies, and experiences* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859486.svg)](https://doi.org/10.5281/zenodo.7859486)| <a href='https://drive.google.com/file/d/1LfbMxXd-Fzg4vH1RvQHbF3Lo1Y4ffBtt/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session3-globus.png"></a> |
-|UCSD,OSG | Fabio Andrijauskas <br> *Open Science Data Federation* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859490.svg)](https://doi.org/10.5281/zenodo.7859490) | <a href='https://drive.google.com/file/d/1QHJs33ZpgqUr44uwIYjOX_Z4gom4ewSC/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session3-fabio.png"></a> |
-|NCSA | Luigi Marini <br> *Clowder: Open Source, Customizable, Data and Workflow Management* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859494.svg)](https://doi.org/10.5281/zenodo.7859494) | <a href='https://docs.google.com/presentation/d/1QcR3zbXshZM0CtATOK0NSJB-4qpuMIse/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session3-marini.png"></a> |
-
-**Session 4 (Session Chair: Christine Kirkpatrick)**
-
-|----|----|---|
-|U Utah | Attila Gyulassy<br> *Community Feedback on Data Worflows* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829907.svg)](https://doi.org/10.5281/zenodo.7829907)| <a href='https://docs.google.com/presentation/d/1bTHh2kITOVk1exE0UiwuQ4iCqE7T-twm/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-attila.png"></a> |
-|U Utah | Ivan Rodero <br> *NSDF Authentication and Authorization Infrastructure* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829909.svg)](https://doi.org/10.5281/zenodo.7829909)| <a href='https://drive.google.com/file/d/15VJNdopfGC1CvjMnwRj1RyFcSx8MDKPS/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session4-ivan.png"></a> |
-|Sandia National Labs | Jay Lofstead<br> *Metadata Management to Aid Data Discovery* <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859498.svg)](https://doi.org/10.5281/zenodo.7859498) | <a href='https://docs.google.com/presentation/d/1ucz-N6V5rH4NMZyuyzMite-qoEytToAE/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-jay.png"></a> |
-|U Utah | Giorgio Scorzelli<br>*Updates on the NSDF OpenVisus* <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829859.svg)](https://doi.org/10.5281/zenodo.7829859)| <a href='https://docs.google.com/presentation/d/1e4SRGw9x43vjrmZXfszROU4Qnxg3LmJ9/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-giorgio.png"></a> |
-|UTK | Heberth Martinez<br>*Monitoring Latency and Throughput across Distributed Resources in NSDF* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829931.svg)](https://doi.org/10.5281/zenodo.7829931) | <a href='https://docs.google.com/presentation/d/1PkXji5O-6Bk3CJxqRr_DYwjEh5ldejAR/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-heberth.png"></a> |
-|UTK | Jakob Luettgau <br> *Updates on the NSDF Catalog* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829935.svg)](https://doi.org/10.5281/zenodo.7829935) | <a href='https://docs.google.com/presentation/d/1rBD68-enTu7qoHwFXHMr0SHX_RrXGZQl/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-jakob.png"></a> |
-
-*NSDF Dinner*
-
-## Thursday April 13
-
-**Session 5 (Session Chair: Glenn Tarcea)**
-
-|----|----|---|
-|UCSD | Michael Corn<br>*Framing Research Security and a discussion of risk identification* <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859507.svg)](https://doi.org/10.5281/zenodo.7859507) | <a href='https://docs.google.com/presentation/d/1sAFLGzNeQAn5ELQF2pXbKPpCl9bV6mCQ/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session4-michael.png"></a> |
-|Utah State U. | Steve Petruzza <br> *Portability of applications to heterogeneous systems and exascale systems* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829921.svg)](https://doi.org/10.5281/zenodo.7829921)| <a href='https://drive.google.com/file/d/1ZzGVM73LwWSgjS4-vIbf8UI3JVmVlghg/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session5-steve.png"></a> |
-|SDSC/UC San Diego | Christine Kirkpatrick<br>*Tailoring the National Science Data Fabric to Open Science & FAIR Aims* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859511.svg)](https://doi.org/10.5281/zenodo.7859511) | <a href='https://docs.google.com/presentation/d/1TxkQ4WJ2bqzahLrDE8mmTg5aOo51YCG2/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session5-christine.png"></a> |
-|Morgridge | Brian Bockelman <br> *Kingfisher: Storage Management for Data Federations* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859520.svg)](https://doi.org/10.5281/zenodo.7859520) | <a href='https://drive.google.com/file/d/17d2ekWwCOIqIWW_fbkO1cywv1DZ3T3Sg/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session5-brian.png"></a> |
-|Ronin Institute | Douglas Fils <br>*Leveraging Structured Data on the Web to address FAIR Principles* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859526.svg)](https://doi.org/10.5281/zenodo.7859526) | <a href='https://docs.google.com/presentation/d/1cGCibY3mAzEd3ivHqPRjeDI28IVsV_d-/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session5-fils.png"></a> |
-
-
-**Session 6 (Session Chair: Jakob Luettgau)**
-
-|----|----|---|
-|NVIDIA | Pavol Klacansky <br>*Building a large scale community data portal with commodity hardware* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859528.svg)](https://doi.org/10.5281/zenodo.7859528) | <a href='https://docs.google.com/presentation/d/1lw2YGtwfS-hdcVqjwy-HBW53uDTheo98/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session6-pavol.png"></a> |
-|U Utah | Owen Koppe <br> *The NSDF-Data-Portal* <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829871.svg)](https://doi.org/10.5281/zenodo.7829871)| <a href='https://docs.google.com/presentation/d/1IT-qWOPq7Sc-5o59BxqZxTBlNBa91fDdgPVIVeioXQE/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session6-owen.png"></a> |
-|UTK | Paula Olaya <br> *Composing Scientific Workflows in the Cloud at Large Scale* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829927.svg)](https://doi.org/10.5281/zenodo.7829927) | <a href='https://docs.google.com/presentation/d/1PtG6kYeBiPmxt2XdZwcR21du1Eb3QfEP/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session6-paula.png"></a> |
-|U Michigan | Glenn Tarcea <br>*Materials Commons Updates and Thinking Big By Thinking Small* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7829949.svg)](https://doi.org/10.5281/zenodo.7829949)| <a href='https://docs.google.com/presentation/d/1A05V3egl_p65ZAPBz4MWTLx0S4tHdvz-N9A8D5fRKrk/edit?usp=sharing'><img width=300 src="/assets/misc/ahm3/session6-glenn.png"></a> |
-|Cornell, CHESS | Devin Bougie <br> *The CHESS - NSDF Collaboration: Updates* <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859535.svg)](https://doi.org/10.5281/zenodo.7859535) | <a href='https://drive.google.com/file/d/1q6NSGaWt32eBJvOsrzPqnBFK7L38Dy65/view?usp=sharing'><img width=300 src="/assets/misc/ahm3/session6-devin.png"></a> |
-| Hawaii | Curt Dodds <br>*Everything, Everywhere All at Once, All the Time - Challenges for Astronomy* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7859539.svg)](https://doi.org/10.5281/zenodo.7859539) | <a href='https://docs.google.com/presentation/d/1cCC3aDZJQqY_8o3uU4nsRR86meK8-KHe/edit?usp=sharing&ouid=107233031276525693779&rtpof=true&sd=true'><img width=300 src="/assets/misc/ahm3/session6-curt.png"></a> |  -->
+- 9:00-10:00 Keynote: Sandra Gesing
+- 10:00-10:30 break
+- 10:30-12:00 Session 5: NSDF Consortium and FAIR: Scott Doughman and Sal Malik (Seal Storage), Amy Gooch (ViSOAR), Fabio Andrijauskas (SDSC), Christine Kirkpatrick (SDSC), Doug Fils (Ronin)
+- 12:00-13:30 lunch and working group meetings
 
 <!-- ## LODGING
 

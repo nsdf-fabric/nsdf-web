@@ -133,10 +133,22 @@ Try the `12-jupyterlite.ipynb` Notebook  **[Here]({{ site.baseurl }}/jupyterlite
 
 The National Center for Atmospheric Research (NCAR) is a Federally Funded Research and Development Center, sponsored by NSF. NCAR is a focal point for research in the field of atmospheric sciences and is located in Boulder, Colorado. About 750 scientists and support personnel work at the center.
 
+<div align="center">
+<img src="./assets/images/ncar-demo.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
 # NEON
 
 [DEMO](https://data.neonscience.org/data-products/DP3.30010.001)
 
 The NSF National Ecological Observatory Network (NEON) has a large amount of image data from Airborne Observation Platforms (AOP) that is publicly available for their users.
 
+`This viewer allows for interactive exploration of remotely sensed data from the Airborne Observation Platform (AOP). Change the field site and flight for this data product using the tools below to stream different data into view. Pan and zoom in the view to stream higher resolution imagery. This pilot data viewer is provided through a collaboration with the Visus Project at the Univeristy of Utah and more updates are planned for the future.``
 
+<div align="center">
+<img src="./assets/images/neon-demo.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
+<br>
+<br>
+<br>

@@ -15,7 +15,7 @@ Keynote Speaker: **Chaitan Baru, Senior Advisor, TIP Directorate, NSF**
 
 Title: _The Prototype Open Knowledge Network (Proto-OKN) Fabric_
 
-<img src="assets/images/baru.jpg" align=center/>
+<img src="assets/images/Baru.jpg" align=center/>
 
 ### Abstract
 

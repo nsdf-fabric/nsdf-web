@@ -9,26 +9,23 @@ title: All hands meeting February 2024
 San Diego Supercomputer Center<br>
 10100 Hopkins Drive, La Jolla, CA 92093<br>
 
-<!-- # Keynote
+# Keynote
 
-Keynote Speaker: **Maria Elena Monzani, Stanford U.**
+Keynote Speaker: **Chaitan Baru, Senior Advisor, TIP Directorate, NSF**
 
-Title: *Data-Intensive search for Dark Matter with the LUX-ZEPLIN experiment*
+Title: _The Prototype Open Knowledge Network (Proto-OKN) Fabric_
 
-
-<img src="assets/images/monzani.jpg" align=center/>
+<img src="assets/images/baru.jpg" align=center/>
 
 ### Abstract
 
-The nature and origin of dark matter are among the most compelling mysteries of contemporary science. There is strong evidence for dark matter from its role in shaping the galaxies and galaxy clusters that we observe in the universe. Still, physicists have tried to detect dark matter particles for over three decades with little success.
-
-This talk will describe the leading effort in that search, the LUX-ZEPLIN (LZ) detector. LZ is an instrument that is superlative in many ways. It consists of 10 tons of liquified xenon gas, maintained at almost atomic purity and stored in a refrigerated titanium cylinder a mile underground in a former gold mine in Lead, South Dakota.
-
-​During its science run, LZ is projected to accumulate a massive dataset of many petabytes of data and record several billions of particle interactions, only a handful of which might be produced by potential dark matter candidates (if nature cooperates). Identifying the dark matter signals in this amassment of data represents an extreme “needle in a haystack” problem and requires leveraging advanced detector design and state-of-the-art machine learning algorithms. The talk will present challenges in constructing this large-scale underground experiment and interpreting its data, along with the prospects LZ presents for finally discovering the dark matter particle and recently released results from its initial search for new physics.
+In September 2023, NSF announced an investment of $26.7 million in 18 projects for its Building the Prototype Open Knowledge Network (Proto-OKN) program, in collaboration with five other U.S. government agencies. The 18 funded projects are working together as a single cohort to create an open knowledge network that is a publicly accessible, interconnected set of data repositories and associated knowledge graphs that will enable data-driven, artificial intelligence-based solutions for a broad set of societal and economic challenges.
+NASA, NIH, the National Institute of Justice, NOAA and the U.S. Geological Survey are partnering with NSF on this effort, along with an additional 15 U.S. federal and state agencies that are working closely with the awardees to ensure that Proto-OKN supports each agency's data strategy while addressing use cases associated with agency data. Of the 18 projects, 15 are focusing on use cases representing agency applications, two projects are focusing on creating the Proto-OKN Fabric to provide the technological platform, and one project is providing education and training materials and coordination across the entire effort.
+The Proto-OKN initiative constitutes an investment by the TIP Directorate to advance key technologies — data and AI, in this case — while addressing pressing national, societal and geostrategic challenges, as authorized by the CHIPS and Science Act of 2022.
 
 ### Bio
 
-Maria Elena Monzani is a dark matter data wrangler. Her research field is Astroparticle physics, which focuses on topics at the intersection between particle physics and astrophysics/cosmology, using the tools of data-intensive science. She received a dual Ph.D. from the University of Milano and the University of Paris 7, performing research with the Borexino experiment that measured neutrinos produced by the Sun. She then held a postdoctoral position at Columbia University before joining SLAC in 2007 to work on the Fermi Gamma-ray Space Telescope. Today, Monzani is a lead scientist at SLAC and a senior Kavli Institute for Particle Astrophysics and Cosmology member at Stanford. She leads the software computing effort for the LZ Dark Matter Experiment and the science operations team for the Fermi satellite. She is also an Adjunct Scholar at the Vatican Observatory and enjoys discussing the shared philosophical foundations of scientific and religious endeavors. -->
+Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partnerships (TIP) Directorate where he assists with strategy and ideation of new programs. He first joined NSF in 2014, as Senior Advisor for Data Science in the CISE Directorate where he co-chaired the NSF Harnessing the Data Revolution (HDR) Big Idea and led the BIGDATA program. He returned to NSF in 2019 as Senior Advisor for the NSF Convergence Accelerator and a member of the team that launched the program. Prior to joining NSF in 2022, Chaitan had a 25-year career at the San Diego Supercomputer Center, University of California San Diego.
 
 # Schedule
 
@@ -43,7 +40,7 @@ Maria Elena Monzani is a dark matter data wrangler. Her research field is Astrop
 ## Thursday, February 29, 2024
 
 - 9:00-10:30 Session 2: NSDF and Scientific Use Cases: Dan Barstow (Windows on Earth), Aashish Panta (Utah), Amy Roberts (UC Denver), Werner Sun (CHESS), Glen Tarcea (Michigan)
-- 10:30-11:00 Keynote: Chaitanya Baru
+- 10:30-11:00 Keynote: Chaitan Baru
 - 12:00-12:15 Group Photo
 - 12:15-13:30 Lunch
 - 13:30-15:00 Session 3: NSDF User Communities: Ilkay Altinas (SDSC), Kirk Kee (Texas Tech), Denis Sigur (Dillard University), Attila Gyulassy (Utah) and Lauren Whitnah (UTK)

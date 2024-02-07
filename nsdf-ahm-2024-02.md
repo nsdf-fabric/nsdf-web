@@ -19,13 +19,17 @@ Title: _The Prototype Open Knowledge Network (Proto-OKN) Fabric_
 
 ### Abstract
 
-In September 2023, NSF announced an investment of $26.7 million in 18 projects for its Building the Prototype Open Knowledge Network (Proto-OKN) program, in collaboration with five other U.S. government agencies. The 18 funded projects are working together as a single cohort to create an open knowledge network that is a publicly accessible, interconnected set of data repositories and associated knowledge graphs that will enable data-driven, artificial intelligence-based solutions for a broad set of societal and economic challenges.
+In September 2023, NSF announced an investment of $26.7 million in 18 projects for its Building the Prototype Open Knowledge Network (Proto-OKN) program, in collaboration with five other U.S. government agencies. The 18 funded projects are expected to work together over the next 3 years, as a single cohort to create an open knowledge network that is a publicly accessible, interconnected set of data repositories and associated knowledge graphs that will enable data-driven, artificial intelligence-based solutions for a broad set of societal and economic challenges.
 NASA, NIH, the National Institute of Justice, NOAA and the U.S. Geological Survey are partnering with NSF on this effort, along with an additional 15 U.S. federal and state agencies that are working closely with the awardees to ensure that Proto-OKN supports each agency's data strategy while addressing use cases associated with agency data. Of the 18 projects, 15 are focusing on use cases representing agency applications, two projects are focusing on creating the Proto-OKN Fabric to provide the technological platform, and one project is providing education and training materials and coordination across the entire effort.
-The Proto-OKN initiative constitutes an investment by the TIP Directorate to advance key technologies — data and AI, in this case — while addressing pressing national, societal and geostrategic challenges, as authorized by the CHIPS and Science Act of 2022.
+This talk will describe the concepts, ideas, and technologies in the emerging Proto-OKN Fabric. For project focusing on data cyberinfrastructure, the identification and pursuit of sustainability strategies and an engaged, early user/customer base, is even more essential than the technological concepts and infrastructure. The Proto-OKN initiative constitutes an investment by the TIP Directorate to advance key technologies — data and AI, in this case — while addressing pressing national, societal and geostrategic challenges, as authorized by the CHIPS and Science Act of 2022.
+
+
+
+
 
 ### Bio
 
-Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partnerships (TIP) Directorate where he assists with strategy and ideation of new programs. He first joined NSF in 2014, as Senior Advisor for Data Science in the CISE Directorate where he co-chaired the NSF Harnessing the Data Revolution (HDR) Big Idea and led the BIGDATA program. He returned to NSF in 2019 as Senior Advisor for the NSF Convergence Accelerator and a member of the team that launched the program. Prior to joining NSF in 2022, Chaitan had a 25-year career at the San Diego Supercomputer Center, University of California San Diego.
+Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partnerships (TIP) Directorate where he assists with strategy and ideation of new programs. He first joined NSF in 2014, as Senior Advisor for Data Science in the CISE Directorate where he co-chaired the NSF Harnessing the Data Revolution (HDR) Big Idea and led the BIGDATA program. He returned to NSF in 2019 as Senior Advisor for the NSF Convergence Accelerator and as a member of the team that launched the program. Prior to joining NSF in 2022, Chaitan had a 25-year career at the San Diego Supercomputer Center, University of California San Diego.
 
 # Schedule - Tentative
 

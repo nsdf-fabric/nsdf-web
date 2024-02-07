@@ -64,11 +64,11 @@ Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partne
 - 13:45-14:00 Scot Breitenfield (HDF)
 - 14:00-14:15 Amy Gooch (ViSOAR)
 - 14:15-14:30 Fabio Andrijauskas (SDSC)
-- 14:30-14:45 Michael Mahoney (UC Berkeley and Berkeley Lab)
+- 14:30-14:45 Michael Mahoney (U. California Berkeley and Berkeley Lab)
 - 14:45-15:00 Q&A
 - 15:00-15:30 Coffee break
 - 15:30=15:45 Werner Sun (CHESS, Cornell U.)
-- 15:45-16:00 Glenn Tarcea (CHESS, U Michigan Ann Arbor)
+- 15:45-16:00 Glenn Tarcea (CHESS, U. Michigan Ann Arbor)
 - 16:00-16:15 Dan Barstow (Windows on Earth)
 - 16:15-16:30 Amy Roberts (U. Colorado Denver)
 - 16:30-16:45 Erwin Cazares (UTEP)

@@ -53,7 +53,7 @@ Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partne
 - 9:15-9:30 Arun Kumar (HDSI/UCSD)
 - 9:30-9:45 Steve Petruzza (Utah State U.)
 - 9:45-10:00 Olga Kuchar (ORNL)
-- 10:00-10:15 Miron Livny (U. Wisconsin Medison)
+- 10:00-10:15 Miron Livny (U. Wisconsin Madison)
 - 10:15-10:30 Q&A
 - 10:30-11:00 coffee break
 - 11:00-12:00 Keynote: Chaitan Baru (NSF)

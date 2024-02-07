@@ -36,12 +36,12 @@ Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partne
 ## Wednesday, February 28, 2024
 
 - 12:00-13:30 Lunch
-- 13:30-14:00 Welcome: Valerio Pascucci and Michela Taufer
+- 13:30-14:00 Welcome: Valerio Pascucci (U. Utah) and Michela Taufer (UTK)
 - 14:00-15:00 OpenVisus Tutorial
 - 15:00-15:30 Coffee break
-- 15:30-15:45 Kyle Chard (Globus)
+- 15:30-15:45 Kyle Chard (Globus and U. Chicago)
 - 15:45-16:00 Fernanda Foertter (Voltron)
-- 16:00-16:15 Kenton McHenry (UI Urbana)
+- 16:00-16:15 Kenton McHenry (UIUC)
 - 16:15-16:30 Christine Kirkpatrick (SDSC)
 - 16:30-16:45 Khalil Yazdi (independent)
 - 16:45-17:00 Q&A
@@ -51,12 +51,12 @@ Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partne
 - 8:00-9:00 Breakfast
 - 9:00-9:15 Marty Kandes (SDSC)
 - 9:15-9:30 Arun Kumar (HDSI/UCSD)
-- 9:30-9:45 Steve Petruzza (USU)
+- 9:30-9:45 Steve Petruzza (Utah State U.)
 - 9:45-10:00 Olga Kuchar (ORNL)
-- 10:00-10:15 Miron Livny (Wisconsin)
+- 10:00-10:15 Miron Livny (U. Wisconsin Medison)
 - 10:15-10:30 Q&A
 - 10:30-11:00 coffee break
-- 11:00-12:00 Keynote: Chaitan Baru
+- 11:00-12:00 Keynote: Chaitan Baru (NSF)
 - 12:00-12:15 Group Photo
 - 12:15-13:00 Lunch
 - 13:00-13:30 Lunch and poster session
@@ -64,13 +64,13 @@ Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partne
 - 13:45-14:00 Scot Breitenfield (HDF)
 - 14:00-14:15 Amy Gooch (ViSOAR)
 - 14:15-14:30 Fabio Andrijauskas (SDSC)
-- 14:30-14:45 Michael Mahoney (Berkeley)
+- 14:30-14:45 Michael Mahoney (UC Berkeley and Berkeley Lab)
 - 14:45-15:00 Q&A
 - 15:00-15:30 Coffee break
-- 15:30=15:45 Werner Sun (CHESS)
-- 15:45-16:00 Glenn Tarcea (CHESS)
+- 15:30=15:45 Werner Sun (CHESS, Cornell U.)
+- 15:45-16:00 Glenn Tarcea (CHESS, U Michigan Ann Arbor)
 - 16:00-16:15 Dan Barstow (Windows on Earth)
-- 16:15-16:30 Amy Roberts (UC Denver)
+- 16:15-16:30 Amy Roberts (U. Colorado Denver)
 - 16:30-16:45 Erwin Cazares (UTEP)
 - 16:45-17:00 Q&A
 - 18:30 Conference dinner
@@ -81,11 +81,11 @@ Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partne
 - 8:00-9:00 Breakfast
 - 9:00-10:00 Keynote: Sandra
 - 10:00-10:30 Coffee Break
-- 10:30-10:45 Kirk Kee (Texas Tech)
-- 10:45-11:00 Ilkay Altinas (SDSC): FRI only
-- 11:00-11:15 Denis Sigur (Dillard)
-- 11:15-11:30 Gustavo Ovando-Montejo (Utah State Blanding)
-- 11:30-11:45 Atilla Gyulassy, Lauren Whitnah, Julianne Christopher-Ohlin (Utah, UTK, SDSC)
+- 10:30-10:45 Kirk Kee (Texas Tech U,)
+- 10:45-11:00 Ilkay Altinas (SDSC, UCSD)
+- 11:00-11:15 Denis Sigur (Dillard U.)
+- 11:15-11:30 Gustavo Ovando-Montejo (Utah State U. Blanding)
+- 11:30-11:45 Atilla Gyulassy (U. Utah), Lauren Whitnah (UTK), Julianne Christopher-Ohlin (SDSC)
 - 11:45-12:00 Q&A
 - 12:00-13:30 Lunch and leadership meeting
 

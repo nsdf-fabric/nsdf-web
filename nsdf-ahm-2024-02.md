@@ -31,33 +31,63 @@ This talk will describe the concepts, ideas, and technologies in the emerging Pr
 
 Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partnerships (TIP) Directorate where he assists with strategy and ideation of new programs. He first joined NSF in 2014, as Senior Advisor for Data Science in the CISE Directorate where he co-chaired the NSF Harnessing the Data Revolution (HDR) Big Idea and led the BIGDATA program. He returned to NSF in 2019 as Senior Advisor for the NSF Convergence Accelerator and as a member of the team that launched the program. Prior to joining NSF in 2022, Chaitan had a 25-year career at the San Diego Supercomputer Center, University of California San Diego.
 
-# Schedule - Tentative
+# Schedule
 
 ## Wednesday, February 28, 2024
 
 - 12:00-13:30 Lunch
 - 13:30-14:00 Welcome: Valerio Pascucci and Michela Taufer
-- 14:00-15:00 Tutorial
-- 15:00-15:30 break
-- 15:30-17:00 Session 1: NSDF and Scientific Use Cases: Arleth Salinas (Utah), Michela Taufer (UTK), Heberth Martinez (UTK)
+- 14:00-15:00 OpenVisus Tutorial
+- 15:00-15:30 Coffee break
+- 15:30-15:45 Kyle Chard (Globus)
+- 15:45-16:00 Fernanda Foertter (Voltron)
+- 16:00-16:15 Kenton McHenry (UI Urbana)
+- 16:15-16:30 Christine Kirkpatrick (SDSC)
+- 16:30-16:45 Khalil Yazdi (independent)
+- 16:45-17:00 Q&A
 
 ## Thursday, February 29, 2024
 
-- 9:00-10:30 Session 2: NSDF and Scientific Use Cases: Dan Barstow (Windows on Earth), Aashish Panta (Utah), Amy Roberts (UC Denver), Werner Sun (CHESS), Glen Tarcea (Michigan)
-- 10:30-11:00 Keynote: Chaitan Baru
+- 8:00-9:00 Breakfast
+- 9:00-9:15 Marty Kandes (SDSC)
+- 9:15-9:30 Arun Kumar (HDSI/UCSD)
+- 9:30-9:45 Steve Petruzza (USU)
+- 9:45-10:00 Olga Kuchar (ORNL)
+- 10:00-10:15 Miron Livny (Wisconsin)
+- 10:15-10:30 Q&A
+- 10:30-11:00 coffee break
+- 11:00-12:00 Keynote: Chaitan Baru
 - 12:00-12:15 Group Photo
-- 12:15-13:30 Lunch
-- 13:30-15:00 Session 3: NSDF User Communities: Ilkay Altinas (SDSC), Kirk Kee (Texas Tech), Denis Sigur (Dillard University), Attila Gyulassy (Utah) and Lauren Whitnah (UTK)
-- 15:00-15:30 break
-- 15:30-17:00 Session 4: NSDF Tools: Kyle Chard (Globus), Marty Kandes (SDSC), Arun Kumar (UCSD), Steve Petruzza (Utah State University), Giorgio Scorzelli (Utah)
-- 18:00 Conference dinner
+- 12:15-13:00 Lunch
+- 13:00-13:30 Lunch and poster session
+- 13:30-13:45 Scott Doughman and Sal Malik (Seal Storage)
+- 13:45-14:00 Scot Breitenfield (HDF)
+- 14:00-14:15 Amy Gooch (ViSOAR)
+- 14:15-14:30 Fabio Andrijauskas (SDSC)
+- 14:30-14:45 Michael Mahoney (Berkeley)
+- 14:45-15:00 Q&A
+- 15:00-15:30 Coffee break
+- 15:30=15:45 Werner Sun (CHESS)
+- 15:45-16:00 Glenn Tarcea (CHESS)
+- 16:00-16:15 Dan Barstow (Windows on Earth)
+- 16:15-16:30 Amy Roberts (UC Denver)
+- 16:30-16:45 Erwin Cazares (UTEP)
+- 16:45-17:00 Q&A
+- 18:30 Conference dinner
+
 
 ## Friday, March 1, 2024
 
-- 9:00-10:00 Keynote: Sandra Gesing
-- 10:00-10:30 break
-- 10:30-12:00 Session 5: NSDF Consortium and FAIR: Scott Doughman and Sal Malik (Seal Storage), Amy Gooch (ViSOAR), Fabio Andrijauskas (SDSC), Christine Kirkpatrick (SDSC), Doug Fils (Ronin)
-- 12:00-13:30 lunch and working group meetings
+- 8:00-9:00 Breakfast
+- 9:00-10:00 Keynote: Sandra
+- 10:00-10:30 Coffee Break
+- 10:30-10:45 Kirk Kee (Texas Tech)
+- 10:45-11:00 Ilkay Altinas (SDSC): FRI only
+- 11:00-11:15 Denis Sigur (Dillard)
+- 11:15-11:30 Gustavo Ovando-Montejo (Utah State Blanding)
+- 11:30-11:45 Atilla Gyulassy, Lauren Whitnah, Julianne Christopher-Ohlin (Utah, UTK, SDSC)
+- 11:45-12:00 Q&A
+- 12:00-13:30 Lunch and leadership meeting
 
 <!-- ## LODGING
 

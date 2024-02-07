@@ -27,7 +27,7 @@ The Proto-OKN initiative constitutes an investment by the TIP Directorate to adv
 
 Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partnerships (TIP) Directorate where he assists with strategy and ideation of new programs. He first joined NSF in 2014, as Senior Advisor for Data Science in the CISE Directorate where he co-chaired the NSF Harnessing the Data Revolution (HDR) Big Idea and led the BIGDATA program. He returned to NSF in 2019 as Senior Advisor for the NSF Convergence Accelerator and a member of the team that launched the program. Prior to joining NSF in 2022, Chaitan had a 25-year career at the San Diego Supercomputer Center, University of California San Diego.
 
-# Schedule
+# Schedule - Tentative
 
 ## Wednesday, February 28, 2024
 

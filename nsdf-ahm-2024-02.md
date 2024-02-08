@@ -23,10 +23,6 @@ In September 2023, NSF announced an investment of $26.7 million in 18 projects f
 NASA, NIH, the National Institute of Justice, NOAA and the U.S. Geological Survey are partnering with NSF on this effort, along with an additional 15 U.S. federal and state agencies that are working closely with the awardees to ensure that Proto-OKN supports each agency's data strategy while addressing use cases associated with agency data. Of the 18 projects, 15 are focusing on use cases representing agency applications, two projects are focusing on creating the Proto-OKN Fabric to provide the technological platform, and one project is providing education and training materials and coordination across the entire effort.
 This talk will describe the concepts, ideas, and technologies in the emerging Proto-OKN Fabric. For project focusing on data cyberinfrastructure, the identification and pursuit of sustainability strategies and an engaged, early user/customer base, is even more essential than the technological concepts and infrastructure. The Proto-OKN initiative constitutes an investment by the TIP Directorate to advance key technologies — data and AI, in this case — while addressing pressing national, societal and geostrategic challenges, as authorized by the CHIPS and Science Act of 2022.
 
-
-
-
-
 ### Bio
 
 Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partnerships (TIP) Directorate where he assists with strategy and ideation of new programs. He first joined NSF in 2014, as Senior Advisor for Data Science in the CISE Directorate where he co-chaired the NSF Harnessing the Data Revolution (HDR) Big Idea and led the BIGDATA program. He returned to NSF in 2019 as Senior Advisor for the NSF Convergence Accelerator and as a member of the team that launched the program. Prior to joining NSF in 2022, Chaitan had a 25-year career at the San Diego Supercomputer Center, University of California San Diego.
@@ -67,14 +63,13 @@ Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partne
 - 14:30-14:45 Michael Mahoney (U. California Berkeley and Berkeley Lab)
 - 14:45-15:00 Q&A
 - 15:00-15:30 Coffee break
-- 15:30=15:45 Werner Sun (CHESS, Cornell U.)
+- 15:30-15:45 Werner Sun (CHESS, Cornell U.)
 - 15:45-16:00 Glenn Tarcea (CHESS, U. Michigan Ann Arbor)
 - 16:00-16:15 Dan Barstow (Windows on Earth)
 - 16:15-16:30 Amy Roberts (U. Colorado Denver)
 - 16:30-16:45 Erwin Cazares (UTEP)
 - 16:45-17:00 Q&A
 - 18:30 Conference dinner
-
 
 ## Friday, March 1, 2024
 

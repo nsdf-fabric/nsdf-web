@@ -15,7 +15,10 @@ Keynote Speaker: **Chaitan Baru, Senior Advisor, TIP Directorate, NSF**
 
 Title: _The Prototype Open Knowledge Network (Proto-OKN) Fabric_
 
-<img src="assets/images/Baru.jpg" align=center/>
+
+<p align=center>
+<img src="assets/images/Baru.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</p> 
 
 ### Abstract
 
@@ -26,6 +29,25 @@ This talk will describe the concepts, ideas, and technologies in the emerging Pr
 ### Bio
 
 Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partnerships (TIP) Directorate where he assists with strategy and ideation of new programs. He first joined NSF in 2014, as Senior Advisor for Data Science in the CISE Directorate where he co-chaired the NSF Harnessing the Data Revolution (HDR) Big Idea and led the BIGDATA program. He returned to NSF in 2019 as Senior Advisor for the NSF Convergence Accelerator and as a member of the team that launched the program. Prior to joining NSF in 2022, Chaitan had a 25-year career at the San Diego Supercomputer Center, University of California San Diego.
+
+# Keynote
+
+Keynote Speaker: **Sandra Gesing, Senior Researcher at the San Diego Supercomputer Center, Executive Director of the US Research Software Engineer Association (US-RSE)**
+
+Title: _Ushering in a New Era with Unconventional Paths and Hidden Contributors Driving Discoveries in Academia and National Labs_
+
+<p align=center>
+<img src="assets/images/sandraAHM.JPG" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</p> 
+
+### Abstract
+
+Over the past decade, academia and national labs have increasingly recognized the crucial role of hidden contributors contributing to accelerating science. The acknowledgement is evident in quite some projects. From the founding of 8 Research Software Engineer Associations worldwide to the dedicated efforts of the Campus Champions and the NSF Center of Excellence for Science Gateways. While it is encouraging that the importance of cyberinfrastructure and research software and the people being in this line of work receive more attention, we still have a long road in front of us for well-defined career paths and incentives. A multi-facet approach is needed to meet researchers and educators as well as the hidden contributors where they are. This keynote will delve into the crucial role of research software engineers, science gateway creators, and research facilitators in advancing research and computational activities. Furthermore, It will highlight the importance of fostering a community that encompasses all stakeholders in academia and national labs, advocating for a cultural change and actionable measures on how everyone can contribute to make it happen.
+
+### Bio
+
+Sandra Gesing is the inaugural Executive Director of the US Research Software Engineer Association and a Senior Researcher at the San Diego Supercomputer Center. Her research focuses on science gateways, computational workflows as well as distributed and parallel computing. She is especially interested in sustainability of research software, usability of computational methods and reproducibility of research results. Sustainability of research software has many facets and she advocates for improving career paths for research software engineers and facilitators and for incentivizing their work via means beyond the traditional academic rewarding system.
+Before her positions at US-RSE and SDSC, she was a senior research scientist at the Discovery Partners Institute (DPI), University of Illinois System, Chicago and she was an associate research professor at the University of Notre Dame, Indiana, US. Before she moved to the US, she was a research associate at the University of Edinburgh, UK, and at the University of Tübingen, Germany. Additionally, she has perennial experience as a project manager and system developer in industry in the US and Germany. As head of a system programmer group, she has long-term software projects. She received her Master’s degree in computer science from extramural studies at the FernUniversität Hagen and her PhD in computer science from the University of Tübingen, Germany.
 
 # Schedule
 

@@ -74,7 +74,7 @@ Chaitan Baru is a Senior Advisor in NSF's new Technology, Innovation, and Partne
 ## Friday, March 1, 2024
 
 - 8:00-9:00 Breakfast
-- 9:00-10:00 Keynote: Sandra
+- 9:00-10:00 Keynote: Sandra Gesing
 - 10:00-10:30 Coffee Break
 - 10:30-10:45 Kirk Kee (Texas Tech U,)
 - 10:45-11:00 Ilkay Altinas (SDSC, UCSD)

@@ -149,6 +149,15 @@ The NSF National Ecological Observatory Network (NEON) has a large amount of ima
 <img src="./assets/images/neon-demo.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
 
+# 1D SIGNALS
+
+[DEMO](http://services.nationalsciencedatafabric.org/signal1d)
+
+<div align="center">
+<img src="./assets/images/signal1d.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
+
 <br>
 <br>
 <br>

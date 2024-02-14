@@ -153,6 +153,15 @@ The NSF National Ecological Observatory Network (NEON) has a large amount of ima
 
 [DEMO](http://services.nationalsciencedatafabric.org/signal1d)
 
+
+```
+8GB 1D signal
+1,073,741,824 float64 samples
+np.random.uniform(low=0.0,high=1.0,size=[1073741823])
+OpenVisus bitmask V000000000000000000000000000000
+https://github.com/sci-visus/openvisuspy/blob/new-version-2/examples/notebooks/ov-signal.ipynb
+```
+
 <div align="center">
 <img src="./assets/images/signal1d.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 

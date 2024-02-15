@@ -7,7 +7,7 @@ title: All hands meeting February 2024
 
 **University of California, San Diego** <br>
 San Diego Supercomputer Center<br>
-10100 Hopkins Drive, La Jolla, CA 92093<br>
+9836 Hopkins Dr, La Jolla, CA 92037<br>
 
 # Keynote
 

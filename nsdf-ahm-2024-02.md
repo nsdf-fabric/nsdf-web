@@ -147,12 +147,12 @@ For driving directions see the [visitors page on the SDSC website](http://www.sd
 **VISITOR PARKING: PARKING PERMITS ARE REQUIRED TO PARK ON UC SAN DIEGO CAMPUS**
 
 - Visiting UC faculty and staff who hold annual permits at their home campuses are eligible for up to 5 consecutive days of complimentary parking at UC San Diego.
-  Visit [this link](http://transportation.ucsd.edu/parking/visitor/reciprocity.html) for more details.
+  Visit [this link](https://transportation.ucsd.edu/visit/visitor/index.html) for more details.
 - For non-UC visitors, please see more details [here](http://transportation.ucsd.edu/parking/visitor/conference.html). Purchase permits at a very reasonable rate.
 - The most convenient parking location is the Hopkins parking structure located on Hopkins Dr and Voigt Dr, just south of SDSC.
 - _Parking legally is the attendee’s responsibility. The penalty for an improperly parked car is at least $65 per day. We cannot be held responsible for citations issued for parking in an incorrect space or improperly displaying your permit_.
 
-For cab or shuttle Pick-up/Drop-off: [10100 Hopkins Drive, La Jolla, CA 92093](https://www.google.com/maps?q=San+Diego+Supercomputer+Center,+10100+Hopkins+Drive,+La+Jolla,+CA&hl=en&sll=32.824552,-117.108978&sspn=0.439681,0.874786&oq=san&hq=San+Diego+Supercomputer+Center,+10100+Hopkins+Drive,+La+Jolla,+CA&t=m&z=14)
+For cab or shuttle Pick-up/Drop-off: [9836 Hopkins Dr, La Jolla, CA 92037](https://www.google.com/maps/place/9836+Hopkins+Dr,+La+Jolla,+CA+92093/@32.8843652,-117.2416557,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc07000e937b01:0xfac41c054f3d574e!8m2!3d32.8843607!4d-117.2390808!16s%2Fg%2F11ssf73b61?hl=en&entry=ttu)
 
 SDSC is located just south of the RIMAC Arena.
 

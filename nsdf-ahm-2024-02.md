@@ -51,7 +51,7 @@ Before her positions at US-RSE and SDSC, she was a senior research scientist at 
 
 # Schedule
 
-You can find the program [here](./assets/pdf/V1%202024%20NSDF%20AHM%20Agenda.pdf)
+You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda.pdf)
 
 <!-- ## Wednesday, February 28, 2024
 

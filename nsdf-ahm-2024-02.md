@@ -51,7 +51,9 @@ Before her positions at US-RSE and SDSC, she was a senior research scientist at 
 
 # Schedule
 
-## Wednesday, February 28, 2024
+You can find the program [here](./assets/pdf/V1%202024%20NSDF%20AHM%20Agenda.pdf)
+
+<!-- ## Wednesday, February 28, 2024
 
 - 12:00-13:30 Lunch
 - 13:30-14:00 Welcome: Valerio Pascucci (U. Utah) and Michela Taufer (UTK)
@@ -104,7 +106,7 @@ Before her positions at US-RSE and SDSC, she was a senior research scientist at 
 - 11:15-11:30 Gustavo Ovando-Montejo (Utah State U. Blanding)
 - 11:30-11:45 Atilla Gyulassy (U. Utah), Lauren Whitnah (UTK), Julianne Christopher-Ohlin (SDSC)
 - 11:45-12:00 Q&A
-- 12:00-13:30 Lunch and leadership meeting
+- 12:00-13:30 Lunch and leadership meeting -->
 
 <!-- ## LODGING
 

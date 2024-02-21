@@ -52,23 +52,21 @@ Before her positions at US-RSE and SDSC, she was a senior research scientist at 
 # Schedule
 
 You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V5.pdf)
-<!-- ## Wednesday, February 28
 
-**Session 1 - Welcome, Vision, and Keynote (Session Chair: Michela Taufer)**
+## Wednesday, February 28
 
 |----|----|
-|12:00-13:30  | Lunch |
-|13:30-14:00  | **Welcome** <br> Heberth Martinez, UTK <br> 
-Aashish Panta, Utah <br> 
-Michela, UTK <br> 
-|14:00-15:00  |
-|15:00-15:30  |
-|15:30-15:45  |
-|15:45-16:00  |
-|16:00-16:15  |
-|16:15-16:30  |
-|16:30-16:45  |
-|16:45-17:00  | -->
+| 12:00-13:30  | Lunch |
+| 13:30-14:00  | **Welcome** <br> Valerio Pascucci and Michela Taufer
+| 14:00-15:00  | **Tutorial: Using NSDF for an Earth Science Dataset** <br> Heberth Martinez, UTK <br> Aashish Panta, Utah <br> Michela, UTK
+| 15:00-15:30  | **Coffee Break**
+| 15:30-15:45  | **Globus Platform as a Service** <br> Kyle Chard, Globus
+| 15:45-16:00  | **Decomposing Data Systems for Better Performance** <br> Fernanda Foertter, Voltron
+| 16:00-16:15  | **Democratized Data Discovery and Access: Helping Communities and Repositories Adopt Science on Schema** <br> Kenton McHenry, NCSA
+| 16:15-16:30  | **Building Blocks of Integration: An Exploration of CODATA CDIF Goals with
+NSDF Architecture** <br> Doug Fils, Ronin
+| 16:30-16:45  | **Q&A**
+| 16:45-17:00  | **Q&A**
 
 
 <!-- ## Wednesday, February 28, 2024

@@ -51,7 +51,25 @@ Before her positions at US-RSE and SDSC, she was a senior research scientist at 
 
 # Schedule
 
-You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V4.pdf)
+You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V5.pdf)
+<!-- ## Wednesday, February 28
+
+**Session 1 - Welcome, Vision, and Keynote (Session Chair: Michela Taufer)**
+
+|----|----|
+|12:00-13:30  | Lunch |
+|13:30-14:00  | **Welcome** <br> Heberth Martinez, UTK <br> 
+Aashish Panta, Utah <br> 
+Michela, UTK <br> 
+|14:00-15:00  |
+|15:00-15:30  |
+|15:30-15:45  |
+|15:45-16:00  |
+|16:00-16:15  |
+|16:15-16:30  |
+|16:30-16:45  |
+|16:45-17:00  | -->
+
 
 <!-- ## Wednesday, February 28, 2024
 

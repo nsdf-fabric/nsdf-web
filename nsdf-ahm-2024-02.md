@@ -92,68 +92,22 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V5.pdf
 | 15:45-16:00  | **Integrating with Materials Commons** <br> Glenn Tarcea, U Michigan and CHESS |
 | 16:00-16:15  | **Sally Ride Windows on Earth** <br> Dan Barstow, Windows on Earth |
 | 16:30-16:45  | **Sharing Data across Deep Underground Experiments** <br> Amy Roberts, U Colorado Denver |
-| 16:45-17:00 1  | **Applications of Deep Learning for Fragment Size Analysis** <br> Erwin Cazares, UTEP |
+| 16:45-17:00  | **Applications of Deep Learning for Fragment Size Analysis** <br> Erwin Cazares, UTEP |
 | 18:30  | **Dinner at Aqua Mare** <br> 2282 Carmel Valley Rd., Del Mar, CA 92014 |
-
-
-<!-- ## Wednesday, February 28, 2024
-
-- 12:00-13:30 Lunch
-- 13:30-14:00 Welcome: Valerio Pascucci (U. Utah) and Michela Taufer (UTK)
-- 14:00-15:00 OpenVisus Tutorial
-- 15:00-15:30 Coffee break
-- 15:30-15:45 Kyle Chard (Globus and U. Chicago)
-- 15:45-16:00 Fernanda Foertter (Voltron)
-- 16:00-16:15 Kenton McHenry (UIUC)
-- 16:15-16:30 Christine Kirkpatrick (SDSC)
-- 16:30-16:45 Khalil Yazdi (independent)
-- 16:45-17:00 Q&A
-
-## Thursday, February 29, 2024
-
-- 8:00-9:00 Breakfast
-- 9:00-9:15 Marty Kandes (SDSC)
-- 9:15-9:30 Arun Kumar (HDSI/UCSD)
-- 9:30-9:45 Steve Petruzza (Utah State U.)
-- 9:45-10:00 Olga Kuchar (ORNL)
-- 10:00-10:15 Miron Livny (U. Wisconsin Madison)
-- 10:15-10:30 Q&A
-- 10:30-11:00 coffee break
-- 11:00-12:00 Keynote: Chaitan Baru (NSF)
-- 12:00-12:15 Group Photo
-- 12:15-13:00 Lunch
-- 13:00-13:30 Lunch and poster session
-- 13:30-13:45 Scott Doughman and Sal Malik (Seal Storage)
-- 13:45-14:00 Scot Breitenfield (HDF)
-- 14:00-14:15 Amy Gooch (ViSOAR)
-- 14:15-14:30 Fabio Andrijauskas (SDSC)
-- 14:30-14:45 Michael Mahoney (U. California Berkeley and Berkeley Lab)
-- 14:45-15:00 Q&A
-- 15:00-15:30 Coffee break
-- 15:30-15:45 Werner Sun (CHESS, Cornell U.)
-- 15:45-16:00 Glenn Tarcea (CHESS, U. Michigan Ann Arbor)
-- 16:00-16:15 Dan Barstow (Windows on Earth)
-- 16:15-16:30 Amy Roberts (U. Colorado Denver)
-- 16:30-16:45 Erwin Cazares (UTEP)
-- 16:45-17:00 Q&A
-- 18:30 Conference dinner
 
 ## Friday, March 1, 2024
 
-- 8:00-9:00 Breakfast
-- 9:00-10:00 Keynote: Sandra Gesing
-- 10:00-10:30 Coffee Break
-- 10:30-10:45 Kirk Kee (Texas Tech U,)
-- 10:45-11:00 Ilkay Altinas (SDSC, UCSD)
-- 11:00-11:15 Denis Sigur (Dillard U.)
-- 11:15-11:30 Gustavo Ovando-Montejo (Utah State U. Blanding)
-- 11:30-11:45 Atilla Gyulassy (U. Utah), Lauren Whitnah (UTK), Julianne Christopher-Ohlin (SDSC)
-- 11:45-12:00 Q&A
-- 12:00-13:30 Lunch and leadership meeting -->
-
-<!-- ## LODGING
-
-The NSDF AHM will not have a dedicated room block; however, there are a number of hotels near the SDSC. -->
+|----|----|
+| 8:00-9:00  | **Breakfast** |
+| 9:00-10:00  | **Keynote: Ushering in a New Era with Unconventional Paths and Hidden Contributors Driving Discoveries in Academia and National Labs** <br> Sandra Gesing, SDSC |
+| 10:00-10:30  | **Coffee Break** |
+| 10:30-10:45  | **Technology Adoption Research and the Cyberinfrastructure Community** <br> Kerk Kee, Texas Tech U and CI Compass |
+| 10:45-11:00  | **TBD** <br> Ilkay Altinas, SDSC |
+| 11:00-11:15  | **Opportunities and Challenges at HBCUs** <br> Dennis Sigur, Dillard U |
+| 11:15-11:30  | **Democratizing Spatial Data for Climate Change Risk Assessment across Native American Nations** <br> Gustavo Ovando-Montejo, Utah State U Blanding |
+| 11:30-11:45  | **A Report on New Directions in User Community Interviews** <br> Atilla Gyulassy, Utah <br> Lauren Whitnah, UTK <br> Julie Christopher, SDSC |
+| 11:45-12:00  | **Q&A**  |
+| 12:00-13:30  | **Lunch & NSDF Leadership Meeting**  |
 
 ## HOTELS
 

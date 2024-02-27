@@ -15,10 +15,9 @@ Keynote Speaker: **Chaitan Baru, Senior Advisor, TIP Directorate, NSF**
 
 Title: _The Prototype Open Knowledge Network (Proto-OKN) Fabric_
 
-
 <p align=center>
 <img src="assets/images/Baru.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
-</p> 
+</p>
 
 ### Abstract
 
@@ -38,7 +37,7 @@ Title: _Ushering in a New Era with Unconventional Paths and Hidden Contributors 
 
 <p align=center>
 <img src="assets/images/sandraAHM.JPG" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
-</p> 
+</p>
 
 ### Abstract
 
@@ -51,94 +50,94 @@ Before her positions at US-RSE and SDSC, she was a senior research scientist at 
 
 # Schedule
 
-You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V8.pdf)
+You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf)
 
 ## Wednesday, February 28
 
 |----|----|
-| 12:00-13:30  | **Lunch** |
-| 13:30-14:00  | **Welcome** <br> Valerio Pascucci and Michela Taufer |
+| 12:00-13:30 | **Lunch** |
+| 13:30-14:00 | **Welcome** <br> Valerio Pascucci and Michela Taufer |
 
 **Sesion Chair:** Michela Taufer
 
 |----|----|
-| 14:00-15:00  | **Tutorial: Using NSDF for an Earth Science Dataset** <br> Heberth Martinez, UTK <br> Aashish Panta, Utah <br> Michela, UTK  |
-| 15:00-15:30  | **Coffee Break** |
+| 14:00-15:00 | **Tutorial: Using NSDF for an Earth Science Dataset** <br> Heberth Martinez, UTK <br> Aashish Panta, Utah <br> Michela, UTK |
+| 15:00-15:30 | **Coffee Break** |
 
 **Sesion Chair:** Attila Gyulassy
 
 |----|----|
-| 15:30-15:45  | **Globus Platform as a Service** <br> Kyle Chard, Globus |
-| 15:45-16:00  | **Decomposing Data Systems for Better Performance** <br> Fernanda Foertter, Voltron  |
-| 16:00-16:15  | **Democratized Data Discovery and Access: Helping Communities and Repositories Adopt Science on Schema** <br> Kenton McHenry, NCSA |
-| 16:15-16:30  |  **Building Blocks of Integration: An Exploration of CODATA CDIF Goals with NSDF Architecture** <br> Doug Fils, Ronin  |
-| 16:30-16:45  | **Q&A**  |
+| 15:30-15:45 | **Globus Platform as a Service** <br> Kyle Chard, Globus |
+| 15:45-16:00 | **Decomposing Data Systems for Better Performance** <br> Fernanda Foertter, Voltron |
+| 16:00-16:15 | **Democratized Data Discovery and Access: Helping Communities and Repositories Adopt Science on Schema** <br> Kenton McHenry, NCSA |
+| 16:15-16:30 | **Building Blocks of Integration: An Exploration of CODATA CDIF Goals with NSDF Architecture** <br> Doug Fils, Ronin |
+| 16:30-16:45 | **Q&A** |
 
 ## Thursday, February 29, 2024
 
 |----|----|
-| 8:00-9:00  | **Breakfast** |
+| 8:00-9:00 | **Breakfast** |
 
 **Sesion Chair:** Christine Kirkpatrick
 
 |----|----|
-| 9:00-9:15  | **Near-Field and Far-Field Data Distribution for ICICLE: Intelligent CyberInfrastructure with Computational Learning in the Environment** <br> Marty Kandes, SDSC |
-| 9:15-9:30  | **HDSI DataPlanet: Spurring Data-Intensive Collaborations** <br> Arum Kumar, HDSI/UCSD |
-| 9:30-9:45  | **Multi-layer Caching and Parallel Streaming for Large Scale Point Cloud Data on the Web** <br> Steve Petruzza, Utah State U |
-| 9:45-10:00  | **Data Lifecycle Technologies at Oak Ridge Leadership Computing** <br> Olga Kuchar, ORNL |
-| 10:00-10:15  | **An Overview of Pelican, OSDF, and OSPool** <br> Miron Livny, U. Wisconsin Madison |
-| 10:15-10:30  | **Q&A** |
-| 10:30-11:00  | **Coffee Break** |
+| 9:00-9:15 | **Near-Field and Far-Field Data Distribution for ICICLE: Intelligent CyberInfrastructure with Computational Learning in the Environment** <br> Marty Kandes, SDSC |
+| 9:15-9:30 | **HDSI DataPlanet: Spurring Data-Intensive Collaborations** <br> Arum Kumar, HDSI/UCSD |
+| 9:30-9:45 | **Multi-layer Caching and Parallel Streaming for Large Scale Point Cloud Data on the Web** <br> Steve Petruzza, Utah State U |
+| 9:45-10:00 | **Data Lifecycle Technologies at Oak Ridge Leadership Computing** <br> Olga Kuchar, ORNL |
+| 10:00-10:15 | **An Overview of Pelican, OSDF, and OSPool** <br> Miron Livny, U. Wisconsin Madison |
+| 10:15-10:30 | **Q&A** |
+| 10:30-11:00 | **Coffee Break** |
 
 **Sesion Chair:** Michela Taufer
 
 |----|----|
-| 11:00-12:00  | **Keynote: The Prototype Open Knowledge Network (Proto-OKN) Fabric** <br> Chaitan Baru, NSF |
-| 12:00-12:15  | **Group Photo** |
-| 12:15-13:30  | **Lunch & Poster Presentations** |
+| 11:00-12:00 | **Keynote: The Prototype Open Knowledge Network (Proto-OKN) Fabric** <br> Chaitan Baru, NSF |
+| 12:00-12:15 | **Group Photo** |
+| 12:15-13:30 | **Lunch & Poster Presentations** |
 
 **Sesion Chair:** Steve Petruzza
 
 |----|----|
-| 13:30-13:45  | **Large Research Data Storage on Blockchain Technology** <br> Scott Doughman and Sal Malik, Seal Storage |
-| 13:45-14:00  | **The HDF5 Framework: Practical Tools for Managing Data** <br> Scot Breitenfield, HDF |
-| 14:00-14:15  | **VisStore: Seamless Acquisition, Storage, and Distribution of Massive Imagery blending Cloud, Local and HPC Storage** <br> Amy Gooch, ViSOAR |
-| 14:15-14:30  | **Monitoring the Open Science Data Federation** <br> Fabio Andrijauskas, SDSC |
-| 14:30-14:45  | **Open Data, Large-Scale Compute, and Scientific Foundation Models** <br> Michael Mahoney, ICSI, LBNL, and UC Berkeley |
-| 14:45-15:00  | **Q&A** |
-| 15:00-15:30  | **Coffee Break** |
+| 13:30-13:45 | **Large Research Data Storage on Blockchain Technology** <br> Scott Doughman and Sal Malik, Seal Storage |
+| 13:45-14:00 | **The HDF5 Framework: Practical Tools for Managing Data** <br> Scot Breitenfield, HDF |
+| 14:00-14:15 | **VisStore: Seamless Acquisition, Storage, and Distribution of Massive Imagery blending Cloud, Local and HPC Storage** <br> Amy Gooch, ViSOAR |
+| 14:15-14:30 | **Monitoring the Open Science Data Federation** <br> Fabio Andrijauskas, SDSC |
+| 14:30-14:45 | **Open Data, Large-Scale Compute, and Scientific Foundation Models** <br> Michael Mahoney, ICSI, LBNL, and UC Berkeley |
+| 14:45-15:00 | **Q&A** |
+| 15:00-15:30 | **Coffee Break** |
 
 **Sesion Chair:** Amy Gooch
 
 |----|----|
-| 15:30-15:45  | **Visualizing CHESS Data with NSDF Dashboards** <br> Werner Sun, CHESS |
-| 15:45-16:00  | **Integrating with Materials Commons** <br> Glenn Tarcea, U Michigan and CHESS |
-| 16:00-16:15  | **Sally Ride Windows on Earth** <br> Dan Barstow, Windows on Earth |
-| 16:30-16:45  | **Sharing Data across Deep Underground Experiments** <br> Amy Roberts, U Colorado Denver |
-| 16:45-17:00  | **Applications of Deep Learning for Fragment Size Analysis** <br> Erwin Cazares, UTEP |
-| 18:30  | **Dinner at Aqua Mare** <br> 2282 Carmel Valley Rd., Del Mar, CA 92014 |
+| 15:30-15:45 | **Visualizing CHESS Data with NSDF Dashboards** <br> Werner Sun, CHESS |
+| 15:45-16:00 | **Integrating with Materials Commons** <br> Glenn Tarcea, U Michigan and CHESS |
+| 16:00-16:15 | **Sally Ride Windows on Earth** <br> Dan Barstow, Windows on Earth |
+| 16:30-16:45 | **Sharing Data across Deep Underground Experiments** <br> Amy Roberts, U Colorado Denver |
+| 16:45-17:00 | **Applications of Deep Learning for Fragment Size Analysis** <br> Erwin Cazares, UTEP |
+| 18:30 | **Dinner at Aqua Mare** <br> 2282 Carmel Valley Rd., Del Mar, CA 92014 |
 
 ## Friday, March 1, 2024
 
 |----|----|
-| 8:00-9:00  | **Breakfast** |
+| 8:00-9:00 | **Breakfast** |
 
 **Sesion Chair:** Michela Taufer
 
 |----|----|
-| 9:00-10:00  | **Keynote: Ushering in a New Era with Unconventional Paths and Hidden Contributors Driving Discoveries in Academia and National Labs** <br> Sandra Gesing, SDSC |
-| 10:00-10:30  | **Coffee Break** |
+| 9:00-10:00 | **Keynote: Ushering in a New Era with Unconventional Paths and Hidden Contributors Driving Discoveries in Academia and National Labs** <br> Sandra Gesing, SDSC |
+| 10:00-10:30 | **Coffee Break** |
 
 **Sesion Chair:** Lauren Whitnah
 
 |----|----|
-| 10:30-10:45  | **Technology Adoption Research and the Cyberinfrastructure Community** <br> Kerk Kee, Texas Tech U and CI Compass |
-| 10:45-11:00  | **TBD** <br> Ilkay Altinas, SDSC |
-| 11:00-11:15  | **Opportunities and Challenges at HBCUs** <br> Dennis Sigur, Dillard U |
-| 11:15-11:30  | **Democratizing Spatial Data for Climate Change Risk Assessment across Native American Nations** <br> Gustavo Ovando-Montejo, Utah State U Blanding |
-| 11:30-11:45  | **A Report on New Directions in User Community Interviews** <br> Atilla Gyulassy, Utah <br> Lauren Whitnah, UTK <br> Julie Christopher, SDSC |
-| 11:45-12:00  | **Q&A**  |
-| 12:00-13:30  | **Boxed Lunch**  |
+| 10:30-10:45 | **Technology Adoption Research and the Cyberinfrastructure Community** <br> Kerk Kee, Texas Tech U and CI Compass |
+| 10:45-11:00 | **National Data Platform: Data and AI Services for All** <br> Ilkay Altinas, SDSC |
+| 11:00-11:15 | **Opportunities and Challenges at HBCUs** <br> Dennis Sigur, Dillard U |
+| 11:15-11:30 | **Democratizing Spatial Data for Climate Change Risk Assessment across Native American Nations** <br> Gustavo Ovando-Montejo, Utah State U Blanding |
+| 11:30-11:45 | **A Report on New Directions in User Community Interviews** <br> Atilla Gyulassy, Utah <br> Lauren Whitnah, UTK <br> Julie Christopher, SDSC |
+| 11:45-12:00 | **Q&A** |
+| 12:00-13:30 | **Boxed Lunch** |
 
 ## HOTELS
 

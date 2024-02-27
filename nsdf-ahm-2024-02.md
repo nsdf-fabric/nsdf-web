@@ -61,7 +61,7 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V8.pdf
 |<td colspan=2> **Sesion Chair:** Michela Taufer |
 | 14:00-15:00  | **Tutorial: Using NSDF for an Earth Science Dataset** <br> Heberth Martinez, UTK <br> Aashish Panta, Utah <br> Michela, UTK  |
 | 15:00-15:30  | **Coffee Break** |
-|<td colspan=2>**Sesion Chair:** Attila Gyulassy ||
+|**Sesion Chair:** Attila Gyulassy ||
 | 15:30-15:45  | **Globus Platform as a Service** <br> Kyle Chard, Globus |
 | 15:45-16:00  | **Decomposing Data Systems for Better Performance** <br> Fernanda Foertter, Voltron  |
 | 16:00-16:15  | **Democratized Data Discovery and Access: Helping Communities and Repositories Adopt Science on Schema** <br> Kenton McHenry, NCSA |

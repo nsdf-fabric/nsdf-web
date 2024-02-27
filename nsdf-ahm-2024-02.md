@@ -72,7 +72,7 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V8.pdf
 
 |----|----|
 | 8:00-9:00  | **Breakfast** |
-|<td colspan=2>**Sesion Chair:** Christine Kirkpatrick |
+|<td colspan=2>**Sesion Chair:** Christine Kirkpatrick </td>|
 | 9:00-9:15  | **Near-Field and Far-Field Data Distribution for ICICLE: Intelligent CyberInfrastructure with Computational Learning in the Environment** <br> Marty Kandes, SDSC |
 | 9:15-9:30  | **HDSI DataPlanet: Spurring Data-Intensive Collaborations** <br> Arum Kumar, HDSI/UCSD |
 | 9:30-9:45  | **Multi-layer Caching and Parallel Streaming for Large Scale Point Cloud Data on the Web** <br> Steve Petruzza, Utah State U |

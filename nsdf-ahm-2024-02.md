@@ -72,6 +72,7 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V8.pdf
 
 |----|----|
 | 8:00-9:00  | **Breakfast** |
+|<td colspan=2>**Sesion Chair:** Christine Kirkpatrick |
 | 9:00-9:15  | **Near-Field and Far-Field Data Distribution for ICICLE: Intelligent CyberInfrastructure with Computational Learning in the Environment** <br> Marty Kandes, SDSC |
 | 9:15-9:30  | **HDSI DataPlanet: Spurring Data-Intensive Collaborations** <br> Arum Kumar, HDSI/UCSD |
 | 9:30-9:45  | **Multi-layer Caching and Parallel Streaming for Large Scale Point Cloud Data on the Web** <br> Steve Petruzza, Utah State U |
@@ -79,9 +80,11 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V8.pdf
 | 10:00-10:15  | **An Overview of Pelican, OSDF, and OSPool** <br> Miron Livny, U. Wisconsin Madison |
 | 10:15-10:30  | **Q&A** |
 | 10:30-11:00  | **Coffee Break** |
+|<td colspan=2>**Sesion Chair:** Michela Taufer |
 | 11:00-12:00  | **Keynote: The Prototype Open Knowledge Network (Proto-OKN) Fabric** <br> Chaitan Baru, NSF |
 | 12:00-12:15  | **Group Photo** |
 | 12:15-13:30  | **Lunch & Poster Presentations** |
+|<td colspan=2>**Sesion Chair:** Steve Petruzza |
 | 13:30-13:45  | **Large Research Data Storage on Blockchain Technology** <br> Scott Doughman and Sal Malik, Seal Storage |
 | 13:45-14:00  | **The HDF5 Framework: Practical Tools for Managing Data** <br> Scot Breitenfield, HDF |
 | 14:00-14:15  | **VisStore: Seamless Acquisition, Storage, and Distribution of Massive Imagery blending Cloud, Local and HPC Storage** <br> Amy Gooch, ViSOAR |
@@ -89,6 +92,7 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V8.pdf
 | 14:30-14:45  | **Open Data, Large-Scale Compute, and Scientific Foundation Models** <br> Michael Mahoney, ICSI, LBNL, and UC Berkeley |
 | 14:45-15:00  | **Q&A** |
 | 15:00-15:30  | **Coffee Break** |
+|<td colspan=2>**Sesion Chair:** Amy Gooch |
 | 15:30-15:45  | **Visualizing CHESS Data with NSDF Dashboards** <br> Werner Sun, CHESS |
 | 15:45-16:00  | **Integrating with Materials Commons** <br> Glenn Tarcea, U Michigan and CHESS |
 | 16:00-16:15  | **Sally Ride Windows on Earth** <br> Dan Barstow, Windows on Earth |
@@ -100,15 +104,17 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V8.pdf
 
 |----|----|
 | 8:00-9:00  | **Breakfast** |
+|<td colspan=2>**Sesion Chair:** Michela Taufer |
 | 9:00-10:00  | **Keynote: Ushering in a New Era with Unconventional Paths and Hidden Contributors Driving Discoveries in Academia and National Labs** <br> Sandra Gesing, SDSC |
 | 10:00-10:30  | **Coffee Break** |
+|<td colspan=2>**Sesion Chair:** Lauren Whitnah|
 | 10:30-10:45  | **Technology Adoption Research and the Cyberinfrastructure Community** <br> Kerk Kee, Texas Tech U and CI Compass |
 | 10:45-11:00  | **TBD** <br> Ilkay Altinas, SDSC |
 | 11:00-11:15  | **Opportunities and Challenges at HBCUs** <br> Dennis Sigur, Dillard U |
 | 11:15-11:30  | **Democratizing Spatial Data for Climate Change Risk Assessment across Native American Nations** <br> Gustavo Ovando-Montejo, Utah State U Blanding |
 | 11:30-11:45  | **A Report on New Directions in User Community Interviews** <br> Atilla Gyulassy, Utah <br> Lauren Whitnah, UTK <br> Julie Christopher, SDSC |
 | 11:45-12:00  | **Q&A**  |
-| 12:00-13:30  | **Lunch & NSDF Leadership Meeting**  |
+| 12:00-13:30  | **Boxed Lunch**  |
 
 ## HOTELS
 

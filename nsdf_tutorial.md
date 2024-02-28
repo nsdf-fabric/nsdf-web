@@ -44,7 +44,7 @@ This tutorial follows the steps in Figure 1.
 
 ## Prerequisites
 
-> :bulb: **Note:** To follow this tutorial you must have a computer with minimum **8 GB of RAM** and **5 GB of free disk**
+> **Note:** To follow this tutorial you must have a computer with minimum **8 GB of RAM** and **5 GB of free disk**
 
 Before starting this tutorial, ensure you have installed Git and Docker Desktop on your computer.
 
@@ -53,7 +53,7 @@ Before starting this tutorial, ensure you have installed Git and Docker Desktop 
 
 After installation, confirm that both tools are correctly set up by executing the following commands in your terminal.
 
-> :bulb: **Note:** For Windows users, we recommend using the [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4) terminal for these verifications.
+> **Note:** For Windows users, we recommend using the [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4) terminal for these verifications.
 
 - To verify the GitHub installation:
 
@@ -91,13 +91,13 @@ Server:
  Images: 48
 ```
 
-> :bulb: **Note:** The specific numbers in the output might vary based on your installation details and additional information may also appear.
+> **Note:** The specific numbers in the output might vary based on your installation details and additional information may also appear.
 
 ## Running the Tutorial with Docker
 
 To run this tutorial, we have prepared a Docker container named [`globalcomputinglab/somospie_openvisus`](https://hub.docker.com/repository/docker/globalcomputinglab/somospie_openvisus/general) that includes all necessary software. Ensure you have installed Docker Desktop as outlined in the [Prerequisites](#prerequisites).
 
-**:bulb: Note: Before following the next steps, make sure to open the Docker Desktop Application.**
+** Note: Before following the next steps, make sure to open the Docker Desktop Application.**
 
 Now open the terminal and follow the next steps to deploy the tutorial in the Docker container:
 
@@ -112,7 +112,7 @@ cd NSDF_Tutorial
 docker-compose up -d
 ```
 
-:bulb: **Note:** If you get a `permission denied` error, please add `sudo` before the command. For example, `sudo docker-compose up -d`
+**Note:** If you get a `permission denied` error, please add `sudo` before the command. For example, `sudo docker-compose up -d`
 
 After executing the above command, open your preferred web browser (such as Google Chrome, Firefox, or Safari) and enter the following URL to access Jupyter Lab and the tutorial notebook (Tutorial.ipynb): http://127.0.0.1:5000/lab/tree/Tutorial.ipynb
 
@@ -191,7 +191,7 @@ dependencies:
 
 To install the dependencies in your local machine, use the following command:
 
-> :bulb: **Note:** Conda is mandatory in this step, use [this](https://www.anaconda.com/download/) link to install it
+> **Note:** Conda is mandatory in this step, use [this](https://www.anaconda.com/download/) link to install it
 
 ```
 conda env create -f environment.yml

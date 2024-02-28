@@ -61,7 +61,7 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf
 **Sesion Chair:** Michela Taufer
 
 |----|----|
-| 14:00-15:00 | **Tutorial: Using NSDF for an Earth Science Dataset** <br> Heberth Martinez, UTK <br> Aashish Panta, Utah <br> Michela, UTK |
+| 14:00-15:00 | <b><a class="post-link" href="nsdf_tutorial" >Tutorial: Using NSDF for an Earth Science Dataset</b> </a><br> Heberth Martinez, UTK <br> Aashish Panta, Utah <br> Michela, UTK |
 | 15:00-15:30 | **Coffee Break** |
 
 **Sesion Chair:** Attila Gyulassy

@@ -21,7 +21,7 @@ Throughout the tutorial, you will learn how to:
 
 - Deploy the NSDF dashboard for **large-scale data access, visualization, and analysis**.
 
-This tutorial follows the steps in Figure 1.
+The slides introducing this tutorial can be downloaded [here](./assets/pdf/Taufer_V4_AHM_NSDF_Tutorial.pdf). This tutorial follows the steps in Figure 1.
 
 <p align="center">
     <img src="files/docs/workflow-diagram.png" width="800">

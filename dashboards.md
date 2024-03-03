@@ -8,7 +8,9 @@ order: 0
 
 # Climate Modeling
 
-[DEMO1](http://services.nationalsciencedatafabric.org/nasa) [DEMO2](http://services.nationalsciencedatafabric.org/bellows)
+[NASA](http://services.nationalsciencedatafabric.org/nasa) 
+[NASA2](http://services.nationalsciencedatafabric.org/nasa2) 
+[BELLOWS](http://services.nationalsciencedatafabric.org/bellows)
 
 Over 200TB of Climate Modeling data is now accessible through the collaboration between Seal Storage Technology and the University of Utah's Scientific Computing and Imaging Institute (SCI), enabling researchers around the world to access and visualize the data with zero egress fees.
 
@@ -47,10 +49,10 @@ performing synchrotron X-ray computed tomography reconstruction and segmentation
 
 **DoubleCloud is a National Science Data Democratization Consortium (NSDDC) member and generously hosts the NSDF Catalog for free.** 
 
-[DEMO](http://catalog.nationalsciencedatafabric.org:10002/catalog/run) 
+[DEMO](http://services.nationalsciencedatafabric.org/catalog) 
 
 Multi-federation Catalog for Petabytes of Community Data
-As part of the NSF-funded National Science Data Fabric (NSDF) initiative, we are developing a lightweight software library to index large-amounts of scientific data and facilitate discoverability.
+As part of the NSF-funded National Science Data Fabric (NSDF) initiative, we are developing a lightweight software library to index large amounts of scientific data and facilitate discoverability.
 
 Documentation is [Here](http://www.sci.utah.edu/publications/Lue2022a/catalog.pdf) and [Here](https://nationalsciencedatafabric.org/catalog3d.html)
 
@@ -58,17 +60,15 @@ Documentation is [Here](http://www.sci.utah.edu/publications/Lue2022a/catalog.pd
 <img src="./assets/images/catalog.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
 
-
 # OSDF
 
 [DEMO](http://services.nationalsciencedatafabric.org/osdf)
 
-The Open Science Data Federation (OSDF) is an OSG service designed to support the sharing of filesstaged in autonomous "origins", for efficient access to those files from anywhere in the world via aglobalnamespace and network of caches.
+The Open Science Data Federation (OSDF) is an OSG service designed to support the sharing of files staged in autonomous "origins", for efficient access to those files from anywhere in the world via a global namespace and network of caches.
 
 <div align="center">
 <img src="./assets/images/osg-panel.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
-
 
 # NCAR 
 
@@ -84,9 +84,9 @@ The National Center for Atmospheric Research (NCAR) is a Federally Funded Resear
 
 [DEMO](https://data.neonscience.org/data-products/DP3.30010.001)
 
-The NSF National Ecological Observatory Network (NEON) has a large amount of image data from Airborne Observation Platforms (AOP) that is publicly available for their users.
+The NSF National Ecological Observatory Network (NEON) has a large amount of image data from Airborne Observation Platforms (AOP) that is publicly available to their users.
 
-`This viewer allows for interactive exploration of remotely sensed data from the Airborne Observation Platform (AOP). Change the field site and flight for this data product using the tools below to stream different data into view. Pan and zoom in the view to stream higher resolution imagery. This pilot data viewer is provided through a collaboration with the Visus Project at the Univeristy of Utah and more updates are planned for the future.``
+`This viewer allows for interactive exploration of remotely sensed data from the Airborne Observation Platform (AOP). Change the field site and flight for this data product using the tools below to stream different data into view. Pan and zoom in the view to stream higher-resolution imagery. This pilot data viewer is provided through a collaboration with the Visus Project at the Univeristy of Utah and more updates are planned for the future.``
 
 <div align="center">
 <img src="./assets/images/neon-demo.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
@@ -96,31 +96,27 @@ The NSF National Ecological Observatory Network (NEON) has a large amount of ima
 
 [DEMO](http://services.nationalsciencedatafabric.org/signal1d)
 
-
 ```
 8GB 1D signal
 1,073,741,824 float64 samples
-np.random.uniform(low=0.0,high=1.0,size=[1073741823])
-OpenVisus bitmask V000000000000000000000000000000
-https://github.com/sci-visus/openvisuspy/blob/new-version-2/examples/notebooks/ov-signal.ipynb
 ```
 
 <div align="center">
 <img src="./assets/images/signal1d.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
 
-
 # NSDF JUPYTERHUB 
-
 
 <div align="center">
 <img src="./assets/images/jupyterhub.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
 
-[jupyter-1](http://chpc1.nationalsciencedatafabric.org) [jupyter-2](http://chpc2.nationalsciencedatafabric.org) [jupyter-3](http://chpc3.nationalsciencedatafabric.org)
+Links:
+- [chpc1](http://chpc1.nationalsciencedatafabric.org) 
+- [chpc2](http://chpc2.nationalsciencedatafabric.org) 
+- [chpc3](http://chpc3.nationalsciencedatafabric.org)
 
-
-# WASM
+# (DEPRECATED) WASM
 
 OpenVisus running in WebAssembly.
 
@@ -138,8 +134,6 @@ Try the PyScript Panel [Here]({{ site.baseurl }}/david_subsampled.html)
 <div align="center">
 <img src="./assets/images/david.gif" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
-
-
 
 ## 2kbit1 WASM
 
@@ -167,8 +161,6 @@ Try the `12-jupyterlite.ipynb` Notebook  **[Here]({{ site.baseurl }}/jupyterlite
 <div align="center">
 <img src="./assets/images/jupyterlite.gif" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
-
-
 <br>
 <br>
 <br>

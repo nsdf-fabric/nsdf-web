@@ -61,7 +61,7 @@ Documentation is [Here](http://www.sci.utah.edu/publications/Lue2022a/catalog.pd
 
 # OSDF
 
-[DEMO](http://osdf.nationalsciencedatafabric.org:10011/osdf/run)
+[DEMO](http://services.nationalsciencedatafabric.org/osdf)
 
 The Open Science Data Federation (OSDF) is an OSG service designed to support the sharing of filesstaged in autonomous "origins", for efficient access to those files from anywhere in the world via aglobalnamespace and network of caches.
 

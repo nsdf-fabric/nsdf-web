@@ -69,6 +69,47 @@ The Open Science Data Federation (OSDF) is an OSG service designed to support th
 <img src="./assets/images/osg-panel.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
 
+
+# NCAR 
+
+[DEMO](https://ncar.nationalsciencedatafabric.org/neon-demo/v1)
+
+The National Center for Atmospheric Research (NCAR) is a Federally Funded Research and Development Center, sponsored by NSF. NCAR is a focal point for research in the field of atmospheric sciences and is located in Boulder, Colorado. About 750 scientists and support personnel work at the center.
+
+<div align="center">
+<img src="./assets/images/ncar-demo.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
+# NEON
+
+[DEMO](https://data.neonscience.org/data-products/DP3.30010.001)
+
+The NSF National Ecological Observatory Network (NEON) has a large amount of image data from Airborne Observation Platforms (AOP) that is publicly available for their users.
+
+`This viewer allows for interactive exploration of remotely sensed data from the Airborne Observation Platform (AOP). Change the field site and flight for this data product using the tools below to stream different data into view. Pan and zoom in the view to stream higher resolution imagery. This pilot data viewer is provided through a collaboration with the Visus Project at the Univeristy of Utah and more updates are planned for the future.``
+
+<div align="center">
+<img src="./assets/images/neon-demo.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
+# 1D SIGNALS
+
+[DEMO](http://services.nationalsciencedatafabric.org/signal1d)
+
+
+```
+8GB 1D signal
+1,073,741,824 float64 samples
+np.random.uniform(low=0.0,high=1.0,size=[1073741823])
+OpenVisus bitmask V000000000000000000000000000000
+https://github.com/sci-visus/openvisuspy/blob/new-version-2/examples/notebooks/ov-signal.ipynb
+```
+
+<div align="center">
+<img src="./assets/images/signal1d.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</div> 
+
+
 # NSDF JUPYTERHUB 
 
 
@@ -125,45 +166,6 @@ Try the `12-jupyterlite.ipynb` Notebook  **[Here]({{ site.baseurl }}/jupyterlite
 
 <div align="center">
 <img src="./assets/images/jupyterlite.gif" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
-</div> 
-
-# NCAR 
-
-[DEMO](https://ncar.nationalsciencedatafabric.org/neon-demo/v1/)
-
-The National Center for Atmospheric Research (NCAR) is a Federally Funded Research and Development Center, sponsored by NSF. NCAR is a focal point for research in the field of atmospheric sciences and is located in Boulder, Colorado. About 750 scientists and support personnel work at the center.
-
-<div align="center">
-<img src="./assets/images/ncar-demo.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
-</div> 
-
-# NEON
-
-[DEMO](https://data.neonscience.org/data-products/DP3.30010.001)
-
-The NSF National Ecological Observatory Network (NEON) has a large amount of image data from Airborne Observation Platforms (AOP) that is publicly available for their users.
-
-`This viewer allows for interactive exploration of remotely sensed data from the Airborne Observation Platform (AOP). Change the field site and flight for this data product using the tools below to stream different data into view. Pan and zoom in the view to stream higher resolution imagery. This pilot data viewer is provided through a collaboration with the Visus Project at the Univeristy of Utah and more updates are planned for the future.``
-
-<div align="center">
-<img src="./assets/images/neon-demo.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
-</div> 
-
-# 1D SIGNALS
-
-[DEMO](http://services.nationalsciencedatafabric.org/signal1d)
-
-
-```
-8GB 1D signal
-1,073,741,824 float64 samples
-np.random.uniform(low=0.0,high=1.0,size=[1073741823])
-OpenVisus bitmask V000000000000000000000000000000
-https://github.com/sci-visus/openvisuspy/blob/new-version-2/examples/notebooks/ov-signal.ipynb
-```
-
-<div align="center">
-<img src="./assets/images/signal1d.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
 
 

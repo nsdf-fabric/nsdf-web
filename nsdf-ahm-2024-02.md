@@ -54,12 +54,10 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf
 
 ## Wednesday, February 28
 
-|----|----|----|
-| UTK | Michela Taufer <br> _An Introduction to the National Science Data Fabric: A Platform Agnostic Testbed for Democratizing Data Delivery_ |<a href='https://drive.google.com/file/d/10r9a1__wK6R_4GCWZtRtFxvC_1mxVomi/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Taufer_NSDF_AHM_Welcome.jpg"></a> <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794288.svg)](https://doi.org/10.5281/zenodo.10794288)|
-
 **Sesion Chair:** Michela Taufer
 
 |----|----|----|
+| UTK | Michela Taufer <br> _An Introduction to the National Science Data Fabric: A Platform Agnostic Testbed for Democratizing Data Delivery_ |<a href='https://drive.google.com/file/d/10r9a1__wK6R_4GCWZtRtFxvC_1mxVomi/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Taufer_NSDF_AHM_Welcome.jpg"></a> <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794288.svg)](https://doi.org/10.5281/zenodo.10794288)|
 | UTK <br> Utah | Heberth Martinez <br>Aashish Panta<br>Michela Taufer<br><a href="nsdf_tutorial" >_Tutorial: Using NSDF for End-to-End Analysis of Scientific Data_</a> | <a href='https://drive.google.com/file/d/1zIrbKdNDq8JALqwEkbv_6t8KgsqrTGlP/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Taufer_AHM_NSDF_Tutorial.jpg"></a> <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794642.svg)](https://doi.org/10.5281/zenodo.10794642)|
 
 **Sesion Chair:** Attila Gyulassy

@@ -66,26 +66,20 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf
 
 |----|----|---|
 | Globus | Kyle Chard <br>_Globus Platform as a Service_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794588.svg)](https://doi.org/10.5281/zenodo.10794588)| <a href='https://drive.google.com/file/d/1tGQPPbC2Xrcz-0lWEjELeUe7Mjy-rLLg/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Chard_Globus_Platform_as_a_Service.jpg"></a> |
-|
 | Voltron | Fernanda Foertter <br>_Decomposing Data Systems for Better Performance_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794593.svg)](https://doi.org/10.5281/zenodo.10794593)| <a href='https://drive.google.com/file/d/1Ex6e_1N1XUT0hG3oCm1ot-1EEOFVSv2n/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Foertter_ Decomposing_Data_Systems_for_Better_Performance.jpg"></a> |
 | NCSA | Kenton McHenry <br>_Democratized Data Discovery and Access: Helping Communities and Repositories Adopt Science on Schema_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794600.svg)](https://doi.org/10.5281/zenodo.10794600)| <a href='https://drive.google.com/file/d/1VUnZ4ItiUTCDxjVFyP6La93vJQBkR8Qg/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/McHenry_Democratized_Data_Discovery_and_Access.jpg"></a> |
 | Ronin | Doug Fils <br>_Building Blocks of Integration: An Exploration of CODATA CDIF Goals with NSDF Architecture_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794618.svg)](https://doi.org/10.5281/zenodo.10794618)| <a href='https://drive.google.com/file/d/1ELl_CezSoUEExA-kiXs2_0COFk8VC7-x/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Fils_Building_Blocks_of_Integration.jpg"></a> |
 
 ## Thursday, February 29, 2024
 
-|----|----|
-| 8:00-9:00 | **Breakfast** |
-
 **Sesion Chair:** Christine Kirkpatrick
 
-|----|----|
-| 9:00-9:15 | **Near-Field and Far-Field Data Distribution for ICICLE: Intelligent CyberInfrastructure with Computational Learning in the Environment** <br> Marty Kandes, SDSC |
-| 9:15-9:30 | **HDSI DataPlanet: Spurring Data-Intensive Collaborations** <br> Arum Kumar, HDSI/UCSD |
-| 9:30-9:45 | **Multi-layer Caching and Parallel Streaming for Large Scale Point Cloud Data on the Web** <br> Steve Petruzza, Utah State U |
-| 9:45-10:00 | **Data Lifecycle Technologies at Oak Ridge Leadership Computing** <br> Olga Kuchar, ORNL |
-| 10:00-10:15 | **An Overview of Pelican, OSDF, and OSPool** <br> Miron Livny, U. Wisconsin Madison |
-| 10:15-10:30 | **Q&A** |
-| 10:30-11:00 | **Coffee Break** |
+|----|----|---|
+| SDSC | Marty Kandes <br> _Near-Field and Far-Field Data Distribution for ICICLE: Intelligent CyberInfrastructure with Computational Learning in the Environment_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794824.svg)](https://doi.org/10.5281/zenodo.10794824) |<a href='https://drive.google.com/file/d/1LGyPLRG1NomoURNMqH6uKXiMbVjeGlcS/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kandes_Near-Field_and_Far-Field_Data_Distribution_for_ICICLE.jpg"></a> |
+| HDSI/UCSD | Arum Kumar <br> _HDSI DataPlanet: Spurring Data-Intensive Collaborations_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794833.svg)](https://doi.org/10.5281/zenodo.10794833) |<a href='https://drive.google.com/file/d/18I8SVBOneLtA-HFqehj8D-HepICL_6tO/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kumar_HDSI_DataPlanet.jpg"></a> |
+| Utah State U | Steve Petruzza <br> _Multi-layer Caching and Parallel Streaming for Large Scale Point Cloud Data on the Web_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794880.svg)](https://doi.org/10.5281/zenodo.10794880)|<a href='https://drive.google.com/file/d/1ajuYU9A_4POUxtMkeWE_d0jqP9fAxzV9/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Petruzza_PointCloud_Caching.jpg"></a> |
+| ORNL | Olga Kuchar <br> _Data Lifecycle Technologies at Oak Ridge Leadership Computing_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794828.svg)](https://doi.org/10.5281/zenodo.10794828) |<a href='https://drive.google.com/file/d/1UoDUvQg2TAAqo1RuqPNJe7-O8vkm0aEb/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kuchar_Data_Lifecycle_at_ORNL.jpg"></a> |
+| U. Wisconsin Madison | Miron Livny <br> _An Overview of Pelican, OSDF, and OSPool_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794843.svg)](https://doi.org/10.5281/zenodo.10794843) |<a href='https://drive.google.com/file/d/13ptcfVtsFYqTWENyH7xkp5ydsFw28q2F/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Livny_Overview_of_Pelican_OSDF_OSPool.jpg"></a> |
 
 **Sesion Chair:** Michela Taufer
 

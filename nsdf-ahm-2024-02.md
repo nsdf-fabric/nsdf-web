@@ -64,12 +64,12 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf
 
 **Sesion Chair:** Attila Gyulassy
 
-|----|----|
-| 15:30-15:45 | **Globus Platform as a Service** <br> Kyle Chard, Globus |
-| 15:45-16:00 | **Decomposing Data Systems for Better Performance** <br> Fernanda Foertter, Voltron |
-| 16:00-16:15 | **Democratized Data Discovery and Access: Helping Communities and Repositories Adopt Science on Schema** <br> Kenton McHenry, NCSA |
-| 16:15-16:30 | **Building Blocks of Integration: An Exploration of CODATA CDIF Goals with NSDF Architecture** <br> Doug Fils, Ronin |
-| 16:30-16:45 | **Q&A** |
+|----|----|---|
+| Globus | Kyle Chard <br>_Globus Platform as a Service_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794588.svg)](https://doi.org/10.5281/zenodo.10794588)| <a href='https://drive.google.com/file/d/1tGQPPbC2Xrcz-0lWEjELeUe7Mjy-rLLg/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Chard_Globus_Platform_as_a_Service.jpg"></a> |
+|
+| Voltron | Fernanda Foertter <br>_Decomposing Data Systems for Better Performance_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794593.svg)](https://doi.org/10.5281/zenodo.10794593)| <a href='https://drive.google.com/file/d/1Ex6e_1N1XUT0hG3oCm1ot-1EEOFVSv2n/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Foertter_ Decomposing_Data_Systems_for_Better_Performance.jpg"></a> |
+| NCSA | Kenton McHenry <br>_Democratized Data Discovery and Access: Helping Communities and Repositories Adopt Science on Schema_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794600.svg)](https://doi.org/10.5281/zenodo.10794600)| <a href='https://drive.google.com/file/d/1VUnZ4ItiUTCDxjVFyP6La93vJQBkR8Qg/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/McHenry_Democratized_Data_Discovery_and_Access.jpg"></a> |
+| Ronin | Doug Fils <br>_Building Blocks of Integration: An Exploration of CODATA CDIF Goals with NSDF Architecture_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794618.svg)](https://doi.org/10.5281/zenodo.10794618)| <a href='https://drive.google.com/file/d/1ELl_CezSoUEExA-kiXs2_0COFk8VC7-x/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Fils_Building_Blocks_of_Integration.jpg"></a> |
 
 ## Thursday, February 29, 2024
 

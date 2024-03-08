@@ -55,7 +55,7 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf
 ## Wednesday, February 28
 
 |----|----|---|
-| UTK | Michela Taufer <br> _An Introduction to the National Science Data Fabric: A Platform Agnostic Testbed for Democratizing Data Delivery_ <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794288.svg)](https://doi.org/10.5281/zenodo.10794288) |<a href='https://drive.google.com/file/d/10r9a1__wK6R_4GCWZtRtFxvC_1mxVomi/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Taufer_NSDF_AHM_Welcome.jpg"></a> |
+| UTK | Michela Taufer <br> _An Introduction to the National Science Data Fabric_ <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794288.svg)](https://doi.org/10.5281/zenodo.10794288) |<a href='https://drive.google.com/file/d/10r9a1__wK6R_4GCWZtRtFxvC_1mxVomi/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Taufer_NSDF_AHM_Welcome.jpg"></a> |
 
 **Sesion Chair:** Michela Taufer
 

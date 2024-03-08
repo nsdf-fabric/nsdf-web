@@ -105,25 +105,19 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf
 
 ## Friday, March 1, 2024
 
-|----|----|
-| 8:00-9:00 | **Breakfast** |
-
 **Sesion Chair:** Michela Taufer
 
-|----|----|
-| 9:00-10:00 | **Keynote: Ushering in a New Era with Unconventional Paths and Hidden Contributors Driving Discoveries in Academia and National Labs** <br> Sandra Gesing, SDSC |
-| 10:00-10:30 | **Coffee Break** |
+|----|----|---|
+| SDSC | Sandra Gesing <br> _Keynote: Ushering in a New Era with Unconventional Paths and Hidden Contributors Driving Discoveries in Academia and National Labs_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794970.svg)](https://doi.org/10.5281/zenodo.10794970)|<a href='https://drive.google.com/file/d/1bgn3B3TGyafSDHy1MQEyLcCoi6O698Ch/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Gesing_Unconventional_Paths_and_Hidden_Contributors.jpg"></a> |
 
 **Sesion Chair:** Lauren Whitnah
 
-|----|----|
-| 10:30-10:45 | **Technology Adoption Research and the Cyberinfrastructure Community** <br> Kerk Kee, Texas Tech U and CI Compass |
-| 10:45-11:00 | **National Data Platform: Data and AI Services for All** <br> Ilkay Altinas, SDSC |
-| 11:00-11:15 | **Opportunities and Challenges at HBCUs** <br> Dennis Sigur, Dillard U |
-| 11:15-11:30 | **Democratizing Spatial Data for Climate Change Risk Assessment across Native American Nations** <br> Gustavo Ovando-Montejo, Utah State U Blanding |
-| 11:30-11:45 | **A Report on New Directions in User Community Interviews** <br> Atilla Gyulassy, Utah <br> Lauren Whitnah, UTK <br> Julie Christopher, SDSC |
-| 11:45-12:00 | **Q&A** |
-| 12:00-13:30 | **Boxed Lunch** |
+|----|----|---|
+| Texas Tech U <br> CI Compass | Kerk Kee <br> _Technology Adoption Research and the Cyberinfrastructure Community_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794983.svg)](https://doi.org/10.5281/zenodo.10794983) |<a href='https://drive.google.com/file/d/1e0F-GFGOzzXJwjPSg3byWJ-Vm4olBoV6/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kee_Technology_Adoption_Research.jpg"></a> |
+| SDSC | Ilkay Altinas <br> _National Data Platform: Data and AI Services for All_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794952.svg)](https://doi.org/10.5281/zenodo.10794952) |<a href='https://drive.google.com/file/d/1WDFTtnwa67OZZcQLE5WBtvHwWhHWG06_/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Altintas_National_Data_Platform.jpg"></a> |
+| Dillard U | Dennis Sigur <br> _Opportunities and Challenges at HBCUs_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794989.svg)](https://doi.org/10.5281/zenodo.10794989) |<a href='https://drive.google.com/file/d/1jPqI_KRcfflGAChPBylCbjSWgPctnJGJ/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Sigur_Opportunities_and_Challenges_at_HBCUs.jpg"></a> |
+| Utah State U | Gustavo Ovando-Montejo <br> _Democratizing Spatial Data for Climate Change Risk Assessment across Native American Nations_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794985.svg)](https://doi.org/10.5281/zenodo.10794985) |<a href='https://drive.google.com/file/d/1UGDqXFvh0ChG-QZe5hjuEVdBtnQGbEC8/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Ovando-Montejo_Democratizing_Spatial_Data_across_Native_American_Nations.jpg"></a> |
+| Utah <br> UTK <br> SDSC | Atilla Gyulassy <br> Lauren Whitnah <br> Julie Christopher <br> _A Report on New Directions in User Community Interviews_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794978.svg)](https://doi.org/10.5281/zenodo.10794978) |<a href='https://drive.google.com/file/d/1sftS5QXSEl-llkNg0T51_c1tczTF6-Cp/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Gyulassy_Report_on_User_Community_Interviews.jpg"></a> |
 
 ## HOTELS
 

@@ -89,11 +89,11 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf
 **Sesion Chair:** Steve Petruzza
 
 |----|----|
-| 13:30-13:45 | **Large Research Data Storage on Blockchain Technology** <br> Scott Doughman and Sal Malik, Seal Storage |
-| 13:45-14:00 | **The HDF5 Framework: Practical Tools for Managing Data** <br> Scot Breitenfield, HDF |
-| 14:00-14:15 | **VisStore: Seamless Acquisition, Storage, and Distribution of Massive Imagery blending Cloud, Local and HPC Storage** <br> Amy Gooch, ViSOAR |
-| 14:15-14:30 | **Monitoring the Open Science Data Federation** <br> Fabio Andrijauskas, SDSC |
-| 14:30-14:45 | **Open Data, Large-Scale Compute, and Scientific Foundation Models** <br> Michael Mahoney, ICSI, LBNL, and UC Berkeley |
+| 13:30-13:45 | _Large Research Data Storage on Blockchain Technology_ <br> Scott Doughman and Sal Malik, Seal Storage |
+| 13:45-14:00 | _The HDF5 Framework: Practical Tools for Managing Data_ <br> Scot Breitenfield, HDF |
+| 14:00-14:15 | _VisStore: Seamless Acquisition, Storage, and Distribution of Massive Imagery blending Cloud, Local and HPC Storage_ <br> Amy Gooch, ViSOAR |
+| 14:15-14:30 | _Monitoring the Open Science Data Federation_ <br> Fabio Andrijauskas, SDSC |
+| 14:30-14:45 | _Open Data, Large-Scale Compute, and Scientific Foundation Models_ <br> Michael Mahoney, ICSI, LBNL, and UC Berkeley |
 | 14:45-15:00 | **Q&A** |
 | 15:00-15:30 | **Coffee Break** |
 

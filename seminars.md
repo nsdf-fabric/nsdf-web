@@ -7,6 +7,20 @@ ref: seminars
 
 ---
 
+# All Hands Meeting - February 2024
+
+**Date** February 28, 29 and March 1.
+
+**Speaker** NSDF Team
+
+<a  href="nsdf-ahm-2024-02" target="_blank">**NSDF AHM February 2024**</a>
+
+The Fourth National Science Data Fabric (NSDF) in-person meeting held in San Diego, California
+
+---
+
+---
+
 # NSDF Distinguished Speaker Series - Dec 12, 2023, at 2pm ET / 1pm CT / 12pm MT / 11am PT
 
 {% include_relative nsdf-seminar-series-brock.body.md %}

@@ -88,24 +88,20 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf
 
 **Sesion Chair:** Steve Petruzza
 
-|----|----|
-| 13:30-13:45 | _Large Research Data Storage on Blockchain Technology_ <br> Scott Doughman and Sal Malik, Seal Storage |
-| 13:45-14:00 | _The HDF5 Framework: Practical Tools for Managing Data_ <br> Scot Breitenfield, HDF |
-| 14:00-14:15 | _VisStore: Seamless Acquisition, Storage, and Distribution of Massive Imagery blending Cloud, Local and HPC Storage_ <br> Amy Gooch, ViSOAR |
-| 14:15-14:30 | _Monitoring the Open Science Data Federation_ <br> Fabio Andrijauskas, SDSC |
-| 14:30-14:45 | _Open Data, Large-Scale Compute, and Scientific Foundation Models_ <br> Michael Mahoney, ICSI, LBNL, and UC Berkeley |
-| 14:45-15:00 | **Q&A** |
-| 15:00-15:30 | **Coffee Break** |
+|----|----|---|
+| Seal Storage | Scott Doughman and Sal Malik <br> _Large Research Data Storage on Blockchain Technology_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794789.svg)](https://doi.org/10.5281/zenodo.10794789) |<a href='https://drive.google.com/file/d/1ifSwSt6njmQ-1urrR4yMpjJl97UXL0ZC/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Doughman_and_Malik_Research_Data_Storage_on_Blockchain.jpg"></a> |
+| HDF | Scot Breitenfield <br> _The HDF5 Framework: Practical Tools for Managing Data_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794772.svg)](https://doi.org/10.5281/zenodo.10794772) |<a href='https://drive.google.com/file/d/12S7uX2EKsHLXEQBlKE00pALHcFHU5LJE/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Breitenfeld_HDF5_Framework.jpg"></a> |
+| ViSOAR |Amy Gooch <br> _VisStore: Seamless Acquisition, Storage, and Distribution of Massive Imagery blending Cloud, Local and HPC Storage_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794802.svg)](https://doi.org/10.5281/zenodo.10794802) |<a href='https://drive.google.com/file/d/1B_YZeW6Cxm1rpohaMcGQwlvDSLudCs4c/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Gooch_ViSOAR_and_VisStore.jpg"></a> |
+| SDSC | Fabio Andrijauskas <br> _Monitoring the Open Science Data Federation_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794701.svg)](https://doi.org/10.5281/zenodo.10794701) |<a href='https://drive.google.com/file/d/1L2En2ZOVS6_2G5DVedsfUMD7jluP9j31/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Andrijauskas_Monitoring_OSDF.jpg"></a> |
+| ICSI <br> LBNL <br> UC Berkeley | Michael Mahoney <br> _Open Data, Large-Scale Compute, and Scientific Foundation Models_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794864.svg)](https://doi.org/10.5281/zenodo.10794864) |<a href='https://drive.google.com/file/d/1B18CtOy-AnQVj91vsws8-sZQxqVdyfsI/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Mahoney_Open_Data_LargeScale_Compute_Foundation_Models.jpg"></a> |
 
 **Sesion Chair:** Amy Gooch
 
-|----|----|
-| 15:30-15:45 | **Visualizing CHESS Data with NSDF Dashboards** <br> Werner Sun, CHESS |
-| 15:45-16:00 | **Integrating with Materials Commons** <br> Glenn Tarcea, U Michigan and CHESS |
-| 16:00-16:15 | **Sally Ride Windows on Earth** <br> Dan Barstow, Windows on Earth |
-| 16:30-16:45 | **Sharing Data across Deep Underground Experiments** <br> Amy Roberts, U Colorado Denver |
-| 16:45-17:00 | **Applications of Deep Learning for Fragment Size Analysis** <br> Erwin Cazares, UTEP |
-| 18:30 | **Dinner at Aqua Mare** <br> 2282 Carmel Valley Rd., Del Mar, CA 92014 |
+|----|----|---|
+| CHESS | Werner Sun <br> _Visualizing CHESS Data with NSDF Dashboards_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794931.svg)](https://doi.org/10.5281/zenodo.10794931) |<a href='https://drive.google.com/file/d/1Wzn4W0jJJgt1bNZT-WRaLvthTdoHOjzc/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Sun_Visualizing_CHESS_with_NSDF_Dashboards.jpg"></a> |
+| Windows on Earth | Dan Barstow <br> _Sally Ride Windows on Earth_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794722.svg)](https://doi.org/10.5281/zenodo.10794722) |<a href='https://drive.google.com/file/d/1WDFTtnwa67OZZcQLE5WBtvHwWhHWG06_/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Barstow_Windows_On_Earth.jpg"></a> |
+| U Colorado Denver | Amy Roberts <br> _Sharing Data across Deep Underground Experiments_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794910.svg)](https://doi.org/10.5281/zenodo.10794910) |<a href='https://drive.google.com/file/d/184-76CENk8j7MikTmgEnMKqd3pCJaSej/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Roberts_Sharing_Data_Across_Underground_Experiements.jpg"></a> |
+| UTEP | Erwin Cazares <br> _Applications of Deep Learning for Fragment Size Analysis_ <br> ||
 
 ## Friday, March 1, 2024
 

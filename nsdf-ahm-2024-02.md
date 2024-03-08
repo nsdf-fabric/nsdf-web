@@ -54,15 +54,15 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf
 
 ## Wednesday, February 28
 
-|----|----|
-| 12:00-13:30 | **Lunch** |
-| 13:30-14:00 | **Welcome** <br> Valerio Pascucci and Michela Taufer |
+|----|----|----|
+
+| UTK | Michela Taufer <br>_An Introduction to the National Science Data Fabric: A Platform Agnostic Testbed for Democratizing Data Delivery_ | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794288.svg)](https://doi.org/10.5281/zenodo.10794288) <br><a href='https://drive.google.com/file/d/10r9a1__wK6R_4GCWZtRtFxvC_1mxVomi/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Taufer_NSDF_AHM_Welcome.jpg"></a>
 
 **Sesion Chair:** Michela Taufer
 
-|----|----|
-| 14:00-15:00 | <b><a href="nsdf_tutorial" >Tutorial: Using NSDF for an Earth Science Dataset</a></b> <br> Heberth Martinez, UTK <br> Aashish Panta, Utah <br> Michela, UTK |
-| 15:00-15:30 | **Coffee Break** |
+|----|----|----|
+
+| UTK <br> Utah | Heberth Martinez <br>Aashish Panta<br>Michela Taufer<br>_<a href="nsdf_tutorial" >Tutorial: Using NSDF for End-to-End Analysis of Scientific Data</a>_ | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794642.svg)](https://doi.org/10.5281/zenodo.10794642) <br><a href='https://drive.google.com/file/d/1zIrbKdNDq8JALqwEkbv_6t8KgsqrTGlP/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Taufer_AHM_NSDF_Tutorial.jpg"></a>
 
 **Sesion Chair:** Attila Gyulassy
 

@@ -83,10 +83,8 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf
 
 **Sesion Chair:** Michela Taufer
 
-|----|----|
-| 11:00-12:00 | **Keynote: The Prototype Open Knowledge Network (Proto-OKN) Fabric** <br> Chaitan Baru, NSF |
-| 12:00-12:15 | **Group Photo** |
-| 12:15-13:30 | **Lunch & Poster Presentations** |
+|----|----|---|
+| NSF | Chaitan Baru <br> _Keynote: The Prototype Open Knowledge Network (Proto-OKN) Fabric_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794762.svg)](https://doi.org/10.5281/zenodo.10794762)|<a href='https://drive.google.com/file/d/1fglBWpIh-nm0t7oVs-4E6ooGHGv6cAKs/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Baru_Prototype_Open_Knowledge_Network.jpg"></a> |
 
 **Sesion Chair:** Steve Petruzza
 

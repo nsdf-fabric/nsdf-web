@@ -9,8 +9,6 @@ title: All hands meeting February 2024
 San Diego Supercomputer Center<br>
 9836 Hopkins Dr, La Jolla, CA 92037<br>
 
-# Attendees to the Fourth National Science Data Fabric (NSDF) AHM.
-
 <p align=center>
 <img src="assets/misc/ahm4/attendees.jpeg" width="80%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 <br>

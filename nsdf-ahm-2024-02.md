@@ -60,70 +60,187 @@ You can find the program [here](./assets/pdf/2024%20NSDF%20AHM%20Agenda%20V9.pdf
 
 ## Wednesday, February 28
 
+<style>
+table th:first-of-type {
+    width: 50px;
+}
+table th:nth-of-type(2) {
+    width: 250px;
+}
+table th:nth-of-type(3) {
+    width: 300px;
+}
+</style>
+
+| Affiliation |Members and Title|Presentation|
 |----|----|---|
-| UTK | Michela Taufer <br> _An Introduction to the National Science Data Fabric_ <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794288.svg)](https://doi.org/10.5281/zenodo.10794288){:target="\_blank"}|<a target="_blank" href='https://drive.google.com/file/d/10r9a1__wK6R_4GCWZtRtFxvC_1mxVomi/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Taufer_NSDF_AHM_Welcome.jpg"></a> |
+| UTK | Michela Taufer <br> **An Introduction to the National Science Data Fabric** <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794288.svg)](https://doi.org/10.5281/zenodo.10794288){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/10r9a1__wK6R_4GCWZtRtFxvC_1mxVomi/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Taufer_NSDF_AHM_Welcome.jpg"></a> |
 
 **Sesion Chair:** Michela Taufer
 
+<style>
+table th:first-of-type {
+    width: 50px;
+}
+table th:nth-of-type(2) {
+    width: 250px;
+}
+table th:nth-of-type(3) {
+    width: 300px;
+}
+</style>
+
+| Affiliation |Members and Title|Presentation|
 |----|----|---|
-| UTK <br> Utah | Heberth Martinez <br>Aashish Panta<br>Michela Taufer<br><a target="_blank" href="nsdf_tutorial" >_Tutorial: Using NSDF for End-to-End Analysis of Scientific Data_</a> <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794642.svg)](https://doi.org/10.5281/zenodo.10794642){:target="\_blank"}| <a target="_blank" href='https://drive.google.com/file/d/1zIrbKdNDq8JALqwEkbv_6t8KgsqrTGlP/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Taufer_AHM_NSDF_Tutorial.jpg"></a> |
+| UTK <br> Utah | Heberth Martinez <br>Aashish Panta<br>Michela Taufer<br><a target="_blank" href="nsdf_tutorial" >**Tutorial: Using NSDF for End-to-End Analysis of Scientific Data**</a> <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794642.svg)](https://doi.org/10.5281/zenodo.10794642){:target="_blank"}| <a target="_blank" href='https://drive.google.com/file/d/1zIrbKdNDq8JALqwEkbv_6t8KgsqrTGlP/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Taufer_AHM_NSDF_Tutorial.jpg"></a> |
 
 **Sesion Chair:** Attila Gyulassy
 
+<style>
+table th:first-of-type {
+    width: 50px;
+}
+table th:nth-of-type(2) {
+    width: 250px;
+}
+table th:nth-of-type(3) {
+    width: 300px;
+}
+</style>
+
+| Affiliation |Members and Title|Presentation|
 |----|----|---|
-| Globus | Kyle Chard <br>_Globus Platform as a Service_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794588.svg)](https://doi.org/10.5281/zenodo.10794588){:target="_blank"}| <a target="_blank" href='https://drive.google.com/file/d/1tGQPPbC2Xrcz-0lWEjELeUe7Mjy-rLLg/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Chard_Globus_Platform_as_a_Service.jpg"></a> |
-| Voltron | Fernanda Foertter <br>\_Decomposing Data Systems for Better Performance_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794593.svg)](https://doi.org/10.5281/zenodo.10794593){:target="_blank"}| <a target="_blank" href='https://drive.google.com/file/d/1Ex6e_1N1XUT0hG3oCm1ot-1EEOFVSv2n/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Foertter_ Decomposing*Data_Systems_for_Better_Performance.jpg"></a> |
-| NCSA | Kenton McHenry <br>\_Democratized Data Discovery and Access: Helping Communities and Repositories Adopt Science on Schema* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794600.svg)](https://doi.org/10.5281/zenodo.10794600){:target="_blank"}| <a target="_blank" href='https://drive.google.com/file/d/1VUnZ4ItiUTCDxjVFyP6La93vJQBkR8Qg/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/McHenry_Democratized_Data_Discovery_and_Access.jpg"></a> |
-| Ronin | Doug Fils <br>\_Building Blocks of Integration: An Exploration of CODATA CDIF Goals with NSDF Architecture_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794618.svg)](https://doi.org/10.5281/zenodo.10794618){:target="\_blank"}| <a target="_blank" href='https://drive.google.com/file/d/1ELl_CezSoUEExA-kiXs2_0COFk8VC7-x/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Fils_Building_Blocks_of_Integration.jpg"></a> |
+| Globus | Kyle Chard <br>**Globus Platform as a Service** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794588.svg)](https://doi.org/10.5281/zenodo.10794588){:target="_blank"}| <a target="_blank" href='https://drive.google.com/file/d/1tGQPPbC2Xrcz-0lWEjELeUe7Mjy-rLLg/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Chard_Globus_Platform_as_a_Service.jpg"></a> |
+| Voltron | Fernanda Foertter <br>**Decomposing Data Systems for Better Performance** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794593.svg)](https://doi.org/10.5281/zenodo.10794593){:target="_blank"}| <a target="_blank" href='https://drive.google.com/file/d/1Ex6e_1N1XUT0hG3oCm1ot-1EEOFVSv2n/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Foertter_ Decomposing_Data_Systems_for_Better_Performance.jpg"></a> |
+| NCSA | Kenton McHenry <br>**Democratized Data Discovery and Access: Helping Communities and Repositories Adopt Science on Schema** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794600.svg)](https://doi.org/10.5281/zenodo.10794600){:target="_blank"}| <a target="_blank" href='https://drive.google.com/file/d/1VUnZ4ItiUTCDxjVFyP6La93vJQBkR8Qg/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/McHenry_Democratized_Data_Discovery_and_Access.jpg"></a> |
+| Ronin | Doug Fils <br>**Building Blocks of Integration: An Exploration of CODATA CDIF Goals with NSDF Architecture** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794618.svg)](https://doi.org/10.5281/zenodo.10794618){:target="_blank"}| <a target="_blank" href='https://drive.google.com/file/d/1ELl_CezSoUEExA-kiXs2_0COFk8VC7-x/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Fils_Building_Blocks_of_Integration.jpg"></a> |
 
 ## Thursday, February 29, 2024
 
 **Sesion Chair:** Christine Kirkpatrick
 
+<style>
+table th:first-of-type {
+    width: 50px;
+}
+table th:nth-of-type(2) {
+    width: 250px;
+}
+table th:nth-of-type(3) {
+    width: 300px;
+}
+</style>
+
+| Affiliation |Members and Title|Presentation|
 |----|----|---|
-| SDSC | Marty Kandes <br> _Near-Field and Far-Field Data Distribution for ICICLE: Intelligent CyberInfrastructure with Computational Learning in the Environment_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794824.svg)](https://doi.org/10.5281/zenodo.10794824){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1LGyPLRG1NomoURNMqH6uKXiMbVjeGlcS/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kandes_Near-Field_and_Far-Field_Data_Distribution_for_ICICLE.jpg"></a> |
-| HDSI/UCSD | Arum Kumar <br> \_HDSI DataPlanet: Spurring Data-Intensive Collaborations_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794833.svg)](https://doi.org/10.5281/zenodo.10794833){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/18I8SVBOneLtA-HFqehj8D-HepICL_6tO/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kumar_HDSI_DataPlanet.jpg"></a> |
-| Utah State U | Steve Petruzza <br> \_Multi-layer Caching and Parallel Streaming for Large Scale Point Cloud Data on the Web_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794880.svg)](https://doi.org/10.5281/zenodo.10794880){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1ajuYU9A_4POUxtMkeWE_d0jqP9fAxzV9/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Petruzza_PointCloud_Caching.jpg"></a> |
-| ORNL | Olga Kuchar <br> \_Data Lifecycle Technologies at Oak Ridge Leadership Computing_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794828.svg)](https://doi.org/10.5281/zenodo.10794828){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1UoDUvQg2TAAqo1RuqPNJe7-O8vkm0aEb/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kuchar_Data_Lifecycle_at_ORNL.jpg"></a> |
-| U. Wisconsin Madison | Miron Livny <br> \_An Overview of Pelican, OSDF, and OSPool_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794843.svg)](https://doi.org/10.5281/zenodo.10794843){:target="\_blank"}|<a target="_blank" href='https://drive.google.com/file/d/13ptcfVtsFYqTWENyH7xkp5ydsFw28q2F/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Livny_Overview_of_Pelican_OSDF_OSPool.jpg"></a> |
+| SDSC | Marty Kandes <br> **Near-Field and Far-Field Data Distribution for ICICLE: Intelligent CyberInfrastructure with Computational Learning in the Environment** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794824.svg)](https://doi.org/10.5281/zenodo.10794824){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1LGyPLRG1NomoURNMqH6uKXiMbVjeGlcS/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kandes_Near-Field_and_Far-Field_Data_Distribution_for_ICICLE.jpg"></a> |
+| HDSI/UCSD | Arum Kumar <br> **HDSI DataPlanet: Spurring Data-Intensive Collaborations** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794833.svg)](https://doi.org/10.5281/zenodo.10794833){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/18I8SVBOneLtA-HFqehj8D-HepICL_6tO/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kumar_HDSI_DataPlanet.jpg"></a> |
+| Utah State U | Steve Petruzza <br> **Multi-layer Caching and Parallel Streaming for Large Scale Point Cloud Data on the Web** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794880.svg)](https://doi.org/10.5281/zenodo.10794880){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1ajuYU9A_4POUxtMkeWE_d0jqP9fAxzV9/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Petruzza_PointCloud_Caching.jpg"></a> |
+| ORNL | Olga Kuchar <br> **Data Lifecycle Technologies at Oak Ridge Leadership Computing** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794828.svg)](https://doi.org/10.5281/zenodo.10794828){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1UoDUvQg2TAAqo1RuqPNJe7-O8vkm0aEb/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kuchar_Data_Lifecycle_at_ORNL.jpg"></a> |
+| U. Wisconsin Madison | Miron Livny <br> **An Overview of Pelican, OSDF, and OSPool** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794843.svg)](https://doi.org/10.5281/zenodo.10794843){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/13ptcfVtsFYqTWENyH7xkp5ydsFw28q2F/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Livny_Overview_of_Pelican_OSDF_OSPool.jpg"></a> |
 
 **Sesion Chair:** Michela Taufer
 
+<style>
+table th:first-of-type {
+    width: 50px;
+}
+table th:nth-of-type(2) {
+    width: 250px;
+}
+table th:nth-of-type(3) {
+    width: 300px;
+}
+</style>
+
+| Affiliation |Members and Title|Presentation|
 |----|----|---|
-| NSF | Chaitan Baru <br> _Keynote: The Prototype Open Knowledge Network (Proto-OKN) Fabric_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794762.svg)](https://doi.org/10.5281/zenodo.10794762){:target="\_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1fglBWpIh-nm0t7oVs-4E6ooGHGv6cAKs/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Baru_Prototype_Open_Knowledge_Network.jpg"></a> |
+| NSF | Chaitan Baru <br> **Keynote: The Prototype Open Knowledge Network (Proto-OKN) Fabric** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794762.svg)](https://doi.org/10.5281/zenodo.10794762){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1fglBWpIh-nm0t7oVs-4E6ooGHGv6cAKs/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Baru_Prototype_Open_Knowledge_Network.jpg"></a> |
 
 **Sesion Chair:** Steve Petruzza
 
+<style>
+table th:first-of-type {
+    width: 50px;
+}
+table th:nth-of-type(2) {
+    width: 250px;
+}
+table th:nth-of-type(3) {
+    width: 300px;
+}
+</style>
+
+| Affiliation |Members and Title|Presentation|
 |----|----|---|
-| Seal Storage | Scott Doughman and Sal Malik <br> _Large Research Data Storage on Blockchain Technology_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794789.svg)](https://doi.org/10.5281/zenodo.10794789){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1ifSwSt6njmQ-1urrR4yMpjJl97UXL0ZC/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Doughman_and_Malik_Research_Data_Storage_on_Blockchain.jpg"></a> |
-| HDF | Scot Breitenfield <br> \_The HDF5 Framework: Practical Tools for Managing Data_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794772.svg)](https://doi.org/10.5281/zenodo.10794772){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/12S7uX2EKsHLXEQBlKE00pALHcFHU5LJE/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Breitenfeld_HDF5_Framework.jpg"></a> |
-| ViSOAR |Amy Gooch <br> \_VisStore: Seamless Acquisition, Storage, and Distribution of Massive Imagery blending Cloud, Local and HPC Storage_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794802.svg)](https://doi.org/10.5281/zenodo.10794802){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1B_YZeW6Cxm1rpohaMcGQwlvDSLudCs4c/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Gooch_ViSOAR_and_VisStore.jpg"></a> |
-| SDSC | Fabio Andrijauskas <br> \_Monitoring the Open Science Data Federation_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794701.svg)](https://doi.org/10.5281/zenodo.10794701){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1L2En2ZOVS6_2G5DVedsfUMD7jluP9j31/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Andrijauskas_Monitoring_OSDF.jpg"></a> |
-| ICSI <br> LBNL <br> UC Berkeley | Michael Mahoney <br> \_Open Data, Large-Scale Compute, and Scientific Foundation Models_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794864.svg)](https://doi.org/10.5281/zenodo.10794864){:target="\_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1B18CtOy-AnQVj91vsws8-sZQxqVdyfsI/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Mahoney_Open_Data_LargeScale_Compute_Foundation_Models.jpg"></a> |
+| Seal Storage | Scott Doughman and Sal Malik <br> **Large Research Data Storage on Blockchain Technology** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794789.svg)](https://doi.org/10.5281/zenodo.10794789){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1ifSwSt6njmQ-1urrR4yMpjJl97UXL0ZC/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Doughman_and_Malik_Research_Data_Storage_on_Blockchain.jpg"></a> |
+| HDF | Scot Breitenfield <br> **The HDF5 Framework: Practical Tools for Managing Data** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794772.svg)](https://doi.org/10.5281/zenodo.10794772){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/12S7uX2EKsHLXEQBlKE00pALHcFHU5LJE/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Breitenfeld_HDF5_Framework.jpg"></a> |
+| ViSOAR |Amy Gooch <br> **VisStore: Seamless Acquisition, Storage, and Distribution of Massive Imagery blending Cloud, Local and HPC Storage** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794802.svg)](https://doi.org/10.5281/zenodo.10794802){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1B_YZeW6Cxm1rpohaMcGQwlvDSLudCs4c/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Gooch_ViSOAR_and_VisStore.jpg"></a> |
+| SDSC | Fabio Andrijauskas <br> **Monitoring the Open Science Data Federation** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794701.svg)](https://doi.org/10.5281/zenodo.10794701){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1L2En2ZOVS6_2G5DVedsfUMD7jluP9j31/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Andrijauskas_Monitoring_OSDF.jpg"></a> |
+| ICSI <br> LBNL <br> UC Berkeley | Michael Mahoney <br> **Open Data, Large-Scale Compute, and Scientific Foundation Models** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794864.svg)](https://doi.org/10.5281/zenodo.10794864){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1B18CtOy-AnQVj91vsws8-sZQxqVdyfsI/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Mahoney_Open_Data_LargeScale_Compute_Foundation_Models.jpg"></a> |
 
 **Sesion Chair:** Amy Gooch
 
+<style>
+table th:first-of-type {
+    width: 50px;
+}
+table th:nth-of-type(2) {
+    width: 250px;
+}
+table th:nth-of-type(3) {
+    width: 300px;
+}
+</style>
+
+| Affiliation |Members and Title|Presentation|
 |----|----|---|
-| CHESS | Werner Sun <br> _Visualizing CHESS Data with NSDF Dashboards_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794931.svg)](https://doi.org/10.5281/zenodo.10794931){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1Wzn4W0jJJgt1bNZT-WRaLvthTdoHOjzc/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Sun_Visualizing_CHESS_with_NSDF_Dashboards.jpg"></a> |
-| Windows on Earth | Dan Barstow <br> \_Sally Ride Windows on Earth_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794722.svg)](https://doi.org/10.5281/zenodo.10794722){:target="_blank"}|<a target="\_blank" href='https://drive.google.com/file/d/1WDFTtnwa67OZZcQLE5WBtvHwWhHWG06_/view?usp=share*link'><img width=300 src="/assets/misc/ahm4/Barstow_Windows_On_Earth.jpg"></a> |
-| U Colorado Denver | Amy Roberts <br> \_Sharing Data across Deep Underground Experiments* <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794910.svg)](https://doi.org/10.5281/zenodo.10794910){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/184-76CENk8j7MikTmgEnMKqd3pCJaSej/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Roberts_Sharing_Data_Across_Underground_Experiements.jpg"></a> |
-| UTEP | Erwin Cazares <br> \_Applications of Deep Learning for Fragment Size Analysis_ <br> ||
+| CHESS | Werner Sun <br> **Visualizing CHESS Data with NSDF Dashboards** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794931.svg)](https://doi.org/10.5281/zenodo.10794931){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1Wzn4W0jJJgt1bNZT-WRaLvthTdoHOjzc/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Sun_Visualizing_CHESS_with_NSDF_Dashboards.jpg"></a> |
+| Windows on Earth | Dan Barstow <br> **Sally Ride Windows on Earth** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794722.svg)](https://doi.org/10.5281/zenodo.10794722){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1WDFTtnwa67OZZcQLE5WBtvHwWhHWG06_/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Barstow_Windows_On_Earth.jpg"></a> |
+| U Colorado Denver | Amy Roberts <br> **Sharing Data across Deep Underground Experiments** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794910.svg)](https://doi.org/10.5281/zenodo.10794910){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/184-76CENk8j7MikTmgEnMKqd3pCJaSej/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Roberts_Sharing_Data_Across_Underground_Experiements.jpg"></a> |
+| UTEP | Erwin Cazares <br> **Applications of Deep Learning for Fragment Size Analysis** <br> ||
 
 ## Friday, March 1, 2024
 
 **Sesion Chair:** Michela Taufer
 
+<style>
+table th:first-of-type {
+    width: 50px;
+}
+table th:nth-of-type(2) {
+    width: 250px;
+}
+table th:nth-of-type(3) {
+    width: 300px;
+}
+</style>
+
+| Affiliation |Members and Title|Presentation|
 |----|----|---|
-| SDSC | Sandra Gesing <br> _Keynote: Ushering in a New Era with Unconventional Paths and Hidden Contributors Driving Discoveries in Academia and National Labs_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794970.svg)](https://doi.org/10.5281/zenodo.10794970){:target="\_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1bgn3B3TGyafSDHy1MQEyLcCoi6O698Ch/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Gesing_Unconventional_Paths_and_Hidden_Contributors.jpg"></a> |
+| SDSC | Sandra Gesing <br> **Keynote: Ushering in a New Era with Unconventional Paths and Hidden Contributors Driving Discoveries in Academia and National Labs** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794970.svg)](https://doi.org/10.5281/zenodo.10794970){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1bgn3B3TGyafSDHy1MQEyLcCoi6O698Ch/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Gesing_Unconventional_Paths_and_Hidden_Contributors.jpg"></a> |
 
 **Sesion Chair:** Lauren Whitnah
 
+<style>
+table th:first-of-type {
+    width: 50px;
+}
+table th:nth-of-type(2) {
+    width: 250px;
+}
+table th:nth-of-type(3) {
+    width: 300px;
+}
+</style>
+
+| Affiliation |Members and Title|Presentation|
 |----|----|---|
-| Texas Tech U <br> CI Compass | Kerk Kee <br> _Technology Adoption Research and the Cyberinfrastructure Community_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794983.svg)](https://doi.org/10.5281/zenodo.10794983){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1e0F-GFGOzzXJwjPSg3byWJ-Vm4olBoV6/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kee_Technology_Adoption_Research.jpg"></a> |
-| SDSC | Ilkay Altinas <br> \_National Data Platform: Data and AI Services for All_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794952.svg)](https://doi.org/10.5281/zenodo.10794952){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1sftS5QXSEl-llkNg0T51_c1tczTF6-Cp/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Altintas_National_Data_Platform.jpg"></a> |
-| Dillard U | Dennis Sigur <br> \_Opportunities and Challenges at HBCUs_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794989.svg)](https://doi.org/10.5281/zenodo.10794989){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1jPqI_KRcfflGAChPBylCbjSWgPctnJGJ/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Sigur_Opportunities_and_Challenges_at_HBCUs.jpg"></a> |
-| Utah State U | Gustavo Ovando-Montejo <br> \_Democratizing Spatial Data for Climate Change Risk Assessment across Native American Nations_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794985.svg)](https://doi.org/10.5281/zenodo.10794985){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1UGDqXFvh0ChG-QZe5hjuEVdBtnQGbEC8/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Ovando-Montejo_Democratizing_Spatial_Data_across_Native_American_Nations.jpg"></a> |
-| Utah <br> UTK <br> SDSC | Atilla Gyulassy <br> \_A Report on New Directions in User Community Interviews_ <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794978.svg)](https://doi.org/10.5281/zenodo.10794978){:target="\_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1PNWGOMeenisKIxPS50_Xkw-e4APgOnUy/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Gyulassy_Report_on_User_Community_Interviews.jpg"></a> |
+| Texas Tech U <br> CI Compass | Kerk Kee <br> **Technology Adoption Research and the Cyberinfrastructure Community** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794983.svg)](https://doi.org/10.5281/zenodo.10794983){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1e0F-GFGOzzXJwjPSg3byWJ-Vm4olBoV6/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Kee_Technology_Adoption_Research.jpg"></a> |
+| SDSC | Ilkay Altinas <br> **National Data Platform: Data and AI Services for All** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794952.svg)](https://doi.org/10.5281/zenodo.10794952){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1sftS5QXSEl-llkNg0T51_c1tczTF6-Cp/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Altintas_National_Data_Platform.jpg"></a> |
+| Dillard U | Dennis Sigur <br> **Opportunities and Challenges at HBCUs** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794989.svg)](https://doi.org/10.5281/zenodo.10794989){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1jPqI_KRcfflGAChPBylCbjSWgPctnJGJ/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Sigur_Opportunities_and_Challenges_at_HBCUs.jpg"></a> |
+| Utah State U | Gustavo Ovando-Montejo <br> **Democratizing Spatial Data for Climate Change Risk Assessment across Native American Nations** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794985.svg)](https://doi.org/10.5281/zenodo.10794985){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1UGDqXFvh0ChG-QZe5hjuEVdBtnQGbEC8/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Ovando-Montejo_Democratizing_Spatial_Data_across_Native_American_Nations.jpg"></a> |
+| Utah <br> UTK <br> SDSC | Atilla Gyulassy <br>  **A Report on New Directions in User Community Interviews** <br> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794978.svg)](https://doi.org/10.5281/zenodo.10794978){:target="_blank"}|<a target="_blank" href='https://drive.google.com/file/d/1PNWGOMeenisKIxPS50_Xkw-e4APgOnUy/view?usp=share_link'><img width=300 src="/assets/misc/ahm4/Gyulassy_Report_on_User_Community_Interviews.jpg"></a> |
 
 ## HOTELS
 

@@ -4,6 +4,13 @@ title: National Science Data Fabric
 tagline: Seminars
 ref: seminars
 ---
+---
+
+# NSDF Distinguished Speaker Series - Apr 10, 2024, at 12:30 pm ET / 11:30 am CT / 10:30 am MT / 9:30 am PT 
+
+{% include_relative nsdf-seminar-series-tutorial.body.md %}
+
+---
 
 ---
 

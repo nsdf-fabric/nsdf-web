@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NSDF Distinguished Speaker Series
+title: NSDF Distinguished Speakers Series
 tagline: Dr. Michela Taufer and Dr. Valerio Pascucci
 ---
 

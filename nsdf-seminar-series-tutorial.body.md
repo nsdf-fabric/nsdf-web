@@ -22,7 +22,7 @@ The tutorial highlights how to move through every step of the modular workflow, 
 
 Come join us to learn about using NSDF services to empower your research!
 
-For more information, contact us at [info\@nationalsciencedatafabric.org](mailto:info@nationalsciencedatafabric.org?subject=Tutorial)
+For more information, contact us at [info@nationalsciencedatafabric.org](mailto:info@nationalsciencedatafabric.org?subject=Tutorial)
 
 
 

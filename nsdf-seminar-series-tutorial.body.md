@@ -11,7 +11,7 @@
 
 
 <p align=center>
-<img src="assets/misc/NSDF Tutorial promotional image-2.jpg" width="70%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+<img src="assets/misc/NSDF Tutorial promotional image-3.jpg" width="70%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </p> 
 
 **Abstract:** Scientific research often involves dealing with vast amounts of data stored in various public and private remote locations. Researchers frequently prefer to review all the available data remotely before deciding which segments to download, transferring only specific portions of this data to their local computer for closer analysis and visualization. However, every step of this process is challenging: it is difficult to stream the data, identify and deploy tools for data visualization, interact dynamically with the data, explore multiple datasets simultaneously, and decide which relevant segment of data to download. 

@@ -16,7 +16,7 @@ order: 0
 
 # Journals or Juried Conference Papers
 
-Michela Taufer , Heberth Martinez , Jakob Luettgau , Lauren Whitnah , Giorgio Scorzelli , Pania Newel , Aashish Panta , Timo Bremer , Doug Fils , Christine R. Kirkpatrick , and Valerio Pascucci. **Integrating FAIR Digital Objects into the National Science Data Fabric to Revolutionize Dataflows for Scientific Discovery** *to apper*
+Michela Taufer , Heberth Martinez , Jakob Luettgau , Lauren Whitnah , Giorgio Scorzelli , Pania Newel , Aashish Panta , Timo Bremer , Doug Fils , Christine R. Kirkpatrick , and Valerio Pascucci. **Integrating FAIR Digital Objects into the National Science Data Fabric to Revolutionize Dataflows for Scientific Discovery** IEEE Computing in Science & Engineering *to apper*
 
 Jakob Luettgau, Paula Olaya, Heberth Martinez, Giorgio Scorzelli, Glenn Tarcea, Jay Lofstead, Christine Kirkpatrick, Valerio Pascucci, and Michela Taufer. **NSDF-Services: Integrating Networking, Storage, and Computing Services into a Testbed for Democratization of Data Delivery**. In Proceedings of the 15th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), pages 1–10, Taormina (Messina), Italy, December 2023. IEEE Computer Society. Paper, [Slides](https://docs.google.com/presentation/d/15vQ_6kJAPr8mk6HhRkww7a7wRjp2MsMZ_xNepCAI9Fc/edit#slide=id.g262a9e188d9_70_190), and Poster
 
@@ -42,7 +42,7 @@ Jakob Luettgau, Giorgio Scorzelli, Valerio Pascucci, and Michela Taufer. 2023. *
 
 S. Leventhal, A. Gyulassy, M. Heimann and V. Pascucci, **"Exploring Classification of Topological Priors with Machine Learning for Feature Extraction,"** in _IEEE Transactions on Visualization and Computer Graphics_, [https://doi.org/10.1109/TVCG.2023.3248632](https://doi.org/10.1109/TVCG.2023.3248632).
 
-Jack Dongarra, Bernard Tourancheau, Naweiluo Zhou, Giorgio Scorzelli, Jakob Luettgau, Rahul R Kancharla, Joshua J Kane, Robert Wheeler, Brendan P Croom, Pania Newell, Valerio Pascucci, and Michela Taufer. 2023. **Orchestration of materials science workflows for heterogeneous resources at large scale**. Int. J. High Perform. Comput. Appl. 37, 3–4 (Jul 2023), 260–271. [https://doi.org/10.1177/10943420231167800](https://doi.org/10.1177/10943420231167800)
+Naweiluo Zhou, Giorgio Scorzelli, Jakob Luettgau, Rahul R Kancharla, Joshua J Kane, Robert Wheeler, Brendan P Croom, Pania Newell, Valerio Pascucci, and Michela Taufer. 2023. **Orchestration of materials science workflows for heterogeneous resources at large scale**. Int. J. High Perform. Comput. Appl. 37, 3–4 (Jul 2023), 260–271. [https://doi.org/10.1177/10943420231167800](https://doi.org/10.1177/10943420231167800)
 
 Li, Zhimin and Menon, Harshitha and Mohror, Kathryn and Liu, Shusen and Guo, Luanzheng and Bremer, Peer-Timo and Pascucci, Valerio. **"A Visual Comparison of Silent Error Propagation,"** in _IEEE Transactions on Visualization and Computer Graphics_, [https://doi.org/10.1109/TVCG.2022.3230636](https://doi.org/10.1109/TVCG.2022.3230636).
 

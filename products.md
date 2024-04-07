@@ -17,9 +17,7 @@ order: 0
 # Journals or Juried Conference Papers
 
 Danica L. Lombardozzi, William R. Wieder, Negin Sobhani, Gordon B. Bonan, David Durden, Dawn Lenz, Michael SanClements, Samantha Weintraub-Leff, Edward Ayres, Christopher R. Florian, Kyla Dahlin, Sanjiv Kumar, Abigail L. S. Swann, Claire Zarakas, Charles Vardeman, and Valerio Pascucci.
-**Overcoming barriers to enable convergence research by integrating ecological and climate sciences: The NCAR-NEON system Version 1** [PDF](assets/pdf/paper_lombardozzi.pdf) [https://egusphere.copernicus.org/preprints/2023/egusphere-2023-271/](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-271/)
-
-
+**Overcoming barriers to enable convergence research by integrating ecological and climate sciences: The NCAR-NEON system Version 1** EGUsphere2023 [PDF](assets/pdf/paper_lombardozzi.pdf) [https://doi.org/10.5194/egusphere-2023-271](https://doi.org/10.5194/egusphere-2023-271)
 
 Michela Taufer , Heberth Martinez , Jakob Luettgau , Lauren Whitnah , Giorgio Scorzelli , Pania Newel , Aashish Panta , Timo Bremer , Doug Fils , Christine R. Kirkpatrick , and Valerio Pascucci. **Integrating FAIR Digital Objects into the National Science Data Fabric to Revolutionize Dataflows for Scientific Discovery** IEEE Computing in Science & Engineering *to apper* [PDF](assets/pdf/paper_taufer.pdf)
 

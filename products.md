@@ -16,7 +16,12 @@ order: 0
 
 # Journals or Juried Conference Papers
 
-Michela Taufer , Heberth Martinez , Jakob Luettgau , Lauren Whitnah , Giorgio Scorzelli , Pania Newel , Aashish Panta , Timo Bremer , Doug Fils , Christine R. Kirkpatrick , and Valerio Pascucci. **Integrating FAIR Digital Objects into the National Science Data Fabric to Revolutionize Dataflows for Scientific Discovery** IEEE Computing in Science & Engineering *to apper*
+Danica L. Lombardozzi, William R. Wieder, Negin Sobhani, Gordon B. Bonan, David Durden, Dawn Lenz, Michael SanClements, Samantha Weintraub-Leff, Edward Ayres, Christopher R. Florian, Kyla Dahlin, Sanjiv Kumar, Abigail L. S. Swann, Claire Zarakas, Charles Vardeman, and Valerio Pascucci.
+**Overcoming barriers to enable convergence research by integrating ecological and climate sciences: The NCAR-NEON system Version 1** [PDF](assets/pdf/paper_lombardozzi.pdf) [https://egusphere.copernicus.org/preprints/2023/egusphere-2023-271/](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-271/)
+
+
+
+Michela Taufer , Heberth Martinez , Jakob Luettgau , Lauren Whitnah , Giorgio Scorzelli , Pania Newel , Aashish Panta , Timo Bremer , Doug Fils , Christine R. Kirkpatrick , and Valerio Pascucci. **Integrating FAIR Digital Objects into the National Science Data Fabric to Revolutionize Dataflows for Scientific Discovery** IEEE Computing in Science & Engineering *to apper* [PDF](assets/pdf/paper_taufer.pdf)
 
 Jakob Luettgau, Paula Olaya, Heberth Martinez, Giorgio Scorzelli, Glenn Tarcea, Jay Lofstead, Christine Kirkpatrick, Valerio Pascucci, and Michela Taufer. **NSDF-Services: Integrating Networking, Storage, and Computing Services into a Testbed for Democratization of Data Delivery**. In Proceedings of the 15th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), pages 1–10, Taormina (Messina), Italy, December 2023. IEEE Computer Society. Paper, [Slides](https://docs.google.com/presentation/d/15vQ_6kJAPr8mk6HhRkww7a7wRjp2MsMZ_xNepCAI9Fc/edit#slide=id.g262a9e188d9_70_190), and Poster
 

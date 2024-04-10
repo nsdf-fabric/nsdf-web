@@ -5,14 +5,10 @@
 
 **Speaker**: Dr. Michela Taufer, University of Tennessee Knoxville and Dr. Valerio Pascucci, University of Utah
 
-**Join the webinar**: [Zoom Link](https://tennessee.zoom.us/j/87285191065)
-
-**More about the NSDF**: [NSDF Webpage](https://nationalsciencedatafabric.org/)
-
-
 <p align=center>
 <img src="assets/misc/NSDF Tutorial promotional image-4.jpg" width="70%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </p> 
+
 
 **Abstract:** Scientific research often involves dealing with vast amounts of data stored in various public and private remote locations. Researchers frequently prefer to review all the available data remotely before deciding which segments to download, transferring only specific portions of this data to their local computer for closer analysis and visualization. However, every step of this process is challenging: it is difficult to stream the data, identify and deploy tools for data visualization, interact dynamically with the data, explore multiple datasets simultaneously, and decide which relevant segment of data to download. 
 
@@ -24,6 +20,12 @@ Come join us to learn about using NSDF services to empower your research!
 
 For more information, contact us at [info@nationalsciencedatafabric.org](mailto:info@nationalsciencedatafabric.org?subject=Tutorial)
 
+**Seminar Recording**
 
+<p align=center>
+<a href="https://drive.google.com/file/d/1-dB0YyPbEOFqG0jdIH6Y1Bmfq_EGEW3b/view?usp=share_link" target="_blank"> <img src="assets/images/tutorial_cover.jpg" width="60%" style="filter: drop-shadow(5px 5px 5px #222);"/></a>
+<br>
+<a href="https://drive.google.com/file/d/1-dB0YyPbEOFqG0jdIH6Y1Bmfq_EGEW3b/view?usp=share_link" target="_blank">Recording</a>
+</p>
 
 

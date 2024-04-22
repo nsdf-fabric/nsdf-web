@@ -10,6 +10,14 @@ order: 0
 
 <ul class="post-list">
 <li>
+<span class="post-meta">May 2, 2024</span>
+<h2><a class="post-link" href="nsdf-seminar-series-hauser" >National Science Data Fabric (NSDF) Webinar: Distinguished Speakers: Dr. Thomas Hauser, Director of the Computational and Information Systems Laboratory (CISL) NSF National Center for Atmospheric Research (NCAR)</a></h2>
+Advancing Earth System Science through Research Computing and Data Services at the NSF National Center for Atmospheric Research (NSF NCAR)
+</li>
+</ul>
+
+<ul class="post-list">
+<li>
 <span class="post-meta">April 10, 2024</span>
 <h2><a class="post-link" href="nsdf-seminar-series-tutorial" >National Science Data Fabric (NSDF) Webinar: Distinguished Speakers: Dr. Michela Taufer (UTK) and Dr. Valerio Pascucci (U. Utah)</a></h2>
 National Science Data Fabric (NSDF) Webinar Tutorial: Using the NSDF Services for End-to-End Analysis and Visualization of Large Scientific Data

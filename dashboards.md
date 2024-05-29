@@ -22,11 +22,12 @@ Over 200TB of Climate Modeling data is now accessible through the collaboration
 <img src="./assets/images/nasa-bellows.jpg" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </div> 
 
-# NSDF TUTORIAL: Using the NSDF Services for End-to-End Analysis and Visualization of Large Scientific Data
+# GEOTiled: End-to-End Analysis and Visualization of Large Scientific Data
 
 [CONUS 30M - DEMO](http://chpc3.nationalsciencedatafabric.org:8989/dashboards) 
+[Tutorial - Recording](https://drive.google.com/file/d/1-dB0YyPbEOFqG0jdIH6Y1Bmfq_EGEW3b/view?usp=share_link) 
 
-GEOtiled a scalable workflow that generates large datasets of high-resolution terrain parameters
+GEOTiled is a scalable, modular workflow that generates large datasets of high-resolution terrain parameters.
 
 <div align="center">
 <img src="./assets/images/nsdf-tutorial.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> 

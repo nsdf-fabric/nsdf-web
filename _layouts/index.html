@@ -13,8 +13,59 @@
 	{% include menu.html %}
 	{% include page_header.html %}
 
+	
 
-	{% include news.html %}
+<!-- Swiper -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+<style>
+	.swiper-slide {
+		text-align: center;
+		justify-content: center;
+		align-items: center;
+		vertical-align: middle;
+	}
+</style>
+
+<center style="background-color: white;color:black;border-color: black;vertical-align: middle;">
+	<div class="swiper mySwiper" style="height:100%;vertical-align: middle;">
+		<br>
+		<div class="swiper-wrapper" style="vertical-align: middle;">
+			<div class="swiper-slide" style="vertical-align: middle;">
+				<img src="assets/images/chess-um24.png" style="width:650px;"><br>
+				<a href='{{ site.baseurl }}/chess-um24.html' >June 4,5 2024 NSDF@CHESS User Meeting, CORNELL UNIVERSITY</a>
+			</div>
+
+			<div class="swiper-slide" style="vertical-align: middle;height: 100%;">
+				<img src="assets/images/ncar-slide.png"  style="width:800px;"><br>
+				<a href="/nsdf-seminar-series-hauser">May 2 2024 NSDF Webinar: Distinguished Speakers Dr. Thomas Hauser from NCAR</a>
+			</div>
+
+			<div class="swiper-slide">
+				<img src="assets/images/sci-slide.png"  width="800"><br>
+				<a href="{{ site.baseurl }}/sci30.html">April 24,25 2024 - NSDF @ SCI 30th Anniversary</a><br>
+			</div>
+		</div>
+		<div class="swiper-button-next"></div>
+		<div class="swiper-button-prev"></div>
+		<div class="swiper-pagination"></div>
+	</div>
+	<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+	<script>
+		var swiper = new Swiper(".mySwiper", {
+			autoplay: {
+			delay: 4000,
+		},
+			pagination: {
+				el: ".swiper-pagination",
+				type: "progressbar",
+			},
+			navigation: {
+				nextEl: ".swiper-button-next",
+				prevEl: ".swiper-button-prev",
+			},
+		});
+	</script>
+</center>
 
 	<div id="page-wrapper">
 
@@ -177,7 +228,7 @@
 					the author(s)
 					and do not necessarily reflect the views of the National Science Foundation.<br><br>
 
-					Copyright © 2021 National Science Data Fabric
+					Copyright © 2024 National Science Data Fabric
 
 				</td>
 			</tr>

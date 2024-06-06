@@ -27,4 +27,4 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['contributors', 'partners', 'infrastructure', 'seminars', 'resources', 'grant', 'news', 'map3d', dashboards', 'catalog3d', 'contact']
+header_page_refs: ['contributors', 'partners', 'infrastructure', 'seminars', 'resources', 'grant', 'news', 'map3d', dashboards', 'chess-um24', 'catalog3d', 'contact']

@@ -9,6 +9,32 @@ order: 0
 # 2024
 
 <ul class="post-list">
+    <li>
+        <span class="post-meta">June 7 2024</span>
+        <h2><a class="post-link" href="https://x.com/pasc_conference/status/1798327008176513111?s=46&t=y8yZNQy5ccplmshyFf8lDg" >#PASC24 on stage - Unleashing the Power within Data Democratization: Building an Inclusive Community- Interview with Michela Taufer</a></h2>
+    </li>
+</ul>
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">June 5 2024</span>
+        <h2>V. Pascucci and G. Scorzelli give hands-on tutorial for NSDF dashboards at the X-CITE Workshop.<br></h2>
+        <a href='https://nationalsciencedatafabric.org/chess-um24.html'>Training material </a>&nbsp;&nbsp;
+        <a href="https://www.chess.cornell.edu/x-cite-workshop-2024">Workshop schedule</a>
+    </li>
+</ul>
+
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">June 4 2024</span>
+        <h2><a href='https://indico.classe.cornell.edu/event/2411/timetable/#20240604.detailed' >V. Pascucci and G. Scorzelli present NSDF technology at the 2024 Cornell High Energy Synchrotron Source user meeting.</a></h2>
+    </li>
+</ul>
+
+
+
+<ul class="post-list">
 <li>
 <span class="post-meta">May 2, 2024</span>
 <h2><a class="post-link" href="nsdf-seminar-series-hauser" >National Science Data Fabric (NSDF) Webinar: Distinguished Speakers: Dr. Thomas Hauser, Director of the Computational and Information Systems Laboratory (CISL) NSF National Center for Atmospheric Research (NCAR)</a></h2>

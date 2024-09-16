@@ -10,6 +10,14 @@ order: 0
 
 <ul class="post-list">
     <li>
+        <span class="post-meta">September 16 2024</span>
+        <h2><a class="post-link" href="nsdf-sc24-fellows" >NSDF SC24 Fellows</a></h2>
+        In response to the great success of our fellowship program at SC23, NSDF is accepting applications for new fellows to attend SC24.
+    </li>
+</ul>
+
+<ul class="post-list">
+    <li>
         <span class="post-meta">June 7 2024</span>
         <h2><a class="post-link" href="https://x.com/pasc_conference/status/1798327008176513111?s=46&t=y8yZNQy5ccplmshyFf8lDg" >#PASC24 on stage - Unleashing the Power within Data Democratization: Building an Inclusive Community- Interview with Michela Taufer</a></h2>
     </li>

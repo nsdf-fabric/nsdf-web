@@ -18,6 +18,26 @@ order: 0
 
 <ul class="post-list">
     <li>
+        <span class="post-meta">September 2 2024</span>
+        <h2><a class="post-link" href="nsdf-sc24-fellows" >ACM Summer School</a></h2>
+        M.Taufer kicked off the ACM Summer School at the Barcelona Supercomputer Center with a tutorial on using NSDF to access and study remote data.<br>
+        <a href="https://europe.acm.org/seasonal-schools/hpc/2024">ACM Europe Council Site Link</a>&nbsp;&nbsp;
+    </li>
+</ul>
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">August 19 2024</span>
+        <h2><a class="post-link" href="nsdf-sc24-fellows" >ICPP 2024</a></h2>
+        M. Taufer presented NSDF as the opening keynote at the 53rd International Conference on Parallel Computing, 
+        one of the oldest continuously running computer science conferences in the field.<br>
+        <a href="https://www.hpcwire.com/off-the-wire/michela-taufer-delivers-keynote-at-53rd-international-conference-on-parallel-computing/">HPCwire Link</a>&nbsp;&nbsp;
+    </li>
+</ul>
+
+
+<ul class="post-list">
+    <li>
         <span class="post-meta">June 7 2024</span>
         <h2><a class="post-link" href="https://x.com/pasc_conference/status/1798327008176513111?s=46&t=y8yZNQy5ccplmshyFf8lDg" >#PASC24 on stage - Unleashing the Power within Data Democratization: Building an Inclusive Community- Interview with Michela Taufer</a></h2>
     </li>
@@ -78,8 +98,9 @@ Big Data at Synchrotron X-ray User Facilities: Challenges and Opportunities
 
 <ul class="post-list">
 <li>
-<span class="post-meta">Nov 12, 2023</span>
-<h2><a class="post-link" href="nsdf-travel-award-winners" >NSDF Announces SC23 Travel Award Winners</a></h2>
+<span class="post-meta">November 12-17, 2023 </span>
+<h2><a class="post-link" href="nsdf-travel-award-winners" >Seven NSDF Fellows Announced</a></h2>
+Seven students, early career researchers, and faculty/staff at Minority-Serving Institutions have been selected to attend SC23 in Denver.
 </li>
 </ul>
 

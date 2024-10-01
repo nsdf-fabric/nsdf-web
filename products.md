@@ -10,11 +10,34 @@ order: 0
 
 
 
-<p align=center><img src="assets/images/products.png" width="100%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
+<p align=center><img src="assets/images/products.jpg" width="100%" style="filter: drop-shadow(5px 5px 5px #222);">  </p> 
 
 
 
 # Journals or Juried Conference Papers
+
+
+A. Panta, X. Huang, N. McCurdy, D. Ellsworth, A. Gooch, G. Scorzelli, H. Torres, P. Klein, G. Ovando-Montejo, V. Pascucci, **Web-based Visualization and Analytics of Petascale data: Equity as a Tide that Lifts All Boats,** LDAV: 13th IEEE Symposium on Large Data Analysis and Visualization, October 2024, To Appear, [10.48550/arXiv.2408.11831](https://arxiv.org/abs/2408.11831)
+
+ 
+
+Michela Taufer, Daniel Milroy, Todd Gamblin, Andrew Jones, Bill Magro, Heidi Poxon, and Seetharami Seelam. **HPC and Cloud Convergence Beyond Technical Boundaries: Strategies for Economic Sustainability, Standardization, and Data Accessibility**. IEEE Computer, 2024. [10.1109/MC.2024.3387013](https://ieeexplore.ieee.org/document/10547086/similar#similar)
+
+ 
+
+Chaitanya Afle, Patrick Miles, Silvina Caino-Lores, Collin Capano, Ingo Tews, Karan Vahi, EwaDeelman, Michela Taufer, and Duncan Brown. **Reproducing the Results for NICER Observation of PSR J0030+0451**. IEEE Computing in Science and Engineering (CiSE), pages 1–13, 2024. [10.1109/MCSE.2024.3381080](https://ieeexplore.ieee.org/document/10480447)
+
+ 
+
+Camila Roa, Paula Olaya, Ricardo Llamas, Rodrigo Vargas, and Michela Taufer. **GEOtiled: A Scalable Workflow for Generating Large Datasets of High-Resolution Terrain Parameters**. In Proceedings of the 32nd International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC), pages 1–2, Orlando, Florida, USA, June 2023. ACM. (Short paper) [10.1145/3588195.3595941](https://dl.acm.org/doi/10.1145/3588195.3595941)
+
+ 
+
+Camila Roa, Mats Rynge, Paula Olaya, Karan Vahi, Todd Miller, John Goodhue, James Griffioen, David Hudak, Shelley Knuth, Ricardo Llamas, Rodrigo Vargas, Miron Livny, Ewa Deelman, and Michela Taufer. **End-to-end Integration of Scientific Workflows on Distributed Cyberinfrastructures: Challenges and Lessons Learned with an Earth Science Application**. In Proceedings of the 15th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), pages 1–10, Taormina (Messina), Italy, December 2023. IEEE Computer Society. [10.1145/3603166.3632142](https://dl.acm.org/doi/10.1145/3603166.3632142)
+
+
+Paula Olaya. **Enabling Reproducibility, Scalability and Orchestration of Scientific Workflows in HPC and Cloud Infrastructure**. PhD dissertation. University of Tennessee Knoxville. 2024. [https://trace.tennessee.edu/utk_graddiss/10488](https://trace.tennessee.edu/utk_graddiss/10488/)
+
 
 Danica L. Lombardozzi, William R. Wieder, Negin Sobhani, Gordon B. Bonan, David Durden, Dawn Lenz, Michael SanClements, Samantha Weintraub-Leff, Edward Ayres, Christopher R. Florian, Kyla Dahlin, Sanjiv Kumar, Abigail L. S. Swann, Claire Zarakas, Charles Vardeman, and Valerio Pascucci.
 **Overcoming barriers to enable convergence research by integrating ecological and climate sciences: The NCAR-NEON system Version 1** EGUsphere 2023 [PDF](assets/pdf/paper_lombardozzi.pdf) [https://doi.org/10.5194/egusphere-2023-271](https://doi.org/10.5194/egusphere-2023-271)

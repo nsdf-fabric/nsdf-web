@@ -19,7 +19,7 @@ order: 0
 <ul class="post-list">
     <li>
         <span class="post-meta">September 2 2024</span>
-        <h2><a class="post-link" href="nsdf-sc24-fellows" >ACM Summer School</a></h2>
+        <h2><a class="post-link" href="https://europe.acm.org/seasonal-schools/hpc/2024" >ACM Summer School</a></h2>
         M.Taufer kicked off the ACM Summer School at the Barcelona Supercomputer Center with a tutorial on using NSDF to access and study remote data.<br>
         <a href="https://europe.acm.org/seasonal-schools/hpc/2024">ACM Europe Council Site Link</a>&nbsp;&nbsp;
     </li>
@@ -28,7 +28,7 @@ order: 0
 <ul class="post-list">
     <li>
         <span class="post-meta">August 19 2024</span>
-        <h2><a class="post-link" href="nsdf-sc24-fellows" >ICPP 2024</a></h2>
+        <h2><a class="post-link" href="https://www.hpcwire.com/off-the-wire/michela-taufer-delivers-keynote-at-53rd-international-conference-on-parallel-computing" >ICPP 2024</a></h2>
         M. Taufer presented NSDF as the opening keynote at the 53rd International Conference on Parallel Computing, 
         one of the oldest continuously running computer science conferences in the field.<br>
         <a href="https://www.hpcwire.com/off-the-wire/michela-taufer-delivers-keynote-at-53rd-international-conference-on-parallel-computing/">HPCwire Link</a>&nbsp;&nbsp;

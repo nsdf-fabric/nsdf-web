@@ -10,6 +10,24 @@ order: 0
 
 <ul class="post-list">
     <li>
+        <span class="post-meta">October 30 2024</span>
+        <h2><a class="post-link" href="nsdf-sc24" >NSDF Selects Largest-Ever Cohort of Fellows to Champion Data Democratization at SC24 and SIGHPC Annual Meeting</a></h2>
+        The National Science Data Fabric (NSDF) is proud to announce its selection of fifteen outstanding individuals for the 2024 NSDF Fellowship cohort"<br>
+        <a href="nsdf-sc24"> https://nationalsciencedatafabric.org/nsdf-sc24</a>&nbsp;&nbsp;
+    </li>
+</ul>
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">October 21 2024</span>
+        <h2><a class="post-link" href="https://www.rcac.purdue.edu/news/6852" >2024 RCAC Cyberinfrastructure Symposium </a></h2>
+        M. Taufer presented the keynote at the 2024 RCAC Cyberinfrastructure Symposium. The talk was titled "On the Need for Solutions to Address Scientists' Pain Points."<br>
+        <a href="https://www.rcac.purdue.edu/news/6852">https://www.rcac.purdue.edu/news/6852</a>&nbsp;&nbsp;
+    </li>
+</ul>
+
+<ul class="post-list">
+    <li>
         <span class="post-meta">October 21 2024</span>
         <h2><a class="post-link" href="https://www.rcac.purdue.edu/news/6852" >2024 RCAC Cyberinfrastructure Symposium </a></h2>
         M. Taufer presented the keynote at the 2024 RCAC Cyberinfrastructure Symposium. The talk was titled "On the Need for Solutions to Address Scientists' Pain Points."<br>

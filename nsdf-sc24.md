@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NSDF Selects Largest-Ever Cohort of Fellows to Champion Data Democratization at SC24 and SIGHPC Annual Meeting
+title: NSDF Selects the Largest-Ever Cohort of Fellows
 ---
 
 <br>
@@ -23,7 +23,7 @@ Valerio Pascucci, NSDF PI and Professor of Computer Science at the University of
 
 This year’s cohort marks a significant milestone for NSDF’s commitment to diversity and equity in data access. It prepares fellows to contribute actively to discussions on data democratization, HPC, and scientific discovery at SC24 and beyond. This year’s winners are:
 
-### Aashish Panta 
+## Aashish Panta 
 
 Aashish Panta  is a Ph.D. student at the University of Utah, Salt Lake City, and a graduate research assistant at the Scientific Imaging and Computing Institute. His research focuses on developing visualization tools for large-scale scientific data, with interests in cloud computing and machine learning: *“This incredible opportunity to attend SC24 through the NSDF fellowship means a lot to me. I’m really looking forward to learning from the experts, seeing the latest in supercomputing research, and bringing new ideas back to my research.”*
 

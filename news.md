@@ -6,6 +6,16 @@ ref: news
 order: 0
 ---
 
+# 2025
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">May 5 - 7, 2025</span>
+        <h2><a class="post-link" href="nsdf-ahm-2025-01" >NSDF All-Hands Meeting May 2025</a></h2>
+        Join the National Science Data Fabric Team on May 5-7 in San Diego, CA.
+    </li>
+</ul>
+
 # 2024
 
 <ul class="post-list">

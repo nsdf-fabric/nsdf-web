@@ -3,11 +3,11 @@ layout: page
 title: NSDF All Hands Meeting 2025
 ---
 
-# Fifth National Science Data Fabric (NSDF) All-Hands Meeting: “Broadening Engagement in Science” – San Diego, CA on May 5 - 7, 2025
+# Fifth National Science Data Fabric (NSDF) All-Hands Meeting: “Delivering the Data Fabric of the Future” – San Diego, CA on May 5 - 7, 2025
 
-The [National Science Data Fabric (NSDF)](https://nationalsciencedatafabric.org/) is an NSF-supported pilot that connects an open network of institutions, including minority-serving institutions, by constructing a continuous integration platform for equitable data use and data-driven sciences. 
+The National Science Data Fabric (NSDF) is an NSF-supported pilot that connects an open network of institutions, including regional institutions, by constructing a continuous integration platform for equitable data use and data-driven sciences.
 
-For the fifth NSDF All-Hands Meeting, we gather new and existing members of the NSDF community in San Diego, CA to address challenges of data democratization. This year's theme will be **“Broadening Engagement in Science,”** and we will meet from May 5-7, 2025.  
+For the fifth NSDF All-Hands Meeting, we gather new and existing members of the NSDF community in San Diego, CA to address challenges of data fabric. This year’s theme will be **“Delivering the Data Fabric of the Future”** and we will meet from May 5-7, 2025.
 
 <p align=center>
 <img src="assets/images/ahm2025.jpg" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> <br>

@@ -3,16 +3,66 @@ layout: page
 title: NSDF All Hands Meeting 2025
 ---
 
-# Fifth National Science Data Fabric (NSDF) All-Hands Meeting: “Delivering the Data Fabric of the Future” – San Diego, CA on May 5 - 7, 2025
+
+<center>
+<h1> Fifth National Science Data Fabric (NSDF) <br>All-Hands Meeting</h1>
+<h3>Maximizing Returns on Investment of the National Science Data Fabric: <br> Driving Practical Impact and Sustainable Innovation</h3>
+<h3>San Diego, CA on May 5 - 7, 2025</h3>
+</center>
+
+
+<!-- Swiper -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+<style>
+	.swiper-slide {
+		text-align: center;
+		justify-content: center;
+		align-items: center;
+		vertical-align: middle;
+	}
+</style>
+
+<center style="background-color: white;color:black;border-color: black;vertical-align: middle;">
+	<div class="swiper mySwiper" style="height:100%;vertical-align: middle;">
+		<br>
+
+		<div class="swiper-wrapper" style="vertical-align: middle;">
+			<div class="swiper-slide" style="vertical-align: middle;">
+        <p align=center>
+        <img src="assets/images/ahm2025.jpg" width="90%" style="filter: drop-shadow(5px 5px 5px #222);"> <br>
+        <i>Attendees to the Fourth National Science Data Fabric (NSDF) AHM (2004).</i>
+        </p>
+			</div>
+		</div>
+
+		<div class="swiper-button-next"></div>
+		<div class="swiper-button-prev"></div>
+		<div class="swiper-pagination"></div>
+	</div>
+	<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+	<script>
+		var swiper = new Swiper(".mySwiper", {
+			autoplay: {
+			delay: 4000,
+		},
+			pagination: {
+				el: ".swiper-pagination",
+				type: "progressbar",
+			},
+			navigation: {
+				nextEl: ".swiper-button-next",
+				prevEl: ".swiper-button-prev",
+			},
+		});
+	</script>
+</center>
+
 
 The National Science Data Fabric (NSDF) is an NSF-supported pilot that connects an open network of institutions, including regional institutions, by constructing a continuous integration platform for equitable data use and data-driven sciences.
 
 For the fifth NSDF All-Hands Meeting, we gather new and existing members of the NSDF community in San Diego, CA to address challenges of data fabric. This year’s theme will be **“Delivering the Data Fabric of the Future”** and we will meet from May 5-7, 2025.
 
-<p align=center>
-<img src="assets/images/ahm2025.jpg" width="100%" style="filter: drop-shadow(5px 5px 5px #222);"> <br>
-<i>Attendees to the Fourth National Science Data Fabric (NSDF) AHM (2004).</i>
-</p>
+
 
 # EXPRESSION OF INTEREST IN PARTICIPATING
 

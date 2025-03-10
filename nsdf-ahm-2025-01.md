@@ -60,20 +60,29 @@ title: NSDF All Hands Meeting 2025
 
 The National Science Data Fabric (NSDF) is an NSF-supported pilot that connects an open network of institutions, including regional institutions, by constructing a continuous integration platform for equitable data use and data-driven sciences.
 
-For the fifth NSDF All-Hands Meeting, we gather new and existing members of the NSDF community in San Diego, CA to address challenges of data fabric. This year’s theme will be **“Delivering the Data Fabric of the Future”** and we will meet from May 5-7, 2025.
+For the fifth NSDF All-Hands Meeting, we gather new and existing members of the NSDF community in San Diego, CA to address challenges of data fabric. This year’s theme will be **Maximizing Returns on Investment of the National Science Data Fabric: Driving Practical Impact and Sustainable Innovation.”** and we will meet from May 5-7, 2025.
 
 
 
 # EXPRESSION OF INTEREST IN PARTICIPATING
 
-The meeting is an invitation only event. Still, we are looking for new members. Are you new to NSDF or interested in joining us? We are currently gathering expressions of interest to participate. Please complete the form by **March 1, 2025**, to let us know if you would like to attend. 
+The meeting is an invitation only event. Still, we are looking for new members. Are you new to NSDF or interested in joining us? We are currently gathering expressions of interest to participate. Please complete the form by **April 1, 2025**, to let us know if you would like to attend. 
 
 Expressions of Interest Form: [https://forms.gle/idjUT269RGTQkfZF7](https://forms.gle/idjUT269RGTQkfZF7)
 
 
 # KEYNOTES
-Coming soon…
 
+
+We are thrilled to announce Katie Antypas, Director of NSF’s Office of Advanced Cyberinfrastructure, as the 2025 NSDF All Hands Meeting Keynote Speaker.
+
+<p align=center>
+<img src="assets/images/Katie_Antypas.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</p>
+
+**Title**: Coming soon
+
+**Abstract**: Coming Soon
 
 # PROGRAM 
 

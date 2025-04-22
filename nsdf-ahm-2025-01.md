@@ -94,7 +94,7 @@ Livny is the recipient of the 2006 ACM SIGMOD Test of Time Award the 2013 HPDC A
 
 # SCHEDULE
 
-ou can find the program [here](https://drive.google.com/file/d/1KtqjgQ3v_ZBjPE-zd2srYTtVxp5ATHHn/view?usp=sharing)
+You can find the program [here](/assets/ahm2025.pdf)
 
 # LOCATION
 

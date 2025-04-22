@@ -5,10 +5,15 @@ title: NSDF All Hands Meeting 2025
 
 
 <center>
-<h1> Fifth National Science Data Fabric (NSDF) <br>All-Hands Meeting</h1>
-<h3>Maximizing Returns on Investment of the National Science Data Fabric: <br> Driving Practical Impact and Sustainable Innovation</h3>
-<h3>San Diego, CA on May 5 - 7, 2025</h3>
+<h3> Fifth National Science Data Fabric (NSDF) <br>All-Hands Meeting“Broadening Engagement in Science” <br> San Diego, CA on May 5 - 7, 2025</h3>
 </center>
+
+
+
+
+The [National Science Data Fabric](https://nationalsciencedatafabric.org) (NSDF) is an NSF-supported pilot that connects an open network of institutions, including minority-serving institutions, by constructing a continuous integration platform for equitable data use and data-driven sciences. 
+
+For the fifth NSDF All-Hands Meeting, we gather new and existing members of the NSDF community in San Diego, CA to address challenges of data democratization. This year's theme will be **“Broadening Engagement in Science,”** and we will meet from May 5-7, 2025.  
 
 
 <!-- Swiper -->
@@ -57,38 +62,39 @@ title: NSDF All Hands Meeting 2025
 	</script>
 </center>
 
-
-The National Science Data Fabric (NSDF) is an NSF-supported pilot that connects an open network of institutions, including regional institutions, by constructing a continuous integration platform for equitable data use and data-driven sciences.
-
-For the fifth NSDF All-Hands Meeting, we gather new and existing members of the NSDF community in San Diego, CA to address challenges of data fabric. This year’s theme will be **Maximizing Returns on Investment of the National Science Data Fabric: Driving Practical Impact and Sustainable Innovation.”** and we will meet from May 5-7, 2025.
-
-
-
 # EXPRESSION OF INTEREST IN PARTICIPATING
 
-The meeting is an invitation only event. Still, we are looking for new members. Are you new to NSDF or interested in joining us? We are currently gathering expressions of interest to participate. Please complete the form by **April 1, 2025**, to let us know if you would like to attend. 
+The meeting is an invitation only event. Still, we are looking for new members. Are you new to NSDF or interested in joining us? We are currently gathering expressions of interest to participate. Please complete the form by March 1, 2025, to let us know if you would like to attend. 
 
-Expressions of Interest Form: [https://forms.gle/idjUT269RGTQkfZF7](https://forms.gle/idjUT269RGTQkfZF7)
-
+Expressions of Interest Form: [https://forms.gle/idjUT269RGTQkfZF7](https://forms.gle/idjUT269RGTQkfZF7).
 
 # KEYNOTES
 
+Keynote Speaker: **Miron Livy, director of the Center for High Throughput Computing (CHTC), the John P. Morgridge Professor of Computer Science and a Vilas Research Professor at the University of Wisconsin-Madison**
 
-We are thrilled to announce Katie Antypas, Director of NSF’s Office of Advanced Cyberinfrastructure, as the 2025 NSDF All Hands Meeting Keynote Speaker.
+Title: *Is Your Data Handling Trustworthy?*
 
 <p align=center>
-<img src="assets/images/Katie_Antypas.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+<img src="assets/images/miron.jpg" width="70%" style="filter: drop-shadow(5px 5px 5px #222);"> 
 </p>
 
-**Title**: Coming soon
+<h3>Abstract</h3>
 
-**Abstract**: Coming Soon
+Coming soon.
 
-# PROGRAM 
+<h3>Bio</h3>
 
-The meeting begins at noon on Monday, May 5, with lunch and continues until Wednesday, May 7, after lunch (1:00 pm). 
 
-The full program will be posted soon…
+Miron Livny received a B.Sc. degree in Physics and Mathematics in 1975 from the Hebrew University and M.Sc. and Ph.D. degrees in Computer Science from the Weizmann Institute of Science in 1978 and 1984, respectively. Since 1983 he has been on the Computer Sciences Department faculty at the University of Wisconsin-Madison, where he is currently the John P. Morgridge Professor of Computer Science and a Vilas Research Professor. He serves as the director of the Center for High Throughput Computing (CHTC), is leading the HTCondor Software Suite effort and serves as the technical director of the OSG. He is a member of the scientific leadership team of the Morgridge Institute of Research where he leads the Research Computing theme.
+
+Dr. Livny's research focuses on distributed processing and object management systems and involves close collaboration with researchers from a wide spectrum of disciplines. He pioneered the area of High Throughput Computing (HTC) and developed frameworks and software tools that have been widely adopted by academic, government and commercial organizations around the world. 
+
+Livny is the recipient of the 2006 ACM SIGMOD Test of Time Award the 2013 HPDC Achievement Award the 2020 IEEE TCDP Outstanding Technical Achievement Award, 2020 IEEE TCDP High Impact Paper Award and the 2023 UW-Madison Vilas Research Professor award. 
+
+
+# SCHEDULE
+
+ou can find the program [here](https://drive.google.com/file/d/1KtqjgQ3v_ZBjPE-zd2srYTtVxp5ATHHn/view?usp=sharing)
 
 # LOCATION
 
@@ -97,7 +103,6 @@ San Diego Supercomputer Center<br>
 9836 Hopkins Dr, La Jolla, CA 92037<br>
 
 # HOTELS
-
 
 The meeting hotels include:
 

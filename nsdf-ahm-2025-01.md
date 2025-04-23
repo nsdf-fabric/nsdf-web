@@ -68,7 +68,7 @@ The meeting is an invitation only event. Still, we are looking for new members. 
 
 Expressions of Interest Form: [https://forms.gle/idjUT269RGTQkfZF7](https://forms.gle/idjUT269RGTQkfZF7).
 
-# KEYNOTES
+# KEYNOTE
 
 Keynote Speaker: **Miron Livy, director of the Center for High Throughput Computing (CHTC), the John P. Morgridge Professor of Computer Science and a Vilas Research Professor at the University of Wisconsin-Madison**
 
@@ -91,10 +91,32 @@ Dr. Livny's research focuses on distributed processing and object management sys
 
 Livny is the recipient of the 2006 ACM SIGMOD Test of Time Award the 2013 HPDC Achievement Award the 2020 IEEE TCDP Outstanding Technical Achievement Award, 2020 IEEE TCDP High Impact Paper Award and the 2023 UW-Madison Vilas Research Professor award. 
 
+# KEYNOTE
+
+Keynote Speaker: **Ryan Coffee**
+
+Title: *Information Ecosystems from Sensor to NSDF*
+
+<p align=center>
+<img src="assets/images/ryan.jpg" width="70%" style="filter: drop-shadow(5px 5px 5px #222);"> 
+</p>
+
+
+<h3>Abstract</h3>
+Coming soon…
+
+<h3>Bio</h3>
+
+Ryan earned his Bachelor of Arts in Philosophy and Bachelor of Science in Physics from the University of Arkansas followed by a PhD in Atomic, Molecular and Optical (AMO) Physics from the University of Connecticut. He joined the PULSE Institute at Stanford/SLAC in 2006 and led the first laser pumped, x-ray probed experiment at the Linac Coherent Light Source (LCLS) in 2009. Since then, he has become Senior Research Scientist in PULSE and LCLS with an emphasis on AMO science and novel instrumentation and the requisite computational methods for streaming data processing at the sensor edge, in particular targeting the million frames per second LCLS-II.
+
+In that context he has been a core member of the SLAC AI Initiative since its inception with particular emphasis on Machine Learning for real-time information extraction. With projects ranging from x-ray spectroscopy in molecules, ultrafast materials response, radiographic medical imaging, and tokamak plasma fusion, he has become an adamant proponent of data and model marketplaces for cross-domain innovation sharing with built in provenance and value tracking for an intelligent adaptive data and model retention.
+
+Beyond SLAC, Ryan is driving an integrative approach to instrumentation and co-design of computing infrastructure across the portfolio of Department of Energy labs and facilities as well as technologies across the computing industry. From diagnostic and detector development to algorithms and AI accelerators, from the sensor Edge to Leadership Computing Facilities, he is leveraging his hobbies and his passions to drive the bleeding edge of basic science to address the emerging challenges of automation in industry and agriculture for a better future for his daughters.
+
 
 # SCHEDULE
 
-You can find the program [here](/assets/ahm2025.pdf)
+You can find the program [here](https://drive.google.com/file/d/1tLASQO6WUcg_7sovWnc0WrCsgYiS4q3S/view)
 
 # LOCATION
 

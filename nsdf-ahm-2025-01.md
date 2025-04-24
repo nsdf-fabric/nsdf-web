@@ -5,7 +5,8 @@ title: NSDF All Hands Meeting 2025
 
 
 <center>
-<h3> Fifth National Science Data Fabric (NSDF) <br>All-Hands Meeting“Broadening Engagement in Science” <br> San Diego, CA on May 5 - 7, 2025</h3>
+<h3> Fifth National Science Data Fabric (NSDF) <br>All-Hands Meeting “Maximizing Returns on Investment of the National Science Data Fabric:
+ Driving Practical Impact and Sustainable Innovation” <br> San Diego, CA on May 5 - 7, 2025</h3>
 </center>
 
 

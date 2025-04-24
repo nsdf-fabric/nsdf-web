@@ -14,7 +14,7 @@ title: NSDF All Hands Meeting 2025
 
 The [National Science Data Fabric](https://nationalsciencedatafabric.org) (NSDF) is an NSF-supported pilot that connects an open network of institutions, including minority-serving institutions, by constructing a continuous integration platform for equitable data use and data-driven sciences. 
 
-For the fifth NSDF All-Hands Meeting, we gather new and existing members of the NSDF community in San Diego, CA to address challenges of data democratization. This year's theme will be **“Broadening Engagement in Science,”** and we will meet from May 5-7, 2025.  
+For the fifth NSDF All-Hands Meeting, we gather new and existing members of the NSDF community in San Diego, CA to address challenges of data democratization. This year's theme will be **“Maximizing Returns on Investment of the National Science Data Fabric: Driving Practical Impact and Sustainable Innovation”** and we will meet from May 5-7, 2025.  
 
 
 <!-- Swiper -->
@@ -63,11 +63,6 @@ For the fifth NSDF All-Hands Meeting, we gather new and existing members of the 
 	</script>
 </center>
 
-# EXPRESSION OF INTEREST IN PARTICIPATING
-
-The meeting is an invitation only event. Still, we are looking for new members. Are you new to NSDF or interested in joining us? We are currently gathering expressions of interest to participate. Please complete the form by March 1, 2025, to let us know if you would like to attend. 
-
-Expressions of Interest Form: [https://forms.gle/idjUT269RGTQkfZF7](https://forms.gle/idjUT269RGTQkfZF7).
 
 # KEYNOTE
 
@@ -185,8 +180,17 @@ Helpful link for taxi service in San Diego:
 
 [Public Transportation surrounding UC San Diego](https://transportation.ucsd.edu/alternatives/transit/)
 
+# EXPRESSION OF INTEREST IN PARTICIPATING
+
+The meeting is an invitation only event. Still, we are looking for new members. Are you new to NSDF or interested in joining us? We are currently gathering expressions of interest to participate. Please complete the form by March 1, 2025, to let us know if you would like to attend.
+
+Expressions of Interest Form: [https://forms.gle/idjUT269RGTQkfZF7](https://forms.gle/idjUT269RGTQkfZF7).
+
 # QUESTIONS
 
 If you have any questions, please email Michael Sutherlin at[msuther5@utk.edu](msuther5@utk.edu).
+
+
+
 
 <br><br>

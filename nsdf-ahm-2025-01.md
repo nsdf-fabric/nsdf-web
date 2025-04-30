@@ -68,7 +68,7 @@ For the fifth NSDF All-Hands Meeting, we gather new and existing members of the 
 
 Keynote Speaker: **Miron Livy, director of the Center for High Throughput Computing (CHTC), the John P. Morgridge Professor of Computer Science and a Vilas Research Professor at the University of Wisconsin-Madison**
 
-Title: *Is Your Data Handling Trustworthy?*
+Title: *Is your Data Handler Trustworthy?*
 
 <p align=center>
 <img src="assets/images/miron.jpg" width="70%" style="filter: drop-shadow(5px 5px 5px #222);"> 
@@ -76,7 +76,28 @@ Title: *Is Your Data Handling Trustworthy?*
 
 <h3>Abstract</h3>
 
-Coming soon.
+The PATh project offers a variety of distributed data handling services. Researchers
+who place their workloads at PATh Access Points leverage these services to bring input
+data to their applications and to ship results back to archival sites. They also employ
+them to copy the applications, in most cases in the form of container images, to
+execution sites provided by the Open Science Pool (OSPool). Owners of Object Stores
+who federate datasets they host via the Open Science Data Federation (OSDF) use
+these services to make locally stored objects available to remote consumers for
+frequent reuse.
+
+In the past 12 months PATh services have performed more than 3B Object transfers
+across more than 100 institutions. The distributed nature of the infrastructure requires
+objects to be copied across institution boundaries and to be buffered in memory or disk
+at multiple locations. These operations clearly introduce concerns about data integrity
+and access control. Do the researchers and Object providers who use these services
+believe that the PATh services are trustworthy?
+
+The talk will review our ongoing effort to develop data handling services that we believe
+to be trustworthy. A key element of our current development work is transitioning our
+software tools and infrastructure into capability-based authorization. We hope that
+facilitating trust relationships through capabilities will help researchers and data
+providers to entrust their objects with the PATh services. Namely, to believe that the
+OSDF and the OSPool data handling services are trustworthy.
 
 <h3>Bio</h3>
 

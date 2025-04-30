@@ -66,7 +66,7 @@ For the fifth NSDF All-Hands Meeting, we gather new and existing members of the 
 
 # KEYNOTE
 
-Keynote Speaker: **Miron Livy, director of the Center for High Throughput Computing (CHTC), the John P. Morgridge Professor of Computer Science and a Vilas Research Professor at the University of Wisconsin-Madison**
+Keynote Speaker: **Miron Livny, director of the Center for High Throughput Computing (CHTC), the John P. Morgridge Professor of Computer Science and a Vilas Research Professor at the University of Wisconsin-Madison**
 
 Title: *Is your Data Handler Trustworthy?*
 
@@ -133,7 +133,7 @@ Beyond SLAC, Ryan is driving an integrative approach to instrumentation and co-d
 
 # SCHEDULE
 
-You can find the program [here](https://drive.google.com/file/d/1mYAurej6UtI_KlBjl6C13qXH_1tqkGTM)
+You can find the program [here](https://drive.google.com/file/d/1IfDeu96tGqtsf6faqcRLlhZK2lvO-f07/view?usp=sharing)
 
 # LOCATION
 

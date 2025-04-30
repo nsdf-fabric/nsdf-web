@@ -91,7 +91,7 @@ Livny is the recipient of the 2006 ACM SIGMOD Test of Time Award the 2013 HPDC A
 
 Keynote Speaker: **Ryan Coffee**
 
-Title: *Information Ecosystems from Sensor to NSDF*
+Title: *Breaking the fourth wall: experimental introspection via audience participation.*
 
 <p align=center>
 <img src="assets/images/ryan.jpg" width="70%" style="filter: drop-shadow(5px 5px 5px #222);"> 
@@ -99,7 +99,7 @@ Title: *Information Ecosystems from Sensor to NSDF*
 
 
 <h3>Abstract</h3>
-Coming soon…
+Science is undergoing a transformation; it is moving away from slow iteration of test, observe, report, and repeat. Given the rate of experimental phase space search that is becoming prevalent in today's scientific detector systems, real-time adaptation is finding its way into accelerator controls and detector autonomy.  This development raises an interesting question regarding the role of human intellect in real-time decision making for experimental campaigns of the not-so-distant future. As we survey a couple of current examples for some of the emerging and envisioned methods of stream processing along the stages of data acquisition, we will reveal some benefits and some dangers of incorporating domain specific analysis for autonomous information extraction. By envisioning some of the enabling technologies, we hope to reveal where magic should be avoided and mechanics adopted. We hope to use such technologies to break the fourth wall of observation, allowing scientists to become live participants in the exponential acceleration of our endeavor to innovate; live participation may even help us avoid the Theatre of the Absurd.
 
 <h3>Bio</h3>
 

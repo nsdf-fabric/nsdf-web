@@ -133,7 +133,7 @@ Beyond SLAC, Ryan is driving an integrative approach to instrumentation and co-d
 
 # SCHEDULE
 
-You can find the program [here](https://drive.google.com/file/d/1IfDeu96tGqtsf6faqcRLlhZK2lvO-f07/view?usp=sharing)
+You can find the program [here](https://drive.google.com/file/d/1LIZWbYAuP-mfBY9BpqhJuoaBfAmgmwdz/view?usp=drive_link)
 
 # LOCATION
 

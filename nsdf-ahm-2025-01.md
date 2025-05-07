@@ -35,8 +35,8 @@ For the fifth NSDF All-Hands Meeting, we gather new and existing members of the 
 		<div class="swiper-wrapper" style="vertical-align: middle;">
 			<div class="swiper-slide" style="vertical-align: middle;">
         <p align=center>
-        <img src="assets/images/ahm2025.jpg" width="90%" style="filter: drop-shadow(5px 5px 5px #222);"> <br>
-        <i>Attendees to the Fourth National Science Data Fabric (NSDF) AHM (2004).</i>
+        <img src="assets/images/ahm25.jpg" width="90%" style="filter: drop-shadow(5px 5px 5px #222);"> <br>
+        <i>Attendees to the Fifth National Science Data Fabric (NSDF) AHM (2025).</i>
         </p>
 			</div>
 		</div>

@@ -131,6 +131,96 @@ In that context he has been a core member of the SLAC AI Initiative since its in
 Beyond SLAC, Ryan is driving an integrative approach to instrumentation and co-design of computing infrastructure across the portfolio of Department of Energy labs and facilities as well as technologies across the computing industry. From diagnostic and detector development to algorithms and AI accelerators, from the sensor Edge to Leadership Computing Facilities, he is leveraging his hobbies and his passions to drive the bleeding edge of basic science to address the emerging challenges of automation in industry and agriculture for a better future for his daughters.
 
 
+# Monday, May 5	
+
+| Affiliation	|  Members and Titles	|  Presentation |  
+|-------------|---------------------|---------------|
+| UTK	|  Michela Taufer <br>**National Science Data Fabric** <br>DOI: [10.5281/zenodo.15482302](https://doi.org/10.5281/zenodo.15482302)	| <a href="https://drive.google.com/file/d/1AyEaMcaqhKStu4iTDRw4OfmSB5IxHtC_/view?usp=drive_link"><img width="300" src="/assets/images/ahm25_michela.jpg"></a> | 
+		
+<br>
+
+| Affiliation	|  Members and Titles	|  Presentation |  
+|-------------|---------------------|---------------|
+|UTK | Jack Marquez and Kin Hong <br> **Recent Advancements with NSDF Use Cases: Collaborations with Oak Ridge National Laboratory** <br> DOI: [10.5281/zenodo.15529300](https://doi.org/10.5281/zenodo.15529300) |	<a href="https://drive.google.com/file/d/115bILAokIMeatS4Du6_OtAOcFdQyt9t6/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_jack.jpg"></a> | 
+|Utah	| Aashish Panta <br> **Recent Advancements with NSDF Use Cases: Collaborations with NASA and CHESS** <br> DOI: [10.5281/zenodo.15529313](https://doi.org/10.5281/zenodo.15529313) | <a href="https://drive.google.com/file/d/1v03EuKI1hM7DS_Ys8dZdSWNFmIELTZds/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_nasa.jpg"></a> | 
+
+<br>
+
+## Session Chair: Michela Taufer		
+
+| Affiliation	|  Members and Titles	|  Presentation |  
+|-------------|---------------------|---------------|
+| ANL	 | Kyle Chard <br>**Transforming Scientific Discovery with AI/ML and Globus** <br> DOI: [10.5281/zenodo.15445705](https://doi.org/10.5281/zenodo.15445705) | <a href="https://drive.google.com/file/d/19WaySlpjI191nvb_NmLKiqU2rkxxSBrg/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_kyle.jpg"></a> | 
+| UCSD	 | Fabio Andrijauskas<br>**Open Data Science Data Federation and Pelican Platform** <br> DOI: [10.5281/zenodo.15445431](https://doi.org/10.5281/zenodo.15445431) | <a href="https://drive.google.com/file/d/1rjNwjcp17-DC9mwdINTgqz46reSiaaF7/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_fabio.jpg"></a> | 
+| ORNL	 | Patrick Widener<br>**DataFed: Data Navigation and Management for Virtual Research Environments** <br>DOI: [10.5281/zenodo.15445652](https://doi.org/10.5281/zenodo.15445652) | <a href="https://drive.google.com/file/d/1aqw9IS9Yg9Q29flrCx6IDYMvw_dmxdEK/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_patrick.jpg"></a> | 
+| LBNL |  Wei Zhang<br> **Advancing Scientific Data Discovery and Management: From Human to AI-Centric Data Cognition** <br>DOI: [10.5281/zenodo.15445630](https://doi.org/10.5281/zenodo.15445630) | <a href="https://drive.google.com/file/d/1zVvfJ1BqOoEDE3Xl80C8FeN03YQOa2Fk/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_wei.jpg"></a> | 
+
+<br>
+
+# Tuesday, May 6	
+
+| Affiliation	|  Members and Titles	|  Presentation |  
+|-------------|---------------------|---------------|
+|U of Wisconsin Madison	| Miron Livny <br> **Is Your Data Handler Trustworthy?** <br> DOI: [10.5281/zenodo.15444476](https://doi.org/10.5281/zenodo.15444476)| <a href="https://drive.google.com/file/d/1UW_-JVmZq6HrMV39kYZCbCqGuRRjpGzN/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_miron.jpg"></a> | 
+
+<br>
+
+## Session Chair: Christine Kirkpatrick		
+
+| Affiliation	|  Members and Titles	|  Presentation |  
+|-------------|---------------------|---------------|
+| NCAR	| Thomas Hauser <br> **An Integrated Research Data Commons and On-Premise Cloud Infrastructure for Earth Science at NSF NCAR** <br> DOI: [10.5281/zenodo.15443976](https://doi.org/10.5281/zenodo.15443976) | <a href="https://drive.google.com/file/d/1BvR7VxIWA4GeH_bfEMgYdr2lsEyxm8j4/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_thomas.jpg"></a> | 
+| NSF & NERSC	| Katie Antypas <br> **OAC Data Investments and the NAIRR Pilot** <br>DOI: [10.5281/zenodo.15443403](https://doi.org/10.5281/zenodo.15443403) | <a href="https://drive.google.com/file/d/157ZbJrJ-9hDFwGuMiOzwYy_jyI7EiE1o/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_katie.jpg"></a> | 
+| ARPA-H	| Ileana Hancu <br> **INDEX: ImagiNg Data EXchange** <br>DOI: [10.5281/zenodo.15444145](https://doi.org/10.5281/zenodo.15444145)| <a href="https://drive.google.com/file/d/1OoLaNvtah9xEFw57i7en0JU63L_O59au/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_ileana.jpg"></a> | 
+
+## Posters		
+
+| Affiliation	|  Members and Titles	|  Presentation |  
+|-------------|---------------------|---------------|
+| UTK	| Michael Sutherlin <br>**Bridging Humanities and AI through Interdisciplinary Collaboration** <br>DOI: [10.5281/zenodo.15427235](https://doi.org/10.5281/zenodo.15427235 )| <a href="https://drive.google.com/file/d/1UhRdzkvMw2Rl3ZwHro_rPAltCXcdGrVa/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_michael.jpg"></a> | 
+| Dillard	| Dennis Sigur <br>**Understanding the Characteristics of African American Ph.D. Earners Using UMETRICS Data**  <br>DOI: [10.5281/zenodo.15443051](https://doi.org/10.5281/zenodo.15443051) | <a href="https://drive.google.com/file/d/1U2NCb063srEoRGMUBj-kSk-GpTRIKgqa/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_dennis.jpg"></a> | 
+| U of Vanderbilt	| Zhimin Li  <br>**Training Implicit Neural Representations Via Classification Loss for Scientific Data Compression**  <br>DOI: [10.5281/zenodo.15443076](https://doi.org/10.5281/zenodo.15443076)| <a href="https://drive.google.com/file/d/189nUEPuqiOiqOrRTJaD-mLd3-M94Rb2c/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_zhimin.jpg"></a> | 
+| UTK	| Jack Marquez  <br>**NSDF Public Outreach**  <br>DOI: [10.5281/zenodo.15428210](https://doi.org/10.5281/zenodo.15428210)	| <a href="https://drive.google.com/file/d/1vtRHpe-AwVT5lRhziO6NSe8qeh30oXjo/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_jack2.jpg"></a> | 
+| UTK	| Kin Hong NG  <br>**Enabling Real-Time Insight: Building a Multi-Service System for Monitoring Autonomous Experiments**  <br>DOI: [10.5281/zenodo.15442847](https://doi.org/10.5281/zenodo.15442847)	| <a href="https://drive.google.com/file/d/1X-MYt_I6JrU7wYxcl5jr1CwNid0k1CCZ/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_kin.jpg"></a> | 
+|  Utah State U	| Steve Petruzza  <br>**Insights on the State of Scientific Data Management: Interviews with Scientists by the National Science Data Fabric (NSDF)**  <br>DOI: [10.5281/zenodo.15442996](https://doi.org/10.5281/zenodo.15442996) | <a href="https://drive.google.com/file/d/1VDVxGt5FAhNFzMpA-i4kyKa-egClriX3/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_steve.jpg"></a> | 
+| ORNL | Marshall McDonnell  <br>**Securely Connecting Multi-Institute Smart Labs and DOE User Facilities Using INTERSECT**  <br>DOI: [10.5281/zenodo.15428238](https://doi.org/10.5281/zenodo.15428238)	| <a href="https://drive.google.com/file/d/1MMr3fKuIQMKrk1_jt8IFhVE2DUYIliOM/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_marshall.jpg"></a> | 
+| UCSD | Christine Kirkpatrick  <br>**Enhancing FAIR Data Assessment with Ontologies, Knowledge Graphs, and Large Language Models**  | | 
+| Utah	| Ishrat Jahan Eliza  <br> **Animating Petascale Time-Varying Data on Commodity Hardware via AI assisted scripting**  <br>DOI: [10.5281/zenodo.15428126](https://doi.org/10.5281/zenodo.15428126) | <a href="https://drive.google.com/file/d/1Ostl4VrobGOzwqvNNw8W_wN1EfYoSK-E/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_ishrat.jpg"></a> | 
+| Utah | Arleth Salinas  <br>**Recent Advancements with NSDF Use Cases: Collaborations with WIRED**  <br>DOI: [10.5281/zenodo.15427997](https://doi.org/10.5281/zenodo.15427997) | <a href="https://drive.google.com/file/d/1LV8oyh9j74XnK5HPAFl_UOFapTomf5mV/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_arleth.jpg"></a> | 
+
+## Session Chair: Steve Petruzza		
+
+| Affiliation	|  Members and Titles	|  Presentation |   
+|-------------|---------------------|---------------|
+| ORNL	| Marshall Mcdonnell <br> **Neutron Powder Diffraction Experiment Steering in collaboration with NSDF** <br>DOI: [10.5281/zenodo.15482251](https://doi.org/10.5281/zenodo.15482251) | <a href="https://drive.google.com/file/d/18f6vUGXEMbmke7uZRbnVn-ufA6v7MT3U/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_marshall2.jpg"></a> | 
+| U of Colorado, Denver	| Amy Roberts <br>**Critical Advances in Dark Matter Physics through Machine-Learning-Ready Data** <br>DOI: [10.5281/zenodo.15446251](https://doi.org/10.5281/zenodo.15446251)	| <a href="https://drive.google.com/file/d/1-tdIvP4AiiRBVO4KX1emNXLdQxET8LCD/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_amyroberts.jpg"></a> | 
+| CHESS	| Kate Schanks <br>**Leveraging NSDF Tools for Visualization of Large Data Sets at CHESS** <br>DOI: [10.5281/zenodo.15446269](https://doi.org/10.5281/zenodo.15446269)	| <a href="https://drive.google.com/file/d/1ixrV9LtwCfyx9DzrXsuRW1NmZTbla8RX/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_kate.jpg"></a> | 
+
+## Session Chair: Amy Gooch		
+
+
+| Affiliation	|  Members and Titles	|  Presentation |   
+|-------------|---------------------|---------------|
+| John Hopkins | Alexander Szalay <br>**From Sensors to Tensors** <br>DOI:[10.5281/zenodo.15446549](https://doi.org/10.5281/zenodo.15446549) | <a href="https://drive.google.com/file/d/13w1P2T1E7aLRRQmhs-1gDctwn8E1exaE/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_alex.jpg"></a> | 
+| ORNL | Sean Wilkinson <br>**Applying the FAIR Principles to Computational Workflows** <br>DOI: [10.5281/zenodo.15446556](https://doi.org/10.5281/zenodo.15446556)	| <a href="https://drive.google.com/file/d/1P3RBwo1v3AhMCMGXtkMnl_LcCrUdxBqE/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_sean.jpg"></a> | 
+| HDF Group	| Scott Breitenfeld <br>**Bridging the Gap: Scalable Data Management for Scientific Workflows and IOwarp and HSDS**<br> DOI: [10.5281/zenodo.15446538](https://doi.org/10.5281/zenodo.15446538)	| <a href="https://drive.google.com/file/d/1yeSX4eXFCUh7A88yUm18cVao8TOjt6Ly/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_scott.jpg"></a> | 
+| UCSD | Christine Kirkpatrick <br>**FAIR for Infrastructure** <br>DOI: [10.5281/zenodo.15446564](https://doi.org/10.5281/zenodo.15446564)	| <a href="https://drive.google.com/file/d/1doh3xfhREo6u0TM4KjZVnfw2j0LNX_oX/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_christine.jpg"></a> | 
+
+#  Wednesday, May 7	
+
+| Affiliation	|  Members and Titles	|  Presentation |   
+|-------------|---------------------|---------------|
+| SLAC | Ryan <br>**Breaking the Fourth Wall: Experimental Introspection Via Audience Participation** <br>DOI: [10.5281/zenodo.15444594](https://doi.org/10.5281/zenodo.15444594)| <a href="https://drive.google.com/file/d/1qcQmtLE_PqAYIWasMXDUiXStvY9njf_g/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_ryan.jpg"></a> | 
+
+## Session Chair: Michael Sutherlin		
+
+| Affiliation	|  Members and Titles	|  Presentation |   
+|-------------|---------------------|---------------|
+| Utah State Univ. |	Steve Petruzza <br>**Enabling Fast and Accurate Crowdsourced Annotation for Elevation-Aware Flood Extent Mapping** <br>DOI: [10.5281/zenodo.15446586](https://doi.org/10.5281/zenodo.15446586) | <a href="https://drive.google.com/file/d/1q3LtURFwFo_b3cf7vZYyqzYqruGDxPij/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_steve2.jpg"></a> | 
+| Utah	| Amy Gooch <br>**Enabling Storage, Sharing and Archiving of Petascale Data** <br>DOI: [10.5281/zenodo.15446598](https://doi.org/10.5281/zenodo.15446598) | <a href="https://drive.google.com/file/d/1okikRsBbk8Kh6JIT9PthVgoCcii62gET/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_amygooch.jpg"></a> | 
+| Sandia | Jay Lofstead <br>**Mentoring through Imposter Syndrome** <br>DOI: [10.5281/zenodo.15446604](https://doi.org/10.5281/zenodo.15446604) | <a href="https://drive.google.com/file/d/1oVJtx-VuOIJ2fEA65m9FuP8X8HK5-fgp/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_jay.jpg"></a> | 
+| UCSD	| Ilkay Altintas <br>**Opportunities to Collaborate with the National Data Platform** <br>DOI: [10.5281/zenodo.15446578](https://doi.org/10.5281/zenodo.15446578)	| <a href="https://drive.google.com/file/d/1awjqTTI5Kbs2rIce0DvEVb5LAf9i9XBn/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_ilkay.jpg"></a> | 
+
 # SCHEDULE
 
 You can find the program [here](https://drive.google.com/file/d/1LIZWbYAuP-mfBY9BpqhJuoaBfAmgmwdz/view?usp=drive_link)

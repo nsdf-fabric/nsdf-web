@@ -141,7 +141,7 @@ Beyond SLAC, Ryan is driving an integrative approach to instrumentation and co-d
 
 | Affiliation	|  Members and Titles	|  Presentation |  
 |-------------|---------------------|---------------|
-|UTK | Jack Marquez and Kin Hong <br> **Recent Advancements with NSDF Use Cases: Collaborations with Oak Ridge National Laboratory** <br> DOI: [10.5281/zenodo.15529300](https://doi.org/10.5281/zenodo.15529300) |	<a href="https://drive.google.com/file/d/115bILAokIMeatS4Du6_OtAOcFdQyt9t6/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_jack.jpg"></a> | 
+|UTK | Jack Marquez and Kin Hong NG<br> **Recent Advancements with NSDF Use Cases: Collaborations with Oak Ridge National Laboratory** <br> DOI: [10.5281/zenodo.15529300](https://doi.org/10.5281/zenodo.15529300) |	<a href="https://drive.google.com/file/d/115bILAokIMeatS4Du6_OtAOcFdQyt9t6/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_jack.jpg"></a> | 
 |Utah	| Aashish Panta <br> **Recent Advancements with NSDF Use Cases: Collaborations with NASA and CHESS** <br> DOI: [10.5281/zenodo.15529313](https://doi.org/10.5281/zenodo.15529313) | <a href="https://drive.google.com/file/d/1v03EuKI1hM7DS_Ys8dZdSWNFmIELTZds/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_nasa.jpg"></a> | 
 
 <br>
@@ -192,9 +192,9 @@ Beyond SLAC, Ryan is driving an integrative approach to instrumentation and co-d
 
 | Affiliation	|  Members and Titles	|  Presentation |   
 |-------------|---------------------|---------------|
-| ORNL	| Marshall Mcdonnell <br> **Neutron Powder Diffraction Experiment Steering in collaboration with NSDF** <br>DOI: [10.5281/zenodo.15482251](https://doi.org/10.5281/zenodo.15482251) | <a href="https://drive.google.com/file/d/18f6vUGXEMbmke7uZRbnVn-ufA6v7MT3U/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_marshall2.jpg"></a> | 
+| ORNL	| Marshall McDonnell <br> **Neutron Powder Diffraction Experiment Steering in collaboration with NSDF** <br>DOI: [10.5281/zenodo.15482251](https://doi.org/10.5281/zenodo.15482251) | <a href="https://drive.google.com/file/d/18f6vUGXEMbmke7uZRbnVn-ufA6v7MT3U/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_marshall2.jpg"></a> | 
 | U of Colorado, Denver	| Amy Roberts <br>**Critical Advances in Dark Matter Physics through Machine-Learning-Ready Data** <br>DOI: [10.5281/zenodo.15446251](https://doi.org/10.5281/zenodo.15446251)	| <a href="https://drive.google.com/file/d/1-tdIvP4AiiRBVO4KX1emNXLdQxET8LCD/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_amyroberts.jpg"></a> | 
-| CHESS	| Kate Schanks <br>**Leveraging NSDF Tools for Visualization of Large Data Sets at CHESS** <br>DOI: [10.5281/zenodo.15446269](https://doi.org/10.5281/zenodo.15446269)	| <a href="https://drive.google.com/file/d/1ixrV9LtwCfyx9DzrXsuRW1NmZTbla8RX/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_kate.jpg"></a> | 
+| CHESS	| Kate Shanks <br>**Leveraging NSDF Tools for Visualization of Large Data Sets at CHESS** <br>DOI: [10.5281/zenodo.15446269](https://doi.org/10.5281/zenodo.15446269)	| <a href="https://drive.google.com/file/d/1ixrV9LtwCfyx9DzrXsuRW1NmZTbla8RX/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_kate.jpg"></a> | 
 
 ## Session Chair: Amy Gooch		
 
@@ -210,7 +210,7 @@ Beyond SLAC, Ryan is driving an integrative approach to instrumentation and co-d
 
 | Affiliation	|  Members and Titles	|  Presentation |   
 |-------------|---------------------|---------------|
-| SLAC | Ryan <br>**Breaking the Fourth Wall: Experimental Introspection Via Audience Participation** <br>DOI: [10.5281/zenodo.15444594](https://doi.org/10.5281/zenodo.15444594)| <a href="https://drive.google.com/file/d/1qcQmtLE_PqAYIWasMXDUiXStvY9njf_g/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_ryan.jpg"></a> | 
+| SLAC | Ryan Coffee <br>**Breaking the Fourth Wall: Experimental Introspection Via Audience Participation** <br>DOI: [10.5281/zenodo.15444594](https://doi.org/10.5281/zenodo.15444594)| <a href="https://drive.google.com/file/d/1qcQmtLE_PqAYIWasMXDUiXStvY9njf_g/view?usp=drive_link"><img width=300 src="/assets/images/ahm25_ryan.jpg"></a> | 
 
 ## Session Chair: Michael Sutherlin		
 

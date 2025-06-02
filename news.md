@@ -12,7 +12,7 @@ order: 0
     <li>
         <span class="post-meta">June 2025</span>
         <h2><a class="post-link" href="https://www.ipdps.org/ipdps2025/2025-tutorials.html" >Tutorial at IPDPS 2025 in Milan, Italy</a></h2>
-        The National Science Data Fabric (NSDF) will be featured at IPDPS 2025 through a tutorial titled <b>Strategies for Large-Scale Data Analysis with the National Science Data Fabric (NSDF).</b> This tutorial will be held on Tuesday, June 3 and Wednesday, June 4, during the afternoon sessions. <br>
+        The National Science Data Fabric (NSDF) will be featured at IPDPS 2025 through a tutorial titled <b>Strategies for Large-Scale Data Analysis with the National Science Data Fabric (NSDF).</b> This tutorial will be held on <b>Tuesday, June 3 and Wednesday, June 4</b>, during the afternoon sessions. <br>
         The tutorial is designed to be hands-on and will be repeated on both days to accommodate more participants.<br>
         This session will introduce attendees to the NSDF architecture and demonstrate how it supports scalable, FAIR, and AI-ready workflows across diverse scientific domains. The tutorial will cover key NSDF components and showcase real-world use cases from HPC systems, experimental facilities, and cloud-based infrastructures.<br>
         Speakers:

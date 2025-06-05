@@ -11,6 +11,15 @@ order: 0
 <ul class="post-list">
     <li>
         <span class="post-meta">June 2025</span>
+        <h2><a class="post-link" href="nsdf-intersect" >NSDF and INTERSECT@ORNL Showcase Breakthrough in AI-Guided Autonomous Experiments </a></h2>
+        Commissioning On-the-Fly Science: Runtime Steering and AI Integration Pinpoint Spin Flop Transitions in α-Fe₂O₃
+    </li>
+</ul>
+
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">June 2025</span>
         <h2><a class="post-link" href="nsdf-ipdps25" >Tutorial at IPDPS 2025 in Milan, Italy</a></h2>
         The National Science Data Fabric will be featured at IPDPS 2025 on Tuesday, June 3 and Wednesday, June 4, during the afternoon sessions.
     </li>

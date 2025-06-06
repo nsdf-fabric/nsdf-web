@@ -7,12 +7,16 @@ title: NSDF News
 <img src="assets/images/nsdf-intersect.jpg" width="100%">
 </p>
 
-# NSDF and INTERSECT Showcase Breakthrough in AI-Guided Autonomous Experiments 
+# NSDF and INTERSECT Showcase Breakthrough in AI-Guided Autonomous Experiments
 ## Commissioning On-the-Fly Science: Runtime Steering and AI Integration Pinpoint Spin Flop Transitions in α-Fe₂O₃
 
 On June 4, 2025, the National Science Data Fabric (NSDF) and Oak Ridge National Laboratory’s INTERSECT program successfully hosted a joint debrief meeting to highlight the **breakthrough in AI-guided autonomous experiments** integrating runtime steering and artificial intelligence (AI) for real-time scientific discovery. 
 
 The team demonstrated how these capabilities enabled the precise identification of spin flop transitions in hematite (α-Fe₂O₃), paving the way for smarter, faster experimentation across DOE facilities.
+
+<p align=center>
+<img src="assets/images/nsdf-intersect-timeline.jpg" width="100%">
+</p>
 
 
 ## About the Experiment

@@ -8,6 +8,16 @@ order: 0
 
 # 2025
 
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">June 2025</span>
+        <h2><a class="post-link" href="nsdf-nasa25" >NSDF Member Selected for Prestigious NASA JPL Summer Internship </a></h2>
+        Aashish Panta has been selected for a summer internship at NASA’s Jet Propulsion Laboratory (JPL) working on developing AI solutions for Earth data.
+    </li>
+</ul>
+
+
 <ul class="post-list">
     <li>
         <span class="post-meta">June 2025</span>

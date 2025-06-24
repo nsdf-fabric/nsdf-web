@@ -12,6 +12,17 @@ order: 0
 <ul class="post-list">
     <li>
         <span class="post-meta">June 2025</span>
+        <h2><a class="post-link" href="https://www.youtube.com/watch?v=LtOGw5qzDtA" >#PASC25 on stage – Data Without Borders Fostering Equity and Access in Scientific Research” – Interview with Michela Taufer and Maria Girone
+ </a></h2>
+        Michela Taufer and Maria Girone discuss the mini-symposium that fostered collaboration across geographic and disciplinary boundaries, promoting knowledge exchange among isolated research communities. 
+
+    </li>
+</ul>
+
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">June 2025</span>
         <h2><a class="post-link" href="nsdf-nasa25" >NSDF Member Selected for Prestigious NASA JPL Summer Internship </a></h2>
         Aashish Panta has been selected for a summer internship at NASA’s Jet Propulsion Laboratory (JPL) working on developing AI solutions for Earth data.
     </li>

@@ -8,6 +8,25 @@ order: 0
 
 # 2025
 
+<ul class="post-list">
+    <li>
+        <span class="post-meta">June 2025</span>
+        <h2><a class="post-link" href="https://hpdc.sci.utah.edu/2025/award.html">Michela Taufer Receives the 2025 HPDC Achievement Award
+ </a></h2>
+        The committee for the High-Performance Parallel and Distributed Computing (HPDC) achievement award selected Michela Taufer to be the 2025 recipient in honor of her contributions to volunteer computing and advancing high-performance computing
+    </li>
+</ul>
+
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">June 2025</span>
+        <h2><a class="post-link" href="https://youtu.be/Fnv3D7dvrbQ?si=8LuYOFLuuWRj97vn">#PASC25 on stage – Optimizing Molecular Dynamics Dataflows: Integrating Workflows for Real-Time Analysis in the Era of Heterogeneous Computing – Interview with Michela Taufer and Ewa Deelman
+ </a></h2>
+        Michela Taufer and Ewa Deelman discuss the mini-symposium that explores advances in scalable, sustainable molecular dynamics workflows in the era of complex, data-intensive HPC environments 
+    </li>
+</ul>
+
 
 <ul class="post-list">
     <li>

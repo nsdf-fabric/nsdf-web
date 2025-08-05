@@ -1,3 +1,9 @@
+---
+layout: nasa-arset
+title: National Science Data Fabric
+tagline: nasa-arset
+ref: nasa-arset
+---
 # NASA ARSET: Applied Remote Sensing Training
 
 NASA’s Applied Remote Sensing Training (ARSET) program is part of NASA’s Capacity Building efforts, designed to empower individuals and organizations worldwide to use Earth science data for environmental management and decision-making.

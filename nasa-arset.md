@@ -2,13 +2,13 @@
 layout: page
 title: NSDF-ARSET
 subtitle: NASA's Applied Remote Sensing Training Program
-description: NASA's Applied Remote Sensing Training (ARSET) program empowers individuals and organizations to use Earth science data for environmental management and decision-making. NSDF is providing a platform and cyberinfrastructure support for ARSET to share training resources and materials.
+description: NASA's Applied Remote Sensing Training (ARSET) program empowers individuals and organizations to use Earth science data for environmental management and decision-making. 
 tagline: nasa-arset
 ref: nasa-arset
 ---
 # NASA ARSET: Applied Remote Sensing Training
 
-NASA’s Applied Remote Sensing Training (ARSET) program is part of NASA’s Capacity Building efforts, designed to empower individuals and organizations worldwide to use Earth science data for environmental management and decision-making.
+NASA’s Applied Remote Sensing Training (ARSET) program is part of NASA’s Capacity Building efforts, designed to empower individuals and organizations worldwide to use Earth science data for environmental management and decision-making. NSDF is providing a platform and cyberinfrastructure support for ARSET to share training resources and materials.
 
 ## What is ARSET?
 

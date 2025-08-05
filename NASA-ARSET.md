@@ -1,6 +1,7 @@
 ---
-layout: nasa-arset
-title: National Science Data Fabric
+layout: page
+title: NASA-ARSET
+description: NASA's Applied Remote Sensing Training (ARSET) program empowers individuals and organizations to use Earth science data for environmental management and decision-making.
 tagline: nasa-arset
 ref: nasa-arset
 ---

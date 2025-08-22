@@ -10,6 +10,15 @@ order: 0
 
 <ul class="post-list">
     <li>
+        <span class="post-meta">August 2025</span>
+        <h2><a class="post-link" href="nsdf-teams25">NSDF presents at the Tennessee Advanced Materials Summit (TEAMS)</a></h2>
+        NSDF researcher, Jack Marquez, presents some of the recent NSDF partnerships and scientific advancements at the Tennessee Advanced Materials Summit (TEAMS).
+    </li>
+</ul>
+
+
+<ul class="post-list">
+    <li>
         <span class="post-meta">June 2025</span>
         <h2><a class="post-link" href="https://hpdc.sci.utah.edu/2025/award.html">Michela Taufer Receives the 2025 HPDC Achievement Award
  </a></h2>

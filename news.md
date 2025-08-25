@@ -11,6 +11,14 @@ order: 0
 <ul class="post-list">
     <li>
         <span class="post-meta">August 2025</span>
+        <h2><a class="post-link" href="https://www.hpcwire.com/35-hpc-legends-michela-taufer">Michela Taufer honored as one of HPCwire’s 35 Legends of 2025</a></h2>
+        HPCwire honored Michela Taufer as one of their 35 Legends of 2025 in recognition of her impactful role as a Champion of Reproducible HPC
+    </li>
+</ul>
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">August 2025</span>
         <h2><a class="post-link" href="nsdf-teams25">NSDF presents at the Tennessee Advanced Materials Summit (TEAMS)</a></h2>
         NSDF researcher, Jack Marquez, presents some of the recent NSDF partnerships and scientific advancements at the Tennessee Advanced Materials Summit (TEAMS).
     </li>

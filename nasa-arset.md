@@ -6,6 +6,26 @@ description: NASA's Applied Remote Sensing Training (ARSET) program empowers ind
 tagline: nasa-arset
 ref: nasa-arset
 ---
+
+<p style="align-items: center;justify-content: center;">
+<img src="assets/images/nasa-logo.png" width="250px">
+<img src="assets/images/logo.png" width="250px">
+</p>
+
+
+
+# Assessing Extreme Weather Statistics using NASA Earth eXchange Global Daily Downscaled Projections (NEX-GDDP-CMIP6)
+
+This ARSET training focuses on assessing projected statistics of extreme heat and cold wave events and extreme precipitation excess and deficit events.
+
+ [Link](https://www.earthdata.nasa.gov/learn/trainings/assessing-extreme-weather-statistics-using-nasa-earth-exchange-global-daily)
+
+<p align=center>
+<img src="assets/images/ARSET-ExtremeEvents2025-hero.png" width="100%">
+</p>
+
+
+
 # NASA ARSET: Applied Remote Sensing Training
 
 NASA’s Applied Remote Sensing Training (ARSET) program is part of NASA’s Capacity Building efforts, designed to empower individuals and organizations worldwide to use Earth science data for environmental management and decision-making. NSDF is providing a platform and cyberinfrastructure support for ARSET to share training resources and materials.

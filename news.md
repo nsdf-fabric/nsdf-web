@@ -8,6 +8,17 @@ order: 0
 
 # 2025
 
+
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">September 2025</span>
+        <h2><a class="post-link" href="nsdf-miccai25">Valerio Pascucci delivered "Clinical Translation of Federated Learning with Regulatory Oversight" tutorial</a></h2>
+        The 28th International Conference on "Medical Image Computing and Computer-Assisted Intervention" (MICCAI) hosted Valerio Pascucci in Daejeon, Republic of Korea.
+    </li>
+</ul>
+
+
 <ul class="post-list">
     <li>
         <span class="post-meta">August 2025</span>

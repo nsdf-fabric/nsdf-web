@@ -9,6 +9,13 @@ order: 0
 # 2025
 
 
+<ul class="post-list">
+    <li>
+        <span class="post-meta">October 2025</span>
+        <h2><a class="post-link" href="nsdf-intersect-oct25">NSDF and INTERSECT@ORNL Advance Autonomous Powder Diffraction on POWGEN</a></h2>
+        Scaling from one beamline to many. We’re turning live experiments into “on-the-fly” science. By connecting instruments to AI, secure data services, and standardized workflows, teams can analyze results as they arrive and automatically steer the next measurement.
+    </li>
+</ul>
 
 <ul class="post-list">
     <li>

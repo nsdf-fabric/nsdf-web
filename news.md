@@ -12,6 +12,15 @@ order: 0
 <ul class="post-list">
     <li>
         <span class="post-meta">October 2025</span>
+        <h2><a class="post-link" href="nsdf-fellow25">NSDF Impacting Lives through Fellowship Program</a></h2>
+        NSDF’s Fellowship Program is proud to support exceptional students and researchers dedicated to advancing knowledge and innovation in their fields. Read about the impact of the fellowship on Hanieh Toutouni, a third-year Computer Science and Engineering PhD student at the University of South Florida. 
+    </li>
+</ul>
+
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">October 2025</span>
         <h2><a class="post-link" href="nsdf-intersect-oct25">NSDF and INTERSECT@ORNL Advance Autonomous Powder Diffraction on POWGEN</a></h2>
         Scaling from one beamline to many. We’re turning live experiments into “on-the-fly” science. By connecting instruments to AI, secure data services, and standardized workflows, teams can analyze results as they arrive and automatically steer the next measurement.
     </li>

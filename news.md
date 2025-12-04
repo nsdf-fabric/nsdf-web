@@ -8,6 +8,23 @@ order: 0
 
 # 2025
 
+<ul class="post-list">
+    <li>
+        <span class="post-meta">Dec 2025</span>
+        <h2><a class="post-link" href="nsdf-sc25-autonomous-labs">NSDF Highlighted at SC25 Talk on Interconnected Autonomous Science Labs</a></h2>
+        At SC25, Taufer showcased NSDF’s breakthrough partnership with ORNL and demonstrated how NSDF’s federated infrastructure enables real-time, HPC-integrated autonomous discovery.
+    </li>
+</ul>
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">Dec 2025</span>
+        <h2><a class="post-link" href="nsdf-sc25-sustainable-ai">NSDF Participates in Expert Panel on Sustainable AI and HPC</a></h2>
+        At SC25, Taufer discussed how NSDF’s federated data fabric can support photonic and next-generation heterogeneous computing systems and enable sustainable, scalable AI and HPC.
+
+    </li>
+</ul>
+
 
 <ul class="post-list">
     <li>

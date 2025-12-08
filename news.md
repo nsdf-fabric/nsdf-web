@@ -11,6 +11,16 @@ order: 0
 <ul class="post-list">
     <li>
         <span class="post-meta">Dec 2025</span>
+        <h2><a class="post-link" href="nsdf-theory-of-change">NSDF Introduces Theory of Change for Data Science</a></h2>
+        The National Science Data Fabric (NSDF) introduces its Theory of Change—a strategic framework guiding national efforts to democratize data-driven research. By combining federated data platforms, open tools, workforce training, and partnerships with diverse institutions, NSDF expands access to advanced cyberinfrastructure for everyone
+.
+    </li>
+</ul>
+
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">Dec 2025</span>
         <h2><a class="post-link" href="nsdf-sc25-autonomous-labs">NSDF Highlighted at SC25 Talk on Interconnected Autonomous Science Labs</a></h2>
         At SC25, Taufer showcased NSDF’s breakthrough partnership with ORNL and demonstrated how NSDF’s federated infrastructure enables real-time, HPC-integrated autonomous discovery.
     </li>

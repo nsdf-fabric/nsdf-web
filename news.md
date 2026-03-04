@@ -6,6 +6,17 @@ ref: news
 order: 0
 ---
 
+# 2026
+
+<ul class="post-list">
+    <li>
+        <span class="post-meta">Mar 2026</span>
+        <h2><a class="post-link" href="nsdf-ai-chess-ornl">NSDF Presented AI-Guided Beamline Experiments at DOE Data Days</a></h2>
+        At the DOE Data Days, the National Science Data Fabric (NSDF) presented collaborative work with INTERSECT
+        at Oak Ridge National Laboratory (ORNL) and the Cornell High Energy Synchrotron Source (CHESS) on AI-guided beamline experiments. 
+    </li>
+</ul>
+
 # 2025
 
 <ul class="post-list">
@@ -16,7 +27,6 @@ order: 0
 .
     </li>
 </ul>
-
 
 <ul class="post-list">
     <li>
@@ -33,8 +43,8 @@ order: 0
         At SC25, Taufer discussed how NSDF’s federated data fabric can support photonic and next-generation heterogeneous computing systems and enable sustainable, scalable AI and HPC.
 
     </li>
-</ul>
 
+</ul>
 
 <ul class="post-list">
     <li>
@@ -43,7 +53,6 @@ order: 0
         NSDF’s Fellowship Program is proud to support exceptional students and researchers dedicated to advancing knowledge and innovation in their fields. Read about the impact of the fellowship on Hanieh Toutouni, a third-year Computer Science and Engineering PhD student at the University of South Florida. 
     </li>
 </ul>
-
 
 <ul class="post-list">
     <li>
@@ -61,7 +70,6 @@ order: 0
     </li>
 </ul>
 
-
 <ul class="post-list">
     <li>
         <span class="post-meta">August 2025</span>
@@ -78,7 +86,6 @@ order: 0
     </li>
 </ul>
 
-
 <ul class="post-list">
     <li>
         <span class="post-meta">June 2025</span>
@@ -87,7 +94,6 @@ order: 0
         The committee for the High-Performance Parallel and Distributed Computing (HPDC) achievement award selected Michela Taufer to be the 2025 recipient in honor of her contributions to volunteer computing and advancing high-performance computing
     </li>
 </ul>
-
 
 <ul class="post-list">
     <li>
@@ -98,17 +104,16 @@ order: 0
     </li>
 </ul>
 
-
 <ul class="post-list">
     <li>
         <span class="post-meta">June 2025</span>
         <h2><a class="post-link" href="https://www.youtube.com/watch?v=LtOGw5qzDtA" >#PASC25 on stage – Data Without Borders Fostering Equity and Access in Scientific Research” – Interview with Michela Taufer and Maria Girone
  </a></h2>
-        Michela Taufer and Maria Girone discuss the mini-symposium that fostered collaboration across geographic and disciplinary boundaries, promoting knowledge exchange among isolated research communities. 
+        Michela Taufer and Maria Girone discuss the mini-symposium that fostered collaboration across geographic and disciplinary boundaries, promoting knowledge exchange among isolated research communities.
 
     </li>
-</ul>
 
+</ul>
 
 <ul class="post-list">
     <li>
@@ -118,7 +123,6 @@ order: 0
     </li>
 </ul>
 
-
 <ul class="post-list">
     <li>
         <span class="post-meta">June 2025</span>
@@ -127,7 +131,6 @@ order: 0
     </li>
 </ul>
 
-
 <ul class="post-list">
     <li>
         <span class="post-meta">June 2025</span>
@@ -135,7 +138,6 @@ order: 0
         The National Science Data Fabric will be featured at IPDPS 2025 on Tuesday, June 3 and Wednesday, June 4, during the afternoon sessions.
     </li>
 </ul>
-
 
 <ul class="post-list">
     <li>
@@ -209,7 +211,6 @@ order: 0
     </li>
 </ul>
 
-
 <ul class="post-list">
     <li>
         <span class="post-meta">June 7 2024</span>
@@ -226,15 +227,12 @@ order: 0
     </li>
 </ul>
 
-
 <ul class="post-list">
     <li>
         <span class="post-meta">June 4 2024</span>
         <h2><a href='https://indico.classe.cornell.edu/event/2411/timetable/#20240604.detailed' >V. Pascucci and G. Scorzelli present NSDF technology at the 2024 Cornell High Energy Synchrotron Source user meeting.</a></h2>
     </li>
 </ul>
-
-
 
 <ul class="post-list">
 <li>

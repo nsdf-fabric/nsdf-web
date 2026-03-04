@@ -7,7 +7,7 @@ title: NSDF News
 
 <p align=center>
 <img src="assets/images/theory-of-change.png" style="filter: drop-shadow(5px 5px 5px #222);"><br>
-</p> 
+</p>
 
 # NSDF Introduces Theory of Change for Data Science
 

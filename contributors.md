@@ -18,15 +18,15 @@ Valerio Pascucci is the founding Director of the [Center for Extreme Data Manage
 
 <p align=center>
 <img src="assets/images/people/pascucci.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);"> 
-</p> 
+</p>
 
 ## Michela Taufer
 
-Michela Taufer holds the Jack Dongarra Professorship in High Performance Computing within the Department of Electrical Engineering and Computer Science at the [University of Tennessee, Knoxville](https://www.utk.edu/). 
+Michela Taufer holds the Jack Dongarra Professorship in High Performance Computing within the Department of Electrical Engineering and Computer Science at the [University of Tennessee, Knoxville](https://www.utk.edu/).
 
 <p align=center>
 <img src="assets/images/people/taufer.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 ## Frank Wuerthwein
 
@@ -34,7 +34,7 @@ Frank Würthwein is the Director of the [San Diego Supercomputer Center](https:/
 
 <p align=center>
 <img src="assets/images/people/wuerthwein.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 ## Alex Szalay
 
@@ -42,67 +42,82 @@ Alex Szalay is a Bloomberg Distinguished Professor of physics and astronomy and 
 
 <p align=center>
 <img src="assets/images/people/szalay.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
-## John Allison 
+## John Allison
 
 John E. Allison, is a Professor of Materials Science and Engineering at The [University of Michigan](https://umich.edu/) where he is Director of the [Center for PRedictive Integrated Structural Materials Science](http://www.prisms-center.org/) (PRISMS).
 
 <p align=center>
 <img src="assets/images/people/allison.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
+## Giorgio Scorzelli
 
-## Giorgio Scorzelli  
-
-Giorgio Scorzelli is Director of Software Development at the [Center for Extreme Data Management Analysis and Visualization](http://www.cedmav.com/) (CEDMAV). Director of Software Development of of the [National Science Data Fabric](http://nationalsciencedatafabric.org/) (NSDF). 
+Giorgio Scorzelli is Director of Software Development at the [Center for Extreme Data Management Analysis and Visualization](http://www.cedmav.com/) (CEDMAV). Director of Software Development of of the [National Science Data Fabric](http://nationalsciencedatafabric.org/) (NSDF).
 
 <p align=center>
 <img src="assets/images/people/scorzelli.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 ## Glenn Tarcea
 
 Glenn Tarcea is Research Computer Specialist at the [University of Michigan](https://umich.edu/).
-University of Michigan
+
 <p align=center>
 <img src="assets/images/people/tarcea.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 
-</p> 
+</p>
 
-## Attila Gyulassy  
+## Jack Marquez
+
+Jack Marquez is a Research Assistant Professor at the [University of Tennessee, Knoxville](https://www.utk.edu/).
+
+<p align=center>
+<img src="assets/images/people/jackmarquez.jpg"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
+</p>
+
+## Kin Hong NG
+
+Kin Hong NG is a Research Software Engineer at the [University of Tennessee, Knoxville](https://www.utk.edu/).
+
+<p align=center>
+<img src="assets/images/people/kinhongng.jpeg"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
+</p>
+
+## Attila Gyulassy
 
 Attila Gyulassy is Research Scientist at the [Scientific Computing and Imaging Institute](http://www.sci.utah.edu/).
 
 <p align=center>
 <img src="assets/images/people/gyulassy.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
-## Ivan Rodero  
+## Ivan Rodero
 
 Ivan Rodero is Associate Director and Associate Research Professor at the [Rutgers Discovery Informatics Institute](https://rdi2.rutgers.edu/) (RDI2) at Rutgers, the State University of New Jersey.
 
 <p align=center>
 <img src="assets/images/people/rodero.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 
-</p> 
+</p>
 
-## John Goodhue  
+## John Goodhue
 
 John Goodhue is the Executive Director of the [Massachusetts Green High Performance Computing Center](https://www.mghpcc.org/)
 
 <p align=center>
 <img src="assets/images/people/goodhue.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 
-</p> 
+</p>
 
-## Christine Kirkpatrick 
+## Christine Kirkpatrick
 
-Christine Kirkpatrick  leads the San Diego [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC) Research Data Services Division. She oversees the infrastructure (cloud, networking, storage), data center/colocation facility, and data initiatives group. Christine co-Chairs the Federated Infrastructure Working Group, is part of the [Open Storage Network](https://www.openstoragenetwork.org/) leadership, and represents various FAIR and data initiatives including [GO FAIR US](https://gofair.us/), the [West Hub](https://www.westbigdatahub.org/) and [CODATA](https://codata.org/). 
+Christine Kirkpatrick leads the San Diego [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC) Research Data Services Division. She oversees the infrastructure (cloud, networking, storage), data center/colocation facility, and data initiatives group. Christine co-Chairs the Federated Infrastructure Working Group, is part of the [Open Storage Network](https://www.openstoragenetwork.org/) leadership, and represents various FAIR and data initiatives including [GO FAIR US](https://gofair.us/), the [West Hub](https://www.westbigdatahub.org/) and [CODATA](https://codata.org/).
 
 <p align=center>
 <img src="assets/images/people/kirkpatrick.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 ## Kevin Coakley
 
@@ -110,8 +125,7 @@ Kevin is a Senior Storage Systems Engineer in the IT Division at the [San Diego 
 
 <p align=center>
 <img src="assets/images/people/coakley.jpg"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
-
+</p>
 
 ## Danny Saba
 
@@ -119,24 +133,23 @@ Danny Saba is a Systems Integration Engineer at [San Diego Supercomputer Center]
 
 <p align=center>
 <img src="assets/images/people/saba.jpg"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
-
-## Julianne Christopher-Ohlin 
+## Julianne Christopher-Ohlin
 
 Julie is a Project Manager in the Research Data Services division at the [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC). Julie works with PIs at SDSC to coordinate the grant proposal processes, to manage funding requirements, and to track goal objectives. Julie supports the Federated Infrastructure Working Group.
 
 <p align=center>
 <img src="assets/images/people/christopher.jpg"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
-## Colby Walsworth 
+## Colby Walsworth
 
 Colby Walsworth is a Senior Cloud Engineer at [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC) at the [University of California San Diego](https://ucsd.edu/). Colby works with researchers at UCSD and outside to help facilitate computing workflows using the SDSC cloud compute platform.
 
 <p align=center>
 <img src="assets/images/people/colby.jpg"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 ## Naweiluo Zhou
 
@@ -144,8 +157,7 @@ Naweiluo Zhou is a Postdoctoral Researcher at the [University of Tennessee, Knox
 
 <p align=center>
 <img src="assets/images/people/naweiluo.png"  width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
-
+</p>
 
 ## Jakob Luettgau
 
@@ -153,17 +165,16 @@ Jakob Luettgau is a Postdoctoral Researcher at the [University of Tennessee, Kno
 
 <p align=center>
 <img src="assets/images/people/luettgau.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 ## Paula Fernanda Olaya Garcia
 
-Paula Fernanda Olaya Garcia is a Doctoral Student at the  [University of Tennessee, Knoxville](https://www.utk.edu/).
+Paula Fernanda Olaya Garcia is a Doctoral Student at the [University of Tennessee, Knoxville](https://www.utk.edu/).
 
 <p align=center>
 <img src="assets/images/people/garcia.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 
-</p> 
-
+</p>
 
 ## Silvina Caino-Lores
 
@@ -171,15 +182,15 @@ Silvina Caino-Lores is a Postdoctoral Researcher at the [University of Tennessee
 
 <p align=center>
 <img src="assets/images/people/silvina.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
-## Jay Lofstead 
+## Jay Lofstead
 
 Jay Lofstead is a Principal Member of Technical Staff at [Sandia National Laboratories](https://www.sandia.gov/).
 
 <p align=center>
 <img src="assets/images/people/lofstead.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 ## Daniel Balouek Thomert
 
@@ -187,7 +198,7 @@ Daniel Balouek-Thomert is a Research Associate at the [Scientific Computing and 
 
 <p align=center>
 <img src="assets/images/people/thomert.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 ## Steve Petruzza
 
@@ -195,8 +206,7 @@ Steve Petruzza is a Research Assistant at the [Scientific Computing and Imaging 
 
 <p align=center>
 <img src="assets/images/people/petruzza.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
-
+</p>
 
 ## Owen Koppe
 
@@ -204,23 +214,24 @@ Owen Koppe is a Research Assistant at the [Scientific Computing and Imaging Inst
 
 <p align=center>
 <img src="assets/images/people/koppe.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 ## Deborah Dent
 
-Deborah Dent  is the Chief Information Officer at [Jackson State University](https://www.jsums.edu/).
+Deborah Dent is the Chief Information Officer at [Jackson State University](https://www.jsums.edu/).
 
 <p align=center>
 <img src="assets/images/people/dent.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 ## Damian Clarke
 
-Damian Clarke is  Chief Information Officer and  Associate Professor at the [Meharry Medical College](https://home.mmc.edu/).
+Damian Clarke is Chief Information Officer and Associate Professor at the [Meharry Medical College](https://home.mmc.edu/).
+
 <p align=center>
 <img src="assets/images/people/clarke.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 
-</p> 
+</p>
 
 ## Brian Schuster
 
@@ -228,23 +239,24 @@ Brian Schuster is Associate Professor at the [University of Texas at El Paso](ht
 
 <p align=center>
 <img src="assets/images/people/schuster.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 <!--
 ## Karan Bathia
 Google Cloud Liason
 <p align=center>
 <img src="assets/images/people/bathia.png" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 -->
 
 ## Masa Prodanovic
 
 Masa Prodanovic is Associate Professor at [University of Texas)](https://www.utexas.edu/) at Austin.
 University of Texas
+
 <p align=center>
 <img src="assets/images/people/prodanovic.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 ## Seelam Seetharami
 
@@ -253,14 +265,15 @@ Seelam Seetharami is a Principal Research Staff Member at [IBM Research](https:/
 <p align=center>
 <img src="assets/images/people/seelam.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
 
-</p> 
+</p>
 
 ## I-hsin Chung
 
 I-hsin Chung is a Research Staff Member at [IBM Research](https://research.ibm.com/).
+
 <p align=center>
 <img src="assets/images/people/chung.png" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 # Andrea Saicaly
 
@@ -268,7 +281,7 @@ Andrea Saicaly is a software architect with 20+ years of experience on enterpris
 
 <p align=center>
 <img src="assets/images/people/andrea.jpg" width="40%" style="filter: drop-shadow(5px 5px 5px #222);">
-</p> 
+</p>
 
 <br>
 <br>

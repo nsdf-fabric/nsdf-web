@@ -10,6 +10,14 @@ order: 0
 
 <ul class="post-list">
     <li>
+        <span class="post-meta">June 2026</span>
+        <h2><a class="post-link" href="nsdf-hamburg26">NSDF Advances Autonomous Scientific Discovery at ISC 2026</a></h2>
+        The National Science Data Fabric (NSDF) will be featured at the <a href="https://autonomousscience.org/workshops/a2sd-2026/">2nd Workshop on Advancing Autonomous Scientific Discovery</a> at <a href="https://isc-hpc.com/">ISC 2026</a> in Hamburg, where Michela Taufer will join leading experts to discuss how connected instruments, data, AI, workflows, and HPC can accelerate autonomous scientific discovery
+    </li>
+</ul>
+
+<ul class="post-list">
+    <li>
         <span class="post-meta">Mar 2026</span>
         <h2><a class="post-link" href="nsdf-ai-chess-ornl">NSDF Presented AI-Guided Beamline Experiments at DOE Data Days</a></h2>
         At the DOE Data Days, the National Science Data Fabric (NSDF) presented collaborative work with INTERSECT

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: National Science Data Fabric
-tagline: Seminars
-ref: seminars
+tagline: Events
+ref: events
 ---
 
 ---

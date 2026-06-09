@@ -7,6 +7,26 @@ ref: events
 
 ---
 
+
+#  NSDF Summit on Federated Autonomous Science
+
+**Date** Monday, October 19, 2026
+
+**Location** Illini Center, Chicago, Illinois, USA
+
+**Organizers** Michela Taufer, University of Tennessee, Knoxville; Valerio Pascucci, University of Utah
+
+**Event Held** in conjunction with PACT 2026
+
+**The AI Advantage for Collaborative Research Facilities**
+
+The National Science Data Fabric will host a one-day working summit on federated data infrastructures, autonomous AI, and collaborative research facilities. The summit will bring together leaders from academia, national laboratories, industry, government, and research facilities to identify shared needs, technology gaps, and opportunities for collaboration.
+Discussions will focus on materials science and manufacturing, energy and power systems, and medicine, as well as cross-cutting challenges in data, AI, computing, interoperability, security, governance, policy, and regulation.
+
+<a href="nsdf-summit26">Read the Call for Participation and express your interest</a>
+
+
+
 # NSDF Distinguished Speaker Series - May 2, 2024, at 12pm ET / 11am CT / 10am MT / 9am PT
 
 {% include_relative nsdf-seminar-series-hauser.body.md %}

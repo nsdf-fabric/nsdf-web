@@ -75,10 +75,6 @@ At <a href="https://eurovis.org.uk/">EuroVis 2026</A>, Valerio Pascucci presente
 
 **Where**: Nottingham (UK)
 
-**Supported by NSF Awards:** 2138811, 2103845, 2334945, 2138296, 2331152
-
-
-
 <div class="container">
     <div class="section-card">
         <h2>Visual Highlights from the Session</h2>

@@ -3,10 +3,11 @@ layout: page
 title: NSDF Summit on Federated Autonomous Science
 ---
 
+Call for Participation
+
 <div style="border-bottom: 2px solid #333; margin-bottom: 30px; padding-bottom: 20px;">
-    <h1 style="color: #2c3e50; margin-bottom: 10px;">Call for Participation</h1>
     <h2 style="margin: 0; color: #34495e;">The NSDF Summit on Federated Autonomous Science</h2>
-    <p style="font-style: italic; color: #7f8c8d; margin-top: 5px;">The AI Advantage for Collaborative Research Facilities</p>
+    <h2 style="margin: 0; color: #34495e;">The AI Advantage for Collaborative Research Facilities</h2>
 </div>
 
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px; background-color: #fff; border: 1px solid #eee;">

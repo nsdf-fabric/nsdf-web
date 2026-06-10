@@ -55,7 +55,8 @@ title: NSDF Summit on Federated Autonomous Science
 
 <h2 style="color: #2c3e50; border-bottom: 1px solid #ccc; padding-bottom: 5px;">Participation</h2>
 <div style="background-color: #e8f4fd; padding: 15px; border-left: 5px solid #3498db; margin-bottom: 20px;">
-    <p style="margin: 0;"><strong>Expression of interest and submissions:</strong> Coming soon. Prospective participants may indicate interest in attending, presenting a use case, joining a panel or discussion, or contributing to a working group.</p>
+    <p style="margin: 0;"><strong>Expression of Interest and Submissions:</strong> Complete the <a href="https://forms.gle/bThVb3pzg3Eceofp7">expression-of-interest form</a> to indicate your interest in attending, presenting a use case, joining a panel or discussion, contributing to a working group, or submitting a position paper.
+    </p>
 </div>
 
 <h2 style="color: #2c3e50; border-bottom: 1px solid #ccc; padding-bottom: 5px;">Contacts</h2>

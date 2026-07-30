@@ -1,0 +1,113 @@
+---
+layout: default
+title: Technology | National Science Data Fabric
+description: Explore NSDF architecture, networking, entry points, software, and developer services.
+section: technology
+body-class: portal-page
+---
+
+<section class="portal-hero technology-hero">
+  <div>
+    <h1>The Digital Backbone for Data-Intensive and Autonomous Science</h1>
+    <p>
+      NSDF connects distributed data, storage, networks, computing, software,
+      and scientific facilities through a modular, federated architecture.
+    </p>
+    <div class="portal-actions">
+      <a class="btn btn-primary" href="/dashboards/" target="_blank"
+        >Explore Dashboards <span>→</span></a
+      ><a class="btn btn-data-outline" href="/products/" target="_blank"
+        >View Products <span>→</span></a
+      >
+    </div>
+  </div>
+  <div class="architecture-graphic" aria-label="NSDF architecture overview">
+    <div>Scientific Facilities</div>
+    <i>→</i>
+    <div>NSDF Entry Points</div>
+    <i>→</i>
+    <div>Digital Backbone</div>
+    <i>→</i>
+    <div>AI • Cloud • HPC</div>
+  </div>
+</section>
+
+<section class="portal-section" id="architecture">
+  <div class="section-heading">
+    <p class="portal-kicker">Architecture</p>
+    <h2>A Federated, Platform-Agnostic Design</h2>
+    <p>
+      NSDF connects existing institutional systems rather than replacing them,
+      allowing data providers to retain control while participating in shared
+      discovery, access, streaming, and analysis workflows.
+    </p>
+  </div>
+  <div class="technology-layer-grid">
+    {% for item in site.data.technology.architecture %}
+    <article>
+      <span>{{ item.number }}</span>
+      <h3>{{ item.title }}</h3>
+      <p>{{ item.text }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="portal-band">
+  <div>
+    <p class="portal-kicker">Networking</p>
+    <h2>High-Speed National Connectivity</h2>
+    <p>
+      The NSDF pilot uses high-speed research networking, including Internet2
+      infrastructure, to support data movement among storage resources,
+      computing sites, facilities, and entry points.
+    </p>
+  </div>
+  <div class="large-number">
+    <strong>100 Gbps+</strong
+    ><span
+      >Backbone-class connectivity supporting distributed scientific data
+      movement</span
+    >
+  </div>
+</section>
+
+<section class="portal-section" id="entry-points">
+  <div class="split-content">
+    <div>
+      <p class="portal-kicker">Deployment</p>
+      <h2>NSDF Entry Points</h2>
+      <p>
+        Entry Points provide a uniform, domain-agnostic set of services that can
+        be deployed at academic sites, computing centers, facilities, and cloud
+        environments. Configurations can scale with the services and resources
+        required by each site.
+      </p>
+    </div>
+    <div>
+      <p class="portal-kicker">Education</p>
+      <h2>Workforce and Outreach</h2>
+      <p>
+        NSDF uses deployments, tutorials, and real scientific datasets to
+        validate services with diverse communities and to provide students with
+        direct access to advanced scientific data and analysis methods.
+      </p>
+      <a href="/contact/">Explore training opportunities <span>→</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="portal-section" id="software">
+  <div class="section-heading">
+    <p class="portal-kicker">Software and Services</p>
+    <h2>Reusable Components Across the Data Lifecycle</h2>
+  </div>
+  <div class="six-card-grid">
+    {% for item in site.data.technology.components %}
+    <article>
+      <h3>{{ item.title }}</h3>
+      <p>{{ item.text }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>

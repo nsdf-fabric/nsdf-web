@@ -1,0 +1,39 @@
+- name: "University of Tennessee"
+  url: "https://www.utk.edu/"
+  logo: /assets/nsdf/logos/utk.svg
+- name: "University of Utah"
+  url: "https://www.utah.edu/"
+  logo: /assets/nsdf/logos/utah.png
+- name: "San Diego Supercomputing Center"
+  url: "https://www.sdsc.edu/"
+  logo: /assets/nsdf/logos/sdsc.png
+- name: "Purdue University"
+  url: "https://www.purdue.edu/"
+  logo: /assets/nsdf/logos/purdue.svg
+- name: "TACC"
+  url: "https://www.tacc.utexas.edu/"
+  logo: /assets/nsdf/logos/tacc.png
+- name: "MLCommons"
+  url: "https://mlcommons.org/"
+  logo: /assets/nsdf/logos/mlcommons.png
+- name: "Internet2"
+  url: "https://internet2.edu/"
+  logo: /assets/nsdf/logos/I2-clr.svg
+- name: "ORNL"
+  url: "https://www.ornl.gov/"
+  logo: /assets/nsdf/logos/ornl.webp
+- name: "CHESS"
+  url: "https://www.chess.cornell.edu/"
+  logo: /assets/nsdf/logos/chess.png
+- name: "Jetstream2"
+  url: "https://jetstream-cloud.org/"
+  logo: /assets/nsdf/logos/jetstream.png
+- name: "Chameleon"
+  url: "https://chameleoncloud.org/"
+  logo: /assets/nsdf/logos/chameleon.jpg
+- name: "Open Storage Network"
+  url: "https://www.openstoragenetwork.org/"
+  logo: /assets/nsdf/logos/osn.jpg
+- name: "Open Science Grid"
+  url: "https://osg-htc.org/"
+  logo: /assets/nsdf/logos/osg.png

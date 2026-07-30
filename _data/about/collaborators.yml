@@ -1,0 +1,75 @@
+- name: "Alex Szalay"
+  image: /assets/nsdf/people/szalay.png
+  affiliation: "Johns Hopkins University"
+- name: "Amlan Das"
+  image: /assets/nsdf/people/Amlan Das.jpg
+  affiliation: "CHESS"
+- name: "Amy Roberts"
+  image: /assets/nsdf/people/Amy Roberts.jpg
+  affiliation: "University of Colorado Denver"
+- name: "Brian Schuster"
+  image: /assets/nsdf/people/schuster.png
+  affiliation: "University of Texas at El Paso"
+- name: "Colby Walsworth"
+  image: /assets/nsdf/people/colby.jpg
+  affiliation: "University of San Diego"
+- name: "Damian Clarke"
+  image: /assets/nsdf/people/clarke.png
+  affiliation: "Meharry Medical College"
+- name: "Danny Saba"
+  image: /assets/nsdf/people/saba.jpg
+  affiliation: "University of San Diego"
+- name: "Deborah Dent"
+  image: /assets/nsdf/people/dent.png
+  affiliation: "Jackson State University"
+- name: "Frank Wuerthwein"
+  image: /assets/nsdf/people/wuerthwein.png
+  affiliation: "University of San Diego"
+- name: "Glenn Tarcea"
+  image: /assets/nsdf/people/tarcea.png
+  affiliation: "University of Michigan"
+- name: "I-hsin Chung"
+  image: /assets/nsdf/people/chung.png
+  affiliation: "IBM Research"
+- name: "Jay Lofstead"
+  image: /assets/nsdf/people/lofstead.jpg
+  affiliation: "Sandia National Laboratories"
+- name: "John Goodhue"
+  image: /assets/nsdf/people/goodhue.png
+  affiliation: "Massachusetts Green HPCC"
+- name: "Julianne Christopher-Ohlin"
+  image: /assets/nsdf/people/christopher.jpg
+  affiliation: "University of San Diego"
+- name: "Kevin Coakley"
+  image: /assets/nsdf/people/coakley.jpg
+  affiliation: "University of San Diego"
+- name: "Keara Soloway"
+  image: /assets/nsdf/people/Keara Soloway.jpg
+  affiliation: "CHESS"
+- name: "Christine Kirkpatrick"
+  image: /assets/nsdf/people/kirkpatrick.png
+  affiliation: "University of San Diego"
+- name: "Marshall McDonnell"
+  image: /assets/nsdf/people/Marshall McDonnell.jpg
+  affiliation: "ORNL"
+- name: "Masa Prodanovic"
+  image: /assets/nsdf/people/prodanovic.png
+  affiliation: "University of Texas"
+- name: "Owen Koppe"
+  image: /assets/nsdf/people/koppe.jpg
+  affiliation: "University of Utah"
+- name: "Pania Noewell"
+  image: /assets/nsdf/people/Pania Nowell.jpg
+  affiliation: "University of Utah"
+- name: "Rolf Verberg"
+  image: /assets/nsdf/people/Rolf Verberg.jpg
+  affiliation: "CHESS"
+- name: "Seelam Seetharami"
+  image: /assets/nsdf/people/seelam.png
+  affiliation: "IBM Research"
+- name: "Steve Petruzza"
+  image: /assets/nsdf/people/petruzza.jpg
+  affiliation: "University of Utah"
+- name: "Werner Sun"
+  image: /assets/nsdf/people/Werner Sun.jpg
+  affiliation: "CHESS"

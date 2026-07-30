@@ -1,0 +1,15 @@
+- name: "Michela Taufer"
+  image: /assets/nsdf/people/taufer.png
+  affiliation: "PI &amp; co-Director, University of Tennessee"
+- name: "Valerio Pascucci"
+  image: /assets/nsdf/people/pascucci.png
+  affiliation: "Co-PI &amp; co-Director, University of Utah"
+- name: "Alexandros Karargyris"
+  image: /assets/nsdf/people/Alexandros Karargyris.jpg
+  affiliation: "Co-PI, MLCommons"
+- name: "X. Carol Song"
+  image: /assets/nsdf/people/Carol Song.jpg
+  affiliation: "Co-PI, Purdue University"
+- name: "Virginia Trueheart"
+  image: /assets/nsdf/people/Virginia Trueheart.jpg
+  affiliation: "Co-PI, Texas Advanced Computing Center"

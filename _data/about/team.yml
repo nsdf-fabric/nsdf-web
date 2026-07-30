@@ -1,0 +1,49 @@
+- name: "Jessica Walker"
+  image: /assets/nsdf/people/Jessica Walker.jpg
+  affiliation: "Project Manager, University of Tennessee"
+- name: "Jack Marquez"
+  image: /assets/nsdf/people/jackmarquez.jpg
+  affiliation: "Senior Personnel, University of Tennessee"
+- name: "Kin Wai Ng"
+  image: /assets/nsdf/people/Kin_Wai.jpg
+  affiliation: "Senior Personnel, University of Tennessee"
+  image_style: "object-position: center 5%;"
+- name: "Kin Hong Ng"
+  image: /assets/nsdf/people/kinhongng.jpeg
+  affiliation: "Senior Personnel, University of Tennessee"
+- name: "Hanseup Kim"
+  image: /assets/nsdf/people/Hanseup Kim.jpg
+  affiliation: "Senior Personnel, University of Utah"
+- name: "Attila Gyulassy"
+  image: /assets/nsdf/people/gyulassy.png
+  affiliation: "Senior Personnel, University of Utah"
+- name: "Giorgio Scorzelli"
+  image: /assets/nsdf/people/scorzelli.png
+  affiliation: "Senior Personnel, University of Utah"
+- name: "Amy Gooch"
+  image: /assets/nsdf/people/Amy Gooch.jpg
+  affiliation: "ViSOAR LLC"
+- name: "Moses Noh"
+  image: /assets/nsdf/people/Moses Noh.jpg
+  affiliation: "Nanofab Data Collection Coordinator, University of Utah"
+- name: "Erik Gough"
+  image: /assets/nsdf/people/Erik Gough.jpg
+  affiliation: "Senior Personnel, Purdue University"
+- name: "Mitchell Collins-Bailey"
+  image: /assets/nsdf/people/Mitchell Collins-Bailey.jpg
+  affiliation: "Senior Personnel, Texas Advanced Computing Center"
+- name: "Taylor Ishisaka"
+  image: /assets/nsdf/people/Taylor Ishisaka.jpg
+  affiliation: "User Support Staff, Texas Advanced Computing Center"
+- name: "Chris Ramos"
+  image: /assets/nsdf/people/Chris Ramos.jpg
+  affiliation: "Research Engineering Associate, Texas Advanced Computing Center"
+- name: "Tanvi Gour"
+  image: /assets/nsdf/people/Tanvi Gour.jpg
+  affiliation: "Senior Personnel, MLCommons"
+- name: "Laura Amortegui"
+  image: /assets/nsdf/people/Laura Amortegui.jpg
+  affiliation: "Project Manager, MLCommons"
+- name: "David Kanter"
+  image: /assets/nsdf/people/David Kanter.jpg
+  affiliation: "Senior Personnel, MLCommons"

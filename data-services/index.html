@@ -1,0 +1,89 @@
+---
+layout: default
+title: Data Services | National Science Data Fabric
+description: Discover NSDF scientific data, services, tools, and documentation.
+section: data-services
+body-class: data-services-page
+---
+<section class="data-hero">
+  <div class="data-hero-copy">
+    <h1>Data Services</h1>
+    <p>Explore scientific datasets, metadata, software, services, and documentation for data-intensive and AI-driven research.</p>
+    <a class="btn btn-primary" href="#documentation">Explore Documentation <span>→</span></a>
+  </div>
+  <div class="data-hero-art" aria-hidden="true">
+    <div class="data-globe"></div>
+    <span class="orbit-icon oi-code">&lt;/&gt;</span>
+    <span class="orbit-icon oi-data">▤</span>
+    <span class="orbit-icon oi-cloud">☁</span>
+    <span class="orbit-icon oi-chart">⌁</span>
+    <span class="orbit-icon oi-shield">◇</span>
+  </div>
+</section>
+
+<section class="data-entry-grid" aria-label="Data and services entry points">
+  {% for entry in site.data.data-services.entries %}
+  <article class="data-entry-card"{% if entry.id %} id="{{ entry.id }}"{% endif %}>
+    <span class="entry-icon {{ entry.icon_class }}">{{ entry.icon }}</span>
+    <div><h2>{{ entry.title }}</h2><p>{{ entry.text }}</p><a href="{{ entry.link }}">{{ entry.link_text }} <span>→</span></a></div>
+  </article>
+  {% endfor %}
+</section>
+
+<section class="data-section">
+  <div class="data-heading-row">
+    <h2>Featured Data Collections</h2>
+    <a href="#">View all collections <span>→</span></a>
+  </div>
+  <div class="collection-track" aria-label="Featured data collections">
+    {% for item in site.data.data-services.collections %}
+    <a class="collection-card" href="{{ item.link }}">
+      <div class="collection-image"><img src="{{ item.image }}" alt="" />{% if item.tag %}<span{% if item.tag_class %} class="{{ item.tag_class }}"{% endif %}>{{ item.tag }}</span>{% endif %}</div>
+      <div class="collection-body"><h3>{{ item.title }}</h3><p>{{ item.text }}</p><small>{{ item.size }} &nbsp;•&nbsp; {{ item.access }}</small><span class="collection-card-link">{{ item.link_text }} <span>→</span></span></div>
+    </a>
+    {% endfor %}
+  </div>
+  <div class="collection-dots" aria-hidden="true"><span class="active"></span><span></span><span></span></div>
+</section>
+
+<section class="data-section capabilities-section">
+  <h2>What NSDF Provides</h2>
+  <div class="capability-grid">
+    <article><span>⌕</span><div><h3>Discover</h3><p>Federated catalogs and metadata make distributed scientific data easier to find.</p></div></article>
+    <article><span>▢</span><div><h3>Access</h3><p>Access data across institutions without moving it all into one location.</p></div></article>
+    <article><span>⌁</span><div><h3>Connect</h3><p>Connect facilities, repositories, cloud systems, and HPC resources.</p></div></article>
+    <article><span>〰</span><div><h3>Stream</h3><p>Stream live data between instruments, AI services, dashboards, and computing.</p></div></article>
+    <article><span>◇</span><div><h3>Preserve</h3><p>Persistent identifiers, metadata, and provenance maintain scientific context.</p></div></article>
+    <article><span>⌁</span><div><h3>Analyze</h3><p>Connect data to AI, cloud, and HPC workflows for deep analysis.</p></div></article>
+  </div>
+</section>
+
+<section class="data-lower-grid">
+  <article class="data-info-panel">
+    <h2>Connect Your Data or Facility</h2>
+    <p>NSDF works with scientific facilities, repositories, and research communities to make data more discoverable, accessible, and ready for AI-driven workflows.</p>
+    <div class="panel-buttons">
+      <a class="btn btn-primary panel-cta" href="/contact/">Ask NSDF</a>
+    </div>
+  </article>
+  <article class="data-info-panel trust-panel">
+    <h2>Designed for Trustworthy Data</h2>
+    <ul>
+      <li>Authenticated access and authorization</li>
+      <li>Institutional control and governance</li>
+      <li>Rich scientific metadata</li>
+      <li>Persistent identifiers</li>
+      <li>Provenance and reproducibility</li>
+      <li>FAIR-aligned data practices</li>
+    </ul>
+    <a href="#">Learn about Data Governance <span>→</span></a>
+  </article>
+  <article class="data-info-panel">
+    <h2>Need Help Getting Started?</h2>
+    <p>Whether you are searching for data, integrating a service, or connecting a scientific facility, NSDF provides documentation and dedicated support.</p>
+    <div class="panel-buttons single-column">
+      <a class="btn btn-primary panel-cta" href="#documentation">Read the Documentation <span>→</span></a>
+      <a class="btn btn-primary panel-cta" href="https://github.com/nsdf-fabric" target="_blank" rel="noopener noreferrer">Visit GitHub</a>
+    </div>
+  </article>
+</section>

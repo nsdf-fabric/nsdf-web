@@ -1,0 +1,56 @@
+---
+layout: default
+title: Community | National Science Data Fabric
+description: Join the NSDF community of scientists, facilities, developers, educators, and students.
+section: community
+body-class: community-page
+---
+<section class="community-hero-page">
+  <div>
+    <h1>Build the Future of Autonomous Science—Together</h1>
+    <p>NSDF brings together scientists, facility operators, developers, educators, students, and partners to advance trustworthy, data-intensive, and AI-driven scientific discovery.</p>
+    <div class="community-hero-actions">
+      <a class="btn btn-primary" href="/contact/">Join the Community <span>→</span></a>
+      <a class="btn btn-data-outline" href="/news/">Explore Events <span>→</span></a>
+    </div>
+  </div>
+  <div class="community-hero-image">
+    <img src="/assets/nsdf/community.jpg" alt="Scientists collaborating" />
+  </div>
+</section>
+
+<section class="community-page-section">
+  <div class="section-heading">
+    <h2>Ways to Participate</h2>
+    <p>Choose the path that matches your interests and role.</p>
+  </div>
+  <div class="community-participation-grid">
+    {% for item in site.data.community.participate %}
+    <article><span>{{ item.icon }}</span><h3>{{ item.title }}</h3><p>{{ item.text }}</p><a href="{{ item.link }}">{{ item.link_text }} →</a></article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="community-page-section" id="training">
+  <div class="section-heading">
+    <h2>Training and Opportunities</h2>
+    <p>Build skills, contribute ideas, and grow with the NSDF community.</p>
+  </div>
+  <div class="community-opportunity-grid">
+    {% for item in site.data.community.opportunities %}
+    <article><h3>{{ item.title }}</h3><p>{{ item.text }}</p><a href="{{ item.link }}">{{ item.link_text }} →</a></article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="community-join-panel" id="join">
+  <div>
+    <p class="data-kicker">Join NSDF</p>
+    <h2>Bring Your Expertise, Data, Facility, or Scientific Challenge</h2>
+    <p>NSDF is built through collaboration. Tell us how you would like to participate, and we will help identify the right path into the community.</p>
+  </div>
+  <div class="community-join-actions">
+    <a class="btn btn-primary" href="/contact/">Ask NSDF <span>→</span></a>
+    <a class="btn btn-data-outline" href="/contact/">Propose a Use Case <span>→</span></a>
+  </div>
+</section>

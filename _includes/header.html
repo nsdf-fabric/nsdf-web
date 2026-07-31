@@ -1,0 +1,32 @@
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand brand-desktop" href="/" aria-label="NSDF home">
+      <img src="/assets/nsdf/nsdf-horizontal.png" alt="National Science Data Fabric" />
+    </a>
+    <a class="brand brand-mobile" href="/" aria-label="NSDF home">
+      <img src="/assets/nsdf/nsdf-mark.png" alt="" />
+      <span>National Science<br />Data Fabric (NSDF)</span>
+    </a>
+    <nav class="desktop-nav" aria-label="Primary navigation">
+      <a href="/news/"{% if page.section == 'news' or page.collection == 'news' %} aria-current="page"{% endif %}>News</a
+      ><a href="/use-cases/"{% if page.section == 'use-cases' or page.collection == 'use_cases' %} aria-current="page"{% endif %}>Science Impact</a
+      ><a href="/data-services/"{% if page.section == 'data-services' %} aria-current="page"{% endif %}>Data Services</a
+      ><a href="/technology/"{% if page.section == 'technology' %} aria-current="page"{% endif %}>Technology</a
+      ><a href="/community/"{% if page.section == 'community' %} aria-current="page"{% endif %}>Community</a
+      ><a href="/about/"{% if page.section == 'about' %} aria-current="page"{% endif %}>About</a>
+    </nav>
+    <a class="catalog-header" href="/contact/">Join NSDF</a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <nav id="mobile-menu" class="mobile-menu" aria-label="Mobile navigation" hidden>
+    <a href="/news/"{% if page.section == 'news' or page.collection == 'news' %} aria-current="page"{% endif %}>News</a
+    ><a href="/use-cases/"{% if page.section == 'use-cases' or page.collection == 'use_cases' %} aria-current="page"{% endif %}>Science Impact</a
+    ><a href="/data-services/"{% if page.section == 'data-services' %} aria-current="page"{% endif %}>Data Services</a
+    ><a href="/technology/"{% if page.section == 'technology' %} aria-current="page"{% endif %}>Technology</a
+    ><a href="/community/"{% if page.section == 'community' %} aria-current="page"{% endif %}>Community</a
+    ><a href="/about/"{% if page.section == 'about' %} aria-current="page"{% endif %}>About</a>
+  </nav>
+</header>

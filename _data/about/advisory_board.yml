@@ -1,0 +1,21 @@
+- name: "Ashley Spear"
+  image: /assets/nsdf/people/Ashley Spear.jpeg
+  affiliation: "University of Utah"
+- name: "Georgia Tourassi"
+  image: /assets/nsdf/people/Georgia Tourassi.jpg
+  affiliation: "Oak Ridge National Laboratory"
+- name: "John Allison"
+  image: /assets/nsdf/people/allison.png
+  affiliation: "University of Michigan Ann Arbor"
+- name: "Michael E. Papka"
+  image: /assets/nsdf/people/Papka, Michael E.jpg
+  affiliation: "Argonne National Laboratory"
+- name: "Ryan Coffee"
+  image: /assets/nsdf/people/Ryan Coffee.jpg
+  affiliation: "SLAC National Accelerator Laboratory"
+- name: "Shaowen Wang"
+  image: /assets/nsdf/people/Shaowen Wang.jpeg
+  affiliation: "University of Illinois Urbana-Champaign"
+- name: "Srinivas Aluru"
+  image: /assets/nsdf/people/Srinivas Aluru.jpg
+  affiliation: "Georgia Institute of Technology"

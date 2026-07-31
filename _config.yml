@@ -1,30 +1,22 @@
-title: NATIONAL SCIENCE DATA FABRIC
-description: A Platform Agnostic Testbed for Democratizing Data Delivery.
-show_downloads: false
+collections:
+  news:
+    output: true
+    permalink: /news/:name/
+  use_cases:
+    output: true
+    permalink: /use-cases/:name/
 
-# change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-baseurl: "" 
+defaults:
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: news-post
+  - scope:
+      path: ""
+      type: use_cases
+    values:
+      layout: use-case
 
-# change this to the base hostname & protocol for your site
-url: "https://nationalsciencedatafabric.org/" 
-
-# https://desiredpersona.com/google-analytics-jekyll/
-# https://analytics.google.com/analytics/web/#/p324429956/reports/intelligenthome
-google_analytics: G-7PXWMX6RZV
-
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-cayman-blog:
-  date_format: "%b %-d, %Y"
-
-# leave it empty
-theme: 
-
-permalink: /:categories/:year/:month/:day/:title:output_ext
-
-plugins:
-  - jekyll-target-blank
-
-target-blank:
-    rel: nofollow
-
-header_page_refs: ['contributors', 'partners', 'infrastructure', 'events', 'resources', 'grant', 'news', 'map3d', dashboards', 'chess-um24', 'catalog3d', 'contact','nasa-arset']
+exclude:
+  - README.md

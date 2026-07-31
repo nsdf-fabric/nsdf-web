@@ -1,0 +1,5 @@
+<div class="contributor-card">
+  <img src="{{ include.person.image }}" alt="{{ include.person.name }}" loading="lazy"{% if include.person.image_style %} style="{{ include.person.image_style }}"{% endif %} />
+  <span class="contributor-name">{{ include.person.name }}</span>
+  <span class="contributor-affiliation">{{ include.person.affiliation }}</span>
+</div>

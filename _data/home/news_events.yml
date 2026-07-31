@@ -1,0 +1,23 @@
+- href: /news/nsdf-at-isc26/
+  image: /assets/nsdf/news/nsdf-at-isc.jpg
+  date: June 2026
+  title: NSDF Advances Autonomous Scientific Discovery at ISC 2026
+  description: NSDF is featured at the 2nd Workshop on Advancing Autonomous Scientific Discovery at ISC 2026 in Hamburg.
+
+- href: /news/nsdf-at-doedatadays/
+  image: /assets/nsdf/news/nsdf-at-doedatadays.png
+  date: Mar 2026
+  title: NSDF Presented AI-Guided Beamline Experiments at DOE Data Days
+  description: NSDF presented AI-guided beamline experiments with INTERSECT at ORNL and CHESS, showcasing live adaptive measurements.
+
+- href: /news/nsdf-at-sc25/
+  image: /assets/nsdf/news/nsdf-at-sc25.png
+  date: Dec 2025
+  title: NSDF Highlighted at SC25 Talk on Interconnected Autonomous Science Labs
+  description: At SC25, Taufer showcased NSDF's breakthrough partnership with ORNL and demonstrated how NSDF's federated infrastructure enables real-time, HPC-integrated autonomous discovery.
+
+- href: /news/nsdf-at-ornl2/
+  image: /assets/nsdf/news/nsdf-at-ornl-2.png
+  date: October 2025
+  title: NSDF and INTERSECT@ORNL POWGEN Autonomous Experiment
+  description: Scaling from one beamline to many. NSDF connects instruments to AI for on-the-fly autonomous powder diffraction.

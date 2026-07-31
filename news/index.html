@@ -1,0 +1,103 @@
+---
+layout: default
+title: News and Events | National Science Data Fabric
+description: Latest news, events, and highlights from the NSDF community.
+section: news
+body-class: news-page
+---
+
+{% assign featured = site.news | where: "featured", true | first %}
+{% assign events = site.news | where: "type", "event" | sort: "sort_date" | reverse %}
+{% assign featured_event = site.news | where: "featured_event", true | first %}
+{% assign sidebar_event = featured_event | default: events[0] %}
+{% assign sorted = site.news | sort: "sort_date" | reverse %}
+
+<div class="news-hero-card">
+  <div class="events-sidebar" id="events">
+    {% if sidebar_event %}
+      <a href="{{ sidebar_event.url }}" target="_blank" class="community-event-card">
+      {% if sidebar_event.event_date_abbr and sidebar_event.event_day %}
+      <span class="event-date">{{ sidebar_event.event_date_abbr }}<br /><strong>{{ sidebar_event.event_day }}</strong></span>
+      {% endif %}
+      <div>
+        <small>{{ sidebar_event.location }}</small>
+        <h3>{{ sidebar_event.title }}</h3>
+        <p>{{ sidebar_event.description }}</p>
+        <span class="card-link">View Event Details <span>→</span></span>
+      </div>
+    </a>
+    {% endif %}
+  </div>
+  <hr class="news-hero-divider" />
+  <div class="news-hero-body">
+    {% if featured %}
+    <div class="featured-media">
+      <img src="{{ featured.image }}" alt="{{ featured.image_alt }}" />
+      <span class="featured-badge">Latest News</span>
+    </div>
+    <div class="featured-content">
+      <p class="eyebrow">{{ featured.sort_date | date: "%B %Y" }}{% if featured.location %} <span>•</span> {{ featured.location }}{% endif %}</p>
+      <h2>{{ featured.title }}</h2>
+      <p class="featured-lede">{{ featured.description }}</p>
+      {% if featured.featured_points %}
+      <div class="featured-points">
+        {% for point in featured.featured_points %}
+        <article>
+          <span class="point-icon">{{ point.icon }}</span>
+          <div>
+            <h3>{{ point.title }}</h3>
+            <p>{{ point.text }}</p>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+      {% endif %}
+      <div class="featured-actions">
+        <a class="btn btn-primary" target="_blank" rel="noopener noreferrer" href="{{ featured.url }}">Read the Full Story <span>→</span></a>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>
+
+<section class="usecase-gallery" aria-labelledby="explore-news-title">
+  <div class="gallery-inner">
+    <div class="filter-row" aria-label="Filter news">
+      <button class="filter-chip active" data-filter="all" type="button">All</button>
+      <button class="filter-chip" data-filter="news" type="button">News</button>
+      <button class="filter-chip" data-filter="events" type="button">Events</button>
+      <button class="filter-chip" data-filter="2026" type="button">2026</button>
+      <button class="filter-chip" data-filter="2025" type="button">2025</button>
+      <button class="filter-chip" data-filter="2024" type="button">2024</button>
+      <button class="filter-chip" data-filter="2023" type="button">2023</button>
+      <button class="filter-chip" data-filter="2022" type="button">2022</button>
+      <button class="filter-chip" data-filter="2021" type="button">2021</button>
+    </div>
+    <div class="carousel-shell" id="all-news" data-carousel>
+      <button class="carousel-arrow carousel-prev" type="button" aria-label="Previous news">←</button>
+      <div class="usecase-track" data-carousel-track>
+        {% for article in sorted %}
+        {% assign year = article.categories[1] %}
+        {% assign type_slug = article.type %}
+        <a class="usecase-card carousel-card" href="{{ article.url }}" target="_blank" rel="noopener noreferrer" data-use-case data-category="{{ year }} {% if type_slug == 'event' %}events{% else %}news{% endif %}">
+          <div class="usecase-image">
+            <img src="{{ article.image }}" alt="{{ article.image_alt }}" loading="lazy" />
+            <span class="featured-badge">{{ year }}</span>
+          </div>
+          <div class="usecase-body">
+            <p class="eyebrow">{{ article.sort_date | date: "%B %Y" }} <span>•</span> {% if type_slug == 'event' %}Events{% else %}News{% endif %}</p>
+            <h3>{{ article.title }}</h3>
+            <p>{{ article.description }}</p>
+            <span class="card-link">Read more <span>→</span></span>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+      <button class="carousel-arrow carousel-next" type="button" aria-label="Next news">→</button>
+    </div>
+    <div class="carousel-status" aria-live="polite">
+      <span class="active"></span><span></span><span></span>
+    </div>
+  </div>
+</section>
+<script src="/scripts-carousel.js" defer></script>

@@ -1,0 +1,19 @@
+- href: /use-cases/ornl-neutron-scattering/
+  image: /assets/nsdf/use_cases/ornl.jpg
+  title: AI-Guided Neutron Scattering
+  description: Scientists identified a magnetic transition in real time using adaptive measurements, AI recommendations, and live visualization connected through NSDF.
+
+- href: /use-cases/chess-synchrotron/
+  image: /assets/nsdf/use_cases/chess.png
+  title: AI-Guided Synchrotron Experiments
+  description: Adaptive measurements focus on the most informative regions using remote AI recommendations and live experiment data.
+
+- href: /use-cases/dark-matter-data/
+  image: /assets/nsdf/use_cases/darkmatter.png
+  title: "Dark matter: democratizing access to rare, high-value scientific datasets"
+  description: Dark matter remains one of the greatest mysteries in physics, yet many valuable datasets are difficult to access because they rely on proprietary data formats and specialized software.
+
+- href: /use-cases/climate-analytics/
+  image: /assets/nsdf/use_cases/climate.png
+  title: "Climate science: scaling petabyte-scale climate analytics"
+  description: Modern climate science relies on petabytes of simulation and observational data, but analyzing these datasets at full resolution is often prohibitively expensive.

@@ -1,0 +1,94 @@
+---
+layout: default
+title: NSDF | Accelerating Scientific Discovery
+description: NSDF connects scientific instruments, data, AI, and advanced computing to enable trustworthy autonomous scientific discovery.
+---
+<section class="hero" id="about">
+  <div class="hero-space" aria-hidden="true"></div>
+  <div class="hero-overlay" aria-hidden="true"></div>
+  <div class="hero-content">
+    <h1>Accelerating<br /><span>Autonomous</span> <br> Scientific Discovery</h1>
+    <br>
+    <p class="hero-vision">NSDF connects scientific instruments, data, AI, and advanced computing to enable trustworthy autonomous scientific discovery.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="/use-cases/">Science in Action<span>→</span></a>
+      <a class="btn btn-primary" href="/news/">Latest News<span>→</span></a>
+    </div>
+  </div>
+</section>
+<section class="science section" id="science">
+  <div class="section-heading">
+    <h2>Science in Action</h2>
+    <p>Real-world use cases. Real scientific impact.</p>
+  </div>
+  <div class="case-grid">
+    {% for card in site.data.home.science_in_action %}
+    <a class="case-card" target="_blank" rel="noopener noreferrer" href="{{ card.href }}">
+      <div class="case-image"><img src="{{ card.image }}" alt="" loading="lazy" /></div>
+      <div class="case-copy">
+        <h3>{{ card.title }}</h3>
+        <p>{{ card.description }}</p>
+        <span class="card-link">Learn more <span>→</span></span>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  <a class="section-link" href="/use-cases/">View all use cases <span>→</span></a>
+</section>
+<section class="impact-strip" aria-label="NSDF impact metrics">
+  <div class="impact-item">
+    <span class="impact-icon">◫</span>
+    <div><strong>75+ PB</strong><small>Scientific data<br />connected</small></div>
+  </div>
+  <div class="impact-item">
+    <span class="impact-icon">▤</span>
+    <div><strong>1.6B+</strong><small>Catalog entries<br />and growing</small></div>
+  </div>
+  <div class="impact-item">
+    <span class="impact-icon">⌂</span>
+    <div><strong>National<br />Facilities</strong><small>Connected through NSDF</small></div>
+  </div>
+  <div class="impact-item">
+    <span class="impact-icon">◎</span>
+    <div><strong>Multiple<br />Domains</strong><small>Advancing discovery together</small></div>
+  </div>
+</section>
+<section class="science section" id="news">
+  <div class="section-heading">
+    <h2>News and Events</h2>
+    <p>Latest updates from the NSDF community.</p>
+  </div>
+  <div class="case-grid">
+    {% for card in site.data.home.news_events %}
+    <a class="case-card" target="_blank" rel="noopener noreferrer" href="{{ card.href }}">
+      <div class="case-image"><img src="{{ card.image }}" alt="" loading="lazy" /></div>
+      <div class="case-copy">
+        <small>{{ card.date }}</small>
+        <h3>{{ card.title }}</h3>
+        <p>{{ card.description }}</p>
+        <span class="card-link">Learn more <span>→</span></span>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  <a class="section-link" href="/news/">View all news <span>→</span></a>
+</section>
+<section class="community section" id="community">
+  <div class="community-copy">
+    <h2>Join the NSDF Community</h2>
+    <p>A national community of scientists, facility operators, developers, educators, and students building the future of autonomous science—together.</p>
+    <div class="community-paths">
+      <div><span>♧</span><strong>Collaborate</strong><small>on use cases</small></div>
+      <div><span>◉</span><strong>Connect</strong><small>your facility or data</small></div>
+      <div><span>⚙</span><strong>Develop</strong><small>tools and services</small></div>
+      <div><span>▣</span><strong>Learn</strong><small>and grow together</small></div>
+    </div>
+  </div>
+  <div class="community-visual">
+    <img src="/assets/nsdf/community.jpg" alt="Scientists collaborating" loading="lazy" />
+    <div class="community-actions">
+      <a class="btn btn-primary" href="/contact/">Join NSDF</a>
+      <a class="btn btn-light" href="/news/">Upcoming Events</a>
+    </div>
+  </div>
+</section>

@@ -1,52 +1,58 @@
+# Collection card schema:
+# - image: card image path
+# - tag / tag_class: optional badge overlay
+# - title / text / size / access: card copy
+# - links: optional list of { label, url } buttons rendered under the copy.
+#   Only these buttons are clickable. If omitted or empty, the card shows
+#   "Coming Soon".
 - image: /assets/nsdf/use_cases/darkmatter.png
   tag: "Physics"
   title: "Dark-Matter Experimental Data"
   text: "Search detector metadata, experimental records, and AI-ready scientific collections."
-  size: "~250 TB"
-  access: "Open Access"
-  link: "#"
-  link_text: "Explore Collection"
+  size: ""
+  access: ""
+
 - image: /assets/nsdf/use_cases/climate.png
   tag: "Earth &amp; Climate"
   tag_class: "tag-green"
   title: "Earth &amp; Climate Data"
   text: "Access global climate models, observations, and reanalysis datasets."
-  size: "~75 PB"
-  access: "Mixed Access"
-  link: "#"
-  link_text: "Explore Collection"
+  size: ""
+  access: ""
+
 - image: /assets/nsdf/use_cases/somospiecover.png
   tag: "Earth &amp; Environment"
   tag_class: "tag-cyan"
   title: "Soil-Moisture Collections"
   text: "In situ and satellite soil-moisture datasets for hydrology and climate research."
-  size: "~2 PB"
-  access: "Open Access"
-  link: "#"
-  link_text: "Explore Collection"
+  size: ""
+  access: ""
+
 - image: /assets/nsdf/use_cases/geotiled.png
   tag: "Geospatial"
   tag_class: "tag-orange"
   title: "Terrain &amp; Geospatial Data"
   text: "High-resolution elevation, terrain, and geospatial datasets for modeling."
-  size: "~10 PB"
-  access: "Open Access"
-  link: "#"
-  link_text: "Explore Collection"
+  size: ""
+  access: ""
+  links:
+    - label: "Dataset"
+      url: "https://scientistcloud.com/portal/public/index.php?folder=SOMOSPIE+Project"
+
 - image: /assets/nsdf/use_cases/ornl.jpg
   tag: "Materials"
   title: "Neutron-Scattering Data"
   text: "Experimental data from neutron facilities for materials research and discovery."
-  size: "~5 PB"
-  access: "Controlled Access"
-  link: "#"
-  link_text: "Explore Collection"
+  size: ""
+  access: ""
+
 - image: /assets/nsdf/use_cases/chess.png
   tag: "Materials"
   tag_class: "tag-blue"
-  title: "Synchrotron Data"
+  title: "CHESS Synchrotron Data"
   text: "Synchrotron experiments for chemistry, physics, and materials science."
-  size: "~3 PB"
-  access: "Controlled Access"
-  link: "#"
-  link_text: "Explore Collection"
+  size: ""
+  access: ""
+  links:
+    - label: "Dashboard"
+      url: "https://intersect.nationalsciencedatafabric.org/dial-dashboard/"

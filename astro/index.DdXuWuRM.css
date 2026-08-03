@@ -2086,10 +2086,6 @@ a.catalog-header:hover {
   border-radius: 9px;
   background: #fff;
   box-shadow: 0 6px 18px rgba(15, 45, 83, 0.06);
-  transition: transform 0.15s ease-in-out;
-}
-.data-entry-card:hover {
-  transform: scale(1.05);
 }
 .entry-icon {
   width: 44px;
@@ -2126,11 +2122,47 @@ a.catalog-header:hover {
 .data-entry-card a,
 .data-heading-row a,
 .collection-body a,
-.collection-card-link,
 .data-info-panel > a {
   color: #075ce8;
   font-size: 13px;
   font-weight: 800;
+}
+.entry-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+}
+.entry-links a {
+  display: inline-block;
+  padding: 6px 12px;
+  border: 1px solid #075ce8;
+  border-radius: 5px;
+  background: #075ce8;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background 0.15s ease-in-out;
+}
+.entry-links a:hover {
+  background: #0546ad;
+}
+.entry-links a span {
+  display: inline-block;
+  transition: transform 0.15s ease-in-out;
+}
+.entry-links a:hover span {
+  transform: translateX(3px);
+}
+.entry-coming-soon {
+  display: inline-block;
+  padding: 3px 10px;
+  border: 1px solid #dfe6ef;
+  border-radius: 999px;
+  background: #f3f6fa;
+  color: #6b7a92;
+  font-size: 12px;
+  font-weight: 700;
 }
 
 .data-section {
@@ -2160,12 +2192,6 @@ a.catalog-header:hover {
   border-radius: 7px;
   background: #fff;
   box-shadow: 0 5px 15px rgba(15, 45, 83, 0.06);
-  transition: transform 0.15s ease-in-out;
-  color: inherit;
-  text-decoration: none;
-}
-.collection-card:hover {
-  transform: scale(1.05);
 }
 .collection-image {
   position: relative;
@@ -2440,7 +2466,9 @@ a.catalog-header:hover {
     font-size: 11px;
   }
   .data-entry-card p,
-  .data-entry-card a {
+  .data-entry-card a,
+  .entry-links,
+  .entry-coming-soon {
     display: none;
   }
 

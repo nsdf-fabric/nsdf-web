@@ -1,26 +1,53 @@
+# Entry card schema:
+# - icon: glyph rendered in the round icon badge
+# - icon_class: "entry-blue" | "entry-green" | "entry-purple"
+# - title / text: card heading and description
+# - links: optional list of { label, url } buttons rendered under the text.
+#   Only these buttons are clickable. If omitted or empty, the card shows
+#   "Coming Soon".
+# - id: optional anchor id applied to the card
+#
+# Example:
+# - icon: "▣"
+#   icon_class: "entry-blue"
+#   title: "Data Portal"
+#   text: "Access selected datasets, collections, dashboards, and domain-specific data experiences."
+#   links:
+#     - label: "Explore Dashboard"
+#       url: "https://example.com/dashboard"
+#     - label: "Explore Data"
+#       url: "https://example.com/data"
+#   id: "data-portal"
+#
 # - icon: "▣"
 #   icon_class: "entry-blue"
 #   title: "Documentation"
 #   text: "Find technical guides, examples, integration instructions, and user documentation."
-#   link: "#"
-#   link_text: "Read the Documentation"
+#   links:
+#     - label: "Read the Documentation"
+#       url: "#"
 #   id: "documentation"
 # - icon: "⌕"
 #   icon_class: "entry-blue"
 #   title: "Data Catalog"
 #   text: "Discover scientific datasets and metadata distributed across NSDF-connected repositories and institutions."
-#   link: "#"
-#   link_text: "Search the Catalog"
+#   links:
+#     - label: "Search the Catalog"
+#       url: "#"
 #   id: "catalog"
 # - icon: "▥"
 #   icon_class: "entry-green"
 #   title: "Data Portal"
 #   text: "Access selected datasets, collections, dashboards, and domain-specific data experiences."
-#   link: "#"
-#   link_text: "Open the Data Portal"
+#   links:
+#     - label: "Explore Dashboard"
+#       url: "#"
+#     - label: "Explore Data"
+#       url: "#"
 # - icon: "⚙"
 #   icon_class: "entry-purple"
 #   title: "Services &amp; Tools"
 #   text: "Use reusable services for discovery, access, streaming, metadata, provenance, and workflows."
-#   link: "#"
-#   link_text: "Explore Services"
+#   links:
+#     - label: "Explore Services"
+#       url: "#"

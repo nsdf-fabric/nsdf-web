@@ -25,7 +25,17 @@ body-class: data-services-page
   {% for entry in site.data.data-services.entries %}
   <article class="data-entry-card"{% if entry.id %} id="{{ entry.id }}"{% endif %}>
     <span class="entry-icon {{ entry.icon_class }}">{{ entry.icon }}</span>
-    <div><h2>{{ entry.title }}</h2><p>{{ entry.text }}</p><a href="{{ entry.link }}">{{ entry.link_text }} <span>→</span></a></div>
+    <div>
+      <h2>{{ entry.title }}</h2>
+      <p>{{ entry.text }}</p>
+      {% if entry.links %}
+      <div class="entry-links">
+        {% for link in entry.links %}<a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }} <span>→</span></a>{% endfor %}
+      </div>
+      {% else %}
+      <span class="entry-coming-soon">Coming Soon</span>
+      {% endif %}
+    </div>
   </article>
   {% endfor %}
 </section>
@@ -37,10 +47,18 @@ body-class: data-services-page
   </div>
   <div class="collection-track" aria-label="Featured data collections">
     {% for item in site.data.data-services.collections %}
-    <a class="collection-card" href="{{ item.link }}">
+    <article class="collection-card">
       <div class="collection-image"><img src="{{ item.image }}" alt="" />{% if item.tag %}<span{% if item.tag_class %} class="{{ item.tag_class }}"{% endif %}>{{ item.tag }}</span>{% endif %}</div>
-      <div class="collection-body"><h3>{{ item.title }}</h3><p>{{ item.text }}</p><small>{{ item.size }} &nbsp;•&nbsp; {{ item.access }}</small><span class="collection-card-link">{{ item.link_text }} <span>→</span></span></div>
-    </a>
+      <div class="collection-body"><h3>{{ item.title }}</h3><p>{{ item.text }}</p><small>{{ item.size }}  {{ item.access }}</small>
+        {% if item.links %}
+        <div class="entry-links">
+          {% for link in item.links %}<a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }} <span>→</span></a>{% endfor %}
+        </div>
+        {% else %}
+        <span class="entry-coming-soon">Coming Soon</span>
+        {% endif %}
+      </div>
+    </article>
     {% endfor %}
   </div>
   <div class="collection-dots" aria-hidden="true"><span class="active"></span><span></span><span></span></div>

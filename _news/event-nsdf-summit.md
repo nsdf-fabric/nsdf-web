@@ -47,7 +47,7 @@ After the summit, a public brief will summarize the community's shared agenda, k
 
 ## Participation
 
-**Expression of Interest and Submissions:** Complete the expression-of-interest form to indicate your interest in attending, presenting a use case, joining a panel or discussion, contributing to a working group, or submitting a position paper.
+**Expression of Interest and Submissions:** Complete the [expression-of-interest form](https://forms.gle/bThVb3pzg3Eceofp7) to indicate your interest in attending, presenting a use case, joining a panel or discussion, contributing to a working group, or submitting a position paper.
 
 ## Contacts
 

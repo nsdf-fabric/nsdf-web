@@ -11,6 +11,9 @@
   text: "Search detector metadata, experimental records, and AI-ready scientific collections."
   size: ""
   access: ""
+  links:
+    - label: "Dashboard"
+      url: "https://intersect.nationalsciencedatafabric.org/darkmatter/nexus-dashboard"
 
 - image: /assets/nsdf/use_cases/climate.png
   tag: "Earth &amp; Climate"

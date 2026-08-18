@@ -2,17 +2,17 @@
 # - image: card image path
 # - tag / tag_class: optional badge overlay
 # - title / text / size / access: card copy
-# - links: optional list of { label, url } buttons rendered under the copy.
-#   Only these buttons are clickable. If omitted or empty, the card shows
-#   "Coming Soon".
+# - dashboard_links: optional list of { label, url } dashboard buttons (rendered in first row).
+# - data_links: optional list of { label, url } data buttons (rendered in second row).
+#   If both are omitted or empty, the card shows "Coming Soon".
 - image: /assets/nsdf/use_cases/darkmatter.png
   tag: "Physics"
   title: "Dark-Matter Experimental Data"
   text: "Search detector metadata, experimental records, and AI-ready scientific collections."
   size: ""
   access: ""
-  links:
-    - label: "Dashboard"
+  dashboard_links:
+    - label: "Nexus DM"
       url: "https://intersect.nationalsciencedatafabric.org/darkmatter/nexus-dashboard"
 
 - image: /assets/nsdf/use_cases/climate.png
@@ -22,6 +22,11 @@
   text: "Access global climate models, observations, and reanalysis datasets."
   size: ""
   access: ""
+  dashboard_links:
+    - label: "CMIP6"
+      url: "https://chpc3.nationalsciencedatafabric.org:12347/dashboards"
+    - label: "NASA"
+      url: "https://chpc3.nationalsciencedatafabric.org:11957/app"
 
 - image: /assets/nsdf/use_cases/somospiecover.png
   tag: "Earth &amp; Environment"
@@ -30,6 +35,9 @@
   text: "In situ and satellite soil-moisture datasets for hydrology and climate research."
   size: ""
   access: ""
+  dashboard_links:
+    - label: "SOMOSPIE"
+      url: "https://chpc3.nationalsciencedatafabric.org:11657/app"
 
 - image: /assets/nsdf/use_cases/geotiled.png
   tag: "Geospatial"
@@ -38,8 +46,8 @@
   text: "High-resolution elevation, terrain, and geospatial datasets for modeling."
   size: ""
   access: ""
-  links:
-    - label: "Dataset"
+  data_links:
+    - label: "Terrain Parameters"
       url: "https://scientistcloud.com/portal/public/index.php?folder=SOMOSPIE+Project"
 
 - image: /assets/nsdf/use_cases/ornl.jpg
@@ -56,6 +64,6 @@
   text: "Synchrotron experiments for chemistry, physics, and materials science."
   size: ""
   access: ""
-  links:
-    - label: "Dashboard"
+  dashboard_links:
+    - label: "CHESS ID1A3"
       url: "https://intersect.nationalsciencedatafabric.org/dial-dashboard/"

@@ -49,13 +49,25 @@ body-class: data-services-page
     <article class="collection-card">
       <div class="collection-image"><img src="{{ item.image }}" alt="" />{% if item.tag %}<span{% if item.tag_class %} class="{{ item.tag_class }}"{% endif %}>{{ item.tag }}</span>{% endif %}</div>
       <div class="collection-body"><h3>{{ item.title }}</h3><p>{{ item.text }}</p><small>{{ item.size }}  {{ item.access }}</small>
-        {% if item.links %}
-        <div class="entry-links">
-          {% for link in item.links %}<a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }} <span>→</span></a>{% endfor %}
+        {% if item.dashboard_links %}
+        <div class="link-group dashboard-group">
+          <span class="link-group-label">Dashboards</span>
+          <div class="entry-links dashboard-links">
+            {% for link in item.dashboard_links %}<a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }} <span>→</span></a>{% endfor %}
+          </div>
         </div>
-        {% else %}
-        <span class="entry-coming-soon">Coming Soon</span>
         {% endif %}
+        {% if item.data_links %}
+        <div class="link-group data-group">
+          <span class="link-group-label">Dataset</span>
+          <div class="entry-links data-links">
+            {% for link in item.data_links %}<a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }} <span>→</span></a>{% endfor %}
+          </div>
+        </div>
+        {% endif %}
+        {% unless item.dashboard_links or item.data_links %}
+        <span class="entry-coming-soon">Coming Soon</span>
+        {% endunless %}
       </div>
     </article>
     {% endfor %}

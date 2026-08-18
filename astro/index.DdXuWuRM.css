@@ -2154,6 +2154,38 @@ a.catalog-header:hover {
 .entry-links a:hover span {
   transform: translateX(3px);
 }
+.dashboard-links {
+  margin-bottom: 2px;
+}
+.data-links {
+  margin-top: 2px;
+}
+.data-links a {
+  background: #0a8754;
+  border-color: #0a8754;
+}
+.data-links a:hover {
+  background: #076b43;
+}
+.collection-card .entry-links {
+  gap: 4px 6px;
+}
+.collection-card .entry-links a {
+  padding: 5px 8px;
+  font-size: 11px;
+}
+.link-group {
+  margin-bottom: 4px;
+}
+.link-group-label {
+  display: block;
+  margin-bottom: 2px;
+  color: #6b7a92;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
 .entry-coming-soon {
   display: inline-block;
   padding: 3px 10px;

@@ -15,6 +15,9 @@ organizers: "Michela Taufer, University of Tennessee, Knoxville<br />Valerio Pas
 featured_event: true
 ---
 
+## If you want to attend the NSDF Summit, please register on the PACT website [here](https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary)
+
+
 ## Overview
 
 Research facilities in scientific fields such as advanced manufacturing, materials science, energy, and medicine generate vast, heterogeneous, and often sensitive data that cannot easily leave their operational environments. Yet the most pressing scientific and engineering challenges depend on the free flow of insights, models, and intelligence across institutional boundaries. This National Science Data Fabric (NSDF) summit brings together leaders from academia, industry, and national laboratories to explore how federated data architectures and autonomous AI can unlock the full potential of collaborative science without compromising security, sovereignty, or regulatory compliance.

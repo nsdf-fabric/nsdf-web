@@ -42,3 +42,7 @@ Using NSDF, scientists observe the evolving experiment, understand why the AI re
 ## Relevant Links
 
 - [UTK Press Release: a geographically distributed workflow](https://eecs.utk.edu/a-geographically-distributed-workflow/)
+
+- [NSDF News: Breakthrough in AI-Guided Autonomous Experiments](https://nationalsciencedatafabric.org/news/nsdf-at-ornl/)
+
+- [NSDF News: Autonomous Powder Diffraction on POWGEN](https://nationalsciencedatafabric.org/news/nsdf-at-ornl2/)

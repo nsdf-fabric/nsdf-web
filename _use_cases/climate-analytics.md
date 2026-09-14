@@ -30,3 +30,6 @@ Using the 2.8 PB NASA ECCO climate dataset, NSDF reduced data usage by **99%**, 
 - **Machine learning reconstruction** preserves critical climate features while minimizing data movement
 
 ## Relevant Links
+### Dashboards ###
+- [NEX CMIP6 Dashboard](https://chpc3.nationalsciencedatafabric.org:12347/dashboards)
+- [NSDF Dashboard](https://chpc3.nationalsciencedatafabric.org:11957/app)

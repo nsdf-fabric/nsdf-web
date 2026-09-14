@@ -31,3 +31,6 @@ SOMOSPIE transforms coarse environmental observations into high-resolution soil 
 ## Relevant Links
 
 - [SOMOSPIE Project](https://github.com/TauferLab/SOMOSPIE)
+
+### Dashboards ###
+- [SOMOSPIE Dashboard](https://chpc3.nationalsciencedatafabric.org:11657/app)

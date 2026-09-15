@@ -38,4 +38,3 @@ The integrated workflow supports sustained autonomous experimentation under real
 
 ### Dashboards ###
 - [ID1A3 Dashboard](https://intersect.nationalsciencedatafabric.org/dial-dashboard/)
-- [Strain Dashboard](https://scientistcloud.com/dashboard/ORNL_CHESS_strain/?uuid=a94cc82a-6335-450f-8f19-6cfe7ab3c958&server=true&name=Strain%20S3%20link%20CHess%20Data%20%28Experiment%29)

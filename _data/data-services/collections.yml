@@ -108,8 +108,6 @@
   dashboard_links:
     - label: "ID1A3"
       url: "https://intersect.nationalsciencedatafabric.org/dial-dashboard/"
-    - label: "Strain"
-      url: "https://scientistcloud.com/dashboard/ORNL_CHESS_strain/?uuid=a94cc82a-6335-450f-8f19-6cfe7ab3c958&server=true&name=Strain%20S3%20link%20CHess%20Data%20%28Experiment%29"
   data_links:
     - label: "CHESS ORNL"
       url: "https://scientistcloud.com/portal/index.php?folder=ORNL+CHESS+UTK+UTAH"

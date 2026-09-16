@@ -14,6 +14,9 @@
   dashboard_links:
     - label: "Nexus DM"
       url: "https://intersect.nationalsciencedatafabric.org/darkmatter/nexus-dashboard"
+  data_links:
+    - label: "UMN"
+      url: "https://scientistcloud.com/portal/index.php"
 
 - image: /assets/nsdf/use_cases/climate.png
   tag: "Earth &amp; Climate"
@@ -25,8 +28,39 @@
   dashboard_links:
     - label: "CMIP6"
       url: "https://chpc3.nationalsciencedatafabric.org:12347/dashboards"
+  data_links:
+    - label: "NEX"
+      url: "https://nsdf-climate3-origin.nationalresearchplatform.org:50098/nasa/nsdf/climate3/cmip6/idx/nex-gddp-cmip6.idx"
+
+- image: /assets/nsdf/use_cases/nasa_salinity.png
+  tag: "Earth &amp; Climate"
+  tag_class: "tag-orange"
+  title: "Oceanic Data"
+  text: "High-resolution ocean datasets for climate analysis."
+  size: ""
+  access: ""
+  dashboard_links:
     - label: "NASA"
       url: "https://chpc3.nationalsciencedatafabric.org:11957/app"
+  data_links:
+    - label: "Theta/Salt"
+      url: "https://nsdf-climate1-origin.nationalresearchplatform.org:50098/nasa/nsdf/climate1/"
+    - label: "Vertical Velocity"
+      url: "https://nsdf-climate2-origin.nationalresearchplatform.org:50098/nasa/nsdf/climate2/llc4320/idx/"
+
+- image: /assets/nsdf/use_cases/nasa_dyamond.png
+  tag: "Earth &amp; Climate"
+  tag_class: "tag-blue"
+  title: "Atmospheric &amp; Ocean Data"
+  text: "High-resolution ocean and atmospheric datasets for climate analysis."
+  size: ""
+  access: ""
+  dashboard_links:
+    - label: "NASA"
+      url: "https://chpc3.nationalsciencedatafabric.org:11957/app"
+  data_links:
+    - label: "DYAMOND"
+      url: "https://nsdf-climate3-origin.nationalresearchplatform.org:50098/nasa/nsdf/climate3/dyamond/mit_output/"
 
 - image: /assets/nsdf/use_cases/somospiecover.png
   tag: "Earth &amp; Environment"
@@ -38,6 +72,11 @@
   dashboard_links:
     - label: "SOMOSPIE"
       url: "https://chpc3.nationalsciencedatafabric.org:11657/app"
+  data_links:
+    - label: "SOMOSPIE"
+      url: "https://scientistcloud.com/portal/public/index.php?folder=SOMOSPIE+Project"
+    - label: "NASMo"
+      url: "https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-nasmo-tiam-250m-2326-1"
 
 - image: /assets/nsdf/use_cases/geotiled.png
   tag: "Geospatial"
@@ -47,8 +86,10 @@
   size: ""
   access: ""
   data_links:
-    - label: "Terrain Parameters"
+    - label: "Terrain"
       url: "https://scientistcloud.com/portal/public/index.php?folder=SOMOSPIE+Project"
+    - label: "GEOtiled"
+      url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B33F4X"
 
 - image: /assets/nsdf/use_cases/ornl.jpg
   tag: "Materials"
@@ -59,11 +100,36 @@
 
 - image: /assets/nsdf/use_cases/chess.png
   tag: "Materials"
-  tag_class: "tag-blue"
+  tag_class: "tag-green"
   title: "CHESS Synchrotron Data"
   text: "Synchrotron experiments for chemistry, physics, and materials science."
   size: ""
   access: ""
   dashboard_links:
-    - label: "CHESS ID1A3"
+    - label: "ID1A3"
       url: "https://intersect.nationalsciencedatafabric.org/dial-dashboard/"
+  data_links:
+    - label: "CHESS ORNL"
+      url: "https://scientistcloud.com/portal/index.php?folder=ORNL+CHESS+UTK+UTAH"
+
+- image: /assets/nsdf/use_cases/a4nn.png
+  tag: "Materials"
+  tag_class: "tag-orange"
+  title: "A4NN Protein Diffraction Data"
+  text: "Descriptions, Checkpoints, and Training history for the A4NN workflow on Protein Diffraction data."
+  size: ""
+  access: ""
+  data_links:
+    - label: "A4NN"
+      url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JS9FR6"
+
+- image: /assets/nsdf/use_cases/a4md.png
+  tag: "Materials"
+  tag_class: "tag-blue"
+  title: "A4MD Molecular Dynamics Data"
+  text: "Molecular dynamics data for analysis of conformational changes and molecular behavior."
+  size: ""
+  access: ""
+  data_links:
+    - label: "A4MD"
+      url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ML5607"

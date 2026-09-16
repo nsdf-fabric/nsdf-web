@@ -2201,6 +2201,7 @@ a.catalog-header:hover {
   width: min(1160px, calc(100% - 48px));
   margin: 0 auto 19px;
 }
+
 .data-heading-row {
   display: flex;
   align-items: baseline;
@@ -2212,18 +2213,67 @@ a.catalog-header:hover {
   margin: 0;
   font-size: 17px;
 }
-.collection-track {
-  display: grid;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
-  gap: 9px;
+.data-carousel-shell {
+  position: relative;
 }
-.collection-card {
-  display: block;
-  overflow: hidden;
+.data-carousel-arrow {
+  position: absolute;
+  z-index: 5;
+  top: 50%;
+  width: 38px;
+  height: 38px;
+  margin-top: -19px;
+  border: 1px solid #d6dfeb;
+  border-radius: 50%;
+  background: #fffffff5;
+  color: var(--blue);
+  box-shadow: 0 7px 20px #071a3a1f;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.2s ease, background 0.2s ease;
+}
+.data-carousel-prev {
+  left: -48px;
+}
+.data-carousel-next {
+  right: -48px;
+}
+.data-carousel-status {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 9px;
+}
+.data-carousel-status span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #ced6e3;
+}
+.data-carousel-status .active {
+  background: var(--blue);
+}
+.data-carousel-shell .collection-track {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  /* padding: 1px; */
+}
+.data-carousel-shell .collection-track::-webkit-scrollbar {
+  display: none;
+}
+.data-carousel-shell .collection-card {
+  flex: 0 0 calc((100% - 30px) / 4);
+  scroll-snap-align: start;
+  border-radius: 9px;
   border: 1px solid #dfe6ef;
-  border-radius: 7px;
-  background: #fff;
-  box-shadow: 0 5px 15px rgba(15, 45, 83, 0.06);
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(15, 45, 83, 0.06);
 }
 .collection-image {
   position: relative;
@@ -2282,10 +2332,6 @@ a.catalog-header:hover {
   color: #46546b;
   font-size: 12px;
 }
-.collection-dots {
-  display: none;
-}
-
 .capabilities-section {
   padding-top: 2px;
 }

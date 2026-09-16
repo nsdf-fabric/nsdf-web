@@ -186,7 +186,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr style="background-color: #dfdfdf;">
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><b>12:00 PM – 1:30 PM</b></td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Lunch</td>
-                <td colspan="2" style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><b>Lunch</b></td>
+                <td colspan="2" style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><b>Lunch and Group Photo</b></td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><b>90 min </b></td> 
             </tr>
             <!-- Session break -->

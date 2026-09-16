@@ -31,3 +31,10 @@ The integrated workflow supports sustained autonomous experimentation under real
 ## Relevant Links
 
 - [UTK Press Release: a geographically distributed workflow](https://eecs.utk.edu/a-geographically-distributed-workflow/)
+
+- [Cornell Chronicle: Where the Beam Points Next: Autonomous Experiments Take Shape at CHESS](https://news.cornell.edu/stories/2026/08/where-beam-points-next-autonomous-experiments-take-shape-chess)
+
+- [ORNL: AI powers self-driving science](https://www.ornl.gov/news/ai-powers-self-driving-science)
+
+### Dashboards ###
+- [ID1A3 Dashboard](https://intersect.nationalsciencedatafabric.org/dial-dashboard/)

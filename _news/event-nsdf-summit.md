@@ -1,7 +1,7 @@
 ---
 title: "NSDF Summit on Federated Autonomous Science"
 sort_date: 2026-10-01
-image: /assets/nsdf/hero-space.jpg
+image: /assets/nsdf/chicago-Summit26.jpg
 image_alt: ""
 description: "NSDF Summit on Federated Autonomous Science — October 19, 2026 in Chicago, Illinois."
 type: event
@@ -9,14 +9,26 @@ categories: [events, 2026]
 event_date: "Monday, October 19, 2026 (all day) and Tuesday, October 20, 2026 (morning)"
 event_date_abbr: "OCT"
 event_day: "19"
-location: "Illini Center, Chicago, Illinois, USA"
+location: "Discovery Partners Institute, 200 S Wacker, Chicago, IL 60606 4th floor"
 affiliation: "Held in conjunction with PACT 2026"
 organizers: "Michela Taufer, University of Tennessee, Knoxville<br />Valerio Pascucci, University of Utah"
+program: '<a href="#program">Jump to Program </a>'
+pact: '<a href="https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary"> Here </a>'
 featured_event: true
+featured: true
+featured_points:
+  - icon: "◎"
+    title: "Summit Focus"
+    text: "Examining how federated data architectures and autonomous AI support collaborative science while respecting security and data sovereignty."
+  - icon: "⚛"
+    title: "Core Domains"
+    text: "Addressing data, technical, and policy needs across materials science, nuclear energy, and clinical medicine."
+  - icon: "♜"
+    title: "Expected Outcomes"
+    text: "Building partnerships to identify shared infrastructure gaps, candidate pilot projects, and priorities for coorindated investment."
 ---
 
 ## If you want to attend the NSDF Summit, please register on the PACT website [here](https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary)
-**Program**: [Jump to Program](#program)
 
 
 ## Overview
@@ -56,7 +68,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <th colspan= "5" style="padding: 8px; text-align: center">NSDF Summit on Federated Autonomous Science — Speaker Program</th>
             </tr>
             <tr style = "background-color: #c6daf0; color:white;">
-                <th colspan= "5" style="padding: 8px; text-align: center; color: #1D304C">Monday, October 19th, 2026 - Illini Center, Chicago</th>
+                <th colspan= "5" style="padding: 8px; text-align: center; color: #1D304C">Monday, October 19th, 2026 - Discovery Partners Institute, 200 S Wacker, Chicago, IL 60606 4th floor</th>
             </tr>
             <tr style = "background-color: #c6daf0; color:white;">
                 <th colspan= "5" style="padding: 8px; text-align: center; color: #1D304C">Summit 9:00 AM-5:00 PM - Welcome Reception 5:00-6:00 PM</th>
@@ -416,7 +428,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <th colspan= "5" style="padding: 64px;"></th>
             </tr>
             <tr style = "background-color: #c6daf0; color:white;">
-                <th colspan= "5" style="padding: 8px; text-align: center; color: #1D304C">Tuesday, October 20th, 2026 - Illini Center, Chicago</th>
+                <th colspan= "5" style="padding: 8px; text-align: center; color: #1D304C">Tuesday, October 20th, 2026 - Discovery Partners Institute, 200 S Wacker, Chicago, IL 60606 4th floor</th>
             </tr>
             <tr style = "background-color: #c6daf0; color:white;">
                 <th colspan= "5" style="padding: 8px; text-align: center; color: #1D304C">Summit 9:00 AM–10:30 AM - Join Keynote NSDF & PACT2026</th>

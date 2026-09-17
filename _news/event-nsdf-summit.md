@@ -13,7 +13,7 @@ location: "Discovery Partners Institute, 200 S Wacker, Chicago, IL 60606 4th flo
 affiliation: "Held in conjunction with PACT 2026"
 organizers: "Michela Taufer, University of Tennessee, Knoxville<br />Valerio Pascucci, University of Utah"
 program: '<a href="#program">Jump to Program </a>'
-pact: '<a href="https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary"> Here </a>'
+pact: '<a href="https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary" target="_blank"> Here </a>'
 featured_event: true
 featured: true
 featured_points:
@@ -28,7 +28,7 @@ featured_points:
     text: "Building partnerships to identify shared infrastructure gaps, candidate pilot projects, and priorities for coorindated investment."
 ---
 
-## If you want to attend the NSDF Summit, please register on the PACT website [here](https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary)
+<h2>If you want to attend the NSDF Summit, please register on the PACT website <a href= "https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary" target="_blank">Here </a></h2>
 
 
 ## Overview
@@ -54,7 +54,7 @@ The discussions will inform a public post-Summit brief that documents shared req
 ## Registration and participation ##
 Registration is available through the PACT 2026 registration site. Select the tutorials and workshops option for Monday, October 19, to register for the NSDF Summit.  
 
-[Register for the NSDF Summit](https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary)  
+<a href= "https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary" target="_blank">Register for the NSDF Summit </a>
 
 Position papers submitted by September 15 receive priority consideration for the program. Additional position papers are accepted through September 30, 2026. Submissions may describe a scientific use case, infrastructure capability, open challenge, collaboration opportunity, or proposed pilot.
 
@@ -497,4 +497,4 @@ Valerio Pascucci | University of Utah | [pascucci.valerio@gmail.com](mailto:pasc
 ## About NSDF ##
 The National Science Data Fabric develops a distributed data and computing environment that helps researchers discover, access, share, and analyze scientific data across institutions and domains. NSDF is supported by the National Science Foundation under Award 2609465.  
 
-[National Science Data Fabric](https://nationalsciencedatafabric.org)
+<a href= "https://nationalsciencedatafabric.org" target="_blank">National Science Data Fabric </a>

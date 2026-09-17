@@ -1,3 +1,9 @@
+- href: /news/event-nsdf-summit/
+  image: /assets/nsdf/news/nsdf-at-summit26.jpg
+  date: October 2026
+  title: NSDF Summit on Federated Autonomous Science
+  description: NSDF Summit on Federated Autonomous Science — October 19, 2026 in Chicago, Illinois.
+
 - href: /news/nsdf-at-isc26/
   image: /assets/nsdf/news/nsdf-at-isc.jpg
   date: June 2026
@@ -15,9 +21,3 @@
   date: Dec 2025
   title: NSDF Highlighted at SC25 Talk on Interconnected Autonomous Science Labs
   description: At SC25, Taufer showcased NSDF's breakthrough partnership with ORNL and demonstrated how NSDF's federated infrastructure enables real-time, HPC-integrated autonomous discovery.
-
-- href: /news/nsdf-at-ornl2/
-  image: /assets/nsdf/news/nsdf-at-ornl-2.png
-  date: October 2025
-  title: NSDF and INTERSECT@ORNL POWGEN Autonomous Experiment
-  description: Scaling from one beamline to many. NSDF connects instruments to AI for on-the-fly autonomous powder diffraction.

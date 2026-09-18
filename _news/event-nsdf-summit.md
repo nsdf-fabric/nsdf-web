@@ -30,7 +30,6 @@ featured_points:
 
 <h2>If you want to attend the NSDF Summit, please register on the PACT website <a href= "https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary" target="_blank">Here </a></h2>
 
-
 ## Overview
 
 Research facilities in advanced manufacturing, materials science, energy, medicine, and other fields generate vast, heterogeneous, and often sensitive data. Much of this data must remain close to the instruments and facilities where it is produced. At the same time, scientific discovery increasingly depends on connecting data, computing resources, artificial intelligence, and expertise across institutions.  
@@ -38,27 +37,30 @@ The NSDF Summit on Federated Autonomous Science will bring together leaders from
 The Summit is a working meeting. Participants will compare requirements across scientific domains, identify common technical and organizational barriers, and define opportunities for shared infrastructure and collaborative pilot projects.
 
 ## Four Core Discussion Areas
-- **Materials science and manufacturing:** The discussion will examine AI-guided experiments, autonomous facilities, materials design, data fusion, and the integration of experimental and computational data across distributed facilities.  
-- **Energy and power systems:** Participants will consider trustworthy autonomous control, including nuclear systems, and the data, computing, validation, and security requirements needed to support AI-assisted operation.  
-- **Health and medicine:** The discussion will address clinical AI, multiomic data, surgical intelligence, privacy-sensitive collaboration, community standards, and methods for learning across distributed data repositories. 
+
+- **Materials science and manufacturing:** The discussion will examine AI-guided experiments, autonomous facilities, materials design, data fusion, and the integration of experimental and computational data across distributed facilities.
+- **Energy and power systems:** Participants will consider trustworthy autonomous control, including nuclear systems, and the data, computing, validation, and security requirements needed to support AI-assisted operation.
+- **Health and medicine:** The discussion will address clinical AI, multiomic data, surgical intelligence, privacy-sensitive collaboration, community standards, and methods for learning across distributed data repositories.
 - **Cross-cutting foundations:** The Summit will identify requirements shared across the three scientific areas, including federated data access, AI-ready metadata, provenance, reproducibility, semantics, workflow portability, networking, cybersecurity, governance, and policy.
 
+## Who should attend
 
-## Who should attend ##
 The Summit welcomes research facility operators, scientific application teams, data and AI researchers, cyberinfrastructure developers, network providers, standards organizations, industry partners, program leaders, and policy experts. The program is designed for participants who want to help define practical requirements and contribute to future collaborations.
 
+## Expected outcomes
 
-## Expected outcomes ##
 The discussions will inform a public post-Summit brief that documents shared requirements, research and infrastructure gaps, partnership opportunities, candidate pilot projects, and priorities for coordinated investment. Participants will also have opportunities to identify collaborators and propose concrete next steps.
 
-## Registration and participation ##
-Registration is available through the PACT 2026 registration site. Select the tutorials and workshops option for Monday, October 19, to register for the NSDF Summit.  
+## Registration and participation
+
+Registration is available through the PACT 2026 registration site. Select the tutorials and workshops option for Monday, October 19, to register for the NSDF Summit.
 
 <a href= "https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary" target="_blank">Register for the NSDF Summit </a>
 
 Position papers submitted by September 15 receive priority consideration for the program. Additional position papers are accepted through September 30, 2026. Submissions may describe a scientific use case, infrastructure capability, open challenge, collaboration opportunity, or proposed pilot.
 
-## Program ##
+## Program
+
 All times are **Central Time**. The program combines invited talks, concise position statements, moderated panels, pilot pitches, and structured discussion.
 
 <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; width: 100%;">
@@ -135,7 +137,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <td rowspan="1" style="padding: 8px; border-bottom: 1px solid #ddd; vertical-align: top;"><b>10:30 AM – 12:00 PM</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talks & Discussion</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Science Domains and Trustworthy Autonomy</b></td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Moderator: TBA</b></td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Moderator: Mike Papka, Argonne National Laboratory; University of Illinois Chicago</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Total: 90 min</b></td>   
             </tr>
             <tr> 
@@ -183,8 +185,8 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBD</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Mike Papka</b>, Argonne National Laboratory; University of Illinois Chicago</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Quantum Mechanics-Based Multitensor AI/ML Uniquely Able to Discover, Validate and Interpret Predictors of Patient Outcomes and Drug Targets from Small-Cohort, Noisy and High-Dimensional Multiomic Data</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Mike Kirby</b>, University of Utah</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">10 min</td>   
             </tr>
                 <tr> 
@@ -212,8 +214,8 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">AI Readiness and the User Facilities: Autonomy, Metadata, and Agentic AI at the NCNR User Facility</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>William Ratcliff</b>, NIST Center for Neutron Research</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Knowledge Representation & Semantics in AI Science</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Cogan Shimizu</b>, Wright State University</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
@@ -226,8 +228,8 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Autonomous Science at NLR</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Kristi Potter</b>, National Laboratory of the Rockies</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Federating Research Infrastructure for Portable, Flexible Scientific Workflows</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Jelena Mirkovic</b>, USC Information Sciences Institute</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
@@ -269,8 +271,8 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Adaptive Learning for Distributed and Collaborative Discovery</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Wei Chen</b>, Northwestern University</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Dissolving the Data/Compute Boundary — in Both Directions, at Runtime</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Steven Frank</b>, sophic-compute.com</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
@@ -290,8 +292,8 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Dissolving the Data/Compute Boundary — in Both Directions, at Runtime</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Steven Frank</b>, Sophic-Compute</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">AI-BIOME: The AI-Enabled Bio-Inspired Materials Ecosystem</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Ronald Koder</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
@@ -313,7 +315,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <td rowspan="1" style="padding: 8px; border-bottom: 1px solid #ddd; vertical-align: top;"><b>3:30 PM – 4:10 PM</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Pilot Pitches & Discussion</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>From Position Papers to Collaborative Pilots</b></td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Moderator: TBA</b></td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Moderator: Timo Bremer, Lawrence Livermore National Laboratory and University of Utah</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Total: 40 min</b></td>   
             </tr>
             <tr> 
@@ -333,8 +335,8 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Pilot pitch</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Can Autonomous Science Trust What It Perceives?</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Guangzhi Qu</b>, Oakland University</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">In-Space Manufacturing</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Sidharth Kumar</b>, University of Illinois Chicago</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
@@ -376,15 +378,15 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Federating Research Infrastructure for Portable, Flexible Scientific Workflows</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Jelena Mirkovic</b>, USC Information Sciences Institute</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBA</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Chris Fancher</b>, ORNL</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Knowledge Representation & Semantics in AI Science</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Cogan Shimizu</b>, Wright State University</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Autonomous Science at NLR</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Kristi Potter</b>, National Laboratory of the Rockies</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
@@ -397,8 +399,8 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">In-Space Manufacturing</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Sidharth Kumar</b>, University of Illinois Chicago</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">AI Readiness and the User Facilities: Autonomy, Metadata, and Agentic AI at the NCNR User Facility</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>William Ratcliff</b>, NIST Center for Neutron Research</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
@@ -468,6 +470,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
 </div>
 
 ## Organizers
+
 <div style="overflow-x: auto; -webkit-overflow-scrolling: touch; width: 100%;">
     <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; text-align: left; line-height: 1.5;">
         <thead>
@@ -494,7 +497,8 @@ All times are **Central Time**. The program combines invited talks, concise posi
 Michela Taufer | University of Tennessee, Knoxville | [mtaufer@utk.edu](mailto:mtaufer@utk.edu)
 Valerio Pascucci | University of Utah | [pascucci.valerio@gmail.com](mailto:pascucci.valerio@gmail.com)
 
-## About NSDF ##
-The National Science Data Fabric develops a distributed data and computing environment that helps researchers discover, access, share, and analyze scientific data across institutions and domains. NSDF is supported by the National Science Foundation under Award 2609465.  
+## About NSDF
+
+The National Science Data Fabric develops a distributed data and computing environment that helps researchers discover, access, share, and analyze scientific data across institutions and domains. NSDF is supported by the National Science Foundation under Award 2609465.
 
 <a href= "https://nationalsciencedatafabric.org" target="_blank">National Science Data Fabric </a>

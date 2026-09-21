@@ -185,7 +185,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Quantum Mechanics-Based Multitensor AI/ML Uniquely Able to Discover, Validate and Interpret Predictors of Patient Outcomes and Drug Targets from Small-Cohort, Noisy and High-Dimensional Multiomic Data</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBA</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Mike Kirby</b>, University of Utah</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">10 min</td>   
             </tr>
@@ -364,7 +364,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr style="background-color: #DDEED5">
                 <td rowspan="1" style="padding: 8px; border-bottom: 1px solid #ddd; vertical-align: top;"><b>4:10 PM – 4:50 PM</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statements & Panel</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Shared Agenda for NSDF and NSF</b></td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Shared Agenda for NSDF and Federal Agencies and Labs</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Moderator: TBA</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Total: 40 min</b></td>   
             </tr>

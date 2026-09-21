@@ -185,7 +185,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBA</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Introducing AURORA: A Utah Programmable Cloud Laboratory (PCL) Node for Quantum Materials and Beyond</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Mike Kirby</b>, University of Utah</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">10 min</td>   
             </tr>

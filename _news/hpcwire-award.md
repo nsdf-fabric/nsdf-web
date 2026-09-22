@@ -10,8 +10,7 @@ categories: [news, 2026]
 
 ## NSDF Collaboration Named Finalist for 2026 HPCwire Readers’ Choice Award ##
 
-
-The National Science Data Fabric (NSDF) and its partners have been selected as finalists for the 2026 HPCwire Readers’ Choice Awards in Category 14: **Best HPC/AI Collaboration (Academia/Government/Industry).** 
+The National Science Data Fabric (NSDF) and its partners have been selected as finalists for the <a href= "https://www.hpcwire.com/2026-hpcwire-readers-choice-awards-voting-is-open/" target="_blank">2026 HPCwire Readers’ Choice Awards</a> in Category 14: **Best HPC/AI Collaboration (Academia/Government/Industry).** 
  
 The nomination recognizes a nationally distributed autonomous laboratory collaboration among NSDF, the Cornell High Energy Synchrotron Source (CHESS), Oak Ridge National Laboratory (ORNL), the National Institute of Standards and Technology (NIST), and ViSOAR LLC.  
   

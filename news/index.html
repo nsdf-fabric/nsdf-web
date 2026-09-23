@@ -66,6 +66,7 @@ body-class: news-page
       <button class="filter-chip active" data-filter="all" type="button">All</button>
       <button class="filter-chip" data-filter="news" type="button">News</button>
       <button class="filter-chip" data-filter="events" type="button">Events</button>
+      <button class="filter-chip" data-filter="NSDF-in-media" type="button">NSDF in the Media</button>
       <button class="filter-chip" data-filter="2026" type="button">2026</button>
       <button class="filter-chip" data-filter="2025" type="button">2025</button>
       <button class="filter-chip" data-filter="2024" type="button">2024</button>
@@ -79,13 +80,13 @@ body-class: news-page
         {% for article in sorted %}
         {% assign year = article.categories[1] %}
         {% assign type_slug = article.type %}
-        <a class="usecase-card carousel-card" href="{{ article.url }}" target="_blank" rel="noopener noreferrer" data-use-case data-category="{{ year }} {% if type_slug == 'event' %}events{% else %}news{% endif %}">
+        <a class="usecase-card carousel-card" href="{{ article.url }}" target="_blank" rel="noopener noreferrer" data-use-case data-category="{{ year }} {% if type_slug == 'event' %}events{% elsif type_slug == 'NSDF-in-media' %}NSDF-in-media{% else %}news{% endif %}">
           <div class="usecase-image">
             <img src="{{ article.image }}" alt="{{ article.image_alt }}" loading="lazy" />
             <span class="featured-badge">{{ year }}</span>
           </div>
           <div class="usecase-body">
-            <p class="eyebrow">{{ article.sort_date | date: "%B %Y" }} <span>•</span> {% if type_slug == 'event' %}Events{% else %}News{% endif %}</p>
+            <p class="eyebrow">{{ article.sort_date | date: "%B %Y" }} <span>•</span> {% if type_slug == 'event' %}Events{% elsif type_slug == 'NSDF-in-media' %}NSDF-in-Media{% else %}News{% endif %}</p>
             <h3>{{ article.title }}</h3>
             <p>{{ article.description }}</p>
             <span class="card-link">Read more <span>→</span></span>

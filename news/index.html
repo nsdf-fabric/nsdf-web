@@ -86,7 +86,7 @@ body-class: news-page
             <span class="featured-badge">{{ year }}</span>
           </div>
           <div class="usecase-body">
-            <p class="eyebrow">{{ article.sort_date | date: "%B %Y" }} <span>•</span> {% if type_slug == 'event' %}Events{% elsif type_slug == 'NSDF-in-media' %}NSDF-in-Media{% else %}News{% endif %}</p>
+            <p class="eyebrow">{{ article.sort_date | date: "%B %Y" }} <span>•</span> {% if type_slug == 'event' %}Events{% elsif type_slug == 'NSDF-in-media' %}NSDF in Media{% else %}News{% endif %}</p>
             <h3>{{ article.title }}</h3>
             <p>{{ article.description }}</p>
             <span class="card-link">Read more <span>→</span></span>

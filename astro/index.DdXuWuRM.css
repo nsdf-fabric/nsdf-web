@@ -3225,6 +3225,12 @@ a.catalog-header:hover {
   border-radius: 16px;
   background: #fff;
 }
+.split-content > a {
+  padding: 31px;
+  border: 1px solid #dce5ef;
+  border-radius: 16px;
+  background: #fff;
+}
 .split-content h2 {
   font-size: 32px;
   margin: 0 0 12px;
@@ -3233,7 +3239,11 @@ a.catalog-header:hover {
   color: #60708b;
   line-height: 1.6;
 }
-.split-content a,
+.split-content .portal-card:hover{
+  background: #f0f4fa;
+  box-shadow: 0 4px 14px #0f27481a;
+}
+.split-content .portal-card-link,
 .section-link {
   color: #075ce8;
   font-weight: 800;

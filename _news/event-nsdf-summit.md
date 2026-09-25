@@ -378,7 +378,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">TBA</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Autonomous Science at Interconnected User Facilities</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Chris Fancher</b>, ORNL</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>

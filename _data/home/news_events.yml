@@ -10,20 +10,15 @@
   title: NSDF Collaboration Named Finalist for 2026 HPCwire Readers’ Choice Award
   description: Voting is open through October 2, 2026. NSDF is a finalist for the 2026 HPCwire Readers’ Choice Award.
 
-- href: /news/nsdf-at-isc26/
-  image: /assets/nsdf/news/nsdf-at-isc.jpg
-  date: June 2026
-  title: NSDF Advances Autonomous Scientific Discovery at ISC 2026
-  description: NSDF is featured at the 2nd Workshop on Advancing Autonomous Scientific Discovery at ISC 2026 in Hamburg.
+- href: /news/nitm-cornell-beam/
+  image: /assets/nsdf/news/nitm-cornell-beam.png
+  date: August 2026
+  title: "Where the Beam Points Next: Autonomous Experiments Take Shape at CHESS"
+  description: "An X-ray experiment at Cornell recently did something unusual: It decided for itself where to take its next measurement."
 
-- href: /news/nsdf-at-doedatadays/
-  image: /assets/nsdf/news/nsdf-at-doedatadays.png
-  date: Mar 2026
-  title: NSDF Presented AI-Guided Beamline Experiments at DOE Data Days
-  description: NSDF presented AI-guided beamline experiments with INTERSECT at ORNL and CHESS, showcasing live adaptive measurements.
+- href: /news/nitm-purdue/
+  image: /assets/nsdf/news/nitm-purdue.png
+  date: August 2026
+  title: "Purdue enables AI- and data- cyberinfrastructure, partners in multiple newly awarded NSF projects"
+  description: "Purdue’s Rosen Center for Advanced Computing (RCAC) has recently secured funding as a partner on multiple National Science Foundation (NSF) grants. The grants come from the Integrated Data Systems and Services (IDSS) program."
 
-- href: /news/nsdf-at-sc25/
-  image: /assets/nsdf/news/nsdf-at-sc25.png
-  date: Dec 2025
-  title: NSDF Highlighted at SC25 Talk on Interconnected Autonomous Science Labs
-  description: At SC25, Taufer showcased NSDF's breakthrough partnership with ORNL and demonstrated how NSDF's federated infrastructure enables real-time, HPC-integrated autonomous discovery.

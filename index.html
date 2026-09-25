@@ -59,7 +59,7 @@ description: NSDF connects scientific instruments, data, AI, and advanced comput
     <p>Latest updates from the NSDF community.</p>
   </div>
   <div class="case-grid">
-    {% for card in site.data.home.news_events %}
+    {% for card in site.data.home.news_events limit:4 %}
     <a class="case-card" target="_blank" rel="noopener noreferrer" href="{{ card.href }}">
       <div class="case-image"><img src="{{ card.image }}" alt="" loading="lazy" /></div>
       <div class="case-copy">

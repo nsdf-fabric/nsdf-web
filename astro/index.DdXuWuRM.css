@@ -2200,6 +2200,7 @@ a.catalog-header:hover {
 .data-section {
   width: min(1160px, calc(100% - 48px));
   margin: 0 auto 19px;
+  overflow: visible;
 }
 
 .data-heading-row {
@@ -2215,6 +2216,8 @@ a.catalog-header:hover {
 }
 .data-carousel-shell {
   position: relative;
+  width: calc(100% - 96px);
+  margin: 0 auto;
 }
 .data-carousel-arrow {
   position: absolute;
@@ -2262,7 +2265,6 @@ a.catalog-header:hover {
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
   scrollbar-width: none;
-  /* padding: 1px; */
 }
 .data-carousel-shell .collection-track::-webkit-scrollbar {
   display: none;
@@ -2475,23 +2477,52 @@ a.catalog-header:hover {
   font-weight: 900;
 }
 
-@media (max-width: 980px) {
-  .collection-track {
-    grid-template-columns: repeat(3, 1fr);
-  }
-  .capability-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-  .data-lower-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
+/* Mobile media device */
 @media (max-width: 760px) {
+  .data-section {
+    width: 100%;
+    margin-bottom: 14px;
+    overflow: hidden;
+  }
+  .data-carousel-shell{
+    width: 100%;
+  }
+  .data-carousel-prev {
+    left: 8px;
+  }
+  .data-carousel-next {
+    right: 8px;
+  }
+  .data-carousel-arrow{
+    position: absolute;
+    z-index: 10;
+    top: 50%;
+    width: 38px;
+    height: 38px;
+    margin-top: -19px;
+    border: 1px solid #d6dfeb;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.92);
+    color: #075ce8;
+    box-shadow: 0 4px 12px rgba(7,26,58,0.15);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(4px);
+  }
+  .data-carousel-shell .collection-track{
+    display: flex;
+    gap: 8px;
+    padding: 0 15px 4px;
+  }
+  .data-carousel-shell .collection-card{
+    flex: 0 0 50%;
+    scroll-snap-align: center;
+  }
   .data-services-page {
     padding-bottom: 69px;
   }
-
   .data-hero {
     width: calc(100% - 24px);
     min-height: 255px;
@@ -2545,14 +2576,8 @@ a.catalog-header:hover {
   }
   .data-entry-card p,
   .data-entry-card a,
-  .entry-links,
   .entry-coming-soon {
     display: none;
-  }
-
-  .data-section {
-    width: 100%;
-    margin-bottom: 14px;
   }
   .data-heading-row,
   .capabilities-section > h2 {
@@ -2580,10 +2605,11 @@ a.catalog-header:hover {
     scroll-snap-align: start;
   }
   .collection-image {
-    height: 77px;
+    height: 90px;
   }
   .collection-body {
-    min-height: 122px;
+    min-height: auto;
+    padding: 10px;
   }
   .collection-body h3 {
     font-size: 13px;

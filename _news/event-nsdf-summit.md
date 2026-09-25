@@ -365,7 +365,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <td rowspan="1" style="padding: 8px; border-bottom: 1px solid #ddd; vertical-align: top;"><b>4:10 PM – 4:50 PM</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statements & Panel</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Shared Agenda for NSDF and Federal Agencies and Labs</b></td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Moderator: TBA</b></td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Moderator: David Elbert, Johns Hopkins University</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Total: 40 min</b></td>   
             </tr>
             <tr> 

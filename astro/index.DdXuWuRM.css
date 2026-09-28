@@ -2740,6 +2740,15 @@ a.catalog-header:hover {
   border-radius: 16px;
   background: #fff;
 }
+.community-participation-grid a span,
+.community-opportunity-grid a span{
+  display: inline-block;
+  transition: transform 0.15s ease-in-out;
+}
+.community-participation-grid  a:hover span,
+.community-opportunity-grid a:hover span {
+  transform: translateX(4px);
+}
 .community-participation-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);

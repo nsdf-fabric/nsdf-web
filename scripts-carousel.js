@@ -3,25 +3,67 @@ const track = document.querySelector("[data-carousel-track]");
 const prev = document.querySelector(".carousel-prev");
 const next = document.querySelector(".carousel-next");
 const filters = document.querySelectorAll(".filter-chip");
+const cards = Array.from(track.querySelectorAll(".usecase-card"));
 
 function visibleCards() {
   return [...document.querySelectorAll("[data-use-case]:not([hidden])")];
 }
 
+// Finds index of next card
 function cardStep() {
-  const first = visibleCards()[0];
-  if (!first || !track) return 320;
-  const styles = getComputedStyle(track);
-  const gap = parseFloat(styles.columnGap || styles.gap || "0");
-  return first.getBoundingClientRect().width + gap;
+  const trackLeft = track.getBoundingClientRect().left;
+  let closestIndex = 0;
+  let smallestDistance =Infinity;
+
+  cards.forEach((card,index) => {
+      const cardLeft = card.getBoundingClientRect().left;
+      const distance = Math.abs(cardLeft - trackLeft);
+      if (distance < smallestDistance){
+          smallestDistance = distance;
+          closestIndex = index;
+      }
+    });
+  return closestIndex;
+}
+
+// Updates the progress bar
+function updateProgressBar(){
+    const progressBar = document.getElementById("carousel-progress");
+    if(!progressBar || !track) return;
+    // Calc max scroll distance
+    const maxScroll = track.scrollWidth - track.clientWidth;
+    if (maxScroll <= 0){
+        progressBar.style.width = "100%"
+        return;
+    }
+
+    // Calc percentage of bar srolled
+    const scrollPercent = (track.scrollLeft / maxScroll) * 100;
+    progressBar.style.width = `${Math.min(100, Math.max(0, scrollPercent))}%`;
 }
 
 prev?.addEventListener("click", () => {
-  track?.scrollBy({ left: -cardStep(), behavior: "smooth" });
+  const currentIndex= cardStep();
+  const targetIndex = Math.max(currentIndex-1, 0)
+
+  // Scroll card based on index
+  cards[targetIndex].scrollIntoView({
+      behavior:"smooth",
+      inline: "start",
+      block: "nearest"
+  });
 });
 
 next?.addEventListener("click", () => {
-  track?.scrollBy({ left: cardStep(), behavior: "smooth" });
+  const currentIndex= cardStep();
+  const targetIndex = Math.min(currentIndex+1, cards.length-1)
+
+  // Scroll card based on index
+  cards[targetIndex].scrollIntoView({
+      behavior:"smooth",
+      inline: "start",
+      block: "nearest"
+  });
 });
 
 filters.forEach((button) => {
@@ -38,3 +80,7 @@ filters.forEach((button) => {
     track?.scrollTo({ left: 0, behavior: "smooth" });
   });
 });
+
+// Track ProgressBar
+track.addEventListener("scroll", updateProgressBar);
+updateProgressBar();

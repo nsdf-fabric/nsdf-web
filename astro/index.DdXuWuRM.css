@@ -1502,20 +1502,21 @@ a.catalog-header:hover {
 .carousel-next {
   right: -48px;
 }
-.carousel-status {
-  display: flex;
-  justify-content: center;
-  gap: 6px;
-  margin-top: 9px;
+.carousel-progress-container{
+  width: 100%;
+  max-width: 200px;
+  height: 4px;
+  background: #e2e8f0;
+  border-radius: 999px;
+  margin: 12px auto 0;
+  overflow: hidden;
 }
-.carousel-status span {
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background: #ced6e3;
-}
-.carousel-status .active {
-  background: var(--blue);
+.carousel-progress-fill {
+  width: 0%;
+  height: 100%;
+  background: #075ce8;
+  border-radius: 999px;
+  transition: width 0.2s ease-out;
 }
 .detail-page {
   background: #f7f9fc;
@@ -1825,7 +1826,6 @@ a.catalog-header:hover {
 .data-services-page {
   background: #f7f9fc;
 }
-
 .data-hero {
   position: relative;
   width: min(1180px, calc(100% - 48px));
@@ -2242,21 +2242,6 @@ a.catalog-header:hover {
 }
 .data-carousel-next {
   right: -48px;
-}
-.data-carousel-status {
-  display: flex;
-  justify-content: center;
-  gap: 6px;
-  margin-top: 9px;
-}
-.data-carousel-status span {
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background: #ced6e3;
-}
-.data-carousel-status .active {
-  background: var(--blue);
 }
 .data-carousel-shell .collection-track {
   display: flex;

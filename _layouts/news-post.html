@@ -9,8 +9,10 @@ layout: default
     </div>
   </header>
   <section class="detail-content">
-    {% if page.image %}
-    <img src="{{ page.image }}" alt="{{ page.image_alt }}" class="detail-article-image" />
+    {% if page.headerimage %}
+      <img src="{{ page.headerimage }}" alt="{{ page.headerimage_alt }}" class="detail-article-image" />
+    {% elsif page.image %}
+      <img src="{{ page.image }}" alt="{{ page.image_alt }}" class="detail-article-image" />
     {% endif %}
     {% if page.event_date %}
     <div class="detail-meta">

@@ -18,6 +18,27 @@
     - label: "UMN (Private)"
       url: "https://scientistcloud.com/portal/index.php"
 
+- image: /assets/nsdf/use_cases/chess.png
+  tag: "Materials"
+  tag_class: "tag-green"
+  title: "CHESS Synchrotron Data"
+  text: "Synchrotron experiments for chemistry, physics, and materials science."
+  size: ""
+  access: ""
+  dashboard_links:
+    - label: "ID1A3"
+      url: "https://intersect.nationalsciencedatafabric.org/dial-dashboard/"
+  data_links:
+    - label: "CHESS ORNL (Private)"
+      url: "https://scientistcloud.com/portal/index.php?folder=ORNL+CHESS+UTK+UTAH"
+
+- image: /assets/nsdf/use_cases/ornl.jpg
+  tag: "Materials"
+  title: "Neutron-Scattering Data"
+  text: "Experimental data from neutron facilities for materials research and discovery."
+  size: ""
+  access: ""
+
 - image: /assets/nsdf/use_cases/climate.png
   tag: "Earth &amp; Climate"
   tag_class: "tag-green"
@@ -95,26 +116,6 @@
     - label: "GEOtiled"
       url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B33F4X"
 
-- image: /assets/nsdf/use_cases/ornl.jpg
-  tag: "Materials"
-  title: "Neutron-Scattering Data"
-  text: "Experimental data from neutron facilities for materials research and discovery."
-  size: ""
-  access: ""
-
-- image: /assets/nsdf/use_cases/chess.png
-  tag: "Materials"
-  tag_class: "tag-green"
-  title: "CHESS Synchrotron Data"
-  text: "Synchrotron experiments for chemistry, physics, and materials science."
-  size: ""
-  access: ""
-  dashboard_links:
-    - label: "ID1A3"
-      url: "https://intersect.nationalsciencedatafabric.org/dial-dashboard/"
-  data_links:
-    - label: "CHESS ORNL (Private)"
-      url: "https://scientistcloud.com/portal/index.php?folder=ORNL+CHESS+UTK+UTAH"
 
 - image: /assets/nsdf/use_cases/a4nn.png
   tag: "Materials"

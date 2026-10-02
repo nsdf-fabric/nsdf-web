@@ -15,7 +15,7 @@
     - label: "Nexus DM"
       url: "https://intersect.nationalsciencedatafabric.org/darkmatter/nexus-dashboard"
   data_links:
-    - label: "UMN"
+    - label: "UMN (Private)"
       url: "https://scientistcloud.com/portal/index.php"
 
 - image: /assets/nsdf/use_cases/climate.png
@@ -26,8 +26,9 @@
   size: ""
   access: ""
   dashboard_links:
-    - label: "CMIP6"
-      url: "https://chpc3.nationalsciencedatafabric.org:12347/dashboards"
+    - coming_soon: "true"
+    #- label: "CMIP6"
+    #  url: "https://chpc3.nationalsciencedatafabric.org:12347/dashboards"
   data_links:
     - label: "NEX"
       url: "https://nsdf-climate3-origin.nationalresearchplatform.org:50098/nasa/nsdf/climate3/cmip6/idx/nex-gddp-cmip6.idx"
@@ -40,8 +41,9 @@
   size: ""
   access: ""
   dashboard_links:
-    - label: "NASA"
-      url: "https://chpc3.nationalsciencedatafabric.org:11957/app"
+    - coming_soon: "true"
+    #- label: "NASA"
+    #  url: "https://chpc3.nationalsciencedatafabric.org:11957/app"
   data_links:
     - label: "Theta/Salt"
       url: "https://nsdf-climate1-origin.nationalresearchplatform.org:50098/nasa/nsdf/climate1/"
@@ -56,8 +58,9 @@
   size: ""
   access: ""
   dashboard_links:
-    - label: "NASA"
-      url: "https://chpc3.nationalsciencedatafabric.org:11957/app"
+    - coming_soon: "true"
+    #- label: "NASA"
+    #  url: "https://chpc3.nationalsciencedatafabric.org:11957/app"
   data_links:
     - label: "DYAMOND"
       url: "https://nsdf-climate3-origin.nationalresearchplatform.org:50098/nasa/nsdf/climate3/dyamond/mit_output/"
@@ -70,8 +73,9 @@
   size: ""
   access: ""
   dashboard_links:
-    - label: "SOMOSPIE"
-      url: "https://chpc3.nationalsciencedatafabric.org:11657/app"
+    - coming_soon: "true"
+    #- label: "SOMOSPIE"
+    #  url: "https://chpc3.nationalsciencedatafabric.org:11657/app"
   data_links:
     - label: "SOMOSPIE"
       url: "https://scientistcloud.com/portal/public/index.php?folder=SOMOSPIE+Project"
@@ -109,7 +113,7 @@
     - label: "ID1A3"
       url: "https://intersect.nationalsciencedatafabric.org/dial-dashboard/"
   data_links:
-    - label: "CHESS ORNL"
+    - label: "CHESS ORNL (Private)"
       url: "https://scientistcloud.com/portal/index.php?folder=ORNL+CHESS+UTK+UTAH"
 
 - image: /assets/nsdf/use_cases/a4nn.png

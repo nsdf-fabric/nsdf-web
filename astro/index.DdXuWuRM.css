@@ -2560,8 +2560,7 @@ a.catalog-header:hover {
     font-size: 11px;
   }
   .data-entry-card p,
-  .data-entry-card a,
-  .entry-coming-soon {
+  .data-entry-card a{
     display: none;
   }
   .data-heading-row,

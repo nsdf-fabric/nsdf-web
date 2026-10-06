@@ -297,11 +297,18 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Can Autonomous Science Trust What It Perceives?</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Guangzhi Qu</b>, Oakland University</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
+            </tr>
+            <tr> 
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"></td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Panel</td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Moderated panel: shared capabilities, domain constraints, NSDF opportunities, and gaps</td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><b>Moderated panel</b></td>
-                <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">20 min</td>
+                <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">15 min</td>
             </tr>
             <!-- Session break -->
             <tr style="background-color: #dfdfdf;">

@@ -151,7 +151,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Quantum Mechanics-Based Multitensor AI/ML Uniquely Able to Discover, Validate and Interpret Predictors of Patient Outcomes and Drug Targets from Small-Cohort, Noisy and High-Dimensional Multiomic Data</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Orly Alter</b>, University of Utah and Prism AI Therapeutics</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Orly Alter</b>, University of Utah and Qalanit</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">10 min</td>   
             </tr>
                 <tr> 

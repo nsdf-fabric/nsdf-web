@@ -37,9 +37,11 @@ Through the discussion, the NSDF leadership aims to engage the broader scientifi
     <br>
     <p><strong>Session leader:</strong> Rafael Ferreira da Silva.</p>
     <p><strong>Additional Session Leaders:</strong> Michela Taufer, NSDF PI and Co-founder, Tom Gibbs, NVIDIA, Ravinder Kapoor, Dept. of Energy. </p>   
-    <p><strong>Session details:</strong> Wednesday, 18 November 2026, 12:15pm - 1:15pm CST, Location: W183a </p>   
+    <p><strong>Session details:</strong> Wednesday, 18 November 2026, 12:15pm - 1:15pm CST, Location: W183a </p>
     <br>
     <p><a href= "https://sc26.conference-program.com/presentation/?id=bof186&sess=sess394" target="_blank">View the SC26 session.</a> </p>
+    <br>
+    <img src="/assets/nsdf/news/bof_autonomous_poster.png" alt="autonomous-bof-image"> 
 
 </div> 
 <div class="news-sidebar-footer"> 

@@ -293,7 +293,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">AI-BIOME: The AI-Enabled Bio-Inspired Materials Ecosystem</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Ronald Koder</b></td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Ronald Koder, The City College of New York</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 

@@ -28,7 +28,7 @@ featured_points:
     text: "Building partnerships to identify shared infrastructure gaps, candidate pilot projects, and priorities for coorindated investment."
 ---
 
-<h2>If you want to attend the NSDF Summit, please register on the PACT website <a href= "https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary" target="_blank">Here </a></h2>
+<h2>If you want to attend the NSDF Summit, please register on the PACT website <a href= "https://pact2026.github.io" target="_blank">Here </a></h2>
 
 ## Overview
 

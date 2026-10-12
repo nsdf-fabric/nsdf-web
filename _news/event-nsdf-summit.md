@@ -13,7 +13,7 @@ location: "Discovery Partners Institute, 200 S Wacker, Chicago, IL 60606 4th flo
 affiliation: "Held in conjunction with PACT 2026"
 organizers: "Michela Taufer, University of Tennessee, Knoxville<br />Valerio Pascucci, University of Utah"
 program: '<a href="#program">Jump to Program </a>'
-pact: '<a href="https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary" target="_blank"> Here </a>'
+pact: '<a href="https://pact2026.github.io" target="_blank"> Here </a>'
 featured_event: true
 featured: true
 featured_points:

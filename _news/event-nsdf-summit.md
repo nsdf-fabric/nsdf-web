@@ -3,7 +3,7 @@ title: "NSDF Summit on Federated Autonomous Science"
 sort_date: 2026-10-01
 image: /assets/nsdf/chicago-Summit26.jpg
 image_alt: ""
-slides_url: "https://docs.google.com/presentation/d/e/2PACX-1vTGFYJ44i0KcAOWW_FRQ_wnwawFziQ9oH_2Rc0snz4PkUR7DcI1kXFZPxtckf9ky2aiccUpALaws4cE/pubembed?start=true&loop=true&delayms=3000"
+slides_url: "https://docs.google.com/presentation/d/e/2PACX-1vRWkfzcF4pFb5BNA4rg5RR2CtfjxayjEwgP-1diZ021gF2DmCzsmyH8__xe7rr8smGhG3JvP5KG3COE/pubembed?start=true&loop=true&delayms=3000"
 description: "NSDF Summit on Federated Autonomous Science — October 19, 2026 in Chicago, Illinois."
 type: event
 categories: [events, 2026]
@@ -102,7 +102,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <td rowspan="1" style="padding: 8px; border-bottom: 1px solid #ddd; vertical-align: top;"><b>9:15 AM – 10:00 AM</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Short Talks</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Foundations for Federated Autonomous Science</b></td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Chair: TBA</b></td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Chair: Alex Karargyris</b>, MLCommons</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Total: 45 min</b></td>   
             </tr>
             <tr> 
@@ -138,7 +138,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <td rowspan="1" style="padding: 8px; border-bottom: 1px solid #ddd; vertical-align: top;"><b>10:30 AM – 12:00 PM</b></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talks & Discussion</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Science Domains and Trustworthy Autonomy</b></td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Moderator: Mike Papka, Argonne National Laboratory; University of Illinois Chicago</b></td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Moderator: Mike Papka</b>, Argonne National Laboratory; University of Illinois Chicago</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Total: 90 min</b></td>   
             </tr>
             <tr> 
@@ -337,7 +337,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Pilot pitch</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Applications of ML in Life STEM</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Widodo Samyono</b>, Jarvis Christian University</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
@@ -362,7 +362,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
-                <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"></td>
+                <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><b></b></td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Response/Matching</td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Moderated discussion, partner matching, and identification of next steps</td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Discussion, responses, sign-up, and missing-partner identification</td>

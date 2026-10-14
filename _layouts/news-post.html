@@ -11,6 +11,16 @@ layout: default
   <section class="detail-content">
     {% if page.headerimage %}
       <img src="{{ page.headerimage }}" alt="{{ page.headerimage_alt }}" class="detail-article-image" />
+    {% elsif page.slides_url %}
+      <div class="slides-wrapper">
+        <iframe 
+          src="{{ page.slides_url }}" 
+          frameborder="0" 
+          allowfullscreen="true" 
+          mozallowfullscreen="true" 
+          webkitallowfullscreen="true">
+        </iframe>
+      </div>
     {% elsif page.image %}
       <img src="{{ page.image }}" alt="{{ page.image_alt }}" class="detail-article-image" />
     {% endif %}

@@ -3,6 +3,7 @@ title: "NSDF Summit on Federated Autonomous Science"
 sort_date: 2026-10-01
 image: /assets/nsdf/chicago-Summit26.jpg
 image_alt: ""
+slides_url: "https://docs.google.com/presentation/d/e/2PACX-1vTGFYJ44i0KcAOWW_FRQ_wnwawFziQ9oH_2Rc0snz4PkUR7DcI1kXFZPxtckf9ky2aiccUpALaws4cE/pubembed?start=true&loop=true&delayms=3000"
 description: "NSDF Summit on Federated Autonomous Science — October 19, 2026 in Chicago, Illinois."
 type: event
 categories: [events, 2026]

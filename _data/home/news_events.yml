@@ -1,3 +1,9 @@
+- href: /news/nitm-HPC-stewardship/
+  image: /assets/nsdf/news/nitm-HPC-stewardship.jpg
+  date: October 2026
+  title: "Turning HPC Stewardship into Research Opportunities"
+  description: "Integrating HPC into classrooms at smaller institutions relies on strong ecosystem support (such as low-friction onboarding, responsive human help, and curated datasets) rather than just advanced hardware."
+
 - href: /news/event-nsdf-summit/
   image: /assets/nsdf/news/nsdf-at-summit26.jpg
   date: October 2026
@@ -16,9 +22,4 @@
   title: "Where the Beam Points Next: Autonomous Experiments Take Shape at CHESS"
   description: "An X-ray experiment at Cornell recently did something unusual: It decided for itself where to take its next measurement."
 
-- href: /news/nitm-purdue/
-  image: /assets/nsdf/news/nitm-purdue.png
-  date: August 2026
-  title: "Purdue enables AI- and data- cyberinfrastructure, partners in multiple newly awarded NSF projects"
-  description: "Purdue’s Rosen Center for Advanced Computing (RCAC) has recently secured funding as a partner on multiple National Science Foundation (NSF) grants. The grants come from the Integrated Data Systems and Services (IDSS) program."
 

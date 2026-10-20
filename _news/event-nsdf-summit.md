@@ -29,7 +29,7 @@ featured_points:
     text: "Building partnerships to identify shared infrastructure gaps, candidate pilot projects, and priorities for coorindated investment."
 ---
 
-<h2>If you want to attend the NSDF Summit, please register on the PACT website <a href= "https://pact2026.github.io" target="_blank">Here </a></h2>
+<h2>If you want to attend the NSDF Summit, please register on the PACT website <a href= "https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary" target="_blank">Here </a></h2>
 
 ## Overview
 
@@ -336,13 +336,6 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Pilot pitch</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Applications of ML in Life STEM</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
-            </tr>
-            <tr> 
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Pilot pitch</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">In-Space Manufacturing</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Sidharth Kumar</b>, University of Illinois Chicago</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
@@ -366,7 +359,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Response/Matching</td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Moderated discussion, partner matching, and identification of next steps</td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Discussion, responses, sign-up, and missing-partner identification</td>
-                <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">15 min</td>
+                <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">20 min</td>
             </tr>
             <!-- Session break -->
             <tr style="background-color: #DDEED5">

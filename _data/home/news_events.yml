@@ -1,4 +1,10 @@
-- href: /news/nitm-HPC-stewardship/
+- href: /news/news-summit-research/
+  image: /assets/nsdf/news/NSDF_Conference_Group.png
+  date: October 2026
+  title: "NSDF Summit 2026 Brings Research Community Together in Chicago to Advance Federated Autonomous Science"
+  description: "NSDF brought together researchers, national laboratory scientists, academic leaders, and research infrastructure experts on October 19, 2026."
+
+- href: /news/nitm-hpc-stewardship/
   image: /assets/nsdf/news/nitm-HPC-stewardship.jpg
   date: October 2026
   title: "Turning HPC Stewardship into Research Opportunities"
@@ -15,11 +21,3 @@
   date: September 2026
   title: NSDF Collaboration Named Finalist for 2026 HPCwire Readers’ Choice Award
   description: Voting is open through October 2, 2026. NSDF is a finalist for the 2026 HPCwire Readers’ Choice Award.
-
-- href: /news/nitm-cornell-beam/
-  image: /assets/nsdf/news/nitm-cornell-beam.png
-  date: August 2026
-  title: "Where the Beam Points Next: Autonomous Experiments Take Shape at CHESS"
-  description: "An X-ray experiment at Cornell recently did something unusual: It decided for itself where to take its next measurement."
-
-

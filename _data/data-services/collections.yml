@@ -38,6 +38,9 @@
   text: "Experimental data from neutron facilities for materials research and discovery."
   size: ""
   access: ""
+  dashboard_links:
+    - label: "Neutron"
+      url: "https://intersect.nationalsciencedatafabric.org/ornl/neutron-diffraction"
 
 - image: /assets/nsdf/use_cases/climate.png
   tag: "Earth &amp; Climate"

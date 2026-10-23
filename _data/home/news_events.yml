@@ -1,3 +1,9 @@
+- href: /news/nitm-TACC-joins/
+  image: /assets/nsdf/news/nitm-TACC.png
+  date: October 2026
+  title: "TACC Joins Effort To Build AI-Driven National Data Science Fabric"
+  description: "TACC joins NSDF, helping transform the pilot project into a national-scale cyberinfrastructure and service under NSF’s Integrated Data Systems and Services (IDSS) program"
+
 - href: /news/news-summit-research/
   image: /assets/nsdf/news/NSDF_Conference_Group.png
   date: October 2026
@@ -15,9 +21,3 @@
   date: October 2026
   title: NSDF Summit on Federated Autonomous Science
   description: NSDF Summit on Federated Autonomous Science — October 19, 2026 in Chicago, Illinois.
-
-- href: /news/hpcwire-award/
-  image: /assets/nsdf/news/hpcwire-award.png
-  date: September 2026
-  title: NSDF Collaboration Named Finalist for 2026 HPCwire Readers’ Choice Award
-  description: Voting is open through October 2, 2026. NSDF is a finalist for the 2026 HPCwire Readers’ Choice Award.

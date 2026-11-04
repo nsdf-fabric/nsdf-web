@@ -13,6 +13,8 @@ event_day: "19"
 location: "Discovery Partners Institute, 200 S Wacker, Chicago, IL 60606 4th floor"
 affiliation: "Held in conjunction with PACT 2026"
 organizers: "Michela Taufer, University of Tennessee, Knoxville<br />Valerio Pascucci, University of Utah"
+slides: '<a href="https://zenodo.org/communities/nsdf_summit_2026/records?q=&l=list&p=1&s=10&sort=mostviewed" target="_blank">Slides (Zenodo)</a>'
+gallery: '<a href="/news/nsdf-summit-2026-gallery/" target="_blank">View Summit Gallery</a>'
 program: '<a href="#program">Jump to Program </a>'
 pact: '<a href="https://pact2026.github.io" target="_blank"> Here </a>'
 featured_event: true
@@ -28,8 +30,6 @@ featured_points:
     title: "Expected Outcomes"
     text: "Building partnerships to identify shared infrastructure gaps, candidate pilot projects, and priorities for coorindated investment."
 ---
-
-<h2>If you want to attend the NSDF Summit, please register on the PACT website <a href= "https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary" target="_blank">Here </a></h2>
 
 ## Overview
 
@@ -51,14 +51,6 @@ The Summit welcomes research facility operators, scientific application teams, d
 ## Expected outcomes
 
 The discussions will inform a public post-Summit brief that documents shared requirements, research and infrastructure gaps, partnership opportunities, candidate pilot projects, and priorities for coordinated investment. Participants will also have opportunities to identify collaborators and propose concrete next steps.
-
-## Registration and participation
-
-Registration is available through the PACT 2026 registration site. Select the tutorials and workshops option for Monday, October 19, to register for the NSDF Summit.
-
-<a href= "https://web.cvent.com/event/097fd8c3-ac9c-4f8e-b1b0-42b84ec2f70b/summary" target="_blank">Register for the NSDF Summit </a>
-
-Position papers submitted by September 15 receive priority consideration for the program. Additional position papers are accepted through September 30, 2026. Submissions may describe a scientific use case, infrastructure capability, open challenge, collaboration opportunity, or proposed pilot.
 
 ## Program
 
@@ -93,7 +85,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr style="background-color: #E7F0F7">
                 <td rowspan="1" style="padding: 8px; border-bottom: 2px solid #b3b2b2; vertical-align: top;"><b>9:00 AM – 9:15 AM</b></td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Welcome</td>
-                <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><b>Welcome: The Collaboration Challenge</b></td>
+                <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><b><a href="https://doi.org/10.5281/zenodo.23921936" target="_blank">One Fabric, Three Frontiers: Shared AI foundations and specialized needs for manufacturing, energy and medicine (DOI: 10.5281/zenodo.23921936)</a></b></td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><b>Michela Taufer</b>, University of Tennessee, Knoxville<br> <b>Valerio Pascucci</b>, University of Utah </td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><b>15 min</b></td>
             </tr>
@@ -108,21 +100,21 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Materials Science: Artificial Intelligence for Materials Design PCL Node AIMD-Net</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23920455" target="_blank">Materials Science: Artificial Intelligence for Materials Design PCL Node AIMD-Net (DOI: 10.5281/zenodo.23920455)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Todd Hufnagel</b>, Johns Hopkins University</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">15 min</td>   
             </tr>
             <tr>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Energy: Trustworthy Autonomous Control of Nuclear Reactors Through Federated Science.</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23920357" target="_blank">Energy: Trustworthy Autonomous Control of Nuclear Reactors Through Federated Science. (DOI: 10.5281/zenodo.23920357)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Vince Wang</b>, Utah Nuclear Engineering Program...</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">15 min</td>   
             </tr>
             <tr>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"></td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Talk</td>
-                <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">Health/medical: The Need for Community Standards</td>
+                <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><a href="https://doi.org/10.5281/zenodo.23920667" target="_blank">Health/medical: The Need for Community Standards (DOI: 10.5281/zenodo.23920667)</a></td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;"><b>Mark A. Musen</b>, Stanford University</td>
                 <td style="padding: 8px; border-bottom: 2px solid #b3b2b2;">15 min</td> 
             </tr>
@@ -144,49 +136,49 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Internet2 and the Future of Federated Autonomous Science</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23921639" target="_blank">Internet2 and the Future of Federated Autonomous Science (DOI: 10.5281/zenodo.23921639)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>David Hart</b>, Internet2</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">10 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Quantum Mechanics-Based Multitensor AI/ML Uniquely Able to Discover, Validate and Interpret Predictors of Patient Outcomes and Drug Targets from Small-Cohort, Noisy and High-Dimensional Multiomic Data</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23921779" target="_blank">Quantum Mechanics-Based Multitensor AI/ML Uniquely Able to Discover, Validate and Interpret Predictors of Patient Outcomes and Drug Targets from Small-Cohort, Noisy and High-Dimensional Multiomic Data (DOI: 10.5281/zenodo.23921779)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Orly Alter</b>, University of Utah and Qalanit</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">10 min</td>   
             </tr>
                 <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Challenges for Distributed Digital Infrastructure at LLNL</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23921826" target="_blank">Challenges for Distributed Digital Infrastructure at LLNL (DOI: 10.5281/zenodo.23921826)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Timo Bremer</b>, Lawrence Livermore National Laboratory and University of Utah</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">10 min</td>   
             </tr>
                 <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Trust but Verify: Secure and Trustworthy AI in Science</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23921369" target="_blank">Trust but Verify: Secure and Trustworthy AI in Science (DOI: 10.5281/zenodo.23921369)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Anita Nikolich</b>, University of Illinois Urbana-Champaign</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">10 min</td>   
             </tr>
                 <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">FedReady: Bounded Agents for Federation Formation</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23920999" target="_blank">FedReady: Bounded Agents for Federation Formation (DOI: 10.5281/zenodo.23920999)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Ziyue Xu</b>, NVIDIA</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">10 min</td>   
             </tr>
                 <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Computing Infrastructure for Clinical AI — Needs and Challenges</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23921315" target="_blank">Computing Infrastructure for Clinical AI — Needs and Challenges (DOI: 10.5281/zenodo.23921315)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Rudolph Pienaar</b>, Boston Children’s Hospital and Harvard Medical School</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">10 min</td>   
             </tr>
                 <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Talk</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Introducing AURORA: A Utah Programmable Cloud Laboratory (PCL) Node for Quantum Materials and Beyond</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23921413" target="_blank">Introducing AURORA: A Utah Programmable Cloud Laboratory (PCL) Node for Quantum Materials and Beyond (DOI: 10.5281/zenodo.23921413)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Mike Kirby</b>, University of Utah</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">10 min</td>   
             </tr>
@@ -215,7 +207,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Knowledge Representation & Semantics in AI Science</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23922699" target="_blank">Knowledge Representation & Semantics in AI Science (DOI: 10.5281/zenodo.23922699)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Cogan Shimizu</b>, Wright State University</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
@@ -229,21 +221,21 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Federating Research Infrastructure for Portable, Flexible Scientific Workflows</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23922593" target="_blank">Federating Research Infrastructure for Portable, Flexible Scientific Workflows (DOI: 10.5281/zenodo.23922593)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Jelena Mirkovic</b>, USC Information Sciences Institute</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Learning from Private Data Repositories</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23922541" target="_blank">Learning from Private Data Repositories (DOI: 10.5281/zenodo.23922541)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Vipin Chaudhary</b>, Case Western Reserve University</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Federated Surgical Intelligence: Toward a Distributed Measurement Infrastructure for Surgery</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23922475" target="_blank">Federated Surgical Intelligence: Toward a Distributed Measurement Infrastructure for Surgery (DOI: 10.5281/zenodo.23922475)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Neeraj Mainkar</b>, Surgical Data Science Collective</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
@@ -265,28 +257,28 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Reproducibility, repeatability, and trustworthiness in scientific discovery.</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23922979" target="_blank">Reproducibility, repeatability, and trustworthiness in scientific discovery. (DOI: 10.5281/zenodo.23922979)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Tanu Malik</b>, University of Missouri</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Dissolving the Data/Compute Boundary — in Both Directions, at Runtime</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23923076" target="_blank">Dissolving the Data/Compute Boundary — in Both Directions, at Runtime (DOI: 10.5281/zenodo.23923076)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Steven Frank</b>, sophic-compute.com</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">FAIR4AI-Bio: AI-Ready Data Infrastructure for Ecology and Biodiversity / NEON</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23922846" target="_blank">FAIR4AI-Bio: AI-Ready Data Infrastructure for Ecology and Biodiversity / NEON (DOI: 10.5281/zenodo.23922846)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Eric Sokol</b>, National Ecological Observatory Network (NEON), Battelle</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">The Need for Effective Data Fusion Methods in Materials Manufacturing</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23922794" target="_blank">The Need for Effective Data Fusion Methods in Materials Manufacturing (DOI: 10.5281/zenodo.23922794)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Yaroslava Yingling</b>, North Carolina State University</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
@@ -300,7 +292,7 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Can Autonomous Science Trust What It Perceives?</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23922911" target="_blank">Can Autonomous Science Trust What It Perceives? (DOI: 10.5281/zenodo.23922911)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Guangzhi Qu</b>, Oakland University</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
@@ -329,28 +321,28 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Pilot pitch</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Real-Time Experiment Steering in 3D Biological Microscopy</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23923161" target="_blank">Real-Time Experiment Steering in 3D Biological Microscopy (DOI: 10.5281/zenodo.23923161)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Claire Robertson</b>, Lawrence Livermore National Laboratory</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Pilot pitch</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">In-Space Manufacturing</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23923239" target="_blank">In-Space Manufacturing (DOI: 10.5281/zenodo.23923239)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Sidharth Kumar</b>, University of Illinois Chicago</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Pilot pitch</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">From Browser to DGX: Federated AI and Computing for Interactive Science</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23923415" target="_blank">From Browser to DGX: Federated AI and Computing for Interactive Science (DOI: 10.5281/zenodo.23923415)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Daniel Haehn</b>, University of Massachusetts Boston</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Pilot pitch</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">From Explainable to Informative AI: Understanding the World, Not Just the Model</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23923336" target="_blank">From Explainable to Informative AI: Understanding the World, Not Just the Model (DOI: 10.5281/zenodo.23923336)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Dean Hougen</b>, University of Oklahoma</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
@@ -372,35 +364,35 @@ All times are **Central Time**. The program combines invited talks, concise posi
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Academy: A Federated Platform for Scientific AI Agents</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23923608" target="_blank">Academy: A Federated Platform for Scientific AI Agents (DOI: 10.5281/zenodo.23923608)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Kyle Chard</b>, University of Chicago</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Autonomous Science at Interconnected User Facilities</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23923760" target="_blank">Autonomous Science at Interconnected User Facilities (DOI: 10.5281/zenodo.23923760)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Chris Fancher</b>, ORNL</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Autonomous Science at NLR</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23923538" target="_blank">Autonomous Science at NLR (DOI: 10.5281/zenodo.23923538)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Kristi Potter</b>, National Laboratory of the Rockies</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">Integrating AI-Ready Computational and Experimental Data for Materials Science</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23923651" target="_blank">Integrating AI-Ready Computational and Experimental Data for Materials Science (DOI: 10.5281/zenodo.23923651)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>Maria Chan</b>, Argonne National Laboratory</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>
             <tr> 
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">Position Statement</td>
-                <td style="padding: 8px; border-bottom: 1px solid #ddd;">AI Readiness and the User Facilities: Autonomy, Metadata, and Agentic AI at the NCNR User Facility</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.23923481" target="_blank">AI Readiness and the User Facilities: Autonomy, Metadata, and Agentic AI at the NCNR User Facility (DOI: 10.5281/zenodo.23923481)</a></td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;"><b>William Ratcliff</b>, NIST Center for Neutron Research</td>
                 <td style="padding: 8px; border-bottom: 1px solid #ddd;">5 min</td>
             </tr>

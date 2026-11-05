@@ -23,7 +23,7 @@ Through the discussion, the NSDF leadership aims to engage the broader scientifi
   
 
 
-**Session details:** Wednesday, Nov. 18, 2026, 5:15–6:45 p.m. CST, W190b.   
+**Session details:** Tuesday, Nov. 17, 2026, 5:15–6:45 p.m. CST, Location: W176abc
 
 <a href= "https://sc26.conference-program.com/presentation/?id=bof177&sess=sess414" target="_blank">View the SC26 session.</a>
 

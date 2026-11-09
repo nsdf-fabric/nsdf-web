@@ -14,7 +14,7 @@ bundle
 bundle exec jekyll serve
 ```
 
-And open `http://127.0.0.1:4000`.
+And open `http://127.0.0.1:4000` or `http://localhost:4000`.
 
 ## Project Structure
 

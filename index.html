@@ -16,43 +16,6 @@ description: NSDF connects scientific instruments, data, AI, and advanced comput
     </div>
   </div>
 </section>
-<section class="science section" id="science">
-  <div class="section-heading">
-    <h2>Science in Action</h2>
-    <p>Real-world use cases. Real scientific impact.</p>
-  </div>
-  <div class="case-grid">
-    {% for card in site.data.home.science_in_action %}
-    <a class="case-card" target="_blank" rel="noopener noreferrer" href="{{ card.href }}">
-      <div class="case-image"><img src="{{ card.image }}" alt="" loading="lazy" /></div>
-      <div class="case-copy">
-        <h3>{{ card.title }}</h3>
-        <p>{{ card.description }}</p>
-        <span class="card-link">Learn more <span>→</span></span>
-      </div>
-    </a>
-    {% endfor %}
-  </div>
-  <a class="section-link" href="/use-cases/">View all use cases <span>→</span></a>
-</section>
-<section class="impact-strip" aria-label="NSDF impact metrics">
-  <div class="impact-item">
-    <span class="impact-icon">◫</span>
-    <div><strong>75+ PB</strong><small>Scientific data<br />connected</small></div>
-  </div>
-  <div class="impact-item">
-    <span class="impact-icon">▤</span>
-    <div><strong>1.6B+</strong><small>Catalog entries<br />and growing</small></div>
-  </div>
-  <div class="impact-item">
-    <span class="impact-icon">⌂</span>
-    <div><strong>National<br />Facilities</strong><small>Connected through NSDF</small></div>
-  </div>
-  <div class="impact-item">
-    <span class="impact-icon">◎</span>
-    <div><strong>Multiple<br />Domains</strong><small>Advancing discovery together</small></div>
-  </div>
-</section>
 <section class="science section" id="news">
   <div class="section-heading">
     <h2>News and Events</h2>
@@ -72,6 +35,43 @@ description: NSDF connects scientific instruments, data, AI, and advanced comput
     {% endfor %}
   </div>
   <a class="section-link" href="/news/">View all news <span>→</span></a>
+</section>
+<section class="impact-strip" aria-label="NSDF impact metrics">
+  <div class="impact-item">
+    <span class="impact-icon">◫</span>
+    <div><strong>75+ PB</strong><small>Scientific data<br />connected</small></div>
+  </div>
+  <div class="impact-item">
+    <span class="impact-icon">▤</span>
+    <div><strong>1.6B+</strong><small>Catalog entries<br />and growing</small></div>
+  </div>
+  <div class="impact-item">
+    <span class="impact-icon">⌂</span>
+    <div><strong>National<br />Facilities</strong><small>Connected through NSDF</small></div>
+  </div>
+  <div class="impact-item">
+    <span class="impact-icon">◎</span>
+    <div><strong>Multiple<br />Domains</strong><small>Advancing discovery together</small></div>
+  </div>
+</section>
+<section class="science section" id="science">
+  <div class="section-heading">
+    <h2>Science in Action</h2>
+    <p>Real-world use cases. Real scientific impact.</p>
+  </div>
+  <div class="case-grid">
+    {% for card in site.data.home.science_in_action %}
+    <a class="case-card" target="_blank" rel="noopener noreferrer" href="{{ card.href }}">
+      <div class="case-image"><img src="{{ card.image }}" alt="" loading="lazy" /></div>
+      <div class="case-copy">
+        <h3>{{ card.title }}</h3>
+        <p>{{ card.description }}</p>
+        <span class="card-link">Learn more <span>→</span></span>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  <a class="section-link" href="/use-cases/">View all use cases <span>→</span></a>
 </section>
 <section class="community section" id="community">
   <div class="community-copy">

@@ -16,7 +16,7 @@ bundle exec jekyll serve
 
 And open `http://127.0.0.1:4000`.
 
-## Project structure
+## Project Structure
 
 - `index.html`, `about/`, `news/`, `technology/`, `community/`, etc. — site pages
 - `assets/` — images, logos, and static assets

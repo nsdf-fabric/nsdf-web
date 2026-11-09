@@ -31,6 +31,9 @@
 - name: "I-hsin Chung"
   image: /assets/nsdf/people/chung.png
   affiliation: "IBM Research"
+- name: "John Allison"
+  image: /assets/nsdf/people/allison.png
+  affiliation: "University of Michigan Ann Arbor"
 - name: "Jay Lofstead"
   image: /assets/nsdf/people/lofstead.jpg
   affiliation: "Sandia National Laboratories"
